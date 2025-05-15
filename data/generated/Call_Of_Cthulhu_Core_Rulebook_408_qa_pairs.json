@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes the combat mechanics for various sea creatures in a Call of Cthulhu game, including sharks, snakes, and squid. Sharks are portrayed as aggressive and overwhelming, with a bonus die on attack due to their numbers, while snakes are categorized into constrictors and venomous species, with the former using their attack to grapple and constrict prey, and the latter using their bite to deliver toxic venom. The document outlines the attacks, damage, and abilities of each creature, including the use of maneuver rules, poison, and armor. The statistics and abilities of each creature are also provided, allowing game masters to create balanced encounters.",
+  "qa_pairs": [
+    {
+      "question": "How many attacks can a shark make per round?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the damage bonus for a shark's fighting attack?",
+      "answer": "75%"
+    },
+    {
+      "question": "How much damage is dealt by a shark's biting attack?",
+      "answer": "2D3 + half damage bonus"
+    },
+    {
+      "question": "What is the damage dealt by a shark's biting and holding attack?",
+      "answer": "2D6 + damage bonus for each round held"
+    },
+    {
+      "question": "What percentage of opponents can a shark dodge?",
+      "answer": "25%"
+    },
+    {
+      "question": "How many attacks can a shark perform per round?",
+      "answer": "2 (can only grab and hold one victim)"
+    },
+    {
+      "question": "What is the damage dealt by a shark's fighting attack?",
+      "answer": "2D3 + half damage bonus"
+    },
+    {
+      "question": "What is the damage dealt by a shark's Bite and Hold attack?",
+      "answer": "2D6 + damage bonus for each round held"
+    },
+    {
+      "question": "What is the armor value of a shark?",
+      "answer": "5-point tough skin"
+    },
+    {
+      "question": "What type of habitat do snakes occupy?",
+      "answer": "Oceans, down to 2000-3000 meters"
+    },
+    {
+      "question": "What is the effect of a snake venom attack if an Extreme CON roll is successful?",
+      "answer": "A successful roll indicates a lesser effect."
+    },
+    {
+      "question": "Can victims of a snake bite die without antivenin or medical treatment within a few hours?",
+      "answer": "Yes, the victim may die."
+    },
+    {
+      "question": "What is the average size of a Giant Squid?",
+      "answer": "A body about twelve feet long, with tentacles up to an additional sixty feet in length."
+    },
+    {
+      "question": "What is the average damage bonus for SNAKE, CONSTRICTOR, Pythons and other giant snakes?",
+      "answer": "+1D6"
+    },
+    {
+      "question": "What is the average build of a SNAKE, CONSTRICTOR, Pythons and other giant snakes?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the base SIZ value for a giant snake?",
+      "answer": "13"
+    },
+    {
+      "question": "How many attacks can a giant snake make per round?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the damage bonus for giant snakes?",
+      "answer": "+1D6"
+    },
+    {
+      "question": "What is the Dodge percentage for giant snakes?",
+      "answer": "25%"
+    },
+    {
+      "question": "What is the primary method of attack for giant snakes?",
+      "answer": "Crushing their prey"
+    },
+    {
+      "question": "What is the average damage bonus for the snake?",
+      "answer": "+1D6"
+    },
+    {
+      "question": "What is the snake's average size?",
+      "answer": "15"
+    },
+    {
+      "question": "How many attacks can the snake perform per round?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the snake's armor?",
+      "answer": "2-point glistening skin"
+    },
+    {
+      "question": "What is the snake's stealth skill?",
+      "answer": "90%"
+    }
+  ]
+}
