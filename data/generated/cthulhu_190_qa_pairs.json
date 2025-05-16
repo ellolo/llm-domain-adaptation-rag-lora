@@ -1,0 +1,69 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this system, casting a spell requires a casting roll, which determines the success or failure of the spell. The first time a spell is cast, a Hard POW roll is required, and subsequent uses do not require a casting roll. If the casting roll is successful, the spell's outcome is determined by the spell description, but if the roll is failed, the caster must pay the cost of the spell, which can result in negative consequences or even death. The caster can choose to push the casting roll, which can either succeed or fail, but may also incur additional costs or consequences.",
+  "qa_pairs": [
+    {
+      "question": "What is required to cast a spell for the first time?",
+      "answer": "A casting roll is required."
+    },
+    {
+      "question": "What is the outcome if the casting roll is successful?",
+      "answer": "The character refers to the spell description for the outcome."
+    },
+    {
+      "question": "What happens if the casting roll is successful?",
+      "answer": "refer to the spell description for the outcome"
+    },
+    {
+      "question": "What happens if a character pushes a failed casting roll?",
+      "answer": "the spell still works normally, but dire consequences ensue for the caster"
+    },
+    {
+      "question": "What happens to a spell if the pushed casting roll is successful?",
+      "answer": "The spell works normally without negative consequences."
+    },
+    {
+      "question": "What are the consequences of miscasting a greater spell?",
+      "answer": "Miscasting the greater spells can be a fast route to the grave!"
+    },
+    {
+      "question": "What determines the harm the caster suffers in the process of casting a spell?",
+      "answer": "The casting roll gauges the harm the caster suffers in the process rather than success or failure of the spell."
+    },
+    {
+      "question": "What happens if the caster fails a Pushed Casting Roll?",
+      "answer": "Any overspend of Magic points is deducted from hit points\u2014this can cause major wounds or death when pushing powerful spells."
+    },
+    {
+      "question": "What can miscasting a powerful spell lead to?",
+      "answer": "Death"
+    },
+    {
+      "question": "What happens if the caster overspends Magic points when pushing a powerful spell?",
+      "answer": "Major wounds or death"
+    },
+    {
+      "question": "What happens if a caster overspends Magic points?",
+      "answer": "Any overspend of Magic points is deducted from hit points\u2014this can cause major wounds or death when pushing powerful spells."
+    },
+    {
+      "question": "What side effects can be added for less powerful spells?",
+      "answer": "The Keeper should add one or more of the following side effects for less powerful spells (choose or roll 1D8): 1: Blurred vision or temporary blindness, 2: Disembodied screaming, voices, or other noises, 3: Strong winds or other atmospheric effects, 4: Bleeding\u2014from the caster, others present, or the environment..."
+    },
+    {
+      "question": "What can happen to the caster and others nearby when a spell is cast?",
+      "answer": "Both the caster and others nearby can be affected."
+    },
+    {
+      "question": "What happens when a more powerful spell is cast, for example summoning gods?",
+      "answer": "The side effects can be worse."
+    },
+    {
+      "question": "What are the side effects of casting more powerful spells?",
+      "answer": "Earth shaking, walls rent asunder, Epic thunder and lightning, Blood falls from the sky."
+    },
+    {
+      "question": "How many Magic points was the cost of the spell reduced to by the Keeper?",
+      "answer": "4"
+    }
+  ]
+}
