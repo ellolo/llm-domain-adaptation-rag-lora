@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for character creation and combat in a Lovecraftian setting are outlined. The \"Damage Bonus\" (DB) and \"Build\" are calculated by adding the character's Strength (STR) and Size (SIZ) scores, and then looking up the result on Table 1: Damage Bonus and Build. This value is used to determine the effectiveness of the character's physical attacks, with higher values resulting in increased damage. The document also outlines rules for hit points, movement rate, and occupation, which all contribute to the character's overall abilities and performance in the game.",
+  "qa_pairs": [
+    {
+      "question": "What determines damage bonus?",
+      "answer": "STR and SIZ, added together to look up on Table 1: Damage Bonus and Build"
+    },
+    {
+      "question": "What is the effect of a combined STR and SIZ of 134?",
+      "answer": "1D4 added to hand-to-hand damage rolls"
+    },
+    {
+      "question": "What is the effect of a combined STR and SIZ of 70?",
+      "answer": "1 point deducted from melee damage"
+    },
+    {
+      "question": "How do you determine build?",
+      "answer": "Using the same figures as for damage bonus"
+    },
+    {
+      "question": "Is damage bonus applied to firearms attacks?",
+      "answer": "No, damage bonus is not applied to firearms attacks"
+    },
+    {
+      "question": "What is the effect of a combined STR and SIZ of 134 on hand-to-hand damage rolls?",
+      "answer": "1D4 is added to hand-to-hand damage rolls."
+    },
+    {
+      "question": "What is the effect of a combined STR and SIZ of 70 on hand-to-hand damage rolls?",
+      "answer": "1 point is deducted from melee damage."
+    },
+    {
+      "question": "What is the damage bonus for a character with a combined STR and SIZ of 134?",
+      "answer": "1D4"
+    },
+    {
+      "question": "What is the damage bonus for a character with a combined STR and SIZ of 70?",
+      "answer": "1 point"
+    },
+    {
+      "question": "What is the effect of adding 80 points or fraction thereof to a character's STR and SIZ on the damage bonus and build?",
+      "answer": "Add an additional 1D6 to Damage Bonus and +1 to Build."
+    },
+    {
+      "question": "What are hit points used to track?",
+      "answer": "the cumulative damage inflicted upon an investigator, non-player character, or monster during the game"
+    },
+    {
+      "question": "How do you calculate the character's hit point total?",
+      "answer": "by adding CON and SIZ, then dividing the total by ten (rounding down any fractions)"
+    },
+    {
+      "question": "What is the maximum number of yards an investigator can move in one round?",
+      "answer": "up to five times their MOV value"
+    },
+    {
+      "question": "What happens to the investigator's movement rate if both DEX and STR are each less than SIZ?",
+      "answer": "MOV 7"
+    },
+    {
+      "question": "What happens to the investigator's movement rate if all three attributes are equal?",
+      "answer": "MOV 8"
+    },
+    {
+      "question": "How many points are deducted from MOV for an age in the 40s?",
+      "answer": "1"
+    },
+    {
+      "question": "How many points are deducted from MOV for an age in the 50s?",
+      "answer": "2"
+    },
+    {
+      "question": "How many points are deducted from MOV for an age in the 60s?",
+      "answer": "3"
+    },
+    {
+      "question": "How many points are deducted from MOV for an age in the 70s?",
+      "answer": "4"
+    },
+    {
+      "question": "How many points are deducted from MOV for an age in the 80s?",
+      "answer": "5"
+    },
+    {
+      "question": "What types of occupations are typically Lovecraftian?",
+      "answer": "Antiquarian, Author, Dilettante, Doctor of Medicine, Journalist, Police Detective, and Professor."
+    },
+    {
+      "question": "How will the actual occupation of the investigator affect the game?",
+      "answer": "It will have limited effect during the game, influencing the investigator's starting skills and backstory."
+    },
+    {
+      "question": "What is the purpose of defining an investigator's occupation?",
+      "answer": "To help define the investigator's backstory."
+    },
+    {
+      "question": "Can any occupation be used in a Lovecraft story?",
+      "answer": "No, some occupations are not typically found in a Lovecraft story, but may interest particular players."
+    },
+    {
+      "question": "What kind of occupations are not typically found in a Lovecraft story?",
+      "answer": "Those you would not normally find in a Lovecraft story, but may interest particular players."
+    }
+  ]
+}

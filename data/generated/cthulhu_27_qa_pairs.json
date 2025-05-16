@@ -1,0 +1,97 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game system, the age of an investigator affects their characteristics and skills. The Keeper determines the modifications to the investigator's characteristics based on their age, with different age ranges resulting in varying deductions and improvements. For example, younger investigators (15-19 years old) may have reduced physical attributes, while older investigators (60+ years old) may have reduced physical attributes and increased mental attributes. The game also uses a system of \"half\" and \"fifth\" values, which are calculated based on the investigator's characteristic values, to determine skill and attribute levels.",
+  "qa_pairs": [
+    {
+      "question": "What is the rule for creating an investigator's Luck score?",
+      "answer": "3D6 and multiply by 5 for a Luck score."
+    },
+    {
+      "question": "What age range is recommended for an investigator?",
+      "answer": "Between 15 and 90 years old."
+    },
+    {
+      "question": "What happens to EDU when an investigator is between 20 and 39 years old?",
+      "answer": "Make an improvement check for EDU."
+    },
+    {
+      "question": "What happens to APP when an investigator is between 40 and 49 years old?",
+      "answer": "Reduce APP by 5."
+    },
+    {
+      "question": "What is the age range for deducting 5 points among STR and SIZ and deducting 5 points from EDU?",
+      "answer": "G 15 to 19 years old"
+    },
+    {
+      "question": "At what age do you make an improvement check for EDU, and what age range do you also make an improvement check for EDU?",
+      "answer": "G 20 to 39 years old, G 60 to 69 years old"
+    },
+    {
+      "question": "At what age do you make 3 improvement checks for EDU and deduct 10 points among STR, CON, or DEX, and reduce APP by 10?",
+      "answer": "G 50 to 59 years old"
+    },
+    {
+      "question": "At what age do you make 4 improvement checks for EDU, deduct 20 points among STR, CON, or DEX, and reduce APP by 15?",
+      "answer": "G 70 to 79 years old"
+    },
+    {
+      "question": "What is the maximum possible EDU value?",
+      "answer": "99"
+    },
+    {
+      "question": "How do you enter half values on the investigator sheet?",
+      "answer": "Divide the percentage value by two, rounding down, and enter after the 'half' percentage value."
+    },
+    {
+      "question": "What should you do with the result of the EDU improvement check?",
+      "answer": "Add 1D10 percentage points to your EDU characteristic if the result is greater than your present EDU."
+    },
+    {
+      "question": "What happens to EDU if the result is greater than your present EDU?",
+      "answer": "Add 1D10 percentage points to your EDU characteristic."
+    },
+    {
+      "question": "How do you determine the half value for a characteristic?",
+      "answer": "Divide the percentage value by two and round down."
+    },
+    {
+      "question": "What is the purpose of using half and fifth values?",
+      "answer": "To represent fractions in relation to characteristics and skills in the game."
+    },
+    {
+      "question": "Where can a Quick Reference Chart for Half and Fifth Values be found?",
+      "answer": "On page 49."
+    },
+    {
+      "question": "What happens to the percentage value when dividing it by two and rounding down?",
+      "answer": "Enter the result after the 'half' percentage value."
+    },
+    {
+      "question": "What is the term for the highest number in a characteristic value?",
+      "answer": "The full value, also known as the 'characteristic value'."
+    },
+    {
+      "question": "What are the fractions used in relation to characteristics and skills in the game?",
+      "answer": "Half and fifth."
+    },
+    {
+      "question": "Where can a Quick Reference Chart for Half and Fifth Values be found?",
+      "answer": "On page 49 of the game."
+    },
+    {
+      "question": "What are 'Damage Bonus' and 'Build'?",
+      "answer": "Attributes known as \"Damage Bonus\" (DB) and Build"
+    },
+    {
+      "question": "Who can determine their damage bonus?",
+      "answer": "All investigators, Keeper-controlled characters and monsters"
+    },
+    {
+      "question": "What is the purpose of adding STR and SIZ?",
+      "answer": "To determine damage bonus"
+    },
+    {
+      "question": "What table is used to look up the total damage bonus?",
+      "answer": "Table 1: Damage Bonus and Build"
+    }
+  ]
+}

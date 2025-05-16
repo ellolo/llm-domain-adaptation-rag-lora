@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses variations in dice notation used in the Call of Cthulhu tabletop role-playing game. It explains that a number preceding a dice notation indicates the number of dice to be rolled, and that additions or subtractions are shown using a plus or minus sign. The document also touches on the use of investigator sheets, which record player details, and the optional use of miniatures, tokens, and props to enhance gameplay. Additionally, it notes that the Keeper can use graph paper or plain paper to sketch out the game area or encounter.",
+  "qa_pairs": [
+    {
+      "question": "What are the possible number ranges for a single die roll?",
+      "answer": "1, 2, 3, 4, 5, 6, 7, 8, 9, 0"
+    },
+    {
+      "question": "How should a result of 0 and 1 be interpreted?",
+      "answer": "As 1"
+    },
+    {
+      "question": "What does '2D6' mean in terms of dice rolls?",
+      "answer": "Two 6-sided dice should be rolled and totalled"
+    },
+    {
+      "question": "How should the result of '1D6+1' be interpreted?",
+      "answer": "As a result between 2 and 7"
+    },
+    {
+      "question": "What does 1D6+1 mean in a roll?",
+      "answer": "The result must be 2, 3, 4, 5, 6, or 7."
+    },
+    {
+      "question": "What notation indicates that different dice should be rolled at the same time?",
+      "answer": "1D6+1+2D4"
+    },
+    {
+      "question": "What notation is used to remind the Keeper and players to add a monster's or investigator's damage bonus to a dice roll?",
+      "answer": "Damage bonus"
+    },
+    {
+      "question": "What should be done with the results of rolling 1D6 and 2D4 when calculating the damage for the notation 1D6+1+2D4?",
+      "answer": "Roll the three requested dice, total the results, and add one."
+    },
+    {
+      "question": "How many possible results are there for a roll of 1D6+1?",
+      "answer": "6 or 7"
+    },
+    {
+      "question": "What damage types are supported by the notation 'damage bonus' (or 'DB')?",
+      "answer": "monster's damage bonus or investigator's damage bonus"
+    },
+    {
+      "question": "Where can players find investigator sheets for free?",
+      "answer": "www.chaosium.com"
+    },
+    {
+      "question": "How many versions of investigator sheets are available?",
+      "answer": "2, for the 1920s and Modern Day games"
+    },
+    {
+      "question": "What is the recommended total for 1D6+1+2D4 damage rolls?",
+      "answer": "The total rolled, then add one"
+    },
+    {
+      "question": "How many pages in the book where investigator sheets are located?",
+      "answer": "Page 422"
+    },
+    {
+      "question": "What is the purpose of the investigator sheet in Call of Cthulhu?",
+      "answer": "The investigator sheet holds all the information needed for investigators to tackle mysteries."
+    },
+    {
+      "question": "Can Call of Cthulhu be played with or without miniature figures?",
+      "answer": "Call of Cthulhu can be played verbally, without miniature figures or paraphernalia other than dice and investigator sheets."
+    },
+    {
+      "question": "What can help players visualize the action in a combat scene?",
+      "answer": "Miniatures, tokens, or markers help players visualize the action."
+    },
+    {
+      "question": "What is often done by the Keeper to help players visualize the action?",
+      "answer": "The Keeper sketches out the area of activity or the encounter on a sheet of graph or plain paper."
+    },
+    {
+      "question": "What can be used to denote where each investigator is positioned during a combat scene?",
+      "answer": "Markers or tokens can be used to denote where each investigator is positioned during a combat scene."
+    },
+    {
+      "question": "What is required for a Call of Cthulhu game to be played verbally?",
+      "answer": "Dice and investigator sheets."
+    },
+    {
+      "question": "What can help players visualize the action in a Call of Cthulhu game?",
+      "answer": "Miniatures, tokens, or markers."
+    },
+    {
+      "question": "What is often used by Keepers to sketch out the area of activity or encounter?",
+      "answer": "A sheet of graph or plain paper."
+    },
+    {
+      "question": "What can add drama and atmosphere to a Call of Cthulhu game, if prepared with care?",
+      "answer": "Props, such as statuettes, letters, books, or clay tablets."
+    },
+    {
+      "question": "What can happen if props are poorly presented?",
+      "answer": "They can look silly."
+    }
+  ]
+}
