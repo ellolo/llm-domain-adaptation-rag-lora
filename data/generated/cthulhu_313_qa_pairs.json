@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes three fictional weapons from the Call of Cthulhu universe: the Lightning Gun, the Mist Projector, and the Plutonian Drug. The Lightning Gun is a camera-shaped device that fires electricity, while the Mist Projector is a device that projects a cone of icy mist, dealing damage to targets. The Plutonian Drug, on the other hand, allows users to travel back in time, potentially encountering Mythos entities and gaining Cthulhu Mythos points. Each weapon has its own unique mechanics and effects, requiring investigators to use their skills and abilities to effectively utilize them.",
+  "qa_pairs": [
+    {
+      "question": "What is the primary function of the Lightning Gun?",
+      "answer": "To combat the carnivorous flying polyps"
+    },
+    {
+      "question": "How many charges does a common Lightning Gun contain?",
+      "answer": "32 charges"
+    },
+    {
+      "question": "What is the base damage roll result for each charge used in the Lightning Gun?",
+      "answer": "1D10 damage"
+    },
+    {
+      "question": "How does the base range of the Lightning Gun affect the attack roll?",
+      "answer": "Increases the attack roll by one bonus die at point-blank range, and adds one penalty for each additional 100 yards"
+    },
+    {
+      "question": "What is the effect of adding 100 yards to the target distance for the Mist Projector?",
+      "answer": "Add one penalty to the attack roll and decrease the damage roll result by 3."
+    },
+    {
+      "question": "At what range does the Mist Projector's attack roll receive a bonus die?",
+      "answer": "Point-blank range"
+    },
+    {
+      "question": "What is the base chance for a human attacker to use the Firearms (Lightning Gun) skill?",
+      "answer": "10%"
+    },
+    {
+      "question": "When was the malicious flying polyps believed to have colonized Earth?",
+      "answer": "Aeons ago, apparently after flying to Earth on their own power."
+    },
+    {
+      "question": "What is the base chance for a human attacking with the Firearms (Lightning Gun) skill?",
+      "answer": "10%"
+    },
+    {
+      "question": "How much damage does the mist do per round of exposure?",
+      "answer": "1D10 points"
+    },
+    {
+      "question": "How much protection does hiding inside a car afford against the mist?",
+      "answer": "Four points"
+    },
+    {
+      "question": "Can the Mist Projector's projection be sustained over a target?",
+      "answer": "Yes, for several rounds"
+    },
+    {
+      "question": "How much damage does the mist do per round of exposure?",
+      "answer": "1D10 points of damage"
+    },
+    {
+      "question": "How much protection does hiding inside a car afford against the mist?",
+      "answer": "Four points of protection"
+    },
+    {
+      "question": "What is the primary effect of the Plutonian Drug?",
+      "answer": "It can send the user's mind back in time"
+    },
+    {
+      "question": "What is the primary effect of the Plutonian Drug?",
+      "answer": "It can send the user's mind back in time"
+    },
+    {
+      "question": "How many shots can the Plutonian weapons carry?",
+      "answer": "each potentially lasting an entire combat round"
+    },
+    {
+      "question": "Can the Plutonian Drug be used by anyone?",
+      "answer": "No, it is used by the Plutonian"
+    },
+    {
+      "question": "Who used the drug 'Plutonian'?",
+      "answer": "Anyone"
+    },
+    {
+      "question": "What effect does witnessing the true history of the universe and planet Earth have on the user?",
+      "answer": "The user with 1D6 Cthulhu Mythos points."
+    },
+    {
+      "question": "What is the result of not making a Sanity roll while taking the Plutonian drug?",
+      "answer": "The user loses 1D8 sanity points."
+    },
+    {
+      "question": "What is the effect of witnessing Mythos entities on the user's sanity?",
+      "answer": "The user is subject to the standard sanity losses for viewing those entities."
+    }
+  ]
+}

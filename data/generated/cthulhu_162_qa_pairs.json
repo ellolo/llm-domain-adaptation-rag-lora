@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, the Cthulhu Mythos has a corrupting influence on investigators, lowering their maximum Sanity points. Insanity is induced by traumatic experiences and the ghastly comprehension of the Mythos, leading to three states of insanity: temporary, indefinite, and permanent. The duration of insanity depends on the number of Sanity points lost, with temporary insanity requiring a successful Intelligence (INT) roll to recover. The document outlines the point costs for various Sanity-related events, which can contribute to the development of insanity in investigators.",
+  "qa_pairs": [
+    {
+      "question": "What affects an investigator's maximum Sanity points?",
+      "answer": "Knowledge of the Cthulhu Mythos always lowers an investigator\u2019s maximum Sanity points."
+    },
+    {
+      "question": "How does a player decrease an investigator's maximum Sanity points?",
+      "answer": "By decreasing the investigator\u2019s maximum Sanity by the same amount when gaining Cthulhu Mythos skill points."
+    },
+    {
+      "question": "How much does Harvey Walters' Cthulhu Mythos skill increase?",
+      "answer": "3% Cthulhu Mythos skill."
+    },
+    {
+      "question": "What is Harvey Walters' initial maximum Sanity points?",
+      "answer": "99"
+    },
+    {
+      "question": "What is the formula to calculate Maximum Sanity points?",
+      "answer": "Maximum Sanity points equal 99 minus current Cthulhu Mythos points"
+    },
+    {
+      "question": "How did Harvey Walters' Cthulhu Mythos skill change?",
+      "answer": "Harvey Walters gained 3% Cthulhu Mythos skill"
+    },
+    {
+      "question": "How did Harvey Walters' maximum Sanity change?",
+      "answer": "His maximum Sanity decreased from 99 to 96"
+    },
+    {
+      "question": "How did the narrator feel about his impressions?",
+      "answer": "His impressions are scarcely to be relied on, and he has a desperate hope they are part of a daemonic dream or illusion"
+    },
+    {
+      "question": "What changes to Harvey\u2019s Cthulhu Mythos skill and Sanity in the game?",
+      "answer": "Adds 3 points to Harvey\u2019s Cthulhu Mythos skill and decreases his maximum Sanity from 99 to 96."
+    },
+    {
+      "question": "How is insanity induced in Call of Cthulhu?",
+      "answer": "By traumatic experiences and the ghastly comprehension that connects to the Cthulhu Mythos."
+    },
+    {
+      "question": "How many distinct game phases are there in the insanity states?",
+      "answer": "Three: temporary, indefinite, and permanent."
+    },
+    {
+      "question": "What is the effect of losing Sanity points in Call of Cthulhu?",
+      "answer": "Induces temporary, indefinite, or permanent insanity."
+    },
+    {
+      "question": "What is the cause of insanity in Call of Cthulhu?",
+      "answer": "Traumatic experiences and the ghastly comprehension that connects to the Cthulhu Mythos"
+    },
+    {
+      "question": "How many distinct game phases can result in insanity?",
+      "answer": "Three"
+    },
+    {
+      "question": "What are the three states of insanity?",
+      "answer": "temporary, indefinite, and permanent"
+    },
+    {
+      "question": "What happens to the player's control during the first phase?",
+      "answer": "it is compromised"
+    },
+    {
+      "question": "What happens if an investigator loses 5 or more Sanity points as the result of one Sanity roll?",
+      "answer": "The Keeper must test the investigator\u2019s sanity."
+    },
+    {
+      "question": "What is the required roll for the Keeper to test the investigator\u2019s sanity?",
+      "answer": "An Intelligence (INT) roll."
+    },
+    {
+      "question": "What is the point cost for seeing a ghoul?",
+      "answer": "1/1D6+1"
+    },
+    {
+      "question": "What is the required roll for the Keeper to test the investigator\u2019s sanity in case of seeing a corpse rise from its grave?",
+      "answer": "0/1D10"
+    },
+    {
+      "question": "What triggered the investigator's sanity test?",
+      "answer": "See gigantic severed head fall from sky."
+    },
+    {
+      "question": "What happens when the investigator's INT roll succeeds?",
+      "answer": "Perversely, if the INT roll succeeds, the investigator recognizes the"
+    },
+    {
+      "question": "What is the penalty for failing the sanity test?",
+      "answer": "chapter 8: sanity failed, the investigator has repressed the memory (a trick the mind uses to protect itself), and does not become insane."
+    },
+    {
+      "question": "What is the relationship between the investigator's INT roll and the sanity test?",
+      "answer": "Perversely, if the INT roll succeeds, the investigator recognizes the"
+    }
+  ]
+}

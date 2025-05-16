@@ -1,0 +1,77 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, three investigators (Brian, Scott, and Harvey) are being pursued by three cultists after fleeing their apartment through a window. The Keeper determines the speed of each character and sets up the chase, with Scott as the fastest pursuer and Harvey as the slowest quarry. The chase takes place in an alleyway, with hazards such as a fence and the window serving as obstacles for both the pursuers and the fleeing characters. The Keeper will guide the players through the chase, determining the outcome based on the characters' speeds and movements.",
+  "qa_pairs": [
+    {
+      "question": "What is likely to happen to a truck in a collision?",
+      "answer": "Likely to wreck a truck outright."
+    },
+    {
+      "question": "How likely is a car to be wrecked in a collision?",
+      "answer": "Almost certain to wreck a car."
+    },
+    {
+      "question": "What are the three cultists doing when they arrive at the investigators' apartment?",
+      "answer": "They are turning up at their door."
+    },
+    {
+      "question": "How do the three investigators decide to proceed?",
+      "answer": "They decide to head in the same direction."
+    },
+    {
+      "question": "What type of roll does the Keeper ask for from the investigators?",
+      "answer": "A speed roll (CON) roll."
+    },
+    {
+      "question": "What impediment does each side have in the speed roll?",
+      "answer": "Climbing out of the window for the investigators and breaking the door down for the cultists."
+    },
+    {
+      "question": "What is the result when Scott rolls his CON roll?",
+      "answer": "MOV 10 (9+1)"
+    },
+    {
+      "question": "What is the speed order of the cultists in the chase?",
+      "answer": "Cultist A (7), Cultist B (7), Cultist C (9)"
+    },
+    {
+      "question": "What is the speed roll of Scott?",
+      "answer": "MOV 10"
+    },
+    {
+      "question": "What is the speed roll of Cultist C?",
+      "answer": "MOV 9"
+    },
+    {
+      "question": "What is the speed order of the pursuing cultists?",
+      "answer": "Cultist A (7), Cultist B (7), Cultist C (9)"
+    },
+    {
+      "question": "What is the speed order of the fleeing investigators?",
+      "answer": "Harvey (5), Brian (8), Scott (10)"
+    },
+    {
+      "question": "What is the gap between Cultist C and Harvey?",
+      "answer": "The gap is set to the default of 2 locations."
+    },
+    {
+      "question": "Where does Brian start the chase?",
+      "answer": "Brian starts 3 locations ahead of Harvey."
+    },
+    {
+      "question": "Who is 3 locations ahead of Harvey?",
+      "answer": "Brian"
+    },
+    {
+      "question": "What is the status of Cultist C?",
+      "answer": "Cultist C has gone through the window and is now in the yard behind Harvey"
+    },
+    {
+      "question": "What is the position of Cultist A and B?",
+      "answer": "Cultist A and B stand at the window, about to climb out"
+    },
+    {
+      "question": "What has happened to the investigators?",
+      "answer": "They have fled their apartment through the window"
+    }
+  ]
+}

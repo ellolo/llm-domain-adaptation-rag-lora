@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a chase scenario, the Movement Over Distance (MOV) rating of a character is not a linear measure of speed, but rather an overall speed rating intended to represent their speed in a chase. When multiple characters are involved, each character makes a speed roll to establish their MOV rating, and the participants are then grouped into pursuers and fleeing characters based on their speed. The pursuers are placed in order of their MOV ratings, and the fleeing characters are placed in order of their MOV ratings relative to the slowest fleeing character. The positions of the characters, hazards, and movement actions are then determined, and the chase is resolved through a series of movement actions and potential hazards.",
+  "qa_pairs": [
+    {
+      "question": "What is the approximate increase in speed for each point of MOV?",
+      "answer": "around 50%"
+    },
+    {
+      "question": "What does the MOV rating of a creature represent?",
+      "answer": "their overall speed in a chase"
+    },
+    {
+      "question": "What is a more realistic speed for a fit human over distance?",
+      "answer": "5-minute mile (equating to an MOV of 9)"
+    },
+    {
+      "question": "How does the initial phase of a chase with multiple characters differ?",
+      "answer": "only in the initial phase"
+    },
+    {
+      "question": "What does MOV represent in terms of speed?",
+      "answer": "their overall speed in a chase"
+    },
+    {
+      "question": "What is the approximate increase in speed for each point of MOV?",
+      "answer": "around 50%"
+    },
+    {
+      "question": "What does the MOV rating represent?",
+      "answer": "their overall speed in a chase"
+    },
+    {
+      "question": "How is the speed of a human determined?",
+      "answer": "using either Drive Auto or CON, to establish their MOV rate"
+    },
+    {
+      "question": "What is the maximum speed of a world class sprinter in MOV?",
+      "answer": "11"
+    },
+    {
+      "question": "What is the speed of a fit human over distance in MPH?",
+      "answer": "9"
+    },
+    {
+      "question": "What is the rule for placing pursuers in the game?",
+      "answer": "Place the pursuers in order of their MOV ratings, with the slowest pursuer at the back."
+    },
+    {
+      "question": "How should the fleeing characters be positioned?",
+      "answer": "Position a fleeing character 2 locations ahead of the foremost pursuer, then place the rest according to the difference in MOV speeds."
+    },
+    {
+      "question": "What should be noted down during the game?",
+      "answer": "Any hazards, barriers, or other landmarks."
+    },
+    {
+      "question": "What is the rule for placing the slowest fleeing character?",
+      "answer": "Place the slowest fleeing character 2 locations ahead of the foremost pursuer."
+    },
+    {
+      "question": "What is the recommended positioning for a fleeing character?",
+      "answer": "2 locations ahead of the foremost pursuer"
+    },
+    {
+      "question": "What is the method to position each fleeing character?",
+      "answer": "Equal to their difference in MOV speeds"
+    },
+    {
+      "question": "What type of incident is likely to wreck a car outright?",
+      "answer": "Severe incident"
+    },
+    {
+      "question": "How many movement actions does each character have?",
+      "answer": "Determinant of the movement actions"
+    },
+    {
+      "question": "What is the most extreme hazard to a car?",
+      "answer": "Most Extreme Hazards"
+    },
+    {
+      "question": "What is likely to happen to a car in a mayhem incident?",
+      "answer": "Likely to wreck a car outright"
+    },
+    {
+      "question": "What is the most common outcome for vehicles in a road kill incident?",
+      "answer": "Most vehicles will be little more than scattered debris"
+    },
+    {
+      "question": "What type of incident is likely to wreck a truck outright?",
+      "answer": "Mayhem"
+    }
+  ]
+}

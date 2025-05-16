@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, firearms combat is resolved through a combination of a 1D100 roll and the attacker's Firearms skill. The difficulty level is determined by the range and other factors, and a failure never deals damage. Armor can reduce the damage received, with different types of armor providing varying levels of protection. Additionally, characters can use their escape route to flee melee combat on their turn, and some entities can never be outnumbered.",
+  "qa_pairs": [
+    {
+      "question": "What is the penalty for an attacker smaller than the target's Build?",
+      "answer": "1 penalty die for each point of difference in Build."
+    },
+    {
+      "question": "What happens if the difference in Build is 3 or more?",
+      "answer": "The maneuver is impossible."
+    },
+    {
+      "question": "What is the rule for the target when dodging a maneuver?",
+      "answer": "The target should choose to either dodge or fight back as they would for a normal attack."
+    },
+    {
+      "question": "How to determine the success of the maneuver if the target is dodging?",
+      "answer": "Roll Fighting skill vs. Dodge skill, with the character performing the maneuver achieving a higher level of success winning."
+    },
+    {
+      "question": "What is the outcome if the character performing the maneuver achieves a higher level of success than the character dodging?",
+      "answer": "The maneuver is successful."
+    },
+    {
+      "question": "What happens if the character fighting back achieves a higher level of success than the character fighting back?",
+      "answer": "The maneuver fails and the opponent inflicts damage on the character performing the maneuver."
+    },
+    {
+      "question": "Can the target of an attack use a maneuver of their own?",
+      "answer": "Yes, and they should resolve as for fighting back, but apply the effect of their maneuver instead of inflicting damage."
+    },
+    {
+      "question": "What is the result of a successful maneuver?",
+      "answer": "The character achieves one goal (page 105)."
+    },
+    {
+      "question": "What happens if the character fighting back achieves a higher level of success?",
+      "answer": "The maneuver fails and the opponent inflicts damage on the character performing the maneuver."
+    },
+    {
+      "question": "Can a character use a maneuver to counter an opponent's attack?",
+      "answer": "Yes, Resolve as for fighting back, but apply the effect of their maneuver instead of inflicting damage."
+    },
+    {
+      "question": "What is the result of a successful maneuver?",
+      "answer": "A successful maneuver allows the character to achieve one goal (page 105)."
+    },
+    {
+      "question": "How do characters with multiple attacks per round dodge or fight back?",
+      "answer": "Characters and monsters that have more than one attack per round may also dodge or fight back that number of times before the bonus die is applied."
+    },
+    {
+      "question": "What happens if the target of an attack uses a maneuver of their own?",
+      "answer": "The effect of their maneuver is applied instead of inflicting damage."
+    },
+    {
+      "question": "How many times can a character or monster dodge or fight back in a combat round?",
+      "answer": "One time, unless the character or monster has more than one attack per round."
+    },
+    {
+      "question": "How are ranged missile attacks treated in combat?",
+      "answer": "Like firearms, allowing the target to choose Diving for Cover."
+    },
+    {
+      "question": "How are thrown attacks opposed in combat?",
+      "answer": "With the Dodge skill, in the same way as Fighting attacks."
+    },
+    {
+      "question": "What is the rule for fighting back against a ranged attack?",
+      "answer": "A character may not choose the option of fighting back against a ranged (missile) or thrown weapon attack unless he or she is already within close physical proximity to the attacker (within a fifth of their DEX in feet)."
+    },
+    {
+      "question": "Which type of thrown weapon does not apply to the rule about damage bonus?",
+      "answer": "Crossbows"
+    },
+    {
+      "question": "How does armor affect damage received in combat?",
+      "answer": "Armor reduces the damage received: deduct the number of armor points from the damage."
+    },
+    {
+      "question": "What is the rule for escaping melee combat on a character's turn?",
+      "answer": "On their turn in the order of combat, providing a character has an escape route and is not physically restrained, their action can be used to flee melee combat."
+    },
+    {
+      "question": "What is the process to resolve a firearms attack?",
+      "answer": "Make a 1D100 roll and compare the result with the attacker\u2019s Firearms skill."
+    },
+    {
+      "question": "How is the difficulty level determined in a firearms attack?",
+      "answer": "The difficulty level is determined by the range, with various other factors granting either penalty or bonus dice."
+    },
+    {
+      "question": "What is the effect of a failure on a firearms attack?",
+      "answer": "A failure never deals damage."
+    },
+    {
+      "question": "What is the difficulty level of Shoot at Readied Firearms?",
+      "answer": "DEX + 50."
+    }
+  ]
+}

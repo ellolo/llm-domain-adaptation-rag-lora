@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, investigators can specialize in various firearms skills, such as Bow, Handgun, Heavy Weapons, Axe, Flamethrower, and Machine Gun. These specializations allow investigators to use specific types of firearms and determine their effectiveness in combat. Additionally, the First Aid skill enables investigators to provide emergency medical care, which can grant temporary hit points and stabilize dying characters. The effectiveness of these skills can be affected by the investigator's skill level, the situation, and the game's mechanics.",
+  "qa_pairs": [
+    {
+      "question": "What is the consequence of a fumble in Firearms specializations?",
+      "answer": "of a fumble is doubled and that they risk killing their investigator (or losing a limb) should this happen."
+    },
+    {
+      "question": "What does the 'Firearms' skill cover in Firearms specializations?",
+      "answer": "The generic 'Firearms' skill cannot be purchased."
+    },
+    {
+      "question": "What percentage of skill points can be spent on the 'Bow' specialization?",
+      "answer": "15%: use of bows and crossbows, ranging from medieval longbows to modern, high-powered compound bows."
+    },
+    {
+      "question": "What percentage of skill points can be spent on the 'Handgun' specialization?",
+      "answer": "20%: use for all pistol-like firearms when firing discrete shots."
+    },
+    {
+      "question": "What is the skill to use for machine pistols in Modern era games?",
+      "answer": "Submachine Gun skill"
+    },
+    {
+      "question": "What is the skill to use for grenade launchers, anti-tank rockets, etc.?",
+      "answer": "Heavy Weapons skill"
+    },
+    {
+      "question": "What is the skill to use for larger wood axes?",
+      "answer": "Axe skill"
+    },
+    {
+      "question": "What is the skill to use for single shots from a bipod?",
+      "answer": "Rifle skill"
+    },
+    {
+      "question": "What is the Rifle skill used for?",
+      "answer": "Firing any type of rifle (whether lever-action, bolt-action or semi-automatic) or scatter-gun"
+    },
+    {
+      "question": "When to use the Rifle skill for a single shot?",
+      "answer": "When firing from a bipod"
+    },
+    {
+      "question": "What is the Submachine Gun skill used for?",
+      "answer": "Firing any machine pistol or submachine gun; also for assault rifles set on burst"
+    },
+    {
+      "question": "Where can you find a list of firearms?",
+      "answer": "Table XVII: Weapons (pages 401-405)"
+    },
+    {
+      "question": "What type of skill is used when firing a shotgun?",
+      "answer": "When an assault rifle fires a single shot (or multiple singles), use this skill."
+    },
+    {
+      "question": "What is the primary purpose of the First Aid skill?",
+      "answer": "The user is able to provide emergency medical care."
+    },
+    {
+      "question": "What is the primary use of the Submachine Gun skill?",
+      "answer": "firing any machine pistol or submachine gun; also for assault rifles set on burst"
+    },
+    {
+      "question": "How quickly must First Aid be delivered to be effective?",
+      "answer": "within one hour"
+    },
+    {
+      "question": "What is the primary effect of successful use of First Aid?",
+      "answer": "rouse an unconscious person to consciousness"
+    },
+    {
+      "question": "Can a character use First Aid to treat diseases?",
+      "answer": "no, Medicine skill is required"
+    },
+    {
+      "question": "What is required for a successful First Aid treatment?",
+      "answer": "Either one of the people administering First Aid rolls a success"
+    },
+    {
+      "question": "What effect does successful First Aid have on a dying character?",
+      "answer": "It stabilizes the character for one hour and grants 1 temporary hit point"
+    },
+    {
+      "question": "How often does a character must make a successful CON roll to remain stabilized after successful First Aid?",
+      "answer": "At the end of the hour and each hour thereafter"
+    },
+    {
+      "question": "What happens if a character fails a CON roll while stabilized by successful First Aid?",
+      "answer": "The character loses the temporary hit point and must make a CON roll per round thereafter"
+    }
+  ]
+}

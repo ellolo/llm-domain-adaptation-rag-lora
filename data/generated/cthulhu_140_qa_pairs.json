@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the \"Chase\" scenario of the Call of Cthulhu game, the pursuer quickly falls behind, and the Keeper describes how the pursuer loses their quarry. To determine the outcome, players make a Speed Roll, adjusting each participant's movement rating (MOV) for the duration of the chase. The fleeing character escapes if their adjusted MOV rating is higher than that of the pursuer, and the chase is over. The Keeper then moves the game on to the next point in the scenario, typically two locations behind the starting point, to \"cut to the chase\" and focus on the exciting part of the chase.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the pursuer catches the fleeing character?",
+      "answer": "The game picks up the action at the most exciting moment\u2014the point where the pursuer is closing in on the fleeing character."
+    },
+    {
+      "question": "What roll is used to adjust each participant's MOV rating during the chase?",
+      "answer": "Speed Roll"
+    },
+    {
+      "question": "What type of roll is made by a character on foot or other self-propelled mode during the chase?",
+      "answer": "A CON roll"
+    },
+    {
+      "question": "What type of roll is made by a driver during the chase?",
+      "answer": "A Drive Auto roll"
+    },
+    {
+      "question": "What happens if a participant makes a successful CON roll or Drive Auto roll during the chase?",
+      "answer": "No change to MOV rating for the duration of the chase"
+    },
+    {
+      "question": "What determines a character's foot speed in the game?",
+      "answer": "A character's foot speed depends on their physical condition."
+    },
+    {
+      "question": "How do drivers test their handling of a vehicle during a chase?",
+      "answer": "Drivers make a Drive Auto roll to test their handling of the vehicle."
+    },
+    {
+      "question": "What happens when a character makes a CON roll during a chase?",
+      "answer": "Each participant makes a CON roll to test their physical condition and endurance."
+    },
+    {
+      "question": "What determines the end of a chase?",
+      "answer": "The character escapes if their adjusted MOV is higher than their pursuer."
+    },
+    {
+      "question": "What happens when a character fails a CON roll during a chase?",
+      "answer": "A failure results in a \u20131 to MOV rating for the duration of the chase."
+    },
+    {
+      "question": "What is the purpose of a 'Drive Auto roll'?",
+      "answer": "Drivers make a Drive Auto roll to test their handling of the vehicle."
+    },
+    {
+      "question": "What happens to the pursuer's MOV rating if the fleeing character's adjusted MOV rating is higher?",
+      "answer": "The fleeing character escapes."
+    },
+    {
+      "question": "What happens to the pursuer's MOV rating if they equal or exceed the fleeing character's adjusted MOV rating?",
+      "answer": "A chase is established."
+    },
+    {
+      "question": "What happens to the Keeper's game after a chase is established?",
+      "answer": "The Keeper should move the game on."
+    },
+    {
+      "question": "What is the purpose of the Keeper's explanation of the chase's outcome?",
+      "answer": "The Keeper can narrate a brief explanation of how the chase occurs, or ask the players for suggestions."
+    },
+    {
+      "question": "What determines if a chase is established in the game?",
+      "answer": "The pursuer's adjusted MOV rating is equal to or greater than that of the fleeing character."
+    },
+    {
+      "question": "Where should the Keeper move the action after a chase is established?",
+      "answer": "The point at which the pursuer is just two locations behind."
+    },
+    {
+      "question": "What is the purpose of setting the starting range for a chase?",
+      "answer": "To focus play on the exciting part of the chase, specifically 'cut to the chase'."
+    },
+    {
+      "question": "Can the Keeper set the starting range beyond two locations?",
+      "answer": "No, it is advised not to set the range beyond two locations."
+    },
+    {
+      "question": "Why should the Keeper move the action onto the point at which the pursuer is two locations behind?",
+      "answer": "To give the fleeing character a second chance to escape after using the speed roll."
+    },
+    {
+      "question": "What is the typical range set by the Keeper for the fleeing character?",
+      "answer": "Two locations"
+    },
+    {
+      "question": "What is an exceptional circumstance that may reduce the chase range to one location?",
+      "answer": "Tenser circumstances"
+    },
+    {
+      "question": "What happens to Harvey's movement after he makes an Extreme CON roll?",
+      "answer": "It is raised from 6 to 7"
+    },
+    {
+      "question": "What happens to the farmer's movement after failing the CON roll?",
+      "answer": "It drops from 7 to 6"
+    },
+    {
+      "question": "What happens to the chase if Harvey fails his CON roll?",
+      "answer": "The chase is established partway down the farm track with the farmer"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes two spells in the Call of Cthulhu role-playing game: Fist of Yog-Sothoth and Green Decay. Fist of Yog-Sothoth is a powerful spell that deals massive damage to a target, while Green Decay is a curse that slowly turns a victim into a green mold over the course of seven days. Both spells require significant magical energy and have specific requirements for casting, including the use of magic points, POW, and Sanity points. The spells are considered to be of dark and malevolent nature, fitting for the Lovecraftian horror theme of the game.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of the Optional Luck Rule on character rolls?",
+      "answer": "The victim must apply one penalty die to all character-istic rolls."
+    },
+    {
+      "question": "What happens to the chances for Summon/Bind spells when the Optional Luck Rule is used?",
+      "answer": "The chances for Summon/Bind spells are halved."
+    },
+    {
+      "question": "What is the effect of the caster's distance from the target on the Fist of Yog-Sothoth spell?",
+      "answer": "For every 30 feet of distance that the caster stands from the target (after the first thirty feet), the caster must spend an additional magic point."
+    },
+    {
+      "question": "What is the effect of the Fist of Yog-Sothoth spell on the target?",
+      "answer": "The caster causes a massive, invisible force to hit a single target."
+    },
+    {
+      "question": "How long does the effect of the spell last?",
+      "answer": "Until the next sunrise, until the caster removes the spell, until the caster is found and blooded, or until the victim dies."
+    },
+    {
+      "question": "What is the cost of casting the spell in terms of magic points?",
+      "answer": "Variable magic points"
+    },
+    {
+      "question": "What is the casting time of the spell?",
+      "answer": "Instantaneous"
+    },
+    {
+      "question": "What type of roll must be made when the target is struck?",
+      "answer": "An opposed roll using the spell's STR versus the target's CON"
+    },
+    {
+      "question": "How often does a caster spend an additional magic point?",
+      "answer": "For every 30 feet of distance that the caster stands from the target"
+    },
+    {
+      "question": "What must be opposed in a roll when the target is struck?",
+      "answer": "The spell\u2019s STR versus the target\u2019s CON"
+    },
+    {
+      "question": "What happens to a living target if the roll is successful?",
+      "answer": "The target is knocked unconscious"
+    },
+    {
+      "question": "What can a spell be used against besides living targets?",
+      "answer": "The STR of inanimate objects such as doors or walls"
+    },
+    {
+      "question": "What happens to the target after a successful cast?",
+      "answer": "The target is knocked unconscious."
+    },
+    {
+      "question": "How far is the target pushed away from the caster after a successful cast?",
+      "answer": "A distance equal to the STR of the blow minus the target's SIZ."
+    },
+    {
+      "question": "Can the spell be used against inanimate objects?",
+      "answer": "Yes, the spell can be used against the STR of inanimate objects such as doors or walls."
+    },
+    {
+      "question": "How many magic points are spent on the range for a 50-foot hit?",
+      "answer": "1 magic point is spent on the range."
+    },
+    {
+      "question": "What happens when the investigator fails a Hard CON roll for the Green Decay spell?",
+      "answer": "The investigator is knocked unconscious."
+    },
+    {
+      "question": "How far is the investigator bowled back by the impact of the spell?",
+      "answer": "12 feet"
+    },
+    {
+      "question": "What must be done in addition to casting the Green Decay spell?",
+      "answer": "The caster must personally give a green leaf to the target."
+    },
+    {
+      "question": "What is the casting time for the Green Decay spell?",
+      "answer": "1 day"
+    },
+    {
+      "question": "What must the caster do with a green leaf in the next 24 hours?",
+      "answer": "The caster must personally give a green leaf to the target."
+    },
+    {
+      "question": "When does the spell take effect?",
+      "answer": "At dawn on the following day, for the spell to take effect."
+    },
+    {
+      "question": "What happens to the victim's skin and organs over seven days?",
+      "answer": "The victim's skin grows green and the skin rots, and the victim's organs also rot."
+    },
+    {
+      "question": "What is the known cure for the spell's effects?",
+      "answer": "To find and kill the caster, which reverses the spell's effects."
+    }
+  ]
+}

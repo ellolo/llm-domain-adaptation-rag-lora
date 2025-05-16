@@ -1,0 +1,109 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, characters can switch between different modes of movement, such as flying, swimming, or driving, which affects their Movement (MOV) rate. When a character joins a chase, their MOV rate must be at least equal to the slowest fleeing character to be considered. If a character joins a chase as a fleeing character, their MOV rate must exceed the slowest member of the chase, requiring adjustments to movement actions. Additionally, characters can create hazards or barriers through their actions, which may require movement actions, skill rolls, or both.",
+  "qa_pairs": [
+    {
+      "question": "What is the requirement for a character joining a chase as a pursuer?",
+      "answer": "A character who joins a chase as a pursuer needs a MOV rate that is at least equal to the slowest fleeing character."
+    },
+    {
+      "question": "What happens if a character joining a chase as a fleeing character has a slower MOV rate than the previously slowest member?",
+      "answer": "Some adjustment is required: the number of movement actions that everyone in the chase has should be recalculated."
+    },
+    {
+      "question": "What happens when a character leaves a chase?",
+      "answer": "There is no need to recalculate speeds or movement actions."
+    },
+    {
+      "question": "What is the default movement action for each character in a chase?",
+      "answer": "Every character gets one movement action by default"
+    },
+    {
+      "question": "How do characters move in the game?",
+      "answer": "Every character gets one movement action by default, plus one movement action for each point by which their MOV rate exceeds that of the new slowest participant in the chase."
+    },
+    {
+      "question": "What happens when a character leaves a chase in the game?",
+      "answer": "There is no need to recalculate speeds or movement actions when a character leaves a chase."
+    },
+    {
+      "question": "How does the Keeper determine a character's movement in a different mode?",
+      "answer": "If no alternate MOV rating is listed, the Keeper may allow the character to use half of their standard MOV, providing the mode of movement is one that the character can perform."
+    },
+    {
+      "question": "What is the standard movement rating for a human in the game?",
+      "answer": "The standard movement rating for a human is 8."
+    },
+    {
+      "question": "What is the rule for MOV rating when changing modes of movement?",
+      "answer": "The Keeper may allow the character to use half of their standard MOV if no alternate MOV rating is listed."
+    },
+    {
+      "question": "How does a character's MOV change when swimming?",
+      "answer": "A human with MOV 8 would have MOV 4 when swimming."
+    },
+    {
+      "question": "What happens to a character's speed roll when they switch from on foot to driving a car?",
+      "answer": "A character should make a fresh speed roll using Drive Auto skill."
+    },
+    {
+      "question": "How does a character's speed roll change when they become a pedestrian?",
+      "answer": "A character should make a fresh speed roll using CON."
+    },
+    {
+      "question": "What determines a character's speed roll?",
+      "answer": "Their speed roll depends on whether they achieved an Extreme success on or failed their speed roll (CON) at the start of the chase."
+    },
+    {
+      "question": "How does a character's speed roll work when switching modes?",
+      "answer": "A character should make a fresh speed roll using Drive Auto skill when switching from being on foot to driving a car, and using CON when becoming a pedestrian."
+    },
+    {
+      "question": "How does a character's speed roll affect their number of movement actions?",
+      "answer": "The character's speed (MOV) is changed, which alters their number of movement actions."
+    },
+    {
+      "question": "How many movement actions does a character have after a speed change?",
+      "answer": "Refer to Characters Joining a Chase in Progress (see page 142) for the specific number of movement actions."
+    },
+    {
+      "question": "What action should a character take when changing their speed?",
+      "answer": "Make a fresh speed roll using CON."
+    },
+    {
+      "question": "What should happen to a character's number of movement actions when their speed is changed?",
+      "answer": "Their number of movement actions should be altered."
+    },
+    {
+      "question": "What is usually required to create a hazard or barrier through a character's actions during play?",
+      "answer": "The expenditure of a movement action (for the time required), a skill roll (to achieve it) or both."
+    },
+    {
+      "question": "What action might require a STR roll and a movement action?",
+      "answer": "Moving a heavy wardrobe against a door."
+    },
+    {
+      "question": "What is required to create hazards or barriers through actions during play?",
+      "answer": "a movement action (for the time required), a skill roll (to achieve it) or both"
+    },
+    {
+      "question": "How much movement action is required to pause a door with a bolt or key?",
+      "answer": "1 movement action"
+    },
+    {
+      "question": "What happens if Harvey fails his DEX roll to weave through the crowd?",
+      "answer": "He will be slowed for 1D3 movement actions."
+    },
+    {
+      "question": "What skill is required for Harvey to get bystanders to assist him in chasing a thief?",
+      "answer": "It would call for a Fast Talk or Intimidate skill roll."
+    },
+    {
+      "question": "What is the consequence of successfully using a gun to cause a crowd to panic?",
+      "answer": "The crowd presents a hazard for those following."
+    },
+    {
+      "question": "What happens if Harvey successfully uses a gun to cause a crowd to panic?",
+      "answer": "Nothing is mentioned, but it is stated that if he fails, the action causes more trouble than it is worth."
+    }
+  ]
+}

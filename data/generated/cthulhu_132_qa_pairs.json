@@ -1,0 +1,85 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines a system for determining the severity of injuries in a Call of Cthulhu game, with a focus on realistic and detailed descriptions of potential harm. The system categorizes injuries into four levels: Mild, Moderate, Severe, and Deadly, with corresponding damage rolls and potential outcomes. The document also introduces additional factors, such as environmental hazards and poisons, which can further exacerbate injuries. Additionally, it discusses the concept of \"knock-out blows,\" where a character is knocked unconscious due to significant damage.",
+  "qa_pairs": [
+    {
+      "question": "What is the damage rating for a falling rock onto soft swamp?",
+      "answer": "1D6"
+    },
+    {
+      "question": "What is the damage rating for a falling rock onto grass?",
+      "answer": "1D10"
+    },
+    {
+      "question": "What is the damage rating for a car hit at 30mph?",
+      "answer": "2D10"
+    },
+    {
+      "question": "What is the damage rating for a speeding car?",
+      "answer": "4D10"
+    },
+    {
+      "question": "What is the immediate effect of failing a CON roll in a high-speed head-on collision?",
+      "answer": "Splat: outright death almost certain."
+    },
+    {
+      "question": "How does a successful CON roll affect damage from poisons?",
+      "answer": "an Extreme CON roll will halve damage from poisons."
+    },
+    {
+      "question": "What is required for a Hard success when a character is in a state of physical exertion?",
+      "answer": "A Hard success on the CON roll."
+    },
+    {
+      "question": "What happens to damage from poisons if a character scores an Extreme CON roll?",
+      "answer": "The damage is halved."
+    },
+    {
+      "question": "What are some symptoms of poisoning in Call of Cthulhu?",
+      "answer": "stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness, and paralysis."
+    },
+    {
+      "question": "Can a poison's effects be shaken off in Call of Cthulhu?",
+      "answer": "Yes, in certain circumstances, Keepers may allow a poison's effects to be shaken off if the CON roll is a critical success."
+    },
+    {
+      "question": "How is the order of a round determined in Call of Cthulhu?",
+      "answer": "The order is determined by the DEX roll, with a higher roll taking precedence. If the DEX roll is a failure, the previous roll is retained."
+    },
+    {
+      "question": "What happens if a character rolls worse on a re-roll in Call of Cthulhu?",
+      "answer": "The character retains their previous place in the order."
+    },
+    {
+      "question": "What is the default order of initiative in the system?",
+      "answer": "Colin, Harvey, then the cultist."
+    },
+    {
+      "question": "How does the second cultist fit into the initiative order?",
+      "answer": "He slots into the initiative order after the first cultist."
+    },
+    {
+      "question": "What type of success is required to re-roll initiative with a bonus die?",
+      "answer": "A Hard success."
+    },
+    {
+      "question": "What happens to a target when it is reduced to zero hit points?",
+      "answer": "The target falls unconscious automatically."
+    },
+    {
+      "question": "What happens when an attack inflicts a Major Wound on a target?",
+      "answer": "The target must make a CON roll to remain conscious."
+    },
+    {
+      "question": "What is the condition that automatically causes a target to fall unconscious?",
+      "answer": "A target that is reduced to zero hit points will fall unconscious automatically."
+    },
+    {
+      "question": "What is the effect of a Hard success on Colin's initiative roll?",
+      "answer": "This places him first in the order of initiative."
+    },
+    {
+      "question": "What is the consequence of a character suffering a significant lasting damage?",
+      "answer": "The character will be knocked out."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a combat scenario, players take turns acting and speaking in rounds, with each player having a chance to complete at least one action. The order of attack is determined by ranking characters' Dexterity (DEX) from highest to lowest, with ties resolved by combat skill. In a one-on-one fist fight, melee attacks are resolved using opposed skill rolls, with characters choosing to either dodge or fight back. The Brawling skill is used for melee attacks, while the Dodge skill is used to avoid being hit. This system allows for a flexible and dynamic combat experience.",
+  "qa_pairs": [
+    {
+      "question": "What determines the order of combat rounds?",
+      "answer": "The order of combat rounds is determined by who has had an opportunity to act in each round."
+    },
+    {
+      "question": "How do investigators and other characters determine who goes first in a fight?",
+      "answer": "They determine the order of attack by ranking their DEX from highest to lowest."
+    },
+    {
+      "question": "What happens when there is a draw in determining the order of attack?",
+      "answer": "The side with the higher combat skill goes first in the case of a draw."
+    },
+    {
+      "question": "How long is a combat round?",
+      "answer": "A combat round is a deliberately elastic unit of time in which everyone wishing to act has a chance to complete at least one action."
+    },
+    {
+      "question": "What is the goal of a combat round?",
+      "answer": "The goal of a combat round is for every investigator and other character to have had an opportunity to act."
+    },
+    {
+      "question": "Who determines the order of attack in a fight?",
+      "answer": "The combatants' DEX ranking from highest to lowest."
+    },
+    {
+      "question": "What happens if there is a draw in the DEX ranking?",
+      "answer": "The side with the higher combat skill goes first."
+    },
+    {
+      "question": "What actions can a character take on their turn in the DEX order?",
+      "answer": "Initiate an attack, perform a fighting maneuver, flee, cast a spell, or perform some other action requiring time and a dice roll."
+    },
+    {
+      "question": "Can monsters use multiple attacks in one round?",
+      "answer": "Yes, these attacks take place on the monster's turn."
+    },
+    {
+      "question": "What is the note about monsters capable of multiple attacks?",
+      "answer": "Some monsters are capable of multiple attacks in one round, which take place on the monster's turn."
+    },
+    {
+      "question": "What happens if two characters want to act at the same time?",
+      "answer": "The one with the highest DEX takes priority."
+    },
+    {
+      "question": "What is the consequence if both characters wait for each other to act?",
+      "answer": "The round may end with neither of them acting, resulting in losing their action."
+    },
+    {
+      "question": "Who retained his composure in a traumatic situation?",
+      "answer": "Sir William Brinton."
+    },
+    {
+      "question": "What type of combat rules are explained first?",
+      "answer": "Simple, old-fashioned, one-on-one fist fights."
+    },
+    {
+      "question": "Who is the narrator in the story?",
+      "answer": "The narrator is not specified, but the character speaking is referred to as 'I'."
+    },
+    {
+      "question": "What is the primary focus of the combat rules in the text?",
+      "answer": "A simple, old-fashioned, one-on-one fist fight"
+    },
+    {
+      "question": "What type of situation is the fight described in the text?",
+      "answer": "A barroom brawl or any situation where two people are determined to hurt each other"
+    },
+    {
+      "question": "What is the alternative to attacking in the text?",
+      "answer": "To try to avoid being hit"
+    },
+    {
+      "question": "How are melee attacks resolved in the text?",
+      "answer": "Using opposed skill rolls"
+    },
+    {
+      "question": "What is the skill used to represent this type of combat in the text?",
+      "answer": "Brawling (a specialization of the Fighting skill)"
+    },
+    {
+      "question": "What determines the outcome of a melee attack?",
+      "answer": "Opposed skill rolls"
+    },
+    {
+      "question": "What choices does a character have when attacked in a melee?",
+      "answer": "Dodge or fight back"
+    },
+    {
+      "question": "What skill is used when a character chooses to fight back?",
+      "answer": "Target's Fighting skill"
+    },
+    {
+      "question": "What skill is used when a character chooses to dodge?",
+      "answer": "Target's Dodge skill"
+    },
+    {
+      "question": "How are the outcomes of the skills compared?",
+      "answer": "Using opposed skill rolls"
+    }
+  ]
+}

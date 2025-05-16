@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a magical spellbook, detailing various spells and incantations. The main topic is the creation and effects of magical signs, including the \"Red Sign\" and \"Shriving\" spells, which cause physical harm and damage to targets. Additionally, the document describes the \"Resurrection\" spell, which can restore a deceased person to life, but at a great cost to the victim's Sanity points. The spells are accompanied by various costs, including magic points, Sanity points, and concentration requirements.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of the sign on those within 10 yards of it?",
+      "answer": "All those within 10 yards of the sign lose 1D3 hit points per round."
+    },
+    {
+      "question": "What is the range of the sign's effect on those who do not lose hit points?",
+      "answer": "Those further than 30 yards take no damage."
+    },
+    {
+      "question": "How does one escape the sign's effect?",
+      "answer": "It is possible to escape the sign's effect by crawling behind a stout wall or other opaque barrier."
+    },
+    {
+      "question": "What is the effect on the caster of maintaining the sign?",
+      "answer": "The caster loses 1 hit point each round because of their proximity to the sign."
+    },
+    {
+      "question": "What is the name of the sign in alternative names?",
+      "answer": "The Red Sign, The Mark of Fiery Pain."
+    },
+    {
+      "question": "What is the effect of standing next to the Red Sign?",
+      "answer": "The caster loses 1 hit point each round due to proximity."
+    },
+    {
+      "question": "How far away can the Red Sign cause damage?",
+      "answer": "10 yards for 1D6 hit points loss and 30 yards for 2 hit points loss."
+    },
+    {
+      "question": "How far does the dark energy blast from the Red Sign go?",
+      "answer": "50 yards, including the caster."
+    },
+    {
+      "question": "What happens to the Red Sign's energy after investing 10 POW?",
+      "answer": "It explodes in a blaze of red light."
+    },
+    {
+      "question": "How much damage does the dark energy blast cause?",
+      "answer": "2D8 damage."
+    },
+    {
+      "question": "What is the damage caused by the sign when it explodes?",
+      "answer": "2D8 damage"
+    },
+    {
+      "question": "How far does the sign's explosion affect the caster?",
+      "answer": "50 yards"
+    },
+    {
+      "question": "What must the caster succeed in to make the spell take effect?",
+      "answer": "An opposed POW roll with the target"
+    },
+    {
+      "question": "How much damage is the target affected for each magic point invested?",
+      "answer": "1 hit point per magic point"
+    },
+    {
+      "question": "How long does the spell take to cast?",
+      "answer": "Instantaneous"
+    },
+    {
+      "question": "What is the effect of the target on Resurrection?",
+      "answer": "The target loses 1 hit point per magic point invested in the spell."
+    },
+    {
+      "question": "What is the cost of the Resurrection spell?",
+      "answer": "3 magic points"
+    },
+    {
+      "question": "What is the casting time of the Resurrection spell?",
+      "answer": "1 or 2 rounds"
+    },
+    {
+      "question": "What is the result of Resurrection in terms of the body?",
+      "answer": "The spell reduces a corpse to its essential salts and compounds, a bluish-grey powder"
+    },
+    {
+      "question": "What is the cost of being Resurrected?",
+      "answer": "1D20 Sanity points"
+    },
+    {
+      "question": "What happens to a corpse under the spell, and what is the result?",
+      "answer": "The spell reduces a corpse to its essential salts and compounds, a bluish-grey powder, or reverses the process to yield ultimately the form and soul of the deceased."
+    },
+    {
+      "question": "What is the cost to the resurrected victim in terms of Sanity points?",
+      "answer": "1D20 in Sanity points."
+    },
+    {
+      "question": "What happens to the resurrected entity if the spell is recited backward?",
+      "answer": "The resurrected entity returns to dust."
+    },
+    {
+      "question": "What is required to reverse the resurrected entity back to dust, and how many Sanity points is it?",
+      "answer": "3 magic points and 1D10 Sanity points."
+    },
+    {
+      "question": "What is the condition for the spell to take effect?",
+      "answer": "The coffin must be intact and sufficient care must be taken to scrape together all the fragments and dust within."
+    }
+  ]
+}

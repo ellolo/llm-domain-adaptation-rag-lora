@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes various creatures, including a cobra, giant squid, and wolf, with unique characteristics, abilities, and attack patterns. The cobra is a stealthy, venomous snake with a high damage bonus, while the giant squid is a formidable sea creature with powerful tentacles and a high damage bonus. The wolf is a relatively weak but agile predator that can hunt in packs or solo. The document also introduces the concept of \"poisons\" and \"immune system shock\" from stings, which can have severe consequences for victims.",
+  "qa_pairs": [
+    {
+      "question": "What is the average damage bonus for a SNAKE?",
+      "answer": "-2"
+    },
+    {
+      "question": "What is the average damage bonus for a SQUID?",
+      "answer": "+2D6"
+    },
+    {
+      "question": "How many attacks can a SNAKE make per round?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the average damage bonus for a SQUID's fighting attacks?",
+      "answer": "+2D6"
+    },
+    {
+      "question": "How many tentacles can a SQUID seize a victim with?",
+      "answer": "Eight"
+    },
+    {
+      "question": "What is the average damage bonus for STR?",
+      "answer": "+2D6"
+    },
+    {
+      "question": "What is the average build of a STR?",
+      "answer": "3"
+    },
+    {
+      "question": "How many attacks can a STR perform per round?",
+      "answer": "4"
+    },
+    {
+      "question": "How does a STR attack its prey?",
+      "answer": "It uses maneuvers to seize and bite its prey"
+    },
+    {
+      "question": "What is the effect of a STR's poisonous bite?",
+      "answer": "Causes 1D6 damage and a penalty die on all future actions for several hours"
+    },
+    {
+      "question": "What is the effect of a second tentacle connecting to a first tentacle strike?",
+      "answer": "The two constrict the target and each does its damage each round."
+    },
+    {
+      "question": "What is the damage caused by the poisonous beak of the creature?",
+      "answer": "1D6 damage"
+    },
+    {
+      "question": "What is the damage caused by the first tentacle strike?",
+      "answer": "1D6 + damage bonus"
+    },
+    {
+      "question": "What is the damage caused by the second tentacle strike?",
+      "answer": "1D10 + poison"
+    },
+    {
+      "question": "What is the Dodge percentage for the creature?",
+      "answer": "47% (23/9)"
+    },
+    {
+      "question": "What is the duration of a wasp and bee swarm attack?",
+      "answer": "2D6 combat rounds"
+    },
+    {
+      "question": "What can cause death from bee stings, according to the text?",
+      "answer": "Extensive stings and failing a CON roll"
+    },
+    {
+      "question": "How many hit points can be lost per minute of an Africanized bee attack?",
+      "answer": "1D6 hit points"
+    },
+    {
+      "question": "How do Africanized bees typically hunt?",
+      "answer": "In packs"
+    },
+    {
+      "question": "What type of prey do wolves often hunt in packs?",
+      "answer": "Elk or caribou"
+    },
+    {
+      "question": "How can an investigator experience profound immune system shock?",
+      "answer": "An investigator who is stung extensively"
+    },
+    {
+      "question": "What is a rare occurrence among healthy humans?",
+      "answer": "verified attacks"
+    },
+    {
+      "question": "What is the average damage bonus for a wolf's attack rolls?",
+      "answer": "Average Damage Bonus: none"
+    },
+    {
+      "question": "How many hit points might each minute of a wolf's attack cost?",
+      "answer": "as much as 1D6"
+    },
+    {
+      "question": "What is the average build for a wolf?",
+      "answer": "Average Build: 0"
+    }
+  ]
+}

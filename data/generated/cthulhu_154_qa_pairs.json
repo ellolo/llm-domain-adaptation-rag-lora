@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop game, vehicle damage and movement are calculated using a combination of hit points and build ratings. Vehicles with higher build ratings are more resilient to damage, while those with lower build ratings are more susceptible. The movement rating (MOV) of a vehicle also affects its speed and maneuverability in chases. Vehicles that suffer significant damage may be impaired or completely wrecked, with occupants potentially dying. The Keeper has discretion to determine the outcome of such incidents, with luck rolls potentially influencing the survival of those involved.",
+  "qa_pairs": [
+    {
+      "question": "What is the standard build damage to a car in a moderate incident?",
+      "answer": "1D6 build damage"
+    },
+    {
+      "question": "How much movement action does a vehicle lose after a collision?",
+      "answer": "1D3 movement actions"
+    },
+    {
+      "question": "What is the armor value for passengers on a car in economy trim?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the armor value for passengers on a motorcycle, light?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the minimum number of crew required for some vehicles to use the Pilot skill?",
+      "answer": "A substantial crew"
+    },
+    {
+      "question": "What type of vehicles require a substantial crew?",
+      "answer": "Many vehicles"
+    },
+    {
+      "question": "What is the armor value for passengers on deck?",
+      "answer": "The armor value"
+    },
+    {
+      "question": "Which vehicles on the chart require specialist training to operate?",
+      "answer": "Heavy Vehicles"
+    },
+    {
+      "question": "What skill is used by vehicles on the chart that use the Pilot skill?",
+      "answer": "Pilot skill"
+    },
+    {
+      "question": "Which vehicles on the chart use the Ride skill?",
+      "answer": "Other forms of transport"
+    },
+    {
+      "question": "What type of vehicles require specialist training to operate?",
+      "answer": "Heavy Vehicles"
+    },
+    {
+      "question": "How many vehicles on the chart use the Ride skill?",
+      "answer": "Other forms of transport"
+    },
+    {
+      "question": "What is the minimum number of people required to operate a Hovercraft?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the minimum number of people required to operate a Row boat?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the minimum number of people required to operate a Motorboat?",
+      "answer": "0"
+    },
+    {
+      "question": "What does MOV represent in the text?",
+      "answer": "A rating of the vehicle\u2019s speed and maneuverability in chases"
+    },
+    {
+      "question": "How does a vehicle's build decrease?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle\u2019s build by 1 point"
+    },
+    {
+      "question": "What happens to a vehicle's build when it reaches half of its starting value or lower?",
+      "answer": "It is impaired; one penalty die is applied to all Drive Auto (or appropriate skill) rolls"
+    },
+    {
+      "question": "Is the MOV rating the same for all vehicles?",
+      "answer": "No, these ratings are for modern vehicles"
+    },
+    {
+      "question": "Can vehicles from the 1920s exceed 100 MPH?",
+      "answer": "Yes, though there were cars in the 1920s that could exceed 100 MPH"
+    },
+    {
+      "question": "What does a vehicle's build represent?",
+      "answer": "A rating of the strength and size of the vehicle."
+    },
+    {
+      "question": "How does a vehicle's build decrease with damage?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle\u2019s build by 1 point (round down)."
+    },
+    {
+      "question": "What happens to a vehicle's build if it's reduced to half or lower?",
+      "answer": "One penalty die is applied to all Drive Auto (or appropriate skill) rolls."
+    },
+    {
+      "question": "What happens to a vehicle if it takes damage equal to its full build value?",
+      "answer": "The vehicle is completely wrecked in an impressive manner."
+    },
+    {
+      "question": "What happens to occupants of a vehicle that is completely wrecked?",
+      "answer": "All occupants of the vehicle are likely to die."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the effects of damage on a character's health are outlined. Regular damage, which is less than half of the character's maximum hit points, has no significant effect on the character until their hit points reach zero, at which point they become unconscious. In contrast, major wounds, which are equal to or more than half of the character's maximum hit points, can be fatal and require immediate medical attention. The severity of damage also depends on the type of attack, with single punches likely to result in regular damage and single gunshots more likely to inflict major wounds.",
+  "qa_pairs": [
+    {
+      "question": "What determines if a punch results in regular damage?",
+      "answer": "Less than half the character\u2019s maximum hit points"
+    },
+    {
+      "question": "What type of damage is equal to or more than half the character\u2019s maximum hit points?",
+      "answer": "Equal to or more than half the character\u2019s maximum hit points, it is a Major Wound."
+    },
+    {
+      "question": "What is the result of more than the character\u2019s maximum hit points?",
+      "answer": "More than the character\u2019s maximum hit points, the result is death."
+    },
+    {
+      "question": "What type of damage is more than the character\u2019s maximum hit points?",
+      "answer": "More than the character\u2019s maximum hit points, the result is death."
+    },
+    {
+      "question": "What is the minimum amount of damage required for regular damage?",
+      "answer": "Less than half the character\u2019s maximum hit points"
+    },
+    {
+      "question": "What is the result of a single attack that deals damage equal to or more than half the character\u2019s maximum hit points?",
+      "answer": "A Major Wound"
+    },
+    {
+      "question": "What is the result of a single attack that deals more than the character\u2019s maximum hit points?",
+      "answer": "Death"
+    },
+    {
+      "question": "Can a character die as a result of regular damage?",
+      "answer": "No"
+    },
+    {
+      "question": "What is the difference between regular damage and a major wound?",
+      "answer": "A punch is likely to result in regular damage, whereas a gunshot is more likely to inflict a major wound."
+    },
+    {
+      "question": "What is the effect of regular damage on a character?",
+      "answer": "Regular damage has no significant effect on the character until current hit points are reduced to zero."
+    },
+    {
+      "question": "What is the definition of regular damage?",
+      "answer": "Regular damage is the result of any single attack that deals damage equal to less than half the character\u2019s maximum hit points in a single blow."
+    },
+    {
+      "question": "What is the definition of a major wound?",
+      "answer": "A Major Wound results when an attack delivers an amount of damage equal to or greater than half of the character\u2019s maximum hit points in a single attack."
+    },
+    {
+      "question": "What is a Major Wound in combat?",
+      "answer": "A Major Wound results when an attack delivers an amount of damage equal to or greater than half of the character's maximum hit points in a single attack."
+    },
+    {
+      "question": "What happens to a character that has received a Major Wound?",
+      "answer": "The character immediately falls prone and makes a successful CON roll to avoid falling unconscious."
+    },
+    {
+      "question": "What is the condition for a character to die?",
+      "answer": "If current hit points fall to zero while the Major Wound box is ticked, the character is dying."
+    },
+    {
+      "question": "What damage will inflicts a Major Wound on Harvey?",
+      "answer": "Damage of 8 or more will inflict a Major Wound on Harvey."
+    },
+    {
+      "question": "What happens when a character's current hit points fall to zero?",
+      "answer": "The character is unconscious."
+    },
+    {
+      "question": "What is the effect of cumulative damage once a character's current hit points fall to zero?",
+      "answer": "Cumulative damage ceases to be tracked."
+    },
+    {
+      "question": "What happens to a character with zero hit points if further damage is attempted?",
+      "answer": "Any sincere attempt to kill the unconscious character should succeed."
+    },
+    {
+      "question": "What is one of the three conditions that zero hit points can indicate, similar to the triage model?",
+      "answer": "One of three conditions"
+    },
+    {
+      "question": "What happens to cumulative damage tracking when a character's hit points fall to zero?",
+      "answer": "Cumulative damage ceases to be tracked once current hit points have fallen to zero."
+    },
+    {
+      "question": "What is the effect of taking a wound equal to a character's maximum hit points, assuming the character is uninjured?",
+      "answer": "This would be a major wound."
+    },
+    {
+      "question": "What happens if an amount of damage greater than a character's maximum hit points is taken in one attack?",
+      "answer": "Death is inevitable."
+    },
+    {
+      "question": "What is the effect on a character if they have taken a Major Wound and are not receiving First Aid?",
+      "answer": "The character will soon die."
+    },
+    {
+      "question": "What happens to a character with zero hit points?",
+      "answer": "The character is unconscious."
+    },
+    {
+      "question": "What is the effect of an uninjured character taking a wound equal to their maximum hit points?",
+      "answer": "The character will soon die unless First Aid is administered."
+    },
+    {
+      "question": "Under what conditions is death inevitable?",
+      "answer": "If an amount of damage greater than the character\u2019s maximum hit points is taken in one attack."
+    },
+    {
+      "question": "How long does First Aid need to be delivered to be effective?",
+      "answer": "Within one hour."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a ruleset for a tabletop game, detailing various types of firearms and explosives used in combat. The document covers a range of weapons, including tank guns, rifles, shotguns, and flamethrowers, with specific rules for damage, range, and malfunction. The rules also include categories for impaling and non-impaling weapons, as well as special abilities such as stun and burn effects. Additionally, the document provides pricing and availability information for each weapon, as well as specific rules for automatic fire and burst/full auto capabilities.",
+  "qa_pairs": [
+    {
+      "question": "When was the 120mm Tank Gun first introduced?",
+      "answer": "1920s"
+    },
+    {
+      "question": "What type of mine is the Anti-Personnel Mine?",
+      "answer": "Anti-Personnel Mine"
+    },
+    {
+      "question": "What determines the maximum damage of a weapon?",
+      "answer": "Non-impaling weapons"
+    },
+    {
+      "question": "What type of attack deals greater damage with an Extreme success?",
+      "answer": "An attack initiated by the attacker"
+    },
+    {
+      "question": "What happens to damage in a successful defense against an attack?",
+      "answer": "It does not increase, even with an Extreme success"
+    },
+    {
+      "question": "What happens to the damage of a successful defense against an attack made while fighting back?",
+      "answer": "It does not increase, even with an Extreme success"
+    },
+    {
+      "question": "What are two groups of increased damage weapons?",
+      "answer": "impaling and non-impaling"
+    },
+    {
+      "question": "Who deals greater damage with an Extreme success?",
+      "answer": "those initiating an attack"
+    },
+    {
+      "question": "How is an impale applied?",
+      "answer": "Only with a critical hit (a roll of '01') at a very long range."
+    },
+    {
+      "question": "What affects the number of times a character may fight back with a melee weapon?",
+      "answer": "The Uses per Round, which does not affect the number of attacks initiated per combat round."
+    },
+    {
+      "question": "What is the standard distance of a weapon's attack?",
+      "answer": "The Base Range, which is the standard distance of the weapon's attack."
+    },
+    {
+      "question": "What is the effect of a Claymore Mine?",
+      "answer": "A cone of fire with a nominal 120-degree effect."
+    },
+    {
+      "question": "What is the effect of a claymore mine?",
+      "answer": "The weapon has a cone of fire; allow nominal 120-degree effect."
+    },
+    {
+      "question": "What is the malfunction rule for a firing weapon?",
+      "answer": "If die roll result equal to or higher than the firing weapon\u2019s malfunction number, the shooter does not merely miss\u2014the weapon does not fire."
+    },
+    {
+      "question": "What is the common designation for a weapon's availability by era?",
+      "answer": "Common in Era: Denotes availability by era."
+    },
+    {
+      "question": "What happens to the target if they are stunned?",
+      "answer": "Target may not act for 1D6 rounds (or as the Keeper indicates)."
+    },
+    {
+      "question": "What happens if a die roll result equals or exceeds the malfunction number of a firing weapon?",
+      "answer": "The weapon does not fire."
+    },
+    {
+      "question": "What is the effect of a target being stunned?",
+      "answer": "The target may not act for 1D6 rounds."
+    },
+    {
+      "question": "What is required for a target to avoid catching on fire?",
+      "answer": "The target must roll Luck."
+    },
+    {
+      "question": "What is the effect of a target caught on fire?",
+      "answer": "The target must roll Luck to avoid catching on fire, and take minimum damage on the following round, doubling this each round until extinguished."
+    }
+  ]
+}

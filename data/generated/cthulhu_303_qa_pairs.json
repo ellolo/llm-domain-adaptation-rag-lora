@@ -1,0 +1,85 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes summoning spells in a fantasy setting, which involve binding and commanding supernatural entities, known as \"things\" or \"servitors.\" To cast a summoning spell, a wizard must spend magic points, time, and sanity points, and must also provide a specific command or order for the summoned entity to follow. The success of the spell depends on various factors, including the wizard's skill, the entity's strength, and the conditions under which the spell is cast. Each summoning spell has its own unique characteristics, such as the Summon Byakhee, which requires a whistle and is active only on nights when Aldebaran is above the horizon.",
+  "qa_pairs": [
+    {
+      "question": "What is the cost of summoning spells?",
+      "answer": "Variable magic points and 1D4 Sanity points"
+    },
+    {
+      "question": "How long does casting time take for summoning spells?",
+      "answer": "5 minutes per magic point spent"
+    },
+    {
+      "question": "What is the general rule for learning the summon and bind portions of a spell?",
+      "answer": "Unless the Keeper wishes otherwise, the summon and the bind portions of each spell are learned together."
+    },
+    {
+      "question": "How many magic points are sacrificed per 10% chance for success in these spells?",
+      "answer": "1 magic point per 10% chance for success."
+    },
+    {
+      "question": "What is the consequence of rolling a result of 96-100?",
+      "answer": "A failure, always."
+    },
+    {
+      "question": "What happens to the caster's Sanity points per spell cast?",
+      "answer": "1D4 Sanity points per spell cast, whether the spell succeeds or not."
+    },
+    {
+      "question": "What is the chance for a spell to succeed if 3 magic points are spent?",
+      "answer": "a 30% chance"
+    },
+    {
+      "question": "How many Sanity points does the caster lose per spell cast?",
+      "answer": "1D4"
+    },
+    {
+      "question": "What should the caster's command to a thing be specific about?",
+      "answer": "duration"
+    },
+    {
+      "question": "What happens if a bound thing without a command is not fulfilled?",
+      "answer": "it finds a way to leave"
+    },
+    {
+      "question": "What is a result of 96-100 in this system?",
+      "answer": "a failure\u2014a rolled result of 100 should always have bad consequences for the wizard concerned."
+    },
+    {
+      "question": "How much Sanity points does the caster lose per spell cast?",
+      "answer": "1D4 Sanity points"
+    },
+    {
+      "question": "What should the caster's command to the thing be?",
+      "answer": "specific and limited in duration"
+    },
+    {
+      "question": "What is the general guideline for the number of words in a command?",
+      "answer": "one-fifth of the thing's INT"
+    },
+    {
+      "question": "What can be understood by simple gestures?",
+      "answer": "Pointing"
+    },
+    {
+      "question": "When is the Byakhee spell active?",
+      "answer": "October through March, when Aldebaran is above the horizon"
+    },
+    {
+      "question": "What happens to the summoned byakhee after being called?",
+      "answer": "The summoned byakhee will flap down out of the sky, still icy from its travels through space."
+    },
+    {
+      "question": "What is the effect of an enchanted whistle on the chance for success?",
+      "answer": "Each point of POW in its enchantment adds 2 percentiles to the chance for success."
+    },
+    {
+      "question": "What happens to the summoned entity after the ritual?",
+      "answer": "A dark young will stalk out of the shadows after the summoning."
+    },
+    {
+      "question": "What is required to make the ritual cuts in the Summon Dark Young spell?",
+      "answer": "A knife is needed to make certain ritual cuts in dispatching the victim."
+    }
+  ]
+}

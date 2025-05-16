@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, the game master (Keeper) must make decisions about how to handle various situations, such as a character drowning or being strangled, and when to introduce custom rules. The game is designed to be flexible and encourage creative use of the core rules, rather than relying on a comprehensive list of every possible scenario. To create custom rules, the Keeper should consider whether a standard rule can handle the situation equally well and whether the custom rule will significantly enhance the game. In some cases, custom rules can be used to emphasize key characteristics, such as CON for dehydration and fatigue in a desert scenario.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the investigator misses the pushed swim roll?",
+      "answer": "The investigator is battered and half-drowned, taking 1D6 damage per round."
+    },
+    {
+      "question": "What happens to the investigator if the Keeper chooses to put their life on the line?",
+      "answer": "The investigator will continue to lose hit points each round until saved by another investigator or non-player character."
+    },
+    {
+      "question": "What happens to the investigator if they are washed up on some foreign shore?",
+      "answer": "The investigator has washed up on some foreign shore, bereft of all possessions and in a bad way."
+    },
+    {
+      "question": "What happens to the investigator if no one else is around?",
+      "answer": "The Keeper could waive the drowning damage and instead have the unsuccessful pushed roll mean that the investigator has washed up on some foreign shore."
+    },
+    {
+      "question": "What happens if the Keeper chooses to put the investigator's life on the line?",
+      "answer": "The investigator will continue to lose hit points each round until saved by another investigator or non-player character."
+    },
+    {
+      "question": "What is the standard outcome if the attacker completes a Fighting Maneuver to seize the enemy in a stranglehold?",
+      "answer": "The attacker acts with one bonus die as a result of the successful fighting maneuver."
+    },
+    {
+      "question": "What happens if the attacker is successful in strangling the target?",
+      "answer": "Any damage is narrated as strangulation."
+    },
+    {
+      "question": "What is the alternative outcome if the Keeper chooses not to put the investigator's life on the line?",
+      "answer": "The unsuccessful push roll results in the investigator being pushed onto some foreign shore, bereft of all possessions and in a bad way."
+    },
+    {
+      "question": "What happens after a successful fighting maneuver?",
+      "answer": "The attacker can then strangle the target using the Fighting skill."
+    },
+    {
+      "question": "How many bonus dice does the attacker have after a successful fighting maneuver?",
+      "answer": "One bonus die."
+    },
+    {
+      "question": "What is the primary goal of creating a custom or house rule?",
+      "answer": "To add significantly to the game."
+    },
+    {
+      "question": "What is excluded from the game's rules?",
+      "answer": "Everything else, such as magic, luck, sanity, and physical harm."
+    },
+    {
+      "question": "What happens to the attacker after a successful fighting maneuver?",
+      "answer": "The attacker can now act with one bonus die as a result of the successful fight maneuver."
+    },
+    {
+      "question": "How should custom rules be applied?",
+      "answer": "Custom rules should be used for key elements in a scenario, and should focus on one skill or limited characteristics."
+    },
+    {
+      "question": "What is the general approach to creating custom rules?",
+      "answer": "Custom rules should be kept simple, with a focus on one skill or limited characteristics, and should build in meaningful decisions."
+    },
+    {
+      "question": "How are degrees of success tracked in custom rules?",
+      "answer": "A method of tracking degrees of success should be decided on when making a custom rule."
+    },
+    {
+      "question": "What is the key to creating a custom rule in Call of Cthulhu?",
+      "answer": "Keep it simple, focusing on one skill or limited skills and deciding on a method of tracking degrees of success."
+    },
+    {
+      "question": "How does Call of Cthulhu encourage its Keepers to approach rule creation?",
+      "answer": "By making the rules flexible and encouraging creative use of the core rule: the skill roll."
+    },
+    {
+      "question": "What is the result of attempting to list a specific rule for every eventuality?",
+      "answer": "A game in which the rules must constantly be referred to and everyone is restrained by a rule on every action."
+    },
+    {
+      "question": "What is the goal of creating a custom rule in Call of Cthulhu?",
+      "answer": "To build in meaningful decisions that can be taken by the players, altering the difficulty level or changing which skill is used."
+    },
+    {
+      "question": "What is the primary goal of designing a custom rule for a scenario?",
+      "answer": "To emphasize the effects of deprivation and fatigue"
+    },
+    {
+      "question": "What is the characteristic being used to track failure in this scenario?",
+      "answer": "CON (Constitution)"
+    },
+    {
+      "question": "What happens if a player fails the CON roll in this scenario?",
+      "answer": "Their investigator will take 1D3 damage"
+    },
+    {
+      "question": "What is the consequence of failing to make a CON roll for each day of game time that passes?",
+      "answer": "Death"
+    }
+  ]
+}

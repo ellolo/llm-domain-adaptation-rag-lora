@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nGhasts and Ghasts are two types of formless, cannibalistic creatures that inhabit the underworld and vast caverns, where sunlight never reaches. They are restricted to these environments and are sensitive to direct sunlight, which causes them to sicken and eventually die. Ghasts are capable of attacking and swallowing prey, dealing damage and potentially gaining sanity points, while also being vulnerable to physical attacks and able to dodge. They have unique characteristics, such as their ability to swallow prey and digest it, and are often found in conjunction with other, more humanoid creatures.",
+  "qa_pairs": [
+    {
+      "question": "How does a victim take damage from constriction?",
+      "answer": "The victim takes 1 point of damage per round, increasing by 1 point each round."
+    },
+    {
+      "question": "What can friends do to help a victim being swallowed?",
+      "answer": "Friends can attempt to slay the monster to free the victim."
+    },
+    {
+      "question": "What is a formless spawn capable of doing while swallowing prey?",
+      "answer": "A formless spawn can make one Bite attack per round and continue to swallow prey until it has swallowed its own SIZ in prey."
+    },
+    {
+      "question": "What can a formless spawn do after swallowing prey?",
+      "answer": "After swallowing prey, a formless spawn may continue to fight but may not shift location without disgorging what it has swallowed."
+    },
+    {
+      "question": "What is the range of a monster's Grab attack?",
+      "answer": "The range of a monster's Grab attack is always one-fifth of the monster's SIZ in yards."
+    },
+    {
+      "question": "What happens to a formless spawn when it swallows its own SIZ in prey?",
+      "answer": "It may not shift location without disgorging what it has swallowed."
+    },
+    {
+      "question": "What is the range of Grab (mnvr) attack?",
+      "answer": "The range is always one-fifth of the monster's SIZ in yards."
+    },
+    {
+      "question": "What percentage of the time does a formless spawn deal damage with Bite?",
+      "answer": "30% (15/6),"
+    },
+    {
+      "question": "What percentage of the time does a formless spawn have a Dodge chance?",
+      "answer": "47% (23/9)"
+    },
+    {
+      "question": "What is the source of a formless spawn's Sanity points?",
+      "answer": "1/1D10 Sanity points"
+    },
+    {
+      "question": "What percentage of damage is dealt by a Ghast's Grab attack?",
+      "answer": "60%"
+    },
+    {
+      "question": "What percentage of damage is dealt by a Ghast's Bite attack?",
+      "answer": "30%"
+    },
+    {
+      "question": "How much damage is dealt by a Ghast's Grab attack?",
+      "answer": "2D6 + damage bonus"
+    },
+    {
+      "question": "What percentage of damage is dealt by a Ghast's Dodge attack?",
+      "answer": "47%"
+    },
+    {
+      "question": "How much Sanity points is a Ghast immune to?",
+      "answer": "1/1D10"
+    },
+    {
+      "question": "What is the condition that causes ghasts to die?",
+      "answer": "Exposed to direct sunlight, they sicken and eventually die."
+    },
+    {
+      "question": "What do ghasts primarily eat?",
+      "answer": "Each other and other beings they catch."
+    },
+    {
+      "question": "Are ghasts likely the result of genetic experimentation?",
+      "answer": "If they are relatives of, or examples of, the humans who inhabit the cavern of K\u2019n-Yan."
+    },
+    {
+      "question": "What is the average damage bonus for ghasts?",
+      "answer": "+2D6."
+    },
+    {
+      "question": "What is the average hit points for a ghast?",
+      "answer": "20"
+    },
+    {
+      "question": "What is the average HP of a ghast?",
+      "answer": "20"
+    },
+    {
+      "question": "What is the average damage bonus for a ghast?",
+      "answer": "+2D6"
+    },
+    {
+      "question": "What is the average size of a ghast?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the damage of a ghast's unarmed attack?",
+      "answer": "1D6"
+    },
+    {
+      "question": "What is the percentage of dodge chance for a ghast?",
+      "answer": "35%"
+    }
+  ]
+}

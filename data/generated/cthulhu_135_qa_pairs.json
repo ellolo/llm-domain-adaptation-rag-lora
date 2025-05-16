@@ -1,0 +1,73 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, investigators and non-player characters can use various tactics to avoid or mitigate damage from firearms. The Keeper can use random rolls or Luck rolls to determine the effectiveness of these tactics, such as diving for cover, bracing a firearm, or wearing armor. Armor ratings can reduce damage from shotgun attacks, and specific armor can offer protection to specific body parts. Additionally, telescopic sights and bracing a firearm can increase the effective range of a weapon.",
+  "qa_pairs": [
+    {
+      "question": "How many investigators dive for cover initially?",
+      "answer": "Four"
+    },
+    {
+      "question": "What happens to the non-player character, the investigator, and the diver after the Keeper allocates numbers?",
+      "answer": "They are targeted by bullets"
+    },
+    {
+      "question": "What is the method used to resolve each attack in the game?",
+      "answer": "Each attack is then resolved using the usual rules."
+    },
+    {
+      "question": "How is the damage for shotguns calculated?",
+      "answer": "The damage for shotguns is rolled using a number of six-sided dice."
+    },
+    {
+      "question": "How are shotgun damages calculated?",
+      "answer": "Rolling a number of six-sided dice and factoring armor ratings against every D6."
+    },
+    {
+      "question": "Does armor affect specific parts of the body in Call of Cthulhu combat?",
+      "answer": "Yes, armor offers protection to specific parts of the body."
+    },
+    {
+      "question": "What is the Call of Cthulhu combat rule about armor protection?",
+      "answer": "A character wearing armor that protects both head and torso gains a bonus die on their Luck roll for armor protection."
+    },
+    {
+      "question": "What happens if a character is hit by a single specific attack, such as being shot?",
+      "answer": "A Luck roll is required."
+    },
+    {
+      "question": "What happens if a character's armor protects both head and torso?",
+      "answer": "A character wearing armor that protects both head and torso gains a bonus die on their Luck roll for armor protection."
+    },
+    {
+      "question": "What happens if a character is wearing armor all over their body or possesses natural armor?",
+      "answer": "A character wearing armor all over their body or possessing natural armor such as that of an elephant\u2019s skin does not require a Luck roll; it applies in all cases."
+    },
+    {
+      "question": "What type of armor protects both head and torso and gives a bonus die on their Luck roll?",
+      "answer": "A character wearing armor that protects both head and torso"
+    },
+    {
+      "question": "How do you determine if an armored part of the body has been hit?",
+      "answer": "Rolling 1D20 and consulting Table IV: Optional Hit Locations"
+    },
+    {
+      "question": "What is the effect of spotting a weakness in an enemy's armor?",
+      "answer": "The area may be targeted, and the Keeper should set an increased level of difficulty or penalty dice for the attempt."
+    },
+    {
+      "question": "How does using telescopic sights with a firearm affect the base range?",
+      "answer": "Telescopic sights effectively double the base range when using firearms."
+    },
+    {
+      "question": "What happens to the difficulty level when using a braced weapon?",
+      "answer": "Bracing a firearm effectively doubles the base range for the weapon."
+    },
+    {
+      "question": "How far does the difficulty level increase with a.303 Lee Enfield rifle at extreme range?",
+      "answer": "440 to 880 yards"
+    },
+    {
+      "question": "What happens to the base range of a firearm when it is mechanically braced to a structure?",
+      "answer": "It effectively doubles"
+    }
+  ]
+}

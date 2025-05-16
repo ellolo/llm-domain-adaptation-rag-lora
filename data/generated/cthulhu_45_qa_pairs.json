@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nWhen creating investigators in a game, the key is to generate a set of characteristics that fit within the appropriate range of values. The method used to create these characteristics is secondary, and different groups may agree on different methods. The document provides a table for determining credit ratings, cash, and assets, which can be used to create investigators with varying levels of wealth and spending power. The Keeper can choose from alternative methods, such as starting over or modifying low rolls, to create investigators that fit their group's preferences.",
+  "qa_pairs": [
+    {
+      "question": "What do investigators normally get skill points for, aside from their occupation?",
+      "answer": "Fighting and Firearms"
+    },
+    {
+      "question": "Where can you find information about Equipment lists and Weapons?",
+      "answer": "Pages 396-400 and pages 401-405 respectively"
+    },
+    {
+      "question": "What is the main goal when creating an investigator?",
+      "answer": "To generate a set of characteristics that fit within the appropriate range of values"
+    },
+    {
+      "question": "How do some groups prefer to create investigators?",
+      "answer": "With a random approach"
+    },
+    {
+      "question": "What is the purpose of varying degrees of freedom when creating investigators?",
+      "answer": "To exchange or modify the values, perhaps to fit their perception of game balance"
+    },
+    {
+      "question": "What is the credit rating of a penniless individual in the 1920s?",
+      "answer": "CR 0 or less"
+    },
+    {
+      "question": "How much cash does a penniless individual have in the 1920s?",
+      "answer": "$0.50"
+    },
+    {
+      "question": "What is the primary factor in determining a character's credit rating?",
+      "answer": "Credit Rating"
+    },
+    {
+      "question": "What is the lowest amount of cash a character can have?",
+      "answer": "$0.50"
+    },
+    {
+      "question": "What is the range of cash values for a 'Poor' character?",
+      "answer": "CR x 1 ($1 - $9)"
+    },
+    {
+      "question": "How is the cash value of a 'Poor' character determined?",
+      "answer": "Credit Rating x 1"
+    },
+    {
+      "question": "What is the highest cash value for a 'Spending Level' of $50?",
+      "answer": "$250"
+    },
+    {
+      "question": "What is the highest cash value for a 'Super Rich' character?",
+      "answer": "$50,000"
+    },
+    {
+      "question": "What is the lowest possible credit rating?",
+      "answer": "0 or less"
+    },
+    {
+      "question": "What is the lowest spending level?",
+      "answer": "$10"
+    },
+    {
+      "question": "What is the lowest average spending level?",
+      "answer": "10-49"
+    },
+    {
+      "question": "What is the lowest spending level for the 'Rich' category?",
+      "answer": "$1,000"
+    },
+    {
+      "question": "What is the highest average spending level?",
+      "answer": "50-89"
+    },
+    {
+      "question": "What is the highest credit rating?",
+      "answer": "99"
+    },
+    {
+      "question": "What happens if a player rolls three or more characteristics that begin below 50?",
+      "answer": "You can scrap your dice rolls and start again."
+    },
+    {
+      "question": "What method is used if there are too many low rolls (three or more under 10)?",
+      "answer": "You roll an additional 1D6 and share out the extra points among the lowest dice rolls."
+    },
+    {
+      "question": "What is the threshold for low rolls that may require modifying them?",
+      "answer": "Three or more rolls under 10."
+    },
+    {
+      "question": "How many low rolls are allowed before modifying them?",
+      "answer": "Three or more."
+    },
+    {
+      "question": "What happens if a player rolls three or more characteristics that begin below 50?",
+      "answer": "The Keeper may allow this option."
+    },
+    {
+      "question": "What method is used to modify low rolls?",
+      "answer": "The default method."
+    }
+  ]
+}

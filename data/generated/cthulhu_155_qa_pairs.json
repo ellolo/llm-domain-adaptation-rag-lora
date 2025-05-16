@@ -1,0 +1,85 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for vehicle chases are outlined, including the potential for explosions, damage, and accidents. The Keeper determines the outcome of the chase, using a combination of Luck rolls and skill checks to navigate hazards. The document also introduces the concept of MOV (Movement Rate) ratings, which measure relative speeds and affect the outcome of chases. Additionally, the rules for chases in different environments, such as air and sea, are discussed. The document provides guidelines for creating new hazards and barriers in these environments.",
+  "qa_pairs": [
+    {
+      "question": "What is the recommended damage for occupants of a vehicle who are fortunate?",
+      "answer": "2D10 damage."
+    },
+    {
+      "question": "What happens to a vehicle if its build is reduced to zero?",
+      "answer": "It becomes undrivable, grinding to a halt."
+    },
+    {
+      "question": "What is the armor rating for passengers and driver?",
+      "answer": "Armor rating is for the passengers and driver."
+    },
+    {
+      "question": "How many people can be accommodated in the vehicle?",
+      "answer": "145"
+    },
+    {
+      "question": "What happens to a vehicle if it loses less than its starting build value in increments?",
+      "answer": "It becomes undrivable, grinding to a halt."
+    },
+    {
+      "question": "What is the armor rating for passengers and driver?",
+      "answer": "Reflecting the number of points of armor the vehicle provides against external attacks."
+    },
+    {
+      "question": "How many people can be accommodated by the vehicle?",
+      "answer": "The number of people that can be accommodated."
+    },
+    {
+      "question": "What happens if a Luck roll is failed during a chase round in 'chapter 7'?",
+      "answer": "The dynamite explodes."
+    },
+    {
+      "question": "How many movement actions does the Keeper give Harvey per round?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the base range of dynamite?",
+      "answer": "3 yards"
+    },
+    {
+      "question": "How often does the Keeper place a location on the map?",
+      "answer": "every 6 yards"
+    },
+    {
+      "question": "What is the damage at range 1?",
+      "answer": "4D10"
+    },
+    {
+      "question": "What is the main condition for Harvey to make it out safely?",
+      "answer": "He should not fail his skill rolls when negotiating the hazards."
+    },
+    {
+      "question": "What happens to Harvey on the first round of the game?",
+      "answer": "He fails his DEX roll and slips in the stream, taking damage and losing movement actions."
+    },
+    {
+      "question": "What environment can chases take place in?",
+      "answer": "In any environment, such as the air or sea, with appropriate hazards and barriers."
+    },
+    {
+      "question": "What type of hazards can the Keeper create for chases in the air?",
+      "answer": "Clouds, tall buildings, birds, cables, anti-aircraft fire, etc."
+    },
+    {
+      "question": "What is the MOV rate used as a measure of?",
+      "answer": "relative speeds"
+    },
+    {
+      "question": "What does one point of MOV equate with in terms of speed?",
+      "answer": "an approximate increase in speed of around 50%"
+    },
+    {
+      "question": "Why is the scale of MOV rating to speed not linear?",
+      "answer": "because each point of MOV equates with one additional movement action"
+    },
+    {
+      "question": "What does the MOV rating of a creature not necessarily represent?",
+      "answer": "their maximum speed over a short distance"
+    }
+  ]
+}

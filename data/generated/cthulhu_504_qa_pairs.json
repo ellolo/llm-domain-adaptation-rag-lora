@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a reference chart for vehicles in a tabletop game, specifically detailing their speed, maneuverability, and strength (or \"build\") ratings. The chart categorizes vehicles into different types, including cars, trucks, motorcycles, and watercraft, and assigns them specific ratings for movement and build. The ratings are used to determine the outcomes of vehicle-to-vehicle collisions in the game, with higher ratings indicating more severe damage. The chart also includes information on vehicles that require specialized skills to operate, such as tanks and aircraft carriers.",
+  "qa_pairs": [
+    {
+      "question": "What is the typical result of a 'car' collision in the text?",
+      "answer": "Collision with a standard car, lamp post or tree."
+    },
+    {
+      "question": "What type of collision is listed as 'hitting a cow or large deer'?",
+      "answer": "1D6 Build"
+    },
+    {
+      "question": "How many movement actions are allocated to each participant in setting up a chase?",
+      "answer": "Allocate each participant a number of movement actions."
+    },
+    {
+      "question": "What type of vehicle uses the Drive Auto skill?",
+      "answer": "The following vehicles use the Drive Auto skill."
+    },
+    {
+      "question": "What is the purpose of setting up a chase in the text?",
+      "answer": "To sum up, there are five steps for the Keeper to perform when setting up a chase:"
+    },
+    {
+      "question": "What skill do vehicles on the chart use?",
+      "answer": "Pilot"
+    },
+    {
+      "question": "Which vehicles on the chart require a substantial crew?",
+      "answer": "Many vehicles on the chart"
+    },
+    {
+      "question": "What skill might be substituted for Operate Heavy Machinery?",
+      "answer": "Operate Heavy Machinery might be substituted by the skill Operate Heavy Machinery"
+    },
+    {
+      "question": "What skill do vehicles like the Dirigible, Propeller plane, and Jet plane use?",
+      "answer": "Pilot"
+    },
+    {
+      "question": "What is the minimum number of passengers required to operate a 400-ton vehicle?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the armor value for passengers on deck?",
+      "answer": "The armor value is for those on deck."
+    },
+    {
+      "question": "What vehicles use the Pilot skill?",
+      "answer": "Vehicles on the following chart use the Pilot skill."
+    },
+    {
+      "question": "What type of vehicle requires specialist training to operate?",
+      "answer": "Vehicles on the following chart require specialist training to operate;"
+    },
+    {
+      "question": "How many people are required to operate a helicopter?",
+      "answer": "5 people"
+    },
+    {
+      "question": "What type of vehicle requires the Ride skill?",
+      "answer": "Other forms of transport"
+    },
+    {
+      "question": "How many people are required to operate a submarine?",
+      "answer": "0 people"
+    },
+    {
+      "question": "What is the minimum number of people required to operate a hovercraft?",
+      "answer": "1 person"
+    },
+    {
+      "question": "What does MOV represent?",
+      "answer": "A rating of the vehicle's speed and maneuverability in chases"
+    },
+    {
+      "question": "How does a vehicle's build rating work?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle's build by 1 point (round down)"
+    },
+    {
+      "question": "What is the effect of a vehicle's build rating being reduced to zero?",
+      "answer": "The vehicle is out of action"
+    },
+    {
+      "question": "How is a vehicle's build rating affected by damage below 10 hit points?",
+      "answer": "Damage below 10 hit points is ignored"
+    },
+    {
+      "question": "What happens to a vehicle's MOV rating for 1920s vehicles?",
+      "answer": "These ratings are reduced by around 20%"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, Chthonians are powerful, near-invulnerable creatures that can attack and drain the life force of their victims. They have two primary methods of attack: \"Hold and Drain\" (seizing tentacles) and \"Crush\" (using their immense bulk to crush a group). Chthonians are vulnerable to certain magical effects, such as the Vach-Viraj Chant and the Elder Sign, and can be repelled by total immersion in water. They also have a unique, sentient color that can feed on victims and leave a trail of radiation.",
+  "qa_pairs": [
+    {
+      "question": "How many times a chthonian can attack per round?",
+      "answer": "Once"
+    },
+    {
+      "question": "How does a chthonian's attack with tentacles work?",
+      "answer": "Each of which cause damage equal to half the creature\u2019s damage bonus (round down)."
+    },
+    {
+      "question": "How much damage does a chthonian's tentacles do to a target's CON each round?",
+      "answer": "3D10 CON"
+    },
+    {
+      "question": "What happens to a target if a chthonian's tentacles drain its CON to 0?",
+      "answer": "The victim dies"
+    },
+    {
+      "question": "Can a chthonian's tentacles drain one target while attacking another?",
+      "answer": "Yes, they could all attack the same one or each attack a different target"
+    },
+    {
+      "question": "How can a tentacle attack other targets while draining a victim?",
+      "answer": "It could still be used to fight-back, swinging the poor held victim like a ball on a chain at its attacker."
+    },
+    {
+      "question": "Can multiple tentacles attack different targets or the same one?",
+      "answer": "They could all attack the same one."
+    },
+    {
+      "question": "How does a chthonian determine the size of its crush area?",
+      "answer": "The crush area equals a diameter in yards of the chthonian\u2019s SIZ divided by fifty."
+    },
+    {
+      "question": "What is the effect of failing to dodge, jump, or succeed with DEX in the crush area?",
+      "answer": "An investigator must succeed with DEX, Dodge, or Jump, or lose hit points equal to the creature\u2019s full damage bonus."
+    },
+    {
+      "question": "Can a chthonian hold and drain victims within its crush area?",
+      "answer": "Yes, it can continue to hold and drain victims that are already caught."
+    },
+    {
+      "question": "What determines the size of the crush area on a chthonian?",
+      "answer": "The chthonian's SIZ divided by fifty"
+    },
+    {
+      "question": "How does the armor on a chthonian regenerate?",
+      "answer": "5 hit points per round after wounded, but ceases to work when below 1 hit point"
+    },
+    {
+      "question": "What is the required percentage to successfully dodge a chthonian's attack?",
+      "answer": "17% (8/3)"
+    },
+    {
+      "question": "What is the damage dealt by a chthonian's thrashing tentacles?",
+      "answer": "2D6 (damage)"
+    },
+    {
+      "question": "What is the damage bonus of a chthonian's bulk, group attack?",
+      "answer": "damage bonus (bulk, group)"
+    },
+    {
+      "question": "What are the purported vulnerabilities of Cthonians according to the text?",
+      "answer": "The Vach-Viraj Chant, the Elder Sign, and total immersion in a body of water."
+    },
+    {
+      "question": "What is a colour in the context of the text?",
+      "answer": "A sentient organism that manifests as pure colour."
+    },
+    {
+      "question": "How does the colour move when it is present?",
+      "answer": "As an amorphous, glistening patch of colour, rolling and shining in shades of its pale colours."
+    },
+    {
+      "question": "What happens to a victim's skin and face when a colour feeds?",
+      "answer": "They glow with the colour."
+    },
+    {
+      "question": "What is the effect of the shaft of phosphorescence from the well on the characters?",
+      "answer": "It brings a sense of doom and abnormality."
+    },
+    {
+      "question": "What is the appearance of the entity when it moves?",
+      "answer": "an amorphous, glistening patch of colour"
+    },
+    {
+      "question": "How does the entity's presence affect Geiger counters?",
+      "answer": "a distinctive burst of radiation"
+    },
+    {
+      "question": "What happens to the victim's skin and face when the entity feeds?",
+      "answer": "they glow with the colour"
+    },
+    {
+      "question": "Can the entity be detected using today's light-intensification gear?",
+      "answer": "yes, it shows as a bright patch of lumin"
+    },
+    {
+      "question": "Is the entity visible or incorporeal?",
+      "answer": "incorporeal"
+    }
+  ]
+}

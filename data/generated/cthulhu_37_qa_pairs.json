@@ -1,0 +1,85 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines various occupations in a fictional setting, with each occupation having its own set of skills, credit ratings, and occupation skill points. The occupations are categorized into three groups: Entertainer, Farmer, and others, with each group having different skill requirements and credit ratings. The occupation skill points are calculated based on the individual's education level and one of two skills: Dexterity (DEX) or Strength (STR). The credit ratings range from 0 to 80, with higher ratings indicating better job prospects.",
+  "qa_pairs": [
+    {
+      "question": "What are the required skill combinations for a FARMER occupation?",
+      "answer": "DEX \u00d7 2 or STR \u00d7 2"
+    },
+    {
+      "question": "What is the required skill combination for an ENTERTAINER occupation?",
+      "answer": "EDU \u00d7 2 + APP \u00d7 2"
+    },
+    {
+      "question": "What is the required skill combination for a FARMER occupation (alternative)?",
+      "answer": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+    },
+    {
+      "question": "What is the minimum Credit Rating for a FARMER occupation?",
+      "answer": "9\u201330"
+    },
+    {
+      "question": "What is the minimum Credit Rating for an ENTERTAINER occupation?",
+      "answer": "9-70"
+    },
+    {
+      "question": "What is the minimum Credit Rating for a FARMER occupation?",
+      "answer": "9\u201330"
+    },
+    {
+      "question": "What skills are required for a Hacker job?",
+      "answer": "Computer Use, Electrical Repair, Electronics, Library Use, Spot Hidden, one interpersonal skill"
+    },
+    {
+      "question": "What is the possible credit rating range for a Journalist job?",
+      "answer": "9\u201330"
+    },
+    {
+      "question": "What are the occupation skill points for a Journalist job?",
+      "answer": "EDU \u00d7 4"
+    },
+    {
+      "question": "What are the occupation skill points for a Lawyer job?",
+      "answer": "EDU \u00d7 4"
+    },
+    {
+      "question": "What are the occupation skill points for a Librarian job?",
+      "answer": "EDU \u00d7 4"
+    },
+    {
+      "question": "What skills are required for a Librarian job?",
+      "answer": "Accounting, Library Use, Other Language, Own Language"
+    },
+    {
+      "question": "What are the possible interpersonal skills for a MILITARY OFFICER?",
+      "answer": "Charm, Fast Talk, Intimidate, or Persuade"
+    },
+    {
+      "question": "What is the occupation skill points formula for a MILITARY OFFICER?",
+      "answer": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+    },
+    {
+      "question": "What is the maximum possible occupation skill points for a MILITARY OFFICER?",
+      "answer": "70"
+    },
+    {
+      "question": "What are the possible occupation skill points for a MUSICIAN?",
+      "answer": "EDU \u00d7 2 + either DEX \u00d7 2 or POW \u00d7 2"
+    },
+    {
+      "question": "What are the possible occupation skill points for a PARAPSYCHOLOGIST?",
+      "answer": "EDU \u00d7 4"
+    },
+    {
+      "question": "What are the possible occupation skill points for a PILOT?",
+      "answer": "EDU \u00d7 4"
+    },
+    {
+      "question": "What is the possible range for occupation skill points?",
+      "answer": "20\u201370"
+    },
+    {
+      "question": "How are occupation skill points calculated?",
+      "answer": "EDU \u00d7 2 + DEX"
+    }
+  ]
+}

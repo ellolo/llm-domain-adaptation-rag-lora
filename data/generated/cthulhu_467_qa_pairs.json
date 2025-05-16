@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a character sheet for a fictional game or story, specifically detailing the characteristics and abilities of three individuals: Hector and Carla Fademan, Wick's assistants, and Doctor John Wheatcroft, a physician. The main topic is the Cthulhu Mythos, a fictional universe of horror and the supernatural, and the characters' skills and abilities are tailored to this theme. The characters' stats and skills are presented in a format similar to tabletop role-playing games, with attributes such as CON, STR, and INT, as well as skills like Fighting, Cthulhu Mythos, and Library Use. The document also describes a malevolent monster known as the Horror, with its own unique abilities and characteristics.",
+  "qa_pairs": [
+    {
+      "question": "What percentage of the character's Constitution score is CON 80?",
+      "answer": "80%"
+    },
+    {
+      "question": "What is the character's Strength score, represented as STR 75?",
+      "answer": "75"
+    },
+    {
+      "question": "What is the character's Agility score, represented as DEX 55?",
+      "answer": "55"
+    },
+    {
+      "question": "What is the character's Sanity score, represented as SAN 0?",
+      "answer": "0"
+    },
+    {
+      "question": "What is the character's Speed, represented by Move 8?",
+      "answer": "8"
+    },
+    {
+      "question": "What is the character's Intelligence score, represented as INT 45?",
+      "answer": "45"
+    },
+    {
+      "question": "What is the character's Health Points, represented as HP 14?",
+      "answer": "14"
+    },
+    {
+      "question": "What is the damage bonus of the Hunting Knife, represented by damage 1D6 + damage bonus?",
+      "answer": "+1D4"
+    },
+    {
+      "question": "What is the character's Dodge percentage, represented by Dodge 35% (17/7)?",
+      "answer": "35%"
+    },
+    {
+      "question": "What is the Sanity Loss for seeing Hector and Carla up-close?",
+      "answer": "0/1D4"
+    },
+    {
+      "question": "What is Doctor John Wheatcroft's Strength stat?",
+      "answer": "40"
+    },
+    {
+      "question": "What is the Size stat of the Horror?",
+      "answer": "130"
+    },
+    {
+      "question": "What is the Horror's Damage Bonus stat?",
+      "answer": "+2D6"
+    },
+    {
+      "question": "What is the Magic Points stat of the Horror?",
+      "answer": "30"
+    },
+    {
+      "question": "What is Doctor John Wheatcroft's Constitution stat?",
+      "answer": "300"
+    },
+    {
+      "question": "What is the Horror's Size bonus stat?",
+      "answer": "+3"
+    },
+    {
+      "question": "What is the Horror's Damage Points stat?",
+      "answer": "43*"
+    },
+    {
+      "question": "What is the fighting attack's damage?",
+      "answer": "1D4 damage"
+    },
+    {
+      "question": "What happens to the target's life after a fighting attack?",
+      "answer": "It drains 1D10 CON and STR per attack"
+    },
+    {
+      "question": "What happens when the Horror is fully manifested?",
+      "answer": "It will attempt to seize and embrace its victim"
+    },
+    {
+      "question": "What does the Horror use to stare into the victim's eyes?",
+      "answer": "Soul Burn"
+    },
+    {
+      "question": "How many attacks does the Horror have per round?",
+      "answer": "2 attacks per round"
+    },
+    {
+      "question": "What happens if the target survives a fighting attack?",
+      "answer": "They will recover the lost CON and STR at the rate of 1D10 per day"
+    },
+    {
+      "question": "What is the effect of Soul Burn on the target?",
+      "answer": "The target must succeed in an unnamed test"
+    },
+    {
+      "question": "What happens to the target if they fail the test?",
+      "answer": "This is not stated in the text"
+    }
+  ]
+}

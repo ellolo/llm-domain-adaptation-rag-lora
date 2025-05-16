@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nFlying polyps are a type of monster that can attack with their tentacles or use wind-based attacks. They have a 70% chance of knowing spells, which can be used to damage their targets. Polyps can use various wind-based attacks, including Wind Blast, Fixing Attack, and Windstorm Attack, each with its own unique effects and limitations. These attacks can be used to damage and immobilize their targets, and the polyps can also move quickly and chase down their prey. The attacks and abilities of flying polyps are influenced by their physical and magical attributes, such as their strength, magic points, and power.",
+  "qa_pairs": [
+    {
+      "question": "What happens when a polyp is invisible?",
+      "answer": "It does not attack with its tentacles."
+    },
+    {
+      "question": "What is the chance of a polyp knowing 1D10 spells?",
+      "answer": "70%."
+    },
+    {
+      "question": "What is the average damage bonus for Wind Blast?",
+      "answer": "+5D6."
+    },
+    {
+      "question": "What is the average magic points for a polyp?",
+      "answer": "16."
+    },
+    {
+      "question": "How many tentacles can form in a round?",
+      "answer": "2D6."
+    },
+    {
+      "question": "What happens to polypoid wind tentacles when they damage a target?",
+      "answer": "They damage a target's hit points, ignoring any body armor."
+    },
+    {
+      "question": "What is the damage type of a polypoid wind tentacle to a target?",
+      "answer": "1D10"
+    },
+    {
+      "question": "How does the damage from a polypoid wind tentacle wound manifest?",
+      "answer": "As a windburn or desiccation of tissue."
+    },
+    {
+      "question": "Is the nature of a polypoid wind tentacle partially nonmaterial?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does tentacle damage ignore body armor?",
+      "answer": "Yes"
+    },
+    {
+      "question": "How does tentacle damage affect targets?",
+      "answer": "Tentacle damage is done directly to the target\u2019s hit points, ignoring any body armor."
+    },
+    {
+      "question": "What is the effect of the wind blast on targets?",
+      "answer": "Victims of the wind blast literally have their flesh stripped from their bones and their skin dehydrated and wind-burned."
+    },
+    {
+      "question": "What is the range of the wind blast?",
+      "answer": "The wind blast has a base range of 20 yards."
+    },
+    {
+      "question": "How does the damage of the wind blast decrease with distance?",
+      "answer": "The cylindrical blast can extend further than 20 yards, but loses 1D6 damage for each multiple of the base distance."
+    },
+    {
+      "question": "What is the effect on targets when they are at a certain distance from the polyp?",
+      "answer": "Targets of the wind blast are blown backwards for a number of yards equal to the hit points they have lost."
+    },
+    {
+      "question": "What is the form of a wound caused by the wind attack?",
+      "answer": "a windburn or desiccation of tissue."
+    },
+    {
+      "question": "How much damage the wind blast loses for each multiple of the base distance?",
+      "answer": "1D6 damage"
+    },
+    {
+      "question": "What happens to the victims of the wind blast?",
+      "answer": "Their flesh is stripped from their bones, their skin is dehydrated and wind-burned, and they are blown backwards."
+    },
+    {
+      "question": "What is the range of the wind blast when using the Fixing Attack mode?",
+      "answer": "1,000 yards"
+    },
+    {
+      "question": "How much damage the cylindrical blast loses when it extends further than its base distance?",
+      "answer": "1D6 damage for each multiple of the base distance"
+    },
+    {
+      "question": "What happens to the victims of the wind blast?",
+      "answer": "Their flesh is stripped from their bones, their skin is dehydrated and wind-burned, and they are blown backwards for a number of yards equal to the hit points they have lost."
+    },
+    {
+      "question": "What is the range of the wind attack in Fixing Attack mode?",
+      "answer": "1,000 yards"
+    }
+  ]
+}

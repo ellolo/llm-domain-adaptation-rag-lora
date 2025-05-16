@@ -1,0 +1,69 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, First Aid and Medicine skills are used to treat injuries and stabilize dying characters. First Aid can be attempted once to grant 1 hit point recovery, while Medicine can be used to recover more hit points, but with increased difficulty if not performed on the same day. A dying character must be stabilized with First Aid, followed by Medicine, and then a recovery roll is made after a week of rest. The character's condition can deteriorate if they fail to recover, requiring further treatment.",
+  "qa_pairs": [
+    {
+      "question": "What happens if First Aid is administered within one hour?",
+      "answer": "It grants 1 hit point recovery."
+    },
+    {
+      "question": "Can First Aid be administered by a single character, or does it require two people?",
+      "answer": "Two people can work together to administer First Aid."
+    },
+    {
+      "question": "What is the minimum time required to treat injuries using the Medicine skill?",
+      "answer": "one hour"
+    },
+    {
+      "question": "What happens if Medicine is not performed on the same day as damage is taken?",
+      "answer": "The difficulty level is increased (requiring a Hard success)"
+    },
+    {
+      "question": "Under what conditions can an exception be made when treating a dying character?",
+      "answer": "When treating a dying character, the best that can be achieved with First Aid is to temporarily stabilize the patient."
+    },
+    {
+      "question": "What happens to a character's hit points and a Major Wound after being reduced to zero?",
+      "answer": "A character is dying when their hit points are reduced to zero and they have also sustained a Major Wound."
+    },
+    {
+      "question": "What happens if this is not performed on the same day?",
+      "answer": "The difficulty level is increased (requiring a Hard success)."
+    },
+    {
+      "question": "What is required to stabilize a dying character?",
+      "answer": "Only the First Aid skill can be used."
+    },
+    {
+      "question": "What happens if a character fails a CON roll at the end of a round after being stabilized with First Aid?",
+      "answer": "They lose the temporary hit point and revert to the start of the Dying process"
+    },
+    {
+      "question": "What skill can be used to stabilize a dying character in Call of Cthulhu?",
+      "answer": "The First Aid skill"
+    },
+    {
+      "question": "What happens if a dying character fails a CON roll after being stabilized with First Aid?",
+      "answer": "They lose the temporary hit point and revert to the start of the Dying process."
+    },
+    {
+      "question": "How does a successful Medicine roll affect a dying character's hit points?",
+      "answer": "It increases hit points by 1D3."
+    },
+    {
+      "question": "What happens to a character's hit points after a successful Medicine roll?",
+      "answer": "Increase hit points by 1D3."
+    },
+    {
+      "question": "What happens to a character's hit points after a recovery roll?",
+      "answer": "Increase hit points by 1D3."
+    },
+    {
+      "question": "How many hit points does Harvey gain immediately after receiving medical assistance?",
+      "answer": "2"
+    },
+    {
+      "question": "How long does Harvey need to rest to recover from regular damage?",
+      "answer": "A week"
+    }
+  ]
+}

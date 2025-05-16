@@ -1,0 +1,117 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a ruleset for the Call of Cthulhu tabletop role-playing game, specifically detailing mechanics for combat and firearms attacks. The document explains how to resolve fighting maneuvers, including the use of armor and the resolution of firearms attacks, which involve rolling a 1D100 and comparing the result to the attacker's relevant skill. The document also outlines modifiers that can be applied to firearms attacks, such as diving for cover, which can grant or impose penalty dice. Additionally, it provides examples of armor and firearms, including their respective difficulty levels and potential modifiers.",
+  "qa_pairs": [
+    {
+      "question": "What action does Harvey take to get rid of the cultist?",
+      "answer": "He pushes the cultist in front of the train using the briefcase."
+    },
+    {
+      "question": "What is the result of Harvey's Fighting (Brawl) skill roll?",
+      "answer": "A Hard success, with a roll of 08."
+    },
+    {
+      "question": "What is the result of the cultist's Fighting (Brawl) skill roll?",
+      "answer": "A Regular success, with a roll of 23."
+    },
+    {
+      "question": "What effect does Harvey's lower Build have on his Fighting (Brawl) skill roll?",
+      "answer": "He takes one penalty die, which cancels out the bonus die awarded by the Keeper."
+    },
+    {
+      "question": "What cancels out the bonus die awarded by the Keeper?",
+      "answer": "This cancels out the bonus die awarded by the Keeper."
+    },
+    {
+      "question": "What was rolled for Harvey\u2019s Fighting (Brawl) skill\u2014a Hard success?",
+      "answer": "08"
+    },
+    {
+      "question": "What was rolled for the cultist\u2019s Fighting (Brawl) skill\u2014a Regular success?",
+      "answer": "23"
+    },
+    {
+      "question": "What is a 5-point armor example?",
+      "answer": "5 points"
+    },
+    {
+      "question": "What is the total damage Harvey inflicts on the deep one?",
+      "answer": "4"
+    },
+    {
+      "question": "How much natural armor does the deep one have?",
+      "answer": "1"
+    },
+    {
+      "question": "Who wrote the passage about firearms?",
+      "answer": "H. P. Lovecraft"
+    },
+    {
+      "question": "What is the method to resolve a firearms attack?",
+      "answer": "Make a 1D100 roll and compare the result with the attacker's Firearms skill"
+    },
+    {
+      "question": "What is the total damage of Harvey's strike?",
+      "answer": "4"
+    },
+    {
+      "question": "Who wrote the statement about being not a murderer?",
+      "answer": "H. P. Lovecraft"
+    },
+    {
+      "question": "How does a firearms attack roll compare to the attacker's Firearms skill?",
+      "answer": "Roll and compare the result with the attacker's Firearms skill"
+    },
+    {
+      "question": "What is the DEX order priority for firearms attacks?",
+      "answer": "DEX + 50"
+    },
+    {
+      "question": "What determines the difficulty level of a firearms skill roll?",
+      "answer": "The range of the firearms skill roll"
+    },
+    {
+      "question": "What happens to a roll at very long range if it's not an Extreme success?",
+      "answer": "An impale occurs"
+    },
+    {
+      "question": "How does the difficulty level change for a firearms skill roll at long range?",
+      "answer": "It increases by one step"
+    },
+    {
+      "question": "What is required for an impale to occur at very long range?",
+      "answer": "A critical hit (roll of 01)"
+    },
+    {
+      "question": "What is the difficulty level for firearms within the base range?",
+      "answer": "Regular difficulty level."
+    },
+    {
+      "question": "How does the difficulty level change when the range is doubled?",
+      "answer": "Increases by one step."
+    },
+    {
+      "question": "What is the condition for an impale to occur at very long range?",
+      "answer": "Only with a critical hit (a roll of 01)."
+    },
+    {
+      "question": "How do modifiers affect the difficulty level of a firearms attack?",
+      "answer": "Either a bonus die or a penalty die are used."
+    },
+    {
+      "question": "What is the base range difficulty level for firearms attacks in Call of Cthulhu?",
+      "answer": "Regular"
+    },
+    {
+      "question": "What is the difficulty level for a firearms attack at long range in Call of Cthulhu?",
+      "answer": "Hard"
+    },
+    {
+      "question": "What is the maximum range for an Extreme difficulty level in Call of Cthulhu?",
+      "answer": "Four times the base range"
+    },
+    {
+      "question": "What is the condition for an impale to occur at very long range in Call of Cthulhu?",
+      "answer": "A critical hit (a roll of 01) is required when only an Extreme success will hit the target"
+    }
+  ]
+}

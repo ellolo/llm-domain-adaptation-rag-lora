@@ -1,0 +1,73 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the 7th edition of Call of Cthulhu, the game's mechanics have been updated to unify characteristics and skills, making it easier to compare and calculate rolls. The decision was made to separate Luck from POW, as POW is significant elsewhere in the game, and to roll Luck randomly (3D6 x 5). Additionally, the game's characteristic system has been revised, with the STR, DEX, CON, SIZ, APP, INT, POW, and EDU characteristics now providing one-fifth values, which can be multiplied by five and divided by two to calculate full values.",
+  "qa_pairs": [
+    {
+      "question": "What is the main goal of unifying characteristics and skills?",
+      "answer": "to make it easier to compare and make opposed rolls using a mixture of skills and characteristics"
+    },
+    {
+      "question": "Why was Luck divorced from POW?",
+      "answer": "since the latter is of great significance elsewhere in the game"
+    },
+    {
+      "question": "What is the main intention behind the new system?",
+      "answer": "The intention is to make it easier to compare and make opposed rolls using a mixture of skills and characteristics."
+    },
+    {
+      "question": "How is Luck currently handled in the game?",
+      "answer": "Luck is now rolled randomly (3D6 x 5)."
+    },
+    {
+      "question": "How is Occupational Skill Points generated in the new system?",
+      "answer": "EDU is no longer the only characteristic used to generate Occupational Skill Points."
+    },
+    {
+      "question": "What is the current method of rolling Luck?",
+      "answer": "Luck is now rolled randomly (3D6 x 5)."
+    },
+    {
+      "question": "Why did the developers decide against associating a characteristic with each skill?",
+      "answer": "The developers decided against this approach for three reasons."
+    },
+    {
+      "question": "What is the recommended conversion factor for characteristics in the game?",
+      "answer": "Divided by 5"
+    },
+    {
+      "question": "Why were the original ideas to link base skill in Charm to Appearances and Dodge to DEX not used?",
+      "answer": "Three reasons: using characteristic values introduces additional work during investigator creation, the benefit of using one-fifth of the characteristic did not seem significant enough to justify the added complication, and the characteristics feed into skill points to a limited degree."
+    },
+    {
+      "question": "What is the characteristic used to calculate skill points?",
+      "answer": "A variety of characteristics are used to calculate skill points, depending on your investigator\u2019s chosen occupation."
+    },
+    {
+      "question": "How do you get the full value of a characteristic?",
+      "answer": "Multiply the one-fifth value by five for the full value."
+    },
+    {
+      "question": "What are the possible values for the characteristic 'Characteristic'?",
+      "answer": "15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100"
+    },
+    {
+      "question": "How do you calculate the full value of a characteristic divided by 5?",
+      "answer": "Multiply the one-fifth value by 5 for the full value."
+    },
+    {
+      "question": "What is the process for calculating the one-half value of Luck points and hit points?",
+      "answer": "Multiply these by five for the full values and divide this new value by two, rounding down, for the one-half value."
+    },
+    {
+      "question": "How do Damage Bonus and Build change in 7th Edition compared to 6th and 5th editions?",
+      "answer": "Lower damage bonuses have been changed in 7th Edition."
+    },
+    {
+      "question": "What is the purpose of the SAN characteristic in the game?",
+      "answer": "The SAN characteristic served only to set starting Sanity points."
+    },
+    {
+      "question": "How are hit points calculated in 7th Edition?",
+      "answer": "In 7th Edition, hit points are derived by adding CON + SIZ and dividing by 10, rounding down."
+    }
+  ]
+}

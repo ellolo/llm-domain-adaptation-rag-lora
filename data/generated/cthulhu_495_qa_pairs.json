@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines various types of firearms and their characteristics in a fantasy setting. It describes the damage radius, firing rates, and special abilities of different guns, such as assault rifles, shotguns, and chainsaws. The document also notes the limitations and risks associated with certain firearms, including the use of chainsaws, which can cause severe damage to the user. Additionally, it provides information on the effectiveness of firearms against different types of targets, including humans and non-human opponents.",
+  "qa_pairs": [
+    {
+      "question": "What is the damage radius of the explosion in yards?",
+      "answer": "2 yards, 3 yards, etc."
+    },
+    {
+      "question": "What happens to the damage when the range is double or triple?",
+      "answer": "The damage is halved at double the range and quartered at triple the range."
+    },
+    {
+      "question": "Can assault rifles be used for burst or full auto firing?",
+      "answer": "No, Assault Rifle: Use Rifle/Shotgun skill when firing single shot; use Submachine skill when firing burst or full auto."
+    },
+    {
+      "question": "What type of skill is required for burst or full auto firing?",
+      "answer": "Submachine skill is required for burst or full auto firing."
+    },
+    {
+      "question": "Can automatic weapons be switched to fire burst or full auto?",
+      "answer": "Some automatic weapons can be switched to fire burst or full auto; such firearms are usually unavailable to civilians; prices reflect black-market."
+    },
+    {
+      "question": "What is the effect on damage when the range of an explosion is up to double the original range?",
+      "answer": "The damage is halved."
+    },
+    {
+      "question": "What happens when a chainsaw malfunctions?",
+      "answer": "The engine stalls or the chain jams or becomes displaced."
+    },
+    {
+      "question": "How much damage does a major wound from a chainsaw cause?",
+      "answer": "It severs a random limb."
+    },
+    {
+      "question": "How much damage a dynamite stick and a hand grenade deliver to those within 3 yards?",
+      "answer": "Each delivers 4D10 damage."
+    },
+    {
+      "question": "How much damage a hand grenade delivers to those within 6 yards?",
+      "answer": "It delivers 2D10 damage."
+    },
+    {
+      "question": "What happens if a chainsaw hits the user's body?",
+      "answer": "The chain connects with the user's body (2D8 damage)"
+    },
+    {
+      "question": "How much damage does a dynamite stick and a hand grenade deliver to those within 3 yards?",
+      "answer": "Each delivers 4D10 damage to those within 3 yards"
+    },
+    {
+      "question": "What is the damage per round for the Garrote attack?",
+      "answer": "1D6 damage per round"
+    },
+    {
+      "question": "What is required to hand-fire a GE Mini-Gun?",
+      "answer": "A minimum Build 2"
+    },
+    {
+      "question": "How many shots can a handgun fire per round with the penalty die?",
+      "answer": "One shot per round, with one penalty die"
+    },
+    {
+      "question": "What does the maximum number of shots in one round denote?",
+      "answer": "Number in brackets denotes maximum number of shots that may be fired in one round."
+    },
+    {
+      "question": "What is the LAW weapon used for?",
+      "answer": "LAW: Light Antitank Weapon, disposable."
+    },
+    {
+      "question": "Under what conditions can Mace spray be used?",
+      "answer": "Mace spray: Do not use the point-blank range rule for this weapon."
+    },
+    {
+      "question": "How do most rifles except the .45 Martini-Henry Rifle and Col. Moran\u2019s Air Rifle fire?",
+      "answer": "Most rifles except .45 Martini-Henry Rifle and Col. Moran\u2019s Air Rifle fire 1 shot per round."
+    },
+    {
+      "question": "What is a characteristic of assault rifles?",
+      "answer": "Assault rifles have a fire selector allowing for single shots or 3-round burst or full automatic fire."
+    },
+    {
+      "question": "What reloading takes time?",
+      "answer": "Reloading"
+    },
+    {
+      "question": "What fire mode does an assault rifle allow for?",
+      "answer": "Single shots, 3-round burst, or full automatic fire"
+    },
+    {
+      "question": "Can shotguns impale targets?",
+      "answer": "No, shotguns cannot impale targets"
+    },
+    {
+      "question": "What damage can a shotgun blast at close range do?",
+      "answer": "24 damage"
+    },
+    {
+      "question": "What is the effect of a Taser on stunned targets?",
+      "answer": "Incapsitated for 1D6 rounds"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nAtlach-Nacha, the Spider God, is a formidable foe in the game, capable of entangling and paralyzing victims with its web. Its attacks, including a paralyzing bite and web-slinging, can be devastating, and its ability to regenerate from damage makes it a resilient opponent. In contrast, Abhoth, a source of uncleanness, is an even more powerful and malevolent entity, capable of wrestling and absorbing victims, and regenerating from damage at an accelerated rate. Both creatures are formidable opponents that require careful strategy and tactics to defeat.",
+  "qa_pairs": [
+    {
+      "question": "What is the STR value of Atlach-Nacha?",
+      "answer": "STR 150"
+    },
+    {
+      "question": "What is the attack bonus of Atlach-Nacha?",
+      "answer": "+2D6"
+    },
+    {
+      "question": "What is the SIZ value of Atlach-Nacha?",
+      "answer": "SIZ 125"
+    },
+    {
+      "question": "What is the movement value of Atlach-Nacha?",
+      "answer": "Move: 15"
+    },
+    {
+      "question": "What is the damage bonus for Atlach-Nacha?",
+      "answer": "+2D6"
+    },
+    {
+      "question": "What is Atlach-Nacha's STR value?",
+      "answer": "150"
+    },
+    {
+      "question": "How many attacks per round can Atlach-Nacha make?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the STR value of the web Atlach-Nacha can cast?",
+      "answer": "150"
+    },
+    {
+      "question": "What happens if both rolls are successful in the Cast web action?",
+      "answer": "The poison has been resisted."
+    },
+    {
+      "question": "How much damage can be dealt by a successful bite attack?",
+      "answer": "30 points of damage"
+    },
+    {
+      "question": "What happens to the target if it reaches zero hit points?",
+      "answer": "It flees across its complex web to a secret lair where it heals."
+    },
+    {
+      "question": "What is the required roll to break out of the Cast web action?",
+      "answer": "An opposed STR roll versus the web's STR 150"
+    },
+    {
+      "question": "What is the required STR roll to break out?",
+      "answer": "150"
+    },
+    {
+      "question": "What is the damage bonus for Abhoth?",
+      "answer": "+6D6"
+    },
+    {
+      "question": "What is the Sanity cost to see Atlach-Nacha?",
+      "answer": "1/1D10 Sanity points"
+    },
+    {
+      "question": "What is the damage bonus of Abhoth's attacks?",
+      "answer": "+6D6, but only 1D6 per pseudopod"
+    },
+    {
+      "question": "What is the number of attacks Abhoth can make per round?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the number of Fighting attacks Abhoth can make per round?",
+      "answer": "Abhoth will wrestle and seize using his append-ages. If successful, he seizes and absorbs his victim\u2014whether the victim is digested slowly or assimilated telepathically is not known."
+    },
+    {
+      "question": "What happens if Abhoth is reduced to 0 hit points?",
+      "answer": "Abhoth withdraws and sinks far away down into the earth"
+    },
+    {
+      "question": "What is Abhoth's armor against kinetic damage?",
+      "answer": "20 points per combat round"
+    },
+    {
+      "question": "What is Abhoth's fighting attacks percentage?",
+      "answer": "60% (30/12)"
+    },
+    {
+      "question": "How much damage does Abhoth regenerate from at the rate of 20 points per combat round?",
+      "answer": "All kinetic damage"
+    },
+    {
+      "question": "What will cause normal damage to Abhoth?",
+      "answer": "Fire or magic"
+    },
+    {
+      "question": "What happens to Abhoth if it is reduced to 0 hit points?",
+      "answer": "It withdraws and sinks far away down into the earth"
+    },
+    {
+      "question": "Does Abhoth require any spells to function?",
+      "answer": "No, it may have some effect from spells"
+    },
+    {
+      "question": "What does Abhoth do after healing from its injuries?",
+      "answer": "It oozes toward the surface"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this game system, the Keeper sets the difficulty level for challenges, using levels such as Regular, Hard, and Extreme, depending on the situation. The Keeper should frame situations in a way that allows the player to roll dice, rather than rolling them themselves. When the player rolls dice, success or failure is determined by the Keeper, with the Keeper using the player's skill levels to set the target number. The Keeper's role is to interpret the outcome of the roll and adjust the story accordingly, while the player is encouraged to describe the outcome of a successful roll.",
+  "qa_pairs": [
+    {
+      "question": "What is the name of the difficulty level used when the challenge is beyond Regular difficulty?",
+      "answer": "Hard"
+    },
+    {
+      "question": "What is the name of the difficulty level used when the challenge is exceptionally difficult but within humanly possible limits?",
+      "answer": "Extreme"
+    },
+    {
+      "question": "What is the term used for challenges that are within the bounds of what is humanly possible?",
+      "answer": "within the bounds of what is humanly possible"
+    },
+    {
+      "question": "What is the term used for challenges that are clearly beyond Regular difficulty?",
+      "answer": "beyond Regular difficulty"
+    },
+    {
+      "question": "What is the Keeper's alternative difficulty level when the challenge is beyond Regular difficulty?",
+      "answer": "Hard difficulty level"
+    },
+    {
+      "question": "What is the Keeper's alternative difficulty level when the challenge is exceptionally difficult but still within humanly possible?",
+      "answer": "Extreme difficulty level"
+    },
+    {
+      "question": "When should the Keeper roll the dice?",
+      "answer": "Never; players should roll the dice more often"
+    },
+    {
+      "question": "How should the Keeper set the difficulty level when a player is attempting to use their Stealth skill to follow a non-player character?",
+      "answer": "Using the non-player character's Spot Hidden skill"
+    },
+    {
+      "question": "When a player uses the Stealth skill, what skill does the Keeper use to set the difficulty level?",
+      "answer": "the non-player character\u2019s Spot Hidden skill"
+    },
+    {
+      "question": "When a player uses the non-player character's Stealth skill, what skill does the Keeper use to set the difficulty level?",
+      "answer": "the non-player character\u2019s Stealth skill"
+    },
+    {
+      "question": "When should the players roll the dice?",
+      "answer": "when it\u2019s a moment of tension"
+    },
+    {
+      "question": "What should the players not roll the dice for?",
+      "answer": "when characters undertake mundane and everyday tasks"
+    },
+    {
+      "question": "What happens if the player rolls the dice during a moment of tension?",
+      "answer": "The Keeper uses the result to set the difficulty level."
+    },
+    {
+      "question": "How does the Keeper determine the difficulty level?",
+      "answer": "The Keeper uses the non-player character's Stealth skill."
+    },
+    {
+      "question": "What determines success or failure in a dice roll?",
+      "answer": "The dice roll is equal to or below the required number."
+    },
+    {
+      "question": "What happens if the dice roll is below a half or a fifth of the specified skill?",
+      "answer": "The goal will not necessarily be performed to a higher standard."
+    },
+    {
+      "question": "What is the condition for achieving the goal?",
+      "answer": "If the dice roll is equal to or below the required number"
+    },
+    {
+      "question": "What is a condition that does not necessarily require a higher standard?",
+      "answer": "If the dice roll is below a half or a fifth of the specified skill"
+    },
+    {
+      "question": "What happens when the player's investigator achieves the goal?",
+      "answer": "Their investigator has achieved the goal that was set and agreed before the roll"
+    },
+    {
+      "question": "What is the role of the Keeper in describing the outcome of a successful roll?",
+      "answer": "To moderate the outcome, and be involved in describing the outcome"
+    },
+    {
+      "question": "What is the role of the Keeper in the game?",
+      "answer": "The Keeper is involved in moderating the outcome of a successful roll."
+    },
+    {
+      "question": "What is the difficulty level to hit the shambling monster?",
+      "answer": "The difficulty level to hit it will be hard, given it has a Dodge skill of 60."
+    },
+    {
+      "question": "How does the player describe the outcome of a successful roll?",
+      "answer": "The player describes the scene, including actions of non-player characters and the environment."
+    },
+    {
+      "question": "What is the outcome of the player's roll against the difficulty level?",
+      "answer": "The player rolls less than half of her investigator\u2019s Drive Auto skill\u2014a success!"
+    },
+    {
+      "question": "What is the initial goal of the player in this scenario?",
+      "answer": "The player's goal was to hit the monster with the car."
+    },
+    {
+      "question": "What happens to the monster after the player hits it with the car?",
+      "answer": "There is no sign of a body; the thing you hit with your car is nowhere to be seen."
+    },
+    {
+      "question": "What does the Keeper slightly alter after the player's statement?",
+      "answer": "The Keeper slightly alters what the player has said to indicate the monster is not dead."
+    },
+    {
+      "question": "What is the Keeper referring to in this scenario?",
+      "answer": "The Keeper is referring to Other Forms of Damage on page [insert page number]."
+    }
+  ]
+}

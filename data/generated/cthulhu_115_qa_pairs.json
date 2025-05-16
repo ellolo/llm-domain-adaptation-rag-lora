@@ -1,0 +1,117 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop game, combat is resolved through a combination of skill rolls, dice rolls, and the attacker's and defender's abilities. Ranged and thrown attacks are treated similarly to firearms, with the attacker needing to be within a certain distance of the defender to engage. Armor can reduce damage inflicted, but not magical attacks, and surprise attacks can automatically hit or gain a bonus die. Additionally, when a character is outnumbered, they gain a bonus die on subsequent attacks, and characters can dodge or fight back multiple times before the bonus die is applied.",
+  "qa_pairs": [
+    {
+      "question": "What type of attacks are treated like firearms?",
+      "answer": "Ranged missile attacks"
+    },
+    {
+      "question": "What skill is used to oppose thrown weapons?",
+      "answer": "Dodge skill"
+    },
+    {
+      "question": "Under what condition can a character fight back against a thrown or missile attack?",
+      "answer": "Within one-fifth of the attacker's DEX in feet"
+    },
+    {
+      "question": "Do half of the attacker's damage bonus apply to crossbows?",
+      "answer": "No, crossbows are not affected"
+    },
+    {
+      "question": "Can a character flee melee combat?",
+      "answer": "Yes, a character can use their action to flee melee combat on their turn in the order of combat, as long as they have an escape route and are not physically restrained."
+    },
+    {
+      "question": "How does armor affect damage received?",
+      "answer": "Armor reduces damage received, deducting the number of armor points from damage inflicted by attacks passing through the armor."
+    },
+    {
+      "question": "What type of attacks are not reduced by armor?",
+      "answer": "Magical attacks, poison, drowning, etc. are not reduced by armor."
+    },
+    {
+      "question": "What happens if a character hits someone on the head from the rear?",
+      "answer": "Hitting someone on the head from the rear would automatically succeed, unless fumbled."
+    },
+    {
+      "question": "What does armor reduce?",
+      "answer": "damage received"
+    },
+    {
+      "question": "What types of attacks are not reduced by armor?",
+      "answer": "magical attacks"
+    },
+    {
+      "question": "What happens when attacking someone on the head from the rear?",
+      "answer": "automatically succeeds"
+    },
+    {
+      "question": "Who decides when dice rolls are called for?",
+      "answer": "the Keeper"
+    },
+    {
+      "question": "What happens if a character attacks an unseen target from the rear?",
+      "answer": "The attack would automatically succeed, unless fumbled."
+    },
+    {
+      "question": "How does a character's number of opponents affect combat attacks?",
+      "answer": "A character is at a disadvantage if outnumbered by the opposition."
+    },
+    {
+      "question": "What applies to attacks made using firearms in combat?",
+      "answer": "No bonus die applies to attacks made using firearms."
+    },
+    {
+      "question": "What should the Keeper do after a surprise attack has been resolved?",
+      "answer": "Switch to combat rounds as detailed below."
+    },
+    {
+      "question": "What is the requirement for a character to be at a disadvantage in combat?",
+      "answer": "a character is outnumbered by the opposition"
+    },
+    {
+      "question": "Can characters use firearms in situations where they are outnumbered?",
+      "answer": "No, this does not apply to attacks made using firearms."
+    },
+    {
+      "question": "Can characters with multiple attacks per round dodge or fight back that number of times before gaining a bonus die?",
+      "answer": "Yes, characters and monsters that have more than one attack per round may also dodge or fight back that number of times"
+    },
+    {
+      "question": "Can investigators outnumber certain Mythos entities?",
+      "answer": "Note that some Mythos entities can never be outnumbered by investigators"
+    },
+    {
+      "question": "What is the rule for characters and monsters with more than one attack per round?",
+      "answer": "They can dodge or fight back that number of times before the bonus die is applied."
+    },
+    {
+      "question": "What is the rule for investigators when facing Mythos entities that can never be outnumbered?",
+      "answer": "It is not specified in the text."
+    },
+    {
+      "question": "What is the order of attack in combat, according to the text?",
+      "answer": "Highest DEX goes first."
+    },
+    {
+      "question": "What is the rule for resolving combat when a defender chooses to dodge?",
+      "answer": "The combat is resolved in DEX order."
+    },
+    {
+      "question": "What happens when the attacker has a higher level of success?",
+      "answer": "Attacker wins"
+    },
+    {
+      "question": "What is the outcome when both the attacker and defender fail?",
+      "answer": "No damage inflicted."
+    },
+    {
+      "question": "What is the outcome when the draw occurs?",
+      "answer": "Defender wins."
+    },
+    {
+      "question": "What happens when the attacker or defender wins?",
+      "answer": "Attacker wins or defender wins, respectively."
+    }
+  ]
+}

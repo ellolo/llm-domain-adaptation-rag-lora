@@ -1,0 +1,117 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, cultists A, B, and C are chasing Harvey, with Brian already over the fence. In Round 1, Brian moves 4 spaces up the alley, while Harvey attempts to climb the fence but fails, leaving him vulnerable. Cultist C attacks Harvey, pulling him from the fence and throwing him back into the yard. Meanwhile, Cultist B attempts to climb down from the window but fails, taking a reckless approach by jumping instead.",
+  "qa_pairs": [
+    {
+      "question": "Who is Cultist A and B standing at the window with?",
+      "answer": "Cultist A and B stand at the window with Cultist C."
+    },
+    {
+      "question": "What has Cultist C done?",
+      "answer": "Cultist C has gone through the window and is now in the yard."
+    },
+    {
+      "question": "Who is out in front, in the alleyway, having scaled the fence already?",
+      "answer": "Brian is out in front, in the alleyway, having scaled the fence already."
+    },
+    {
+      "question": "Who is about to climb the fence?",
+      "answer": "Harvey (H) is about to climb the fence."
+    },
+    {
+      "question": "How many movement actions does Harvey have?",
+      "answer": "1"
+    },
+    {
+      "question": "How many movement actions does Brian have?",
+      "answer": "4"
+    },
+    {
+      "question": "How many movement actions does Cultist C have?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the order of DEX in the characters?",
+      "answer": "Brian > Harvey > Cultists"
+    },
+    {
+      "question": "What is the significance of the Keeper's action in Round 1?",
+      "answer": "The Keeper has 'cut to the chase' as per page 133."
+    },
+    {
+      "question": "How does the Keeper's action affect the cultists?",
+      "answer": "The Keeper allows for one investigator to be trapped, abandoned by his friends."
+    },
+    {
+      "question": "What action is taken by Brian, the lead cultist?",
+      "answer": "Brian moves first, running 4 spaces up the alley."
+    },
+    {
+      "question": "What is allowed by the Keeper for Brian's movement?",
+      "answer": "The Keeper allows for all four spaces to be open locations."
+    },
+    {
+      "question": "What is the effect of a speed roll in this scenario?",
+      "answer": "These things are simply allowed to have occurred as a result of the speed roll."
+    },
+    {
+      "question": "What is the result of Harvey's Climb skill roll?",
+      "answer": "His Climb skill roll is a failure."
+    },
+    {
+      "question": "Why does the Keeper not apply damage for failing to climb the fence?",
+      "answer": "the fact that cultists are about to attack him is sufficient."
+    },
+    {
+      "question": "What must Harvey do if he wants to cross the fence?",
+      "answer": "He must make another attempt next round."
+    },
+    {
+      "question": "What happens when Harvey fails to climb the fence?",
+      "answer": "The Keeper does not apply any damage for failing to climb the fence\u2014the fact that cultists are about to attack him is sufficient."
+    },
+    {
+      "question": "What does Cultist C do to Harvey after the Keeper's turn?",
+      "answer": "Cultist C runs across to Harvey and spends a third movement action to attack him."
+    },
+    {
+      "question": "What is the current state of the Keeper's map?",
+      "answer": "window, fence, CultistA, CultistB, Harvey, Cultist C, Brian."
+    },
+    {
+      "question": "What happens when Cultist C's fighting maneuver is attempted?",
+      "answer": "The cultist's build is 0, the same as Harvey's, so no bonus or penalty dice are awarded for the fighting maneuver."
+    },
+    {
+      "question": "What happens if Harvey tries to climb over the fence again?",
+      "answer": "He must make another attempt next round."
+    },
+    {
+      "question": "How many movement actions does Cultist C have left after his turn?",
+      "answer": "1 movement action left."
+    },
+    {
+      "question": "How many movement actions does Cultist C use in his turn?",
+      "answer": "4 movement actions."
+    },
+    {
+      "question": "What is the result of Harvey's attack roll?",
+      "answer": "A Failure."
+    },
+    {
+      "question": "Why did Cultist B not climb down from the window?",
+      "answer": "Cultist B took a reckless approach and jumped from the window rather than climbing."
+    },
+    {
+      "question": "What was the difficulty level of the climb roll for Cultist B?",
+      "answer": "The Keeper decided the difficulty level of the climb roll would be Regular, but raised it to Hard."
+    },
+    {
+      "question": "Did Cultist B succeed in his jump?",
+      "answer": "The Keeper rolled a failure for the cult."
+    },
+    {
+      "question": "Can Cultist B initiate another attack this round?",
+      "answer": "No, the cultist cannot initiate another attack this round."
+    }
+  ]
+}

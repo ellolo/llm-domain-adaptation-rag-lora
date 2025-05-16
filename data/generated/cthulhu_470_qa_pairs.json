@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Call of Cthulhu game mechanics are outlined, including the calculation of damage and damage bonus, the resolution of combat and chase rounds, and the rules for character death and injury. Key concepts such as DEX (dexterity), DEX order, and skill checks (including Dodge, First Aid, and Fighting Maneuver) are also introduced. Additionally, the game mechanics cover topics such as damage, injury, and death, including the consequences of failing to heal or stabilize a character. The document also touches on more advanced concepts, such as Deeper Magic and Deeper Version, and the use of dice rolls to determine outcomes.",
+  "qa_pairs": [
+    {
+      "question": "How are Damage Bonus and Damage calculated?",
+      "answer": "Damage Bonus is derived by adding STR and SIZ together and referencing the total on Table 1: Damage Bonus (see page 33). Damage is calculated by subtracting hit points from the character's maximum hit points (see page 119)."
+    },
+    {
+      "question": "How are characters' actions resolved in a round?",
+      "answer": "Characters' actions in a round are resolved in DEX rank order, from highest to lowest (see page 138)."
+    },
+    {
+      "question": "What determines when death occurs?",
+      "answer": "Death occurs when First Aid (and Medicine) has failed to keep alive a character who has sustained a major wound and whose hit points are at zero, or if an amount of damage greater than the character's maximum hit points is taken in one attack (see page 123)."
+    },
+    {
+      "question": "What is a more effective variant of a spell?",
+      "answer": "Deeper Magic, Deeper Version is a more effective variant of a spell (see page 242)."
+    },
+    {
+      "question": "What determines the order in which characters' actions are resolved in a Combat/Chase Round?",
+      "answer": "DEX rank order"
+    },
+    {
+      "question": "Under what conditions is death inevitable?",
+      "answer": "When an amount of damage is greater than the character's maximum hit points"
+    },
+    {
+      "question": "What can cause a player to be presented with false information by the Keeper during a Delusion?",
+      "answer": "The player being subject to hallucinations or misperceiving the situation"
+    },
+    {
+      "question": "Where can the player test the situation with a Reality Check to verify the accuracy of information during a Delusion?",
+      "answer": "Page 162"
+    },
+    {
+      "question": "How are Characters' actions resolved in a round?",
+      "answer": "in DEX rank order, from highest to lowest"
+    },
+    {
+      "question": "What happens when a character's hit points are at zero?",
+      "answer": "Death occurs"
+    },
+    {
+      "question": "What is inevitable if an amount of damage greater than the character's maximum hit points is taken in one attack?",
+      "answer": "death is inevitable"
+    },
+    {
+      "question": "What can a player test to determine if they are being presented with false information?",
+      "answer": "a Reality Check"
+    },
+    {
+      "question": "What happens if a character takes an amount of damage greater than their maximum hit in one attack?",
+      "answer": "Death is inevitable"
+    },
+    {
+      "question": "What is the DEX order used for in the game?",
+      "answer": "Characters act on their turn in the DEX order (highest to lowest)"
+    },
+    {
+      "question": "What type of spell is Deeper Magic, Deeper Version?",
+      "answer": "A more effective variant of a spell"
+    },
+    {
+      "question": "What are the three difficulty levels in the game?",
+      "answer": "Regular, Hard, and Extreme"
+    },
+    {
+      "question": "What is the order of DEX in the game?",
+      "answer": "Used in combat and chases, Characters act on their turn in the DEX order (highest to lowest)"
+    },
+    {
+      "question": "What skill is used to avoid hand-to-hand and firearms attacks?",
+      "answer": "A Dodge skill roll is made when a target is aware of being fired upon"
+    },
+    {
+      "question": "What is the condition for a character to be dying?",
+      "answer": "A character is dying when their hit points are reduced to zero and they have sustained a Major Wound"
+    },
+    {
+      "question": "What are the three difficulty levels in the game?",
+      "answer": "There are three difficulty levels: Regular, Hard, and Extreme"
+    },
+    {
+      "question": "What is the main aim of Fighting Maneuver?",
+      "answer": "Any use of Fighting skill with an aim other than simply inflicting harm"
+    },
+    {
+      "question": "What happens to a character if they fail a Fumble?",
+      "answer": "They fail the roll"
+    },
+    {
+      "question": "What is the effect of a character's Fumble result if they need a roll above 50 to pass?",
+      "answer": "A result of 100"
+    },
+    {
+      "question": "What is the effect of a character's Fumble result if they need a roll below 50 to pass?",
+      "answer": "A result of 96\u2013100"
+    }
+  ]
+}

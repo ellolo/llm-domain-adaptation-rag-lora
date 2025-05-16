@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, Sanity is a critical aspect of the game, representing the investigator's mental stability in the face of eldritch horrors. A failed Sanity roll results in the investigator losing Sanity points, with the amount lost depending on the situation or entity encountered. The Mythos is inherently corrupting and can drive investigators to the brink of insanity, with the threat of complete madness serving as a constant reminder of the horrors they face. Sanity points can fluctuate during play, but never exceed the character's maximum Sanity rating.",
+  "qa_pairs": [
+    {
+      "question": "What happens to the investigator's Sanity points during a successful Sanity roll?",
+      "answer": "The investigator loses no Sanity points, or only a minimal amount."
+    },
+    {
+      "question": "What happens to the investigator's Sanity points during a failed Sanity roll?",
+      "answer": "The investigator always loses Sanity points."
+    },
+    {
+      "question": "What is an exception to the rule that Bonus dice and penalty dice are not applied to Sanity rolls?",
+      "answer": "The exception is the Self-Help rule, page 167."
+    },
+    {
+      "question": "Can Luck points be spent on Sanity rolls if using the optional rule?",
+      "answer": "No, Luck points cannot be spent on Sanity rolls if using the optional rule."
+    },
+    {
+      "question": "How does the Mythos affect the human mind?",
+      "answer": "The Mythos is anathema to the human mind."
+    },
+    {
+      "question": "What happens to the investigator when a Sanity roll fails?",
+      "answer": "The investigator always loses Sanity points."
+    },
+    {
+      "question": "How is Sanity loss typically represented in published Call of Cthulhu scenarios?",
+      "answer": "As two numbers or rolls separated by a slash, e.g. SAN 1/1D4+1."
+    },
+    {
+      "question": "What is the effect of a successful Sanity roll in a scenario with a SAN 0/1D4 representation?",
+      "answer": "No Sanity points are lost."
+    },
+    {
+      "question": "What happens to the investigator immediately after a failed Sanity roll?",
+      "answer": "The investigator loses self-control for a moment."
+    },
+    {
+      "question": "What should the Keeper choose after the investigator loses self-control?",
+      "answer": "An involuntary action for the investigator."
+    },
+    {
+      "question": "What determines the number of Sanity points lost if the Sanity roll is failed?",
+      "answer": "The die roll to the right of the slash."
+    },
+    {
+      "question": "How many Sanity points are lost if the Sanity roll is failed in the case of SAN 0/1D4?",
+      "answer": "1D4 Sanity points."
+    },
+    {
+      "question": "What happens to the investigator when they fail a Sanity roll?",
+      "answer": "The investigator loses self-control for a moment."
+    },
+    {
+      "question": "What should the Keeper choose for the investigator when they lose self-control?",
+      "answer": "An involuntary action."
+    },
+    {
+      "question": "What is an example of an involuntary action the Keeper might choose?",
+      "answer": "T Jump in fright\u2014causing the investigator to drop something."
+    },
+    {
+      "question": "What happens to an investigator's action if a Sanity roll is failed during a combat round?",
+      "answer": "The investigator's action for that round may be dictated by the Keeper."
+    },
+    {
+      "question": "What is the result of a failed Sanity roll on a ghoul encounter?",
+      "answer": "0/1D6 Sanity points."
+    },
+    {
+      "question": "What happens if an investigator loses more than a few Sanity points at one time?",
+      "answer": "The investigator may go insane."
+    },
+    {
+      "question": "What is the same for multiple ghouls encountered by an investigator?",
+      "answer": "The Sanity effect is for the encounter rather than each ghoul seen."
+    },
+    {
+      "question": "What happens when an investigator fails a Sanity roll during a combat round?",
+      "answer": "The investigator's action for that round may be dictated by the Keeper, or they may freeze and take no action."
+    },
+    {
+      "question": "How many Sanity points does Harvey Walters have after the roll?",
+      "answer": "41"
+    },
+    {
+      "question": "What happens to Harvey Walters' Sanity points when he fails a roll?",
+      "answer": "They decrease by 4 points"
+    },
+    {
+      "question": "What is the relationship between Sanity points and Cthulhu Mythos skill points?",
+      "answer": "The power of the Mythos, which corrupts and ruins by proximity and association"
+    },
+    {
+      "question": "How high can an investigator's Sanity points rise during play?",
+      "answer": "Above the character's maximum Sanity rating"
+    },
+    {
+      "question": "What is the result of Harvey Walters' 1D6 roll?",
+      "answer": "4"
+    }
+  ]
+}

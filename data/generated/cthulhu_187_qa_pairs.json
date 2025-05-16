@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the context of the game, researching a specific piece of information can be done by spending game hours studying a book, with the outcome determined by a roll of 1D100. The book's Cthulhu Mythos Rating determines the success of the investigation, and a full study of a tome can grant increases in other skills, including language skills and skills such as History, Archaeology, and Occult. Additionally, reading occult books can grant points to the Occult skill, while learning Mythos spells requires Magic points and can bring the character closer to insanity.",
+  "qa_pairs": [
+    {
+      "question": "How much time does the investigator spend researching a specific piece of information?",
+      "answer": "1D4 game hours"
+    },
+    {
+      "question": "What does the investigator do if they fail to locate the information?",
+      "answer": "Either the book does not hold the information or the reader failed to locate it"
+    },
+    {
+      "question": "What is the outcome if the investigator finds the fact?",
+      "answer": "The investigator finds the fact or an allusion to the fact"
+    },
+    {
+      "question": "What is the investigator required to roll to find the fact?",
+      "answer": "1D100"
+    },
+    {
+      "question": "What is the outcome of rolling 1D100 equal to or less than the book's Cthulhu Mythos Rating?",
+      "answer": "The investigator finds the fact or an allusion to the fact."
+    },
+    {
+      "question": "What benefits can a reader gain from conducting a full study of a tome?",
+      "answer": "An increase in other skills, as well as Cthulhu Mythos."
+    },
+    {
+      "question": "How can an investigator improve their skill in a language after studying a tome?",
+      "answer": "By gaining a skill tick for the language in which the book is written."
+    },
+    {
+      "question": "What types of skills can be improved as a result of reading Mythos tomes?",
+      "answer": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences."
+    },
+    {
+      "question": "What are the two options for increasing skill points in Mythos books?",
+      "answer": "Either limited to +1D6 to +1D10 skill points per skill or awarded as a skill tick to be rolled during the next investigator development phase."
+    },
+    {
+      "question": "Which skills can be improved as a result of reading Mythos tomes?",
+      "answer": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences like Chemistry, Biology, and Physics."
+    },
+    {
+      "question": "What type of book grants points to the Occult skill after being read?",
+      "answer": "An occult book."
+    },
+    {
+      "question": "What is the effect of reading a book that contains knowledge warranting a loss of Sanity points?",
+      "answer": "A cost of Sanity points."
+    },
+    {
+      "question": "What defines an occult book in the Cthulhu Mythos?",
+      "answer": "An occult book does not contain knowledge increasing the Cthulhu Mythos skill."
+    },
+    {
+      "question": "What happens to Sanity points if an occult book's contents warrant it?",
+      "answer": "An occult book may cost Sanity points if its contents warrant it."
+    },
+    {
+      "question": "How does increasing the Cthulhu Mythos skill affect the scholar?",
+      "answer": "Increasing the Cthulhu Mythos skill widens the horizons of the student but chips away at mental reserves (reducing maximum Sanity points)."
+    },
+    {
+      "question": "How are spells organized in the game?",
+      "answer": "Spells are organized as packets of information, presented alphabetically in Chapter 12: Grimoire."
+    },
+    {
+      "question": "What are the 'packets of information' in the Mythos organized as?",
+      "answer": "spells"
+    },
+    {
+      "question": "Does learning a Mythos spell cost Sanity points?",
+      "answer": "no"
+    },
+    {
+      "question": "What is the primary method of learning spells?",
+      "answer": "Learning from a book"
+    },
+    {
+      "question": "How do Magic Points (MP) relate to casting spells?",
+      "answer": "Must be expended to cast spells"
+    },
+    {
+      "question": "What determines the amount of Magic Points (MP) an investigator begins with?",
+      "answer": "One-fifth of their POW"
+    },
+    {
+      "question": "Who does not begin with Magic Points equal to one-fifth of their POW?",
+      "answer": "Cultists"
+    }
+  ]
+}

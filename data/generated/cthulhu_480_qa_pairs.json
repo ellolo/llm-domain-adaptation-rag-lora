@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the 7th Edition of Call of Cthulhu, the Keeper has new options for handling social interactions, including the ability to \"push\" skill rolls, which can lead to more complex consequences. When a player attempts to intimidate or charm someone, the Keeper can adjust the difficulty level based on the situation, and can also use alternative skills such as Intimidate or Charm. The Keeper should also consider the characteristic values of the characters involved and use the new guidelines for characteristic rolls. Additionally, the Keeper can use the new \"pushing\" skill rolls to create more complex consequences, rather than immediately failing a skill roll.",
+  "qa_pairs": [
+    {
+      "question": "What is the new option for players in the game?",
+      "answer": "push the roll"
+    },
+    {
+      "question": "What should the Keeper do if the investigators are operating through an interpreter?",
+      "answer": "increase the level of difficulty from Regular to Hard"
+    },
+    {
+      "question": "What skills can be used in addition to Fast Talk, Bargain, or Persuade?",
+      "answer": "Intimidate or Charm"
+    },
+    {
+      "question": "What should the Keeper be prepared for?",
+      "answer": "players using new skills in a way not expected"
+    },
+    {
+      "question": "What is the recommended level adjustment for a 10-percentage-point decrease in skill roll?",
+      "answer": "increase the level of difficulty from Regular to Hard"
+    },
+    {
+      "question": "What skills are referred to by the Keeper?",
+      "answer": "Charm, Fast Talk, Intimidate, and Persuade Skills"
+    },
+    {
+      "question": "What is the difficulty level set for Bacci by the Keeper?",
+      "answer": "Regular"
+    },
+    {
+      "question": "Why is the difficulty level made easier?",
+      "answer": "The investigator is waving a gun in Bacci\u2019s face"
+    },
+    {
+      "question": "What is the condition for the player to succeed in Intimidating Bacci?",
+      "answer": "The Intimidate roll is not fumbled"
+    },
+    {
+      "question": "What happens after the player fumbles their Intimidate roll?",
+      "answer": "Bacci calls for help and attempts to grab the investigator\u2019s gun"
+    },
+    {
+      "question": "What is the outcome of the Intimidate roll?",
+      "answer": "The player fumbles their Intimidate roll."
+    },
+    {
+      "question": "What happens to the Keeper after Bacci attempts to grab the investigator's gun?",
+      "answer": "The Keeper switches to combat rounds."
+    },
+    {
+      "question": "How to determine difficulty level for Characteristic x 1?",
+      "answer": "Use Extreme difficulty level (one-fifth of characteristic)."
+    },
+    {
+      "question": "How to determine difficulty level for Characteristic x 4 or x 5?",
+      "answer": "Use Regular difficulty level (full characteristic)."
+    },
+    {
+      "question": "What is the outcome of Characteristic x 7 or x 8 rolls?",
+      "answer": "Use Regular difficulty level (full characteristic) with one bonus die."
+    },
+    {
+      "question": "What is the method used for opposed rolls in 7th Edition?",
+      "answer": "Opposed rolls are made, with each party aiming to roll under their own value while achieving a higher degree of success than the opposing value."
+    },
+    {
+      "question": "How do you handle Resistance rolls in 6th Edition and earlier?",
+      "answer": "For any mention of a Resistance roll or the Resistance Table, use an opposed roll instead."
+    },
+    {
+      "question": "What is the rule for opposed rolls in 6th Edition and earlier?",
+      "answer": "Opposing a value with a roll is now the equivalent of rolling against the value on the Resistance Table."
+    },
+    {
+      "question": "What is the bonus for using a characteristic value of 7 or 8?",
+      "answer": "Regular difficulty level with one bonus die."
+    },
+    {
+      "question": "What is the characteristic value of 'half of characteristic'?",
+      "answer": "Hard difficulty level."
+    },
+    {
+      "question": "What happens when a party rolls under their own value in a skill roll?",
+      "answer": "Each party makes a roll under the required skill or characteristic, aiming to roll under their own value while achieving a higher degree of success than the opposing value."
+    },
+    {
+      "question": "How do you handle a Resistance Table roll for a character's STR 16 in 6th Edition and earlier?",
+      "answer": "For 6th Edition and earlier, for any mention of a Resistance roll or the Resistance Table, use an opposed roll instead. Thus, making a Resistance Table roll against STR 16 is now opposing a STR of 80."
+    },
+    {
+      "question": "What is the purpose of 'Pushing Skill Rolls'?",
+      "answer": "This will not be mentioned in publications that pre-date 7th Edition. Often a scenario may include a consequence of failing a skill roll. The Keeper should consider whether such a complication should occur immediately or be reserved as the consequence of failing a pushed roll."
+    },
+    {
+      "question": "What determines the Potency of a poison in earlier versions of Call of Cthulhu?",
+      "answer": "In earlier versions of Call of Cthulhu, each poison had a Potency (POT) value. The higher the POT value, the more deadly"
+    },
+    {
+      "question": "How do you handle a sorcerer's POW 18 on the Resistance Table?",
+      "answer": "Opposing a sorcerer's POW 18 on the Resistance Table is now an opposed roll against POW 90."
+    }
+  ]
+}

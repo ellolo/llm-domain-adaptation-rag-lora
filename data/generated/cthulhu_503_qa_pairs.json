@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for vehicular movement and hazards in a Call of Cthulhu game. Players can move their vehicles up to 5 locations per turn, with options to accelerate or decelerate, and can encounter various hazards such as Regular, Hard, and Extreme hazards. The severity of these hazards is determined by a random roll, and the vehicle's movement speed and armor can affect the outcome. Additionally, the document provides rules for handling vehicular collisions, including damage and destruction of vehicles.",
+  "qa_pairs": [
+    {
+      "question": "What is the threshold below which damage is ignored?",
+      "answer": "10 points"
+    },
+    {
+      "question": "What is the range for regular hazards?",
+      "answer": "60-89"
+    },
+    {
+      "question": "What is the range for hard hazards?",
+      "answer": "85-95"
+    },
+    {
+      "question": "How many locations can a driver move with one movement action?",
+      "answer": "2 or 3"
+    },
+    {
+      "question": "What is the range for open locations?",
+      "answer": "1-59"
+    },
+    {
+      "question": "What is the movement option for a driver in Call of Cthulhu?",
+      "answer": "A driver can elect to move 2 or 3 locations with one movement action."
+    },
+    {
+      "question": "How many penalty dice are applied to the skill rolls when encountering hazards while moving 4 or 5 locations?",
+      "answer": "Any hazards encountered have two penalty dice applied to the skill rolls."
+    },
+    {
+      "question": "What is the penalty die for firearms while moving?",
+      "answer": "Penalty die while moving."
+    },
+    {
+      "question": "What happens if the vehicle's next move is successful on a Spot Hidden or Navigate roll?",
+      "answer": "On the vehicle\u2019s next move, the vehicle can accelerate once with 1 fewer penalty die."
+    },
+    {
+      "question": "How many penalty dice are applied to the skill rolls when a driver encounters hazards while moving 2 or 3 locations?",
+      "answer": "Any hazards encountered have one penalty die applied to the skill rolls."
+    },
+    {
+      "question": "What happens to the penalty dice for moving vehicles?",
+      "answer": "Penalty die while moving."
+    },
+    {
+      "question": "What happens if the driver of a moving vehicle takes a major wound?",
+      "answer": "May lose control of their vehicle and must roll immediately as for a Hazard at Hard difficulty level."
+    },
+    {
+      "question": "What is the effect of destroying a tire on a vehicle's Build?",
+      "answer": "Reduces vehicle Build by 1."
+    },
+    {
+      "question": "How does switching between running and driving affect the vehicle?",
+      "answer": "Make a fresh speed roll, recalculate movement actions."
+    },
+    {
+      "question": "What is the condition for applying the penalty dice when encountering hazards?",
+      "answer": "Encountered have two penalty dice applied to the skill rolls."
+    },
+    {
+      "question": "How much does destroying a tire reduce vehicle build?",
+      "answer": "1"
+    },
+    {
+      "question": "What to do when the monster or non-player character has an implied aptitude?",
+      "answer": "Use their DEX"
+    },
+    {
+      "question": "What to do when the monster or non-player character has neither implied aptitude nor ineptitude?",
+      "answer": "Use half of their DEX"
+    },
+    {
+      "question": "What to do when the monster or non-player character has an implied ineptitude?",
+      "answer": "Use one-fifth of their DEX"
+    },
+    {
+      "question": "What happens to the driver when they take a major wound?",
+      "answer": "They may lose control of their vehicle and must roll immediately as for a Hazard at Hard difficulty level."
+    },
+    {
+      "question": "What are the three categories of vehicular collisions?",
+      "answer": "Minor incident, Moderate incident, Severe incident."
+    },
+    {
+      "question": "What is the outcome for a 'Mayhem' incident?",
+      "answer": "Likely to wreck a truck outright."
+    },
+    {
+      "question": "What is the outcome for a 'Road kill' incident?",
+      "answer": "Most vehicles will be little more than scattered debris."
+    },
+    {
+      "question": "What are some examples of minor incidents?",
+      "answer": "Examples: Most Regular Hazards, cosmetic damage only, something serious."
+    },
+    {
+      "question": "What is the outcome for a 'Severe incident'?",
+      "answer": "Likely to wreck a car outright."
+    }
+  ]
+}

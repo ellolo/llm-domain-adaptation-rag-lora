@@ -1,0 +1,109 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, managing a character's finances is a crucial aspect of the game. The game introduces a spending limit, where characters must adhere to a daily spending limit, and can incur debt if they exceed it. Characters can also receive large sums of money, which can be invested or added to their cash reserves, and their financial situation can impact their Sanity and overall well-being. The game also introduces a Credit Rating system, where characters' financial situations can be adjusted based on their income, assets, and other factors.",
+  "qa_pairs": [
+    {
+      "question": "How much is Harvey's daily spending limit?",
+      "answer": "$10 per day"
+    },
+    {
+      "question": "How much does Harvey exceed his spending limit on one day?",
+      "answer": "$15"
+    },
+    {
+      "question": "What happens to Harvey's cash when he exceeds his spending limit?",
+      "answer": "He reduces his cash by the excess amount"
+    },
+    {
+      "question": "What can a character do with a large sum of money received during the game?",
+      "answer": "Add it to cash in the short term or invest it in time as part of their assets"
+    },
+    {
+      "question": "Why does Harvey reduce his cash?",
+      "answer": "He reduces his cash by $15."
+    },
+    {
+      "question": "What happens to Harvey's Sanity?",
+      "answer": "His Sanity may well decline with physical and material decline."
+    },
+    {
+      "question": "How does a character receive a large sum of money?",
+      "answer": "A character may receive a large sum of money as a reward."
+    },
+    {
+      "question": "What happens to Harvey's physical and material situation?",
+      "answer": "His physical and material situation may decline."
+    },
+    {
+      "question": "What can lead to loss of employment and a fall in income for an investigator?",
+      "answer": "Ill-health (physical or mental) or continued absence from work"
+    },
+    {
+      "question": "What happens to an investigator's finances if a stock market crash occurs?",
+      "answer": "A major effect on their finances"
+    },
+    {
+      "question": "How can an investigator's credit rating be raised?",
+      "answer": "By acquiring a higher-paying job"
+    },
+    {
+      "question": "What happens to an investigator's Sanity if their physical and material decline continues?",
+      "answer": "A steady decline in Sanity"
+    },
+    {
+      "question": "What is an example of a profession that does not require an active employment to derive an income?",
+      "answer": "Dilettante"
+    },
+    {
+      "question": "How might a stock market crash affect an individual's finances?",
+      "answer": "It will have a major effect on their finances"
+    },
+    {
+      "question": "What happens to a person's Credit Rating if they lose their employment?",
+      "answer": "It will fall"
+    },
+    {
+      "question": "Can a loss of assets necessarily indicate a loss of Credit Rating?",
+      "answer": "No, it is not necessarily the case if one still has a reliable income"
+    },
+    {
+      "question": "What is a reason a Credit Rating might be raised?",
+      "answer": "an investigator acquires a higher-paying job"
+    },
+    {
+      "question": "What happens to a Credit Rating if an investigator loses their employment?",
+      "answer": "it will fall"
+    },
+    {
+      "question": "Does a loss of assets necessarily indicate a loss of Credit Rating?",
+      "answer": "no, if one still has a reliable income"
+    },
+    {
+      "question": "What should the Keeper decide on if an investigator's financial situation has undergone a significant change?",
+      "answer": "one of the following options"
+    },
+    {
+      "question": "What happens to an investigator's Credit Rating if they lose their employment?",
+      "answer": "Their Credit Rating will fall."
+    },
+    {
+      "question": "Does a loss of assets necessarily indicate a loss of Credit Rating?",
+      "answer": "No, a loss of assets does not necessarily indicate a loss of Credit Rating if one still has a reliable income."
+    },
+    {
+      "question": "What should an investigator do when they come into money?",
+      "answer": "They should check to see if their assets are equal to those of a higher living standard bracket."
+    },
+    {
+      "question": "How should an investigator increase their Credit Rating after coming into money?",
+      "answer": "In steps of 1D10 until their Credit Rating is within the new bracket."
+    },
+    {
+      "question": "How does the player adjust their Credit Rating?",
+      "answer": "In steps of 1D10 until their Credit Rating is within the new bracket."
+    },
+    {
+      "question": "What is the 'wealthy' bracket for the 1920s?",
+      "answer": "$25,000\u2013$44,500"
+    }
+  ]
+}

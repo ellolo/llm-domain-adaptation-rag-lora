@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for combat in a fantasy setting, specifically for a character named Harvey who attempts to snatch a briefcase from a cultist. The rules for combat involve rolling a DEX score to determine the outcome of an attack, with the attacker gaining a bonus die if they succeed and the defender gaining a penalty die if they fail. The document also introduces the concept of surprise attacks, where the attacker can gain an advantage by catching the defender off guard, and fighting maneuvers, which can be used to initiate combat. The rules also cover various combat scenarios, including dodging, fighting back, and maneuvering.",
+  "qa_pairs": [
+    {
+      "question": "What happens when a character dodges an attack?",
+      "answer": "Attacker wins with higher level of success."
+    },
+    {
+      "question": "What happens when a character is outnumbered?",
+      "answer": "All subsequent attacks on them receive 1 Bonus die."
+    },
+    {
+      "question": "What is the condition for a maneuver to be impossible?",
+      "answer": "If the difference is 3+, Maneuver is impossible."
+    },
+    {
+      "question": "How are combat rolls resolved when both characters fail?",
+      "answer": "Both fail = no damage inflicted."
+    },
+    {
+      "question": "Who wins in a draw?",
+      "answer": "The initiator wins."
+    },
+    {
+      "question": "What happens if a character is outnumbered?",
+      "answer": "All subsequent attacks on them receive 1 Bonus die."
+    },
+    {
+      "question": "What happens if Maneuver is attempted?",
+      "answer": "Compare builds: If the initiator is smaller, apply a Penalty die for each point difference."
+    },
+    {
+      "question": "What is the maximum damage for Impale at Extreme Level of Success?",
+      "answer": "Max damage + max DB + roll weapon damage."
+    },
+    {
+      "question": "What is the next action taken by Harvey?",
+      "answer": "He approaches the cultist to enquire when the next train is due."
+    },
+    {
+      "question": "What is the damage bonus for Harvey and the cultist?",
+      "answer": "1D4"
+    },
+    {
+      "question": "What is Harvey's build?",
+      "answer": "0"
+    },
+    {
+      "question": "How many hit points does the cultist have?",
+      "answer": "13"
+    },
+    {
+      "question": "Was Harvey's action a fighting maneuver?",
+      "answer": "Yes, according to the Keeper's ruling."
+    },
+    {
+      "question": "What was the difficulty level for Harvey's Stealth roll?",
+      "answer": "Regular, set by the Keeper."
+    },
+    {
+      "question": "What is the difficulty level for Harvey's Stealth roll?",
+      "answer": "Regular"
+    },
+    {
+      "question": "Why did the cultist not see Harvey's attack coming?",
+      "answer": "Harvey's surprise attack"
+    },
+    {
+      "question": "What bonus die did Harvey gain for his surprise attack?",
+      "answer": "One"
+    },
+    {
+      "question": "What is the outcome of the bonus die and penalty die for Harvey's maneuver?",
+      "answer": "Cancel each other out"
+    },
+    {
+      "question": "What is the condition for no opposing roll to be made for the cultist?",
+      "answer": "Because Harvey has the advantage of surprise."
+    },
+    {
+      "question": "What is the outcome of Harvey\u2019s Fighting (Brawl) skill roll?",
+      "answer": "A Hard success."
+    },
+    {
+      "question": "What is the penalty Harvey gains due to the cultist\u2019s Build being one step above his?",
+      "answer": "A penalty die."
+    },
+    {
+      "question": "What does the Keeper switch to after Harvey\u2019s surprise attack is concluded?",
+      "answer": "Using combat rounds."
+    }
+  ]
+}

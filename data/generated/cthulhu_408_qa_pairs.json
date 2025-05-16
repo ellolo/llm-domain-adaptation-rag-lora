@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes the combat mechanics for various sea creatures in the Call of Cthulhu role-playing game, including sharks, snakes, and squid. Sharks are capable of swarming and overwhelming individual victims, while snakes use their attacks to constrict or bite. Snakes, both constrictors and venomous species, have different attack mechanics and damage bonuses. The document provides statistics and rules for each creature, including attacks, damage, armor, skills, and habitats.",
+  "qa_pairs": [
+    {
+      "question": "What is the bonus die shark gains on attack due to their numbers?",
+      "answer": "One"
+    },
+    {
+      "question": "How many attacks can a shark perform per round?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the damage bonus for each round a shark holds its victim with its Bite and Hold maneuver?",
+      "answer": "half damage bonus"
+    },
+    {
+      "question": "What is the damage dealt by a shark's Bite and Hold maneuver?",
+      "answer": "2D6 + damage bonus for each round held"
+    },
+    {
+      "question": "What is the percentage of fighting attacks that sharks make?",
+      "answer": "75% (37/15)"
+    },
+    {
+      "question": "How many attacks does a constrictor shark perform per round?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the damage bonus for a constrictor shark's fighting attack?",
+      "answer": "None"
+    },
+    {
+      "question": "What is the damage bonus for a venomous shark's fighting attack?",
+      "answer": "Half damage bonus"
+    },
+    {
+      "question": "How many attacks does a venomous shark perform per round?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the damage bonus for a venomous shark's bite and hold attack?",
+      "answer": "Damage bonus for each round held"
+    },
+    {
+      "question": "What is the effect of resisting full effect of snake venom?",
+      "answer": "A successful Extreme CON roll indicates a lesser effect."
+    },
+    {
+      "question": "How long does a victim of a snake bite have to find antivenin or medical treatment to survive?",
+      "answer": "Within a few hours."
+    },
+    {
+      "question": "What is the average damage bonus for a giant snake?",
+      "answer": "+1D6"
+    },
+    {
+      "question": "What is the average length of a giant squid's tentacles?",
+      "answer": "Up to an additional sixty feet in length."
+    },
+    {
+      "question": "What is the average size of a giant squid's body?",
+      "answer": "About twelve feet long."
+    },
+    {
+      "question": "What is the recommended increase in SIZ and STR for every two feet of increased span from tentacle tip to tip?",
+      "answer": "Add 3D10 of SIZ and STR"
+    },
+    {
+      "question": "What is the average damage bonus for a snake?",
+      "answer": "+1D6"
+    },
+    {
+      "question": "What is the percentage of attacks a snake makes per round?",
+      "answer": "40%"
+    },
+    {
+      "question": "What is the damage done by a constrict attack?",
+      "answer": "1D6 + damage bonus"
+    },
+    {
+      "question": "What is the percentage of dodges a snake makes per round?",
+      "answer": "25%"
+    },
+    {
+      "question": "What is the average damage bonus for a snake?",
+      "answer": "Average Damage Bonus: +1D6"
+    },
+    {
+      "question": "How many attacks per round can a snake make?",
+      "answer": "Attacks per round: 1"
+    },
+    {
+      "question": "What is the damage dealt by a fighting attack?",
+      "answer": "Fighting 40% (20/5)"
+    },
+    {
+      "question": "How much damage is dealt by a constrict attack?",
+      "answer": "Constrict (mnvr) damage 1D6 + damage bonus"
+    },
+    {
+      "question": "What is the snake's armor?",
+      "answer": "Armor: 2-point glistening skin"
+    }
+  ]
+}

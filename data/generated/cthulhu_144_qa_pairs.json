@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a chase scenario, the Keeper must decide how to handle hazards and barriers, which can slow or stop the character or vehicle. Hazards can cause damage, while barriers block progress until they are successfully negotiated or removed. The Keeper must use Table III: Other Forms of Damage or Table VI: Vehicular Collisions to determine the extent of damage, and roll 1D3 for lost movement actions if a hazard is failed. Barriers, on the other hand, can be overcome with specific skills such as Jump, STR, or Locksmith.",
+  "qa_pairs": [
+    {
+      "question": "What happens if a hazard is failed to negotiate?",
+      "answer": "Failing to negotiate a hazard is likely to slow the character or vehicle."
+    },
+    {
+      "question": "How much damage is decided using Table III: Other Forms of Damage?",
+      "answer": "Using Table III: Other Forms of Damage as a guide for damage to characters."
+    },
+    {
+      "question": "What is the result of failing to negotiate an obstacle?",
+      "answer": "Roll 1D3 for the number of lost movement actions."
+    },
+    {
+      "question": "How much damage is decided using Table VI: Vehicular Collisions?",
+      "answer": "Using Table VI: Vehicular Collisions (see page 147) for damage to vehicles."
+    },
+    {
+      "question": "What happens after negotiating a hazard?",
+      "answer": "A character should move onto the next location whether they pass or fail the skill roll."
+    },
+    {
+      "question": "What are the dots in the text representing?",
+      "answer": "Locations on either side of the hazard"
+    },
+    {
+      "question": "What should a character do after negotiating a hazard?",
+      "answer": "Move onto the next location, whether passing or failing the skill roll"
+    },
+    {
+      "question": "What are some examples of hazards in a car chase?",
+      "answer": "A traffic jam, performing a U-turn, roadwork, road traffic accident, pedestrian crossing, busy junction, cyclists, sharp bends, fallen rocks, and narrow roads"
+    },
+    {
+      "question": "What should be avoided in a car chase?",
+      "answer": "Pulling out or stopping suddenly, and pedestrians"
+    },
+    {
+      "question": "What is an example of a hazard that involves pedestrians?",
+      "answer": "Pedestrian crossing"
+    },
+    {
+      "question": "What is a hazard in a foot chase?",
+      "answer": "A hazard can be a latched window, a river, lake, or muddy swamp, a low fence or wall, a crowded street, a narrow alley, a rooftop, a hole in a wall, a crawlspace, a junk-filled attic, or cellar, a spiral staircase, or between the stacks of a library or museum."
+    },
+    {
+      "question": "What are the five steps to set up a chase?",
+      "answer": "To set up a chase, the Keeper must place the pursuer, place the fleeing character, position hazards and barriers, allocate each participant a number of movement actions, and determine DEX order."
+    },
+    {
+      "question": "What is a narrow road in the context of the chase?",
+      "answer": "A narrow road is one where a pursuer can overtake a fleeing character."
+    },
+    {
+      "question": "What is a hazard that can move?",
+      "answer": "An oncoming vehicle is a hazard that can move."
+    },
+    {
+      "question": "What is a movement action?",
+      "answer": "A movement action is a number of actions each participant can take during the chase."
+    },
+    {
+      "question": "What defines a barrier in the context of the text?",
+      "answer": "A barrier might be a locked door, a tall fence, an abyss, etc."
+    },
+    {
+      "question": "What is the distinction between a hazard and a barrier according to the text?",
+      "answer": "The distinction between a hazard and a barrier may sometimes be unclear."
+    },
+    {
+      "question": "When is a hazard considered a barrier?",
+      "answer": "The Keeper must decide when a hazard constitutes a barrier."
+    },
+    {
+      "question": "What is the usual consequence of failing a skill roll to pass a barrier?",
+      "answer": "The usual consequence is simply the delay and inconvenience of not moving to the next location."
+    },
+    {
+      "question": "Why does a barrier prevent further movement?",
+      "answer": "A barrier prevents further movement until the skill roll is passed or the barrier is broken through."
+    },
+    {
+      "question": "What happens if one fails to climb up to a second-floor window?",
+      "answer": "The window is out of reach."
+    },
+    {
+      "question": "What is a hazard in this context?",
+      "answer": "A hazard is when one can always simply fall while climbing down."
+    },
+    {
+      "question": "What can happen if one fails a skill roll to pass a barrier?",
+      "answer": "Failing a skill roll to pass a barrier may cause damage and delay."
+    },
+    {
+      "question": "What is the primary consequence of failing to pass a barrier?",
+      "answer": "The usual consequence is simply the delay and inconvenience of not moving."
+    },
+    {
+      "question": "What is the skill required to force open a door?",
+      "answer": "The skill required to force open a door is STR."
+    }
+  ]
+}

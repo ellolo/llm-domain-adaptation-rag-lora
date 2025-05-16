@@ -1,0 +1,85 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines various mind control spells in a fictional system, including Domination of the Will, Mindblast, Mind Exchange, and Mind Transfer. These spells allow the caster to influence or control the target's mind, with varying costs in magic points and Sanity points. The effectiveness of these spells depends on the caster's POW roll against the target's, with additional requirements for more extreme suggestions or for casting on investigators. The costs and effects of these spells also vary depending on the target's INT and the caster's own INT.",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum number of magic points required for ordinary unthreatening suggestions?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the effect of using the spell on an investigator?",
+      "answer": "The effects last for 1 round for each point of INT the caster possesses"
+    },
+    {
+      "question": "What are the costs of using the 'Dangerous' spell?",
+      "answer": "15 magic points and 3D3 Sanity points."
+    },
+    {
+      "question": "What happens if the caster fails the 'Dangerous' spell?",
+      "answer": "The spell is broken."
+    },
+    {
+      "question": "What is the cost of the 'Mindblast' spell?",
+      "answer": "10 magic points; 1D3 Sanity points"
+    },
+    {
+      "question": "What must the caster do to make the 'Mindblast' spell take effect?",
+      "answer": "Succeed in an opposed POW roll with the target."
+    },
+    {
+      "question": "What happens if the caster fails the spell?",
+      "answer": "The spell is broken."
+    },
+    {
+      "question": "What is the target affected by, and for how long?",
+      "answer": "The target suffers from temporary insanity, beginning with a bout of madness, and may continue to suffer from flashbacks and/or nightmares for days following."
+    },
+    {
+      "question": "What is the minimum magic points cost of the Mind Exchange spell?",
+      "answer": "10+1D6 magic points"
+    },
+    {
+      "question": "How long does the Mind Exchange spell take to cast?",
+      "answer": "1 hour"
+    },
+    {
+      "question": "What is required for the spell Mind Exchange to take effect?",
+      "answer": "The caster must succeed in an opposed POW roll with the target."
+    },
+    {
+      "question": "What is the initial Sanity point cost of the spell Mind Exchange?",
+      "answer": "1D3 Sanity points"
+    },
+    {
+      "question": "What is the initial magic point cost of the spell Mind Exchange?",
+      "answer": "10+1D6 magic points"
+    },
+    {
+      "question": "How long does the casting time of the spell Mind Exchange take?",
+      "answer": "1 hour"
+    },
+    {
+      "question": "What happens to the cost of casting the spell after each casting?",
+      "answer": "The cost goes down 1 magic point per casting until it reaches 1, where it remains."
+    },
+    {
+      "question": "What must the target know or feel about the spell caster for the spell to take effect?",
+      "answer": "The target must know the spell caster and love or strongly favor him or her."
+    },
+    {
+      "question": "What is the initial limitation on the spell caster's stay inside the target's body?",
+      "answer": "A few minutes"
+    },
+    {
+      "question": "What happens to the opposed POW roll requirement once the magic point cost for casting the spell has been reduced to 1?",
+      "answer": "It is no longer required"
+    },
+    {
+      "question": "At what cost can the spell caster stay inside the target's body indefinitely?",
+      "answer": "10 magic points"
+    },
+    {
+      "question": "What is an alternative name for the Mind Transfer spell?",
+      "answer": "Vice Versa Incantation"
+    }
+  ]
+}

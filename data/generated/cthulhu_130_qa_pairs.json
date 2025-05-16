@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, administering successful first aid is crucial for saving characters from death. To do so, players must make a CON (constitution) roll at the end of each round, with failure resulting in death. Major wound healing requires a CON roll at the end of each week, with success healing a set amount of hit points and potentially erasing the wound marker. The game also allows for variations in healing, such as bonus dice for well-cared-for patients or penalty dice for poor conditions.",
+  "qa_pairs": [
+    {
+      "question": "Can successful First Aid be administered by someone?",
+      "answer": "No"
+    },
+    {
+      "question": "What is the penalty for failing the CON roll for Major Wound Healing?",
+      "answer": "Death"
+    },
+    {
+      "question": "How often does a CON roll need to be made for Major Wound Healing?",
+      "answer": "At the end of each week"
+    },
+    {
+      "question": "How much hit points do extreme success heal in Major Wound Healing?",
+      "answer": "2D3"
+    },
+    {
+      "question": "How often does a CON roll need to be made for Major Wound Healing with a bonus die?",
+      "answer": "At the end of every hour"
+    },
+    {
+      "question": "What happens to Harvey's recovery roll if he has complete rest?",
+      "answer": "He gains two bonus dice and rolls a Hard success"
+    },
+    {
+      "question": "What is the maximum hit points for Harvey after recovery?",
+      "answer": "15 hit points"
+    },
+    {
+      "question": "What is the result of Cecil's recovery roll at the end of week one?",
+      "answer": "He rolls a fumble with one penalty die"
+    },
+    {
+      "question": "What happens if Cecil's infection is not treated promptly?",
+      "answer": "It may kill him"
+    },
+    {
+      "question": "How many hit points does Cecil recover in week three?",
+      "answer": "5 hit points (2D3)"
+    },
+    {
+      "question": "What happens when Cecil rolls a fumble in his recovery roll?",
+      "answer": "The Keeper decides the wound has become infected and that the lower arm is swollen and painful; medical treatment is required promptly or the infection may kill him."
+    },
+    {
+      "question": "Can a character remain conscious in Call of Cthulhu, and if so, under what conditions?",
+      "answer": "A character may be incapacitated rather than fully unconscious, and they may stay conscious if the Keeper wishes."
+    },
+    {
+      "question": "What determines when a character's death occurs?",
+      "answer": "The Keeper decides."
+    },
+    {
+      "question": "Can a character die in a dramatic moment after losing consciousness?",
+      "answer": "Yes, the light in a character's eyes might not go out until after a particularly dramatic moment or once their final words have been uttered."
+    },
+    {
+      "question": "What happens to Cecil if the infection is not treated promptly?",
+      "answer": "The infection may kill him."
+    },
+    {
+      "question": "When does the Keeper decide medical treatment is required?",
+      "answer": "When the wound has become infected and the lower arm is swollen and painful."
+    },
+    {
+      "question": "What happens if a character is incapacitated rather than fully unconscious?",
+      "answer": "A character may not experience final death immediately."
+    },
+    {
+      "question": "How does the Keeper determine the amount of damage caused by an event?",
+      "answer": "By rating the likely injury against the left-hand column on Table III: Other Forms of Damage."
+    },
+    {
+      "question": "What determines when a character's light goes out?",
+      "answer": "After a character's final words have been uttered, at the Keeper's discretion."
+    },
+    {
+      "question": "What should the Keeper consider when determining the amount of damage?",
+      "answer": "The likely injury."
+    },
+    {
+      "question": "What can happen to a character in Call of Cthulhu if the Keeper wishes?",
+      "answer": "A character may be incapacitated rather than fully unconscious."
+    },
+    {
+      "question": "What is not required for final death in the game?",
+      "answer": "It doesn't have to occur instantaneously."
+    },
+    {
+      "question": "What column should the Keeper use to rate damage caused by random events?",
+      "answer": "Table III: Other Forms of Damage."
+    },
+    {
+      "question": "How should the Keeper determine the likely injury from a random event?",
+      "answer": "Consider the likely injury."
+    },
+    {
+      "question": "Can the Keeper limit the amount of damage caused by random events?",
+      "answer": "No, consider the likely injury and rate it against the left-hand column."
+    }
+  ]
+}

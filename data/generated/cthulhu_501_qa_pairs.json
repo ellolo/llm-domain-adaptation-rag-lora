@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game of Call of Cthulhu, combat is resolved through a series of rolls and checks, with the attacker and defender making opposed rolls to determine the outcome of an attack. The combat flow chart outlines the order of attack, the resolution of attacks, and the rules for dodging, fighting back, and maneuvering. Additionally, the game includes rules for dealing with damage, including the effects of a Major Wound, which can be healed or worsened over time. The game also includes rules for chases, where fleeing characters or vehicles are pursued by pursuers.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the CON roll is a critical success in certain circumstances?",
+      "answer": "The poison's effects can be shaken off."
+    },
+    {
+      "question": "Who goes first in DEX Order?",
+      "answer": "Highest ranked individuals"
+    },
+    {
+      "question": "What is the highest level of success required to win in a Fight Back roll?",
+      "answer": "Highest level of success"
+    },
+    {
+      "question": "What happens if both the attacker and defender fail in a DEX order roll?",
+      "answer": "No damage is inflicted."
+    },
+    {
+      "question": "Can combat rolls be Pushed?",
+      "answer": "No, combat rolls cannot be Pushed."
+    },
+    {
+      "question": "In what situation does a Maneuver resolve?",
+      "answer": "Instead of inflicting damage, apply the effect of maneuver."
+    },
+    {
+      "question": "What is the condition for a draw in the game?",
+      "answer": "Both characters fail to inflict damage."
+    },
+    {
+      "question": "Who wins in a draw?",
+      "answer": "The initiator wins."
+    },
+    {
+      "question": "What happens if a character is outnumbered?",
+      "answer": "All subsequent attacks on them receive 1 Bonus die."
+    },
+    {
+      "question": "How does a character with multiple attacks handle being outnumbered?",
+      "answer": "They can Dodge/Fight Back as many times as they have attacks before the Outnumbered rule applies."
+    },
+    {
+      "question": "What is the penalty for a maneuver if the initiator is smaller?",
+      "answer": "1 Penalty die for each point difference."
+    },
+    {
+      "question": "What is the condition for a maneuver to be impossible?",
+      "answer": "If the difference is 3 or more, Maneuver is impossible."
+    },
+    {
+      "question": "What is the effect of Medicine on a character's hit points?",
+      "answer": "Heal 1D3 points"
+    },
+    {
+      "question": "What is the effect of First Aid on a character's hit points?",
+      "answer": "Heal 1 point"
+    },
+    {
+      "question": "What happens if a character's hit points fall to zero?",
+      "answer": "The character dies"
+    },
+    {
+      "question": "What is the effect of a Major Wound on a character's health?",
+      "answer": "The character is unconscious"
+    },
+    {
+      "question": "How often must a character take a CON roll?",
+      "answer": "Every round, including the round after falling unconscious"
+    },
+    {
+      "question": "What happens if a character fails a CON roll to stop dying?",
+      "answer": "The character dies"
+    },
+    {
+      "question": "How often do players make a CON roll?",
+      "answer": "At the end of each hour."
+    },
+    {
+      "question": "What happens if a CON roll fails?",
+      "answer": "No healing."
+    },
+    {
+      "question": "What is the reward for extreme success in healing a Major Wound?",
+      "answer": "Heal 2D3 hit points and erase Major Wound."
+    },
+    {
+      "question": "What is the effect of a bonus die in Major Wound healing?",
+      "answer": "Heal +1D3 hit points."
+    },
+    {
+      "question": "How often do players make a Recovery roll?",
+      "answer": "At the end of each week."
+    },
+    {
+      "question": "What is the effect of a penalty die in Major Wound healing?",
+      "answer": "Heal -1D3 hit points."
+    }
+  ]
+}

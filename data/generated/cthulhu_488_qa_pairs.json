@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a catalog or inventory list for various firearms, combat equipment, and hand-to-hand weapons. The list includes items such as ammunition, signal guns, and firearms like .22 Long Rifle, .30-06 Rifle, and 9mm Parabellum, with prices ranging from $15 to $1,000. The document also includes a table listing various hand-to-hand weapons, including their damage, range, and uses, with examples such as brass knuckles, bullwhips, and nunchaku. The prices and details suggest a focus on military or tactical equipment, possibly for a role-playing game or simulation.",
+  "qa_pairs": [
+    {
+      "question": "How much does a .22 Long Rifle ammunition cost?",
+      "answer": "$24.00"
+    },
+    {
+      "question": "What is the cost of 10-Gauge Shell?",
+      "answer": "$30.00"
+    },
+    {
+      "question": "How much does a Laser Gunsight cost?",
+      "answer": "$300.00"
+    },
+    {
+      "question": "What is the cost of 12-Gauge Shell?",
+      "answer": "$26.00"
+    },
+    {
+      "question": "How much does a 5.56mm ammunition cost?",
+      "answer": "$12.00"
+    },
+    {
+      "question": "What is the cost of 9mm Parabellum ammunition?",
+      "answer": "$39.00"
+    },
+    {
+      "question": "How much does a Hand-Held Taser cost?",
+      "answer": "$50.00"
+    },
+    {
+      "question": "What is the cost of Aluminum Knuckles?",
+      "answer": "$20.00"
+    },
+    {
+      "question": "What is the damage type for a Bullwhip?",
+      "answer": "Touch"
+    },
+    {
+      "question": "What is the base range for a Crossbow?",
+      "answer": "30 yards"
+    },
+    {
+      "question": "What is the damage type for a Chainsaw?",
+      "answer": "Touch"
+    },
+    {
+      "question": "What is the damage type for a Live Wire, 220-volt charge?",
+      "answer": "Touch"
+    },
+    {
+      "question": "What is the damage type for a Mace Spray?",
+      "answer": "Touch"
+    },
+    {
+      "question": "What is the damage type for a Nunchaku?",
+      "answer": "Touch"
+    },
+    {
+      "question": "What is the damage type for a Garrote?",
+      "answer": "Touch"
+    },
+    {
+      "question": "What is the damage type for a Firearm (Bow)?",
+      "answer": "Touch"
+    },
+    {
+      "question": "How many times is the action 'Fighting' or 'Brawl' repeated in the text?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the effect of a 'Flail' attack in the text?",
+      "answer": "2D8+Stun"
+    },
+    {
+      "question": "What is the damage roll for 'Touch' attacks with a 1D8+DB?",
+      "answer": "1D8+DB"
+    },
+    {
+      "question": "What is the damage roll for 'Touch' attacks with a 1D4+2+DB?",
+      "answer": "1D4+2+DB"
+    },
+    {
+      "question": "What is the damage roll for 'Touch' attacks with a 1D4+DB?",
+      "answer": "1D4+DB"
+    },
+    {
+      "question": "What is the effect of a 'Stun' attack in the text?",
+      "answer": "2D8+Stun"
+    },
+    {
+      "question": "How long is the range of 'Touch' attacks in the text?",
+      "answer": "6 feet"
+    },
+    {
+      "question": "What is the damage roll for 'Throw' attacks in the text?",
+      "answer": "1D4+half DB"
+    }
+  ]
+}

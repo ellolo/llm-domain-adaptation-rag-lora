@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nWhen a character is attacked, they can either fight back, dodge, or be caught off guard. If the character fights back, they roll percentile dice and compare their Fighting skill to the attacker's, with the better roll determining the outcome. If the character dodges, they also roll percentile dice and compare their Dodge skill to the attacker's, with the better roll determining the outcome. The amount of damage inflicted depends on the success of the roll and the type of attack, with extreme success resulting in maximum damage or impaling.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the character chooses to fight back?",
+      "answer": "Use the target's Fighting skill to oppose the attacker's Fighting skill."
+    },
+    {
+      "question": "What happens if the attacker achieves a higher level of success?",
+      "answer": "Deals damage to their target."
+    },
+    {
+      "question": "What should the character do if the target is neither fighting back nor dodging?",
+      "answer": "Refer to surprise attacks on page 106."
+    },
+    {
+      "question": "What happens if both sides achieve the same level of success?",
+      "answer": "The character initiating the attack hits the character that is fighting back, inflicting damage."
+    },
+    {
+      "question": "What happens if both sides achieve the same level of success?",
+      "answer": "The character initiating the attack hits the character that is fighting back, inflicting damage."
+    },
+    {
+      "question": "What happens if the attacker achieves a higher level of success?",
+      "answer": "The attacker deals damage to their target."
+    },
+    {
+      "question": "What happens if the defender achieves a higher level of success?",
+      "answer": "The defender has successfully blocked, parried or avoided the attacker's blows and simultaneously landed a blow of their own upon their attacker, inflicting damage."
+    },
+    {
+      "question": "What happens if both sides fail to achieve a higher level of success?",
+      "answer": "No damage is inflicted."
+    },
+    {
+      "question": "What is the Fighting (Brawling) skill of the cultist?",
+      "answer": "70%"
+    },
+    {
+      "question": "Why does the cultist act first in a fighting attack?",
+      "answer": "Because the cultist's Fighting (Brawling) skill is 70%, which is far higher than Harvey's."
+    },
+    {
+      "question": "What happens if the attacker gains a higher level of success?",
+      "answer": "The attack is successful and the attacker inflicts damage on the loser."
+    },
+    {
+      "question": "What happens if both sides achieve the same level of success?",
+      "answer": "The character dodging wins and evades the attack."
+    },
+    {
+      "question": "What determines the amount of damage an attack delivers?",
+      "answer": "Table XVII: Weapons (pages 401-405)."
+    },
+    {
+      "question": "What is the case when the defender achieves a higher level of success?",
+      "answer": "The defender has dodged the attack and takes no damage."
+    },
+    {
+      "question": "What happens if both sides achieve the same level of success?",
+      "answer": "The character dodging wins and evades the attack."
+    },
+    {
+      "question": "What happens if the defender achieves a higher level of success?",
+      "answer": "The defender has dodged the attack and takes no damage."
+    },
+    {
+      "question": "What happens in the case of a draw?",
+      "answer": "The defender wins (when the defender is dodging)."
+    },
+    {
+      "question": "What determines the amount of damage an attack delivers?",
+      "answer": "Table XVII: Weapons (pages 401-405)"
+    },
+    {
+      "question": "What is the condition for greater damage to be inflicted?",
+      "answer": "If the attacker gains an Extreme level of success in their attack."
+    },
+    {
+      "question": "What happens when an attacker achieves Extreme success with a non-impaling weapon?",
+      "answer": "They have hit a weak spot and caused maximum damage."
+    },
+    {
+      "question": "What happens when an attacker achieves Extreme success with a penetrating weapon?",
+      "answer": "An impale has been inflicted."
+    },
+    {
+      "question": "Can a character fight back and inflict damage?",
+      "answer": "No, each character gets one moment in the spotlight each round to make an outstanding attack."
+    }
+  ]
+}

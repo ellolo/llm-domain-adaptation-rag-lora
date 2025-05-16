@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Cthulhu Mythos system allows characters to gain temporary increases in Power (POW) through various means, such as casting successful spells, exercising POW, or receiving gifts from Mythos deities. This increase in POW can be permanent if the character rolls a high percentile dice result. The system also introduces the concept of non-Mythos magic, which can be significant in the game but requires the Keeper's approval and may have different mechanics and procedures. Additionally, the system includes optional rules, such as the Spontaneous Use of the Cthulhu Mythos Skill, which allows characters to improvise magical effects.",
+  "qa_pairs": [
+    {
+      "question": "Where does the Power (POW) come from?",
+      "answer": "When a character successfully casts a spell requiring an opposed POW roll to affect the target."
+    },
+    {
+      "question": "What is the condition for POW to increase permanently?",
+      "answer": "If the result of a 1D100 roll is greater than the caster\u2019s POW (or the roll is 96 or greater)."
+    },
+    {
+      "question": "How does POW increase in the case of a Luck roll result of 01?",
+      "answer": "POW can be said to have been exercised."
+    },
+    {
+      "question": "What is the specific condition for POW to increase by 1D10 points permanently in the case of a Luck roll result of 01?",
+      "answer": "Roll the percentile dice and if the roll is greater than the character\u2019s POW, or if the roll is 96 or greater."
+    },
+    {
+      "question": "What happens if the caster wins the opposed POW roll?",
+      "answer": "A subsequent roll to increase his or her POW may be attempted."
+    },
+    {
+      "question": "Under what condition can POW be said to have been exercised?",
+      "answer": "For any Luck roll result of 01."
+    },
+    {
+      "question": "What is the permanent increase in POW if the caster succeeds on a subsequent roll to increase POW?",
+      "answer": "1D10 points permanently."
+    },
+    {
+      "question": "What is the condition for POW to be said to have been exercised if the roll is 96 or greater?",
+      "answer": "The character\u2019s POW increases by 1D10 points permanently."
+    },
+    {
+      "question": "What is the condition for a character's POW to increase by 1D10 points?",
+      "answer": "The character's POW increases by 1D10 points if the roll is greater than the character\u2019s POW, or if the roll is 96 or greater."
+    },
+    {
+      "question": "Who can grant a character an increase in their POW?",
+      "answer": "A character may be able to arrange a gift or a trade for POW from some Mythos deity."
+    },
+    {
+      "question": "What effect does Ernest's reading have on his Sanity points?",
+      "answer": "Ernest loses no Sanity points as a result of his reading."
+    },
+    {
+      "question": "How many points of Cthulhu Mythos skill does Ernest receive after reading the Cultes des Goules?",
+      "answer": "Ernest receives +4 points of Cthulhu Mythos skill."
+    },
+    {
+      "question": "What happens to Ernest's Sanity points after reading the tome?",
+      "answer": "Ernest loses no Sanity points as a result of his reading."
+    },
+    {
+      "question": "What is Ernest required to lose Sanity points equal to after encountering the ghoul?",
+      "answer": "Ernest must also lose Sanity points equal to his present Cthulhu Mythos skill."
+    },
+    {
+      "question": "What is the total Sanity point loss Ernest suffers?",
+      "answer": "Ernest loses 6 Sanity points."
+    },
+    {
+      "question": "What happens to Ernest after failing his Sanity roll and passing his Intelligence roll?",
+      "answer": "Ernest passes his Intelligence roll and goes temporarily insane."
+    },
+    {
+      "question": "What happens to Ernest's Sanity points as a result of reading the tome?",
+      "answer": "Ernest loses no Sanity points as a result of his reading."
+    },
+    {
+      "question": "How many Sanity points does Ernest lose in total?",
+      "answer": "Ernest loses 6 Sanity points."
+    },
+    {
+      "question": "What happens to Ernest if he fails his Sanity roll after encountering a ghoul?",
+      "answer": "Ernest must also lose Sanity points equal to his present Cthulhu Mythos skill."
+    },
+    {
+      "question": "Does increasing Power affect Ernest's current Sanity points?",
+      "answer": "Increasing Power does not increase current Sanity points."
+    },
+    {
+      "question": "What determines the validity of earthly 'magick' in the game?",
+      "answer": "The Keeper, possibly in discussion with the player group."
+    },
+    {
+      "question": "How should mechanics and procedures for non-Mythos magic differ from those for Mythos magic?",
+      "answer": "The means and aims of earthly magic will greatly differ."
+    },
+    {
+      "question": "Is non-Mythos magic suggested to be tied to a specific skill?",
+      "answer": "The Occult skill."
+    },
+    {
+      "question": "What must be paid for horrific deeds in the game?",
+      "answer": "Sanity points."
+    }
+  ]
+}

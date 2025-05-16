@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for handling chases and hazards in a game are outlined. When a character is in a chase, they can attempt to navigate through the crowd or environment, using skill rolls to determine their success. The Keeper can use various guidelines to determine the success of these rolls, including the character's abilities, the environment, and the monster's or NPC's abilities. Additionally, rules are provided for handling vehicular collisions, where the damage and casualties can be determined using a table and rolling dice.",
+  "qa_pairs": [
+    {
+      "question": "What happens if Harvey fails his DEX roll to weave through the crowd?",
+      "answer": "Harvey will be slowed for 1D3 movement actions."
+    },
+    {
+      "question": "What must Harvey do to avoid taking damage from the crowd?",
+      "answer": "Harvey must fumble the roll to take damage."
+    },
+    {
+      "question": "What happens after Harvey fires his pistol into the air?",
+      "answer": "The crowd scatters and there is no longer a hazard."
+    },
+    {
+      "question": "What occurs if characters in a chase split up?",
+      "answer": "You now have an additional chase to track."
+    },
+    {
+      "question": "Are all monsters and animals affected by chases in the same way?",
+      "answer": "No, some monsters and animals exempt themselves from certain skill rolls."
+    },
+    {
+      "question": "What are the general guidelines for determining monster and non-player character skill values during a chase?",
+      "answer": "The Keeper should use half of their DEX in place of the skill, one-fifth of their DEX in place of the skill, or their DEX in place of the skill, depending on the monster or non-player character's implied aptitude, ineptitude, or lack thereof."
+    },
+    {
+      "question": "How do monsters and non-player characters with an implied ineptitude handle skill rolls during a chase?",
+      "answer": "They use one-fifth of their DEX in place of the skill, or simply rule the attempt to be an automatic failure."
+    },
+    {
+      "question": "What is the case when a monster or non-player character has neither implied aptitude nor ineptitude during a chase?",
+      "answer": "The Keeper uses half of their DEX in place of the skill."
+    },
+    {
+      "question": "What is the implication of a monster flying during a chase?",
+      "answer": "They would not need to make Jump or Climb rolls."
+    },
+    {
+      "question": "What should the Keeper do when a monster or non-player character lacks listed values for a skill during a chase?",
+      "answer": "The Keeper should use the above guidelines as a guide to determine the character's skill value."
+    },
+    {
+      "question": "What skill might be used to determine the Spot Hidden skill of a monster without a listed skill?",
+      "answer": "INT"
+    },
+    {
+      "question": "How might the Swim skill be determined for Gnoph-keh, considering they are somewhat like giant polar bears?",
+      "answer": "DEX"
+    },
+    {
+      "question": "What is the rule for determining the Swim skill of ghouls, if they make poor swimmers?",
+      "answer": "One-fifth of their DEX"
+    },
+    {
+      "question": "What is the purpose of the 'Fleeing the Scene' scene in the game?",
+      "answer": "To gauge how far the investigators manage to flee in a limited time"
+    },
+    {
+      "question": "How are the chase rules used in the 'Fleeing the Scene' scene?",
+      "answer": "Counting the number of locations moved within a specified number of rounds"
+    },
+    {
+      "question": "What is the rule for awarding a Swim skill to ghouls?",
+      "answer": "a Swim skill equal to one-fifth of their DEX"
+    },
+    {
+      "question": "What table is used to rate the damage caused by vehicular collisions?",
+      "answer": "Table VI: Vehicular Colli-sions"
+    },
+    {
+      "question": "How do investigators fare in a scene where they need to gauge how far they flee?",
+      "answer": "The chase rules can be used for this"
+    },
+    {
+      "question": "What ratings are used for hazards of different difficulty levels?",
+      "answer": "\u201cminor incident\u201d for Regular difficulty level hazard, \u201cmoderate incident\u201d for Hard difficulty level hazard, or \u201csevere incident\u201d for Extreme difficulty level hazards"
+    },
+    {
+      "question": "What happens when a skill roll to negotiate a hazard is failed?",
+      "answer": "The Keeper must consider the cause and the likely damage"
+    },
+    {
+      "question": "What happens when a Keeper fails to negotiate a hazard?",
+      "answer": "The Keeper must consider the cause and the likely damage"
+    },
+    {
+      "question": "What is the default damage rating for a Regular difficulty level hazard?",
+      "answer": "A 'minor incident'"
+    },
+    {
+      "question": "How is damage rolled for each occupant of a vehicle involved in a collision?",
+      "answer": "As '1D6 hit points' in place of 'build'"
+    },
+    {
+      "question": "What is the damage rating for a car in a Hard difficulty level hazard?",
+      "answer": "1D6 'build' damage"
+    },
+    {
+      "question": "What is the default damage rating for a car in a Moderate incident?",
+      "answer": "1D6 'build' damage"
+    }
+  ]
+}

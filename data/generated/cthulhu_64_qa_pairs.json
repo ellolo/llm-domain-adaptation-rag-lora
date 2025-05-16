@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this game, First Aid is a crucial skill that can save a dying character's life, but only if administered by a successful roll. The skill is opposed by Regular difficulty, and pushing examples can make the situation worse, causing additional damage. If the character survives, they must receive a successful Medicine roll to recover fully. Additionally, the game includes other skills such as Hypnosis, which can induce a trancelike state and reduce mental trauma, and History, which can help recall important information.",
+  "qa_pairs": [
+    {
+      "question": "What happens to a character if they fail a CON roll while receiving First Aid?",
+      "answer": "The character is dying and must make a CON roll per round thereafter to stave-off death."
+    },
+    {
+      "question": "What skill can save the life of a dying character after First Aid?",
+      "answer": "A successful Medicine roll or being hospitalized."
+    },
+    {
+      "question": "Is Administering First Aid to an alien being considered of Regular difficulty level?",
+      "answer": "Yes, it is always of Regular difficulty level."
+    },
+    {
+      "question": "Can First Aid be continued indefinitely?",
+      "answer": "No, it can be continued without constituting a Pushed roll until stabilization or death."
+    },
+    {
+      "question": "What is an important skill to have alongside Medicine to be an effective medic?",
+      "answer": "First Aid"
+    },
+    {
+      "question": "How does the difficulty level change when treating an unfamiliar alien being?",
+      "answer": "Higher"
+    },
+    {
+      "question": "What is the regular difficulty level for administering First Aid to a fellow human?",
+      "answer": "Regular difficulty level"
+    },
+    {
+      "question": "What is the consequence of an insane investigator failing a pushed roll?",
+      "answer": "Feels compelled to 'heal' the person, potentially leading to murder"
+    },
+    {
+      "question": "What skill enables an investigator to remember the significance of a country, city, region, or person?",
+      "answer": "History"
+    },
+    {
+      "question": "What is the difficulty level for administering First Aid to an alien being whose physiology is unfamiliar?",
+      "answer": "Higher"
+    },
+    {
+      "question": "What constitutes physical attacks in the context of the text?",
+      "answer": "In effect, their endeavors constitute physical attacks which may lead to murder if they are not stopped."
+    },
+    {
+      "question": "What is the opposing skill/difficulty level to recall some pertinent and useful information?",
+      "answer": "i Regular difficulty: to recall some pertinent and useful information."
+    },
+    {
+      "question": "What happens if you fail a Pushed roll?",
+      "answer": "Sample Consequences of failing a Pushed roll: consultations alert your adversaries, who become aware of your intent; your facts are erroneous and lead you into danger; much time and money is wasted on fruitless research."
+    },
+    {
+      "question": "What is a successful roll in the context of the text?",
+      "answer": "A successful roll might be used to help identify tools, techniques, or ideas familiar to ancestors, but little known today."
+    },
+    {
+      "question": "What happens if an investigator fails a pushed roll under hypnosis?",
+      "answer": "They are convinced they are displaced in time or living in a historic period."
+    },
+    {
+      "question": "What is the effect of hypnosis on a willing target?",
+      "answer": "They experience heightened suggestibility, relaxation, and possible recall of forgotten memories."
+    },
+    {
+      "question": "How common is the Hypnosis ability?",
+      "answer": "It is Uncommon."
+    },
+    {
+      "question": "Can the Hypnosis ability be used on unwilling targets?",
+      "answer": "This is decided by the Keeper to fit their game."
+    },
+    {
+      "question": "What is the skill used for?",
+      "answer": "hypnotherapy"
+    },
+    {
+      "question": "Who can determine the minimum number of hypnotherapy sessions needed to cure someone?",
+      "answer": "the Keeper"
+    },
+    {
+      "question": "What is the minimum number of hypnotherapy sessions needed to cure someone of a phobia?",
+      "answer": "minimum of 1D6 sessions"
+    },
+    {
+      "question": "What is the opposition to hypnosis?",
+      "answer": "Psychology or POW"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for updating an investigator's Credit Rating are outlined. The Credit Rating is influenced by changes in the investigator's income, assets, and employment status. A Credit Rating of 57 indicates that the investigator is now within the 'wealthy' income bracket. The document also provides guidelines for updating the investigator's cash and assets, as well as for handling significant life events such as job loss, divorce, or financial setbacks.",
+  "qa_pairs": [
+    {
+      "question": "How much money does Harvey have to reach the 'wealthy' bracket?",
+      "answer": "$30,000"
+    },
+    {
+      "question": "What is Harvey's initial Credit Rating?",
+      "answer": "41"
+    },
+    {
+      "question": "What is the initial Credit Rating of the investigator?",
+      "answer": "48"
+    },
+    {
+      "question": "How does the investigator's Credit Rating change if they are promoted?",
+      "answer": "Add 1D6 Credit Rating"
+    },
+    {
+      "question": "What happens to the investigator's Credit Rating when they are promoted?",
+      "answer": "The investigator's Credit Rating should rise accordingly (add 1D6 Credit Rating)."
+    },
+    {
+      "question": "How much does the investigator's Credit Rating decrease when they lose their main source of income?",
+      "answer": "The investigator's Credit Rating decreases by 2D10 with each following investigator development phase."
+    },
+    {
+      "question": "What is the minimum Credit Rating if the investigator has a state safety net?",
+      "answer": "The minimum Credit Rating will be 1D10-1."
+    },
+    {
+      "question": "How does the investigator's Credit Rating decrease if they are demoted or take a period of unpaid leave?",
+      "answer": "The investigator's Credit Rating decreases by 1D10."
+    },
+    {
+      "question": "What happens to an investigator's Credit Rating if there is a state safety net?",
+      "answer": "The minimum Credit Rating will be 1D10-1."
+    },
+    {
+      "question": "How much does an investigator's Credit Rating decrease in the event of a dramatic decline in character's fortunes?",
+      "answer": "The investigator must reduce his or her Credit Rating by 1D100."
+    },
+    {
+      "question": "What does a Credit Rating of zero indicate?",
+      "answer": "That either the investigator is offered another job immediately or that they secreted money away somewhere safe."
+    },
+    {
+      "question": "How does the lowest Credit Rating function?",
+      "answer": "It indicates that the lowest Credit Rating is zero\u2014negative numbers are ignored."
+    },
+    {
+      "question": "What must the investigator reduce their Credit Rating by?",
+      "answer": "1D100"
+    },
+    {
+      "question": "What happens if an investigator's Credit Rating withstands the loss?",
+      "answer": "Either the investigator is offered another job immediately or they secreted money away"
+    },
+    {
+      "question": "What can affect an investigator's asset value?",
+      "answer": "A change in their Credit Rating score."
+    },
+    {
+      "question": "What happened to Harvey's finances at the end of the adventure?",
+      "answer": "They were depleted."
+    }
+  ]
+}

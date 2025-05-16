@@ -1,0 +1,69 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes various magical gates and spells in a fantasy setting, specifically in the context of the Call of Cthulhu role-playing game. These gates can be used for travel, exploration, or even time travel, and come with various costs and risks, including magic points, sanity points, and potential consequences. The document outlines several spells and incantations that can be used to create, activate, and navigate these gates, including the \"Find Gate\" spell, the \"Gate Boxes\" spell, and the \"Time Gate\" spell. These spells can be used to traverse time, space, and dimensions, but also come with risks and uncertainties.",
+  "qa_pairs": [
+    {
+      "question": "What is the cost of using the Gate in terms of magic points?",
+      "answer": "one-fifth of the POW originally used to make the Gate"
+    },
+    {
+      "question": "What happens to the user if they lack enough magic points for a trip through a Gate?",
+      "answer": "the traveler expends hit points to make up the cost"
+    },
+    {
+      "question": "What is the cost of the 'Find Gate' spell?",
+      "answer": "1 magic point; 1D3 Sanity points"
+    },
+    {
+      "question": "How long does the 'Find Gate' spell take to cast?",
+      "answer": "20-60 minutes"
+    },
+    {
+      "question": "What does the 'Find Gate' spell reveal to the caster?",
+      "answer": "any Gate if it is within the caster\u2019s direct vision"
+    },
+    {
+      "question": "What is the cost of the 'Gate Boxes' spell?",
+      "answer": "1 POW; variable magic points and Sanity points"
+    },
+    {
+      "question": "What is the cost of casting a Gate Box spell?",
+      "answer": "1 POW"
+    },
+    {
+      "question": "How long does the ritual for creating a Gate Box take?",
+      "answer": "5 hours"
+    },
+    {
+      "question": "What happens to the boxes' magic points each day?",
+      "answer": "They drain half of the creator's Magic points each day"
+    },
+    {
+      "question": "What is the condition for the boxes to become operative?",
+      "answer": "When they have absorbed magic points equal to their total SIZ x 20"
+    },
+    {
+      "question": "What is the casting time for the Time Gate spell?",
+      "answer": "One hour per POW spent"
+    },
+    {
+      "question": "What happens to the person stepping through the Time Gate doorway?",
+      "answer": "They need to sacrifice 1 Sanity point"
+    },
+    {
+      "question": "What happens if the Gate is used without the caster's assistance?",
+      "answer": "Those foolish enough to use the Gate unassisted by the caster will be unable to determine the correct path and could arrive at any of the times the Gate is keyed to (roll randomly)."
+    },
+    {
+      "question": "How does the Gate Creation spell cost compared to Create Gate?",
+      "answer": "The spell costs POW for the number of years travelled rather than the number of miles journeyed."
+    },
+    {
+      "question": "What is the accuracy of the Gate in determining the desired time?",
+      "answer": "The spell only yields a time approximate to that desired."
+    },
+    {
+      "question": "What happens to the exact time interval between 'now' and 'then' once a Gate is created?",
+      "answer": "The exact interval between 'now' and 'then' remains the same."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game system, investigators can encounter various challenges and obstacles, including physical challenges, skill checks, and external events. When a character attempts to overcome an obstacle, they may roll a skill check, which can result in a success, failure, or fumble. A fumble is an unusual and unfortunate event that can have significant consequences, while a critical success is a rare and beneficial outcome that can provide additional benefits. The game system also includes a luck mechanic, which can be used to determine the outcome of events outside of the investigators' control.",
+  "qa_pairs": [
+    {
+      "question": "What will constitute a pushed skill roll in this situation?",
+      "answer": "A failed attempt to lift the rafter"
+    },
+    {
+      "question": "How many successes were needed to lift the rafter?",
+      "answer": "One success"
+    },
+    {
+      "question": "What determines the difficulty level of a skill roll after reducing an opponent's characteristic?",
+      "answer": "An Extreme, Hard, or Regular difficulty level, as determined by the new value of the opposing characteristic."
+    },
+    {
+      "question": "Can a skill roll be avoided by reducing an opponent's characteristic to zero or lower?",
+      "answer": "No, a skill roll is always required."
+    },
+    {
+      "question": "What is the rule about physical challenges?",
+      "answer": "The opposition cannot be reduced to zero or lower by this method; a skill roll is always required."
+    },
+    {
+      "question": "What does a Critical Success in combat mean?",
+      "answer": "The attacker has hit a vulnerable spot and causes maximum damage."
+    },
+    {
+      "question": "What is the result of a critical success in combat?",
+      "answer": "The attacker has hit a vulnerable spot and causes maximum damage."
+    },
+    {
+      "question": "What is the effect of rolling a very high or very low dice roll?",
+      "answer": "Good or bad fortune for the players."
+    },
+    {
+      "question": "What determines the nature of good fortune in the game?",
+      "answer": "The Keeper's discretion, although the players may make suggestions."
+    },
+    {
+      "question": "What was Captain Marsh known for bringing back in the 1830s?",
+      "answer": "Fabled items"
+    },
+    {
+      "question": "What is a fumble in the game system?",
+      "answer": "A fumble is a misfortune that occurs when the dice roll required for success is 50 or over and the dice read 100, or when the dice roll required for success is below 50 and the dice read 96\u2014100"
+    },
+    {
+      "question": "What happens when Brian encounters a ghoul and fails his Sanity roll?",
+      "answer": "He automatically takes the maximum Sanity point loss for seeing the ghoul"
+    },
+    {
+      "question": "What is the condition for a fumble to occur when the dice roll required for success is 50 or over?",
+      "answer": "If the dice roll required for success is 50 or over and the dice read 100"
+    },
+    {
+      "question": "What is the condition for a fumble to occur when the dice roll required for success is below 50?",
+      "answer": "If the dice roll required for success is below 50 and the dice read 96\u2014100"
+    },
+    {
+      "question": "What is the highest roll required to fumble with Harvey's skill?",
+      "answer": "100"
+    },
+    {
+      "question": "What is the difficulty level required for a fumble roll when searching in the dark?",
+      "answer": "Hard (27)"
+    }
+  ]
+}

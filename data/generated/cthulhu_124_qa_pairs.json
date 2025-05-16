@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, firearms combat is governed by specific rules. When firing at a target, the attacker rolls damage for half of the shots fired, subtracting any armor from each shot. The difficulty level of the shot affects the outcome, with Extreme success guaranteeing a hit and impale, while Regular and Hard success result in a hit and partial damage. The game also allows for partial volleys, where the attacker fires fewer shots at multiple targets, to conserve ammunition and manage the difficulty level of the shot.",
+  "qa_pairs": [
+    {
+      "question": "What happens when an Extreme success attack roll is made?",
+      "answer": "all shots fired hit the target, the first half (round down, minimum of one) of which impale"
+    },
+    {
+      "question": "How many attack rolls are made for a full auto shot at normal range?",
+      "answer": "one attack roll for each volley of 6 shots"
+    },
+    {
+      "question": "What is the penalty for the second volley of 6 bullets?",
+      "answer": "a penalty die"
+    },
+    {
+      "question": "What is the penalty for the third volley of 6 bullets?",
+      "answer": "two penalty dice"
+    },
+    {
+      "question": "What is the minimum number of shots that will be impaled if an Extreme success attack roll is made?",
+      "answer": "the first half (round down, minimum of one)"
+    },
+    {
+      "question": "What is the best possible result for a shooter with a skill of 63% and Extreme difficulty level?",
+      "answer": "a successful hit"
+    },
+    {
+      "question": "What is the difficulty level for shots 19-24?",
+      "answer": "Hard"
+    },
+    {
+      "question": "What is the penalty die for the second volley of 6 bullets?",
+      "answer": "a penalty die"
+    },
+    {
+      "question": "How many shots are in each volley of 6 bullets?",
+      "answer": "6"
+    },
+    {
+      "question": "How many penalty dice are for the third volley of 6 bullets?",
+      "answer": "two"
+    },
+    {
+      "question": "How many shots would a character need to fire at each target in a partial volley?",
+      "answer": "4 shots"
+    },
+    {
+      "question": "How many penalty dice would a character have with their second attack roll?",
+      "answer": "One penalty die"
+    },
+    {
+      "question": "How many penalty dice would a character have with their third attack roll?",
+      "answer": "Two penalty dice"
+    },
+    {
+      "question": "What is the primary goal of the character with the high DEX value?",
+      "answer": "To open fire on the investigators, initiating a combat round"
+    },
+    {
+      "question": "Who are the investigators in this scenario?",
+      "answer": "Harvey, Rodger, and Cecil"
+    },
+    {
+      "question": "Why did the attacker fire only three partial volleys of 4 shots?",
+      "answer": "To conserve ammunition."
+    },
+    {
+      "question": "What was the attacker's firearm skill?",
+      "answer": "40 (Regular)"
+    },
+    {
+      "question": "What was the gangster's Dodge skill?",
+      "answer": "25 (Regular)"
+    },
+    {
+      "question": "What was the gangster's hit points?",
+      "answer": "13"
+    },
+    {
+      "question": "What was Harvey's Fighting (Brawl) skill?",
+      "answer": "25 (Regular)"
+    },
+    {
+      "question": "What is the gangster's action?",
+      "answer": "The gangster goes first, firing on his DEX +50 for using a readied firearm."
+    },
+    {
+      "question": "How many shots does the gangster fire at each investigator?",
+      "answer": "He chooses to fire 4 shots at each of the three investigators (3 volleys, 12 shots in total)."
+    },
+    {
+      "question": "How many meters are the investigators apart?",
+      "answer": "The Keeper rules that the investigators are each 3 meters apart;"
+    },
+    {
+      "question": "How many extra rounds does the gangster waste moving between his targets?",
+      "answer": "he wastes 6 extra rounds moving between his three targets (his"
+    },
+    {
+      "question": "What is the total number of shots fired by the gangster?",
+      "answer": "He fires 12 shots in total."
+    }
+  ]
+}

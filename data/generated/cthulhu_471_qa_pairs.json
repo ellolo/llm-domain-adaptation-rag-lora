@@ -1,0 +1,93 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a ruleset for a tabletop role-playing game, outlining various mechanics and concepts such as skill rolls, difficulty levels, and character attributes. Key concepts include the use of 1D100 rolls to determine success or failure, with specific thresholds for success and failure (e.g. 96-100 for automatic failure, 50 or above for automatic success). The document also defines various terms such as \"Hard success\", \"Extreme success\", and \"Insanity\", which are used to describe different levels of success or failure in the game. Additionally, it outlines rules for character healing, injury, and combat.",
+  "qa_pairs": [
+    {
+      "question": "What is an automatic failure in a Fumble result?",
+      "answer": "A Fumble result of 96\u2013100 (if the number required to pass a roll is below 50), or 100 (if the number required to pass a roll is 50 or above)"
+    },
+    {
+      "question": "What does a Half represent in the game?",
+      "answer": "One half of the skill or characteristic on 1D100"
+    },
+    {
+      "question": "What is typically handed to the players by the Keeper?",
+      "answer": "Documents or otherwise that the Keeper physically hands to the players"
+    },
+    {
+      "question": "What is a Hand-to-Hand combat style in the game?",
+      "answer": "A fighting mode or a weapon attack powered by muscle, such as a punch or sword swing"
+    },
+    {
+      "question": "What is considered an Extreme Success in the game?",
+      "answer": "A result equal to or below one-fifth of the skill or characteristic value"
+    },
+    {
+      "question": "What is the definition of Extreme Success?",
+      "answer": "An Extreme success is a result equal to or below one-fifth of the skill or characteristic value"
+    },
+    {
+      "question": "What is the definition of Hard Success?",
+      "answer": "A Hard success is a result equal to or below one-half of the skill or characteristic value"
+    },
+    {
+      "question": "How do characters recover from injuries?",
+      "answer": "If an injured character has not sustained a major wound, the character recovers 1 hit point per day; otherwise a roll must be made"
+    },
+    {
+      "question": "What is the formula for calculating a character's Hit Points (HP)?",
+      "answer": "The total of a character\u2019s CON and SIZ characteristics divided by ten (rounded down)"
+    },
+    {
+      "question": "What is the total number of hit points a character has when in full health called?",
+      "answer": "The hit point total"
+    },
+    {
+      "question": "What happens if an injured character recovers from a minor injury?",
+      "answer": "The character recovers 1 hit point per day."
+    },
+    {
+      "question": "How is the character's hit points total calculated?",
+      "answer": "The total of a character\u2019s CON and SIZ characteristics divided by ten (rounded down)."
+    },
+    {
+      "question": "Under what circumstances cannot a player roll to affect an opponent?",
+      "answer": "If the opposing character's characteristic exceeds that of the investigator by 100 or more."
+    },
+    {
+      "question": "What happens if players are unsure of what to do?",
+      "answer": "They may make an Idea roll and the Keeper will put them back on track."
+    },
+    {
+      "question": "What is the effect of a 'Major Wound' on an injured character?",
+      "answer": "A roll must be made\u2014see Major Wound."
+    },
+    {
+      "question": "What is the condition called when an investigator loses one-fifth or more of their current Sanity points in one game day?",
+      "answer": "Insanity, Indefinite"
+    },
+    {
+      "question": "What happens to an investigator when their current Sanity points reach zero?",
+      "answer": "The investigator is completely insane (perhaps permanently institutionalized) and is removed from play"
+    },
+    {
+      "question": "What is the condition called when an investigator loses 5 or more Sanity points because of a single Sanity roll?",
+      "answer": "Insanity, Temporary"
+    },
+    {
+      "question": "How does a successful Idea roll affect an investigator who has suffered emotional trauma?",
+      "answer": "The investigator fully comprehends what has been seen and goes insane for 1D10 hours"
+    },
+    {
+      "question": "What is the amount used for Extreme difficulty level, such as one-fifth of a character's skill or characteristic on 1D100?",
+      "answer": "One-fifth"
+    },
+    {
+      "question": "What is a Hazard in the context of the text?",
+      "answer": "A location in a chase that is likely to cause damage or delay"
+    },
+    {
+      "question": "What is the INT characteristic in the text?",
+      "answer": "Intelligence"
+    }
+  ]
+}

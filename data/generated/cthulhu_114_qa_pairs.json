@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this combat scenario, Harvey is ambushed by a thug while chasing a cultist in Boston. The Keeper allows Harvey to make a Spot Hidden roll to track the cultist, but Harvey fails, and the Keeper pushes the roll, allowing the thug to attack. Harvey attempts to push the thug aside and run past, but is stabbed for 6 points of damage. The Keeper then allows the thug to threaten Harvey with a knife and demand money, and Harvey surrenders his wallet. The document outlines the rules for resolving combat in this game system, including the use of skills, dice rolls, and penalties.",
+  "qa_pairs": [
+    {
+      "question": "Can the Keeper allow a skill roll to determine if a target anticipates an attack?",
+      "answer": "Yes, the Keeper may allow a skill roll to determine if a target anticipates an attack, using either Listen or Spot Hidden to hear or see it coming, or Psychology to perceive the attacker\u2019s intent."
+    },
+    {
+      "question": "Can the attacker use Stealth skill to set the difficulty level for the investigator's Listen, Spot Hidden, or Psychology skill?",
+      "answer": "Yes, the attacker can use Stealth skill to set the difficulty level for the investigator\u2019s Listen, Spot Hidden, or Psychology skill, or vice versa if the investigator is the one making the surprise attack."
+    },
+    {
+      "question": "What happens if the target fails to anticipate the attack?",
+      "answer": "The Keeper may allow the attack to be an automatic success (unless a fumble is rolled) or award the attacker a bonus die, depending on the situation."
+    },
+    {
+      "question": "Does a roll need to be made to hit with a ranged attack?",
+      "answer": "Yes, a roll should always be made to hit with a ranged attack (for example with a gun or throwing knife)."
+    },
+    {
+      "question": "What is the effect of the target anticipating the attack?",
+      "answer": "They may choose to dodge or fight back."
+    },
+    {
+      "question": "How should a ranged attack be determined?",
+      "answer": "A roll should always be made to hit."
+    },
+    {
+      "question": "What happens to the attack if the target fails to anticipate it?",
+      "answer": "The Keeper may allow the attack to be an automatic success or award the attacker a bonus die."
+    },
+    {
+      "question": "What is Harvey's DEX score?",
+      "answer": "55"
+    },
+    {
+      "question": "What is Harvey's Fighting skill level?",
+      "answer": "35 (Regular), 17 (Hard), 7 (Extreme)"
+    },
+    {
+      "question": "What is Harvey's Dodge skill level?",
+      "answer": "25 (Regular), 12 (Hard), 5 (Extreme)"
+    },
+    {
+      "question": "What is Harvey's Build skill level?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the goal of Harvey's Action in the first round?",
+      "answer": "to push the thug out of his way long enough for Harvey to run past"
+    },
+    {
+      "question": "Who goes first in the fight?",
+      "answer": "Harvey"
+    },
+    {
+      "question": "What is the goal of Harvey's Action?",
+      "answer": "to push the thug away long enough for Harvey to run past"
+    },
+    {
+      "question": "How many penalty dice will Harvey have due to the thug's Build?",
+      "answer": "one"
+    },
+    {
+      "question": "What is the thug using to attack Harvey?",
+      "answer": "his Fighting (Brawl) skill and a knife"
+    },
+    {
+      "question": "What is the penalty die Harvey has due to being one point higher than Harvey\u2019s Build (of zero)?",
+      "answer": "Harvey will have one penalty die."
+    },
+    {
+      "question": "What is the result of Harvey's roll with a penalty die, getting 12 and 22?",
+      "answer": "He must take the higher roll\u2014a Regular success."
+    },
+    {
+      "question": "What is the result of the Keeper's roll for the thug, an Extreme success?",
+      "answer": "While trying to push the thug aside, Harvey is stabbed for 6 points of damage."
+    },
+    {
+      "question": "What does the thug threaten Harvey with and what does Harvey surrender?",
+      "answer": "The thug threatens Harvey with the knife and Harvey surrenders his wallet."
+    },
+    {
+      "question": "What is the damage Harvey takes when stabbed by the thug?",
+      "answer": "6 points of damage"
+    },
+    {
+      "question": "What happens to ranged missile attacks in the game?",
+      "answer": "They are treated like firearms"
+    },
+    {
+      "question": "Can thrown weapons be opposed with the Dodge skill?",
+      "answer": "Yes, they can be opposed with the Dodge skill"
+    },
+    {
+      "question": "How are thrown weapons opposed with the Dodge skill?",
+      "answer": "In the same way as Fighting attacks"
+    }
+  ]
+}

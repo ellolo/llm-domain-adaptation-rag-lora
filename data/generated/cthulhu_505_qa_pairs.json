@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, vehicles can be damaged, leading to penalties and potentially even complete wrecking. A vehicle's build is reduced by 1 point for every 10 hit points of damage, and if it reaches half its starting value or lower, it is impaired. If a vehicle takes damage equal to its full build value, it is completely wrecked, potentially leading to accidents and fatalities. Similarly, investigators can suffer from Sanity loss, which can lead to temporary or indefinite insanity, with recovery depending on treatment and Luck rolls.",
+  "qa_pairs": [
+    {
+      "question": "What is the penalty for a vehicle's build being reduced to half its starting value or lower?",
+      "answer": "One penalty die is applied to all Drive Auto (or appropriate skill) rolls."
+    },
+    {
+      "question": "What is the effect of 10 hit points of damage on a vehicle's build?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle's build by 1 point (round down);"
+    },
+    {
+      "question": "What happens if a vehicle's build is reduced to half its starting value or lower?",
+      "answer": "It is impaired;"
+    },
+    {
+      "question": "What is considered damage below 10 hit points?",
+      "answer": "Damage below 10 hit points is ignored."
+    },
+    {
+      "question": "What happens if a vehicle takes damage equal to its full build value in one incident?",
+      "answer": "The vehicle is completely wrecked in an impressive manner."
+    },
+    {
+      "question": "What is the recommended action for those who are fortunate during a wreck?",
+      "answer": "They should take at least 2D10 damage."
+    },
+    {
+      "question": "What happens to a vehicle if its build is reduced to zero by cumulative damage?",
+      "answer": "It becomes undrivable, grinding to a halt."
+    },
+    {
+      "question": "What is the armor rating for passengers and driver?",
+      "answer": "The armor rating reflects the number of points of armor the vehicle provides against external attacks."
+    },
+    {
+      "question": "What happens to a vehicle's drivability if the starting build value is exceeded?",
+      "answer": "it becomes undrivable, grinding to a halt"
+    },
+    {
+      "question": "What is the armor rating for passengers and driver?",
+      "answer": "the number of points of armor the vehicle provides against external attacks"
+    },
+    {
+      "question": "What happens to passengers and crew if the vehicle is attacked?",
+      "answer": "the number of people that can be accommodated"
+    },
+    {
+      "question": "What is the consequence of a Sanity loss of 5 points or more?",
+      "answer": "make an Intelligence roll\u2014 if successful, temporary insanity ensues"
+    },
+    {
+      "question": "What does the armor rating represent?",
+      "answer": "the number of points of armor the vehicle provides against external attacks"
+    },
+    {
+      "question": "What is the purpose of the cumulative Sanity points lost to a Mythos entity?",
+      "answer": "to record the cumulative loss of Sanity points for a given Mythos entity"
+    },
+    {
+      "question": "What happens if a Sanity loss exceeds the maximum amount for a single encounter?",
+      "answer": "the cumulative loss should not exceed the maximum amount for a single encounter with that entity"
+    },
+    {
+      "question": "What is the consequence of making an Intelligence roll when Sanity loss is 5 points or more?",
+      "answer": "temporary insanity ensues"
+    },
+    {
+      "question": "What is the duration of a bout of madness in 'real time' mode?",
+      "answer": "1D10 rounds"
+    },
+    {
+      "question": "How does the investigator behave in 'real time' mode?",
+      "answer": "Must fight/flee or take a penalty die on skill rolls"
+    },
+    {
+      "question": "What happens when the investigator fails a Sanity roll to test for delusions?",
+      "answer": "Lose 1 Sanity point (and undergo a bout of madness if insane)"
+    },
+    {
+      "question": "How much Cthulhu Mythos skill is added to the investigator's first bout of madness inspired by a Mythos-related event?",
+      "answer": "5% Cthulhu Mythos skill"
+    },
+    {
+      "question": "What is the consequence of failing a Sanity roll for delusions?",
+      "answer": "lose 1 Sanity point (and undergo a bout of madness if insane)"
+    },
+    {
+      "question": "How does the Keeper determine if an investigator recovers from indefinite insanity?",
+      "answer": "roll at the end of each month of treatment"
+    },
+    {
+      "question": "What happens when an investigator is treated at home for insanity?",
+      "answer": "success (or under psychoanalysis skill); add 1D3 Sanity points"
+    },
+    {
+      "question": "How is the Cthulhu Mythos skill added to an investigator's madness?",
+      "answer": "add 5% Cthulhu Mythos skill with first bout of madness inspired by a Mythos-related event"
+    }
+  ]
+}

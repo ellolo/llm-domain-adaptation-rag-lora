@@ -1,0 +1,117 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, the Keeper should clearly state a player's goal before determining the difficulty level for skill rolls. The difficulty level is determined by the Keeper, who considers the complexity of the goal and the skills involved, and can range from Regular to Extreme. The Keeper uses the following guidelines to set difficulty levels: Regular (average challenge), Hard (professional-level challenge), and Extreme (expert-level challenge). The Keeper also considers the skills and characteristics of the opponent when setting difficulty levels, and can adjust the difficulty level accordingly.",
+  "qa_pairs": [
+    {
+      "question": "What should be stated before rolling any dice?",
+      "answer": "A clear goal"
+    },
+    {
+      "question": "What should the Keeper consider when setting a difficulty level?",
+      "answer": "The complexity of the goal"
+    },
+    {
+      "question": "How many levels of difficulty are there in Call of Cthulhu?",
+      "answer": "Three"
+    },
+    {
+      "question": "What are the three difficulty levels in Call of Cthulhu?",
+      "answer": "Regular, Hard, and Extreme"
+    },
+    {
+      "question": "What are the three levels of difficulty in Call of Cthulhu?",
+      "answer": "Regular, Hard, and Extreme."
+    },
+    {
+      "question": "How challenging is the Regular difficulty level?",
+      "answer": "An average example of what would challenge a competent person."
+    },
+    {
+      "question": "How challenging is the Hard difficulty level?",
+      "answer": "A professional task."
+    },
+    {
+      "question": "How challenging is the Extreme difficulty level?",
+      "answer": "A task on the border of what is humanly possible."
+    },
+    {
+      "question": "What is the minimum success requirement for an extreme difficulty task?",
+      "answer": "A roll equal to or below a half of their skill or characteristic"
+    },
+    {
+      "question": "What should be reserved for extreme situations in Call of Cthulhu?",
+      "answer": "Dice rolls"
+    },
+    {
+      "question": "What should be set according to the complementary skill or characteristic of a living being?",
+      "answer": "The difficulty level"
+    },
+    {
+      "question": "What should the Keeper decide when determining the skill or characteristic used by an opponent?",
+      "answer": "Which skill or characteristic would be used by the opponent to counter the investigator\u2019s actions"
+    },
+    {
+      "question": "What should be reserved for extreme situations?",
+      "answer": "This should be reserved for extreme situations."
+    },
+    {
+      "question": "How should difficulty levels be determined for a living being?",
+      "answer": "If the investigator is facing a living being, the difficulty level should be set according to the complementary skill or characteristic belonging to that being (human or otherwise)."
+    },
+    {
+      "question": "What is the threshold for a difficulty level of Hard?",
+      "answer": "If the opponent\u2019s skill or characteristic is equal to or above 50, the difficulty level is Hard."
+    },
+    {
+      "question": "What is the threshold for a difficulty level of Extreme?",
+      "answer": "If the opponent\u2019s skill or characteristic is equal to or above 90, the difficulty level is Extreme."
+    },
+    {
+      "question": "What is the criteria for a Regular difficulty level?",
+      "answer": "The opponent's skill or characteristic is below 50."
+    },
+    {
+      "question": "What is the criteria for an Extreme difficulty level?",
+      "answer": "The opponent's skill or characteristic is equal to or above 90."
+    },
+    {
+      "question": "Why is Harvey's player's roll required to succeed in persuading the librarian?",
+      "answer": "Because the difficulty level is Regular, requiring a roll equal to or below Harvey's full Persuade skill."
+    },
+    {
+      "question": "Why is the difficulty level in Harvey's scenario not Extreme?",
+      "answer": "Because the librarian's Psychology skill is below 50, which is below the threshold for an Extreme difficulty level."
+    },
+    {
+      "question": "What skills are used to oppose Persuade in the Keeper?",
+      "answer": "the librarian\u2019s Persuade and Psychology skills"
+    },
+    {
+      "question": "What is the difficulty level required to force open the library door?",
+      "answer": "Hard"
+    },
+    {
+      "question": "How is the difficulty level set for the back door of the library?",
+      "answer": "based on Harvey\u2019s full Persuade skill"
+    },
+    {
+      "question": "What is the minimum roll required to force open the library door?",
+      "answer": "10 or below"
+    },
+    {
+      "question": "What is Harvey's strength level?",
+      "answer": "20"
+    },
+    {
+      "question": "How does the Keeper determine the difficulty level for non-living opponents?",
+      "answer": "Weighing up pertinent factors"
+    },
+    {
+      "question": "What difficulty level should be used if the challenge is clearly beyond Regular difficulty?",
+      "answer": "Hard"
+    },
+    {
+      "question": "What difficulty level should be used if the challenge is exceptionally difficult but still humanly possible?",
+      "answer": "Extreme"
+    }
+  ]
+}

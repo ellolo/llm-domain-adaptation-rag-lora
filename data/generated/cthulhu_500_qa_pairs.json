@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop game, resolving firearm attacks involves rolling dice and applying modifiers to determine the outcome. The difficulty level of the attack, ranging from Normal to Extreme, affects the roll, with Extreme being the most challenging. The type of damage dealt also varies, with Minor, Moderate, Severe, Deadly, Terminal, and Splat categories representing increasing levels of harm. Additionally, malfunctions and poison effects can also impact the outcome of the attack.",
+  "qa_pairs": [
+    {
+      "question": "What is the criteria for a successful attack roll in a firearms scenario?",
+      "answer": "If the attack roll is successful: half of the shots fired hit the target\u2014roll damage for half of the shots (round down, minimum of one)."
+    },
+    {
+      "question": "What is the result when the attack is an Extreme success?",
+      "answer": "all shots fired hit the target, the first half (round down, minimum of one) of which impale."
+    },
+    {
+      "question": "How do you determine the damage for a successful attack roll?",
+      "answer": "roll damage for half of the shots (round down, minimum of one)"
+    },
+    {
+      "question": "What is the condition for a successful hit in an Extreme difficulty level?",
+      "answer": "the best possible result is a successful hit and not an impale."
+    },
+    {
+      "question": "What happens when the attack is successful but not an Extreme success?",
+      "answer": "half of the shots fired hit the target\u2014roll damage for half of the shots (round down, minimum of one)."
+    },
+    {
+      "question": "What is the best possible result for an Extreme difficulty level shot in a firearm attack?",
+      "answer": "a successful hit and not an impale."
+    },
+    {
+      "question": "What happens when an attack roll result is equal to or higher than the firing weapon's malfunction number?",
+      "answer": "the weapon malfunctions and does not fire."
+    },
+    {
+      "question": "How much damage is a Minor injury in Call of Cthulhu?",
+      "answer": "1D3"
+    },
+    {
+      "question": "What is the damage type for moderate attacks in Call of Cthulhu?",
+      "answer": "1D6"
+    },
+    {
+      "question": "How much damage is a Severe injury in Call of Cthulhu?",
+      "answer": "1D10"
+    },
+    {
+      "question": "What is the best possible result for an Extreme difficulty level shot in a firearm attack?",
+      "answer": "a successful hit and not an impale"
+    },
+    {
+      "question": "What happens when an attack roll result is equal to or higher than the firing weapon's malfunction number?",
+      "answer": "the weapon malfunctions and does not fire"
+    },
+    {
+      "question": "What is the damage level for Minor injuries?",
+      "answer": "1D3"
+    },
+    {
+      "question": "What is the damage level for Severe injuries?",
+      "answer": "1D10"
+    },
+    {
+      "question": "What is the damage level for Moderate injuries?",
+      "answer": "1D6"
+    },
+    {
+      "question": "What is the average person's chance of dying?",
+      "answer": "50% chance of dying"
+    },
+    {
+      "question": "What is the outcome if a character fails a CON roll in a state of physical exertion?",
+      "answer": "Damage is sustained each round thereafter until death or until the victim is able to breathe"
+    },
+    {
+      "question": "What is the outcome if a character fails a CON roll without being in a state of physical exertion?",
+      "answer": "Not specified"
+    },
+    {
+      "question": "What is the outcome if a character fails a CON roll each round?",
+      "answer": "Damage is sustained each round thereafter until death"
+    },
+    {
+      "question": "What is the outcome if a character fails a CON roll and is unable to breathe?",
+      "answer": "Death"
+    },
+    {
+      "question": "What is the effect of a roll equal to or less than one-fifth of CON on damage from poisons?",
+      "answer": "Poisons may cause damage to be halved."
+    },
+    {
+      "question": "What symptoms may poisons cause in victims?",
+      "answer": "stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness and paralysis."
+    },
+    {
+      "question": "How do Keepers determine if a victim can act or not due to poison symptoms?",
+      "answer": "It is up to the Keeper whether the symptoms permit the victim to act or not, or to act with a penalty die or an increased level of difficulty."
+    },
+    {
+      "question": "Under what condition can a poison's effects be shaken off?",
+      "answer": "If the CON roll is a critical success."
+    },
+    {
+      "question": "How are characters ordered in a combat situation?",
+      "answer": "Highest DEX, Readied Firearms go first."
+    }
+  ]
+}

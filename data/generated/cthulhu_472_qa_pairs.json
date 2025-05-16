@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a ruleset for a tabletop role-playing game, specifically the Cthulhu Mythos game. The main topic is the game mechanics, including Characteristic rolls, skill levels, and Luck rolls, which determine the success or failure of actions. Key concepts include the Keeper's role in controlling the game world, the Investigator's development phase, and the various mechanics for resolving conflicts, such as damage, injury, and sanity loss. The document also outlines rules for healing, magic, and combat.",
+  "qa_pairs": [
+    {
+      "question": "What is a Hazard in the game?",
+      "answer": "A location in a chase that is likely to cause damage or delay, requiring a skill roll."
+    },
+    {
+      "question": "What is the first reading of a Mythos tome?",
+      "answer": "Initial reading of a Mythos tome, allowing an overview of the book's contents, granting half Cthulhu Mythos skill gain."
+    },
+    {
+      "question": "What is the Investigator Development Phase?",
+      "answer": "A period in the game when players may update their investigators, normally occurring at the end of a gaming session or at the conclusion of a scenario."
+    },
+    {
+      "question": "What is the first reading of a Mythos tome's effect on a believer?",
+      "answer": "Sanity points must be lost for a believer."
+    },
+    {
+      "question": "What is the first reading of a Mythos tome?",
+      "answer": "Allows an overview of the book\u2019s contents, granting half Cthulhu Mythos skill gain."
+    },
+    {
+      "question": "What is the role of the Keeper of Arcane Lore in the game?",
+      "answer": "The person who runs the game, knows the secrets of the plot, describes the situations, controls non-player characters and monsters."
+    },
+    {
+      "question": "What is the Investigator Development Phase?",
+      "answer": "A period in the game when players may update their investigators (roll for skill increases, etc.)."
+    },
+    {
+      "question": "Who is the final arbiter of the game rules?",
+      "answer": "The Keeper is the final arbiter of the game rules and should endeavor to maintain balance and fairness in the game."
+    },
+    {
+      "question": "What is the Keeper's role in the game?",
+      "answer": "The Keeper is the final arbiter of the game rules and should endeavor to maintain balance and fairness in the game."
+    },
+    {
+      "question": "What is the effect of Extreme success on Hard success?",
+      "answer": "Extreme beats Hard."
+    },
+    {
+      "question": "What is Luck used to determine?",
+      "answer": "A measure of a character\u2019s fortune with events that are beyond their control."
+    },
+    {
+      "question": "How many Levels of Success exist?",
+      "answer": "There are four Levels of Success; Fail, Regular Success, Hard success, and Extreme success."
+    },
+    {
+      "question": "What is the purpose of an Education roll?",
+      "answer": "An investigator's education and training may provide additional insight in certain situations."
+    },
+    {
+      "question": "How does the Magic Points (MP) system work?",
+      "answer": "Magic points are inherent to humans and other intelligences, and they regenerate at the rate of one per hour."
+    },
+    {
+      "question": "What is the effect of reaching zero Magic Points?",
+      "answer": "Any further expenditure is deducted from hit points at the rate of one for one."
+    },
+    {
+      "question": "What is the ranking system for Success?",
+      "answer": "There are four Levels of Success; Fail, Regular Success, Hard Success, and Extreme Success, with Extreme beating Hard, Hard beating Regular, and Regular beating Fail."
+    },
+    {
+      "question": "What happens to a character's hit points if they reach zero magic points?",
+      "answer": "Any further expenditure is deducted from hit points at the rate of one for one."
+    },
+    {
+      "question": "How many magic points a character regenerates per hour?",
+      "answer": "At the rate of one per hour"
+    },
+    {
+      "question": "What is the condition for a character to have suffered a major wound?",
+      "answer": "If damage from a single attack is equal to or greater than half of a character\u2019s maximum hit points"
+    },
+    {
+      "question": "How does a character's maximum hit points compare to their maximum sanity?",
+      "answer": "Equal to 99\u2013Cthul-hu Mythos Skill"
+    },
+    {
+      "question": "Can a character die if their current hit points are reduced to zero?",
+      "answer": "Yes, a character that has received a major wound may die if their current hit points are reduced to zero."
+    },
+    {
+      "question": "What is the maximum amount of meters or yards a character can move with care in one round?",
+      "answer": "The number of meters or yards that a character can move with care in one round is called the Movement Rate (MOV)."
+    },
+    {
+      "question": "How much does Medicine heal in terms of hit points?",
+      "answer": "Medicine heals 1D3 hit points to an injured or sick character, or to stabilize a dying character."
+    },
+    {
+      "question": "What is the difference between a Non-Player Character (NPC) and a player?",
+      "answer": "An NPC is a character played by the Keeper, as opposed to a player character played by a player."
+    }
+  ]
+}

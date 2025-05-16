@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game Call of Cthulhu, the Keeper sets the difficulty level for skill rolls and opposed rolls, which can result in bonus or penalty dice. The Keeper may also use a single dice roll to compare against multiple skills, with the Keeper specifying the required success level. Opposed rolls, such as the Ordeal of Pain, require both players to make a roll and the Keeper awards bonus or penalty dice accordingly. The Keeper's discretion is key in determining the outcome of these rolls, with the goal of creating a fun and challenging experience for the players.",
+  "qa_pairs": [
+    {
+      "question": "What is the type of roll made by Harvey in this scenario?",
+      "answer": "A STR or SIZ roll"
+    },
+    {
+      "question": "How does the Keeper decide the difficulty level for Harvey's roll?",
+      "answer": "By setting an appropriate difficulty level based on the cultist's STR and SIZ"
+    },
+    {
+      "question": "What happens if Harvey fails his roll?",
+      "answer": "He might be able to push the roll by throwing himself recklessly against the door, but at the risk of physical damage"
+    },
+    {
+      "question": "What range of numbers is the cultist's STR and SIZ likely to be between?",
+      "answer": "Between 50 and 89"
+    },
+    {
+      "question": "What is the range for a character's STR and SIZ in the cultist?",
+      "answer": "between 50 and 89"
+    },
+    {
+      "question": "Which stat does Harvey choose to use to push the door closed?",
+      "answer": "his SIZ"
+    },
+    {
+      "question": "What is the outcome if Harvey fails to push the door closed?",
+      "answer": "he might be able to push the roll by throwing himself recklessly against the door"
+    },
+    {
+      "question": "What is the outcome if the cultist succeeds in pushing the door closed?",
+      "answer": "Harvey is knocked back, with no chance of pushing the roll"
+    },
+    {
+      "question": "What is the result when Harvey rolls 57 against his SIZ of 80?",
+      "answer": "Regular success"
+    },
+    {
+      "question": "How does the Keeper determine success in a combined skill roll?",
+      "answer": "By specifying whether a success is required for both skills or if only one of the skills needs to be successful"
+    },
+    {
+      "question": "Why is it important to use a single dice roll in a combined skill roll?",
+      "answer": "Because the roll is then compared with each of the skills"
+    },
+    {
+      "question": "What is the percentage chance of success when making one dice roll and comparing it to both Mechanical Repair and Electrical Repair skills?",
+      "answer": "10%"
+    },
+    {
+      "question": "What is the condition for a roll to be a success?",
+      "answer": "The roll is a success when measured against each of the skills or if only one of the skills need be successful."
+    },
+    {
+      "question": "How many investigators are in a dire situation?",
+      "answer": "Two investigators, Felix and Harrison, have been captured."
+    },
+    {
+      "question": "What is at stake for the investigators who fail the Ordeal of Pain?",
+      "answer": "The loser will be sacrificed to the cultists\u2019 foul god."
+    },
+    {
+      "question": "How do the investigators' skills affect their chances of success in the Ordeal of Pain?",
+      "answer": "The chance of success when making one dice roll and comparing it to both skills is affected by their individual skill levels."
+    },
+    {
+      "question": "What is the chance of success for a dice roll when comparing it to both Mechanical Repair and Electrical Repair?",
+      "answer": "10%"
+    },
+    {
+      "question": "What is the Ordeal of Pain in the game, and what is required to win?",
+      "answer": "Lifting a huge rock and holding it aloft, requiring an opposed Strength roll"
+    },
+    {
+      "question": "What is the penalty that Harrison must take on his Strength roll?",
+      "answer": "A penalty die"
+    },
+    {
+      "question": "How many points did Felix's player roll against his Strength score?",
+      "answer": "51"
+    },
+    {
+      "question": "Who holds the rock up the longest?",
+      "answer": "Felix"
+    },
+    {
+      "question": "Why does Harrison take a penalty die?",
+      "answer": "Because he recently suffered a major wound"
+    },
+    {
+      "question": "Which player rolls 51 against STR 65?",
+      "answer": "Harrison"
+    },
+    {
+      "question": "What is the result of Harrison's STR roll?",
+      "answer": "41"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, investigators can lose sanity due to terrifying experiences, which can lead to temporary, indefinite, or permanent insanity. Sanity points, which start equal to the investigator's POW, can fluctuate and decline or increase, but do not regenerate. Investigators can use skills and characteristics to overcome challenges, with success determined by a 1D100 roll. The game also includes various mechanics, such as surprise attacks, unconsciousness, and the use of mythos tomes, which can be used to enhance gameplay.",
+  "qa_pairs": [
+    {
+      "question": "What is the starting sanity for every investigator?",
+      "answer": "sane"
+    },
+    {
+      "question": "How do investigator's sanity points fluctuate?",
+      "answer": "They can decline or increase"
+    },
+    {
+      "question": "What is the maximum possible number of sanity points?",
+      "answer": "99 minus percentiles of the Cthulhu Mythos skill"
+    },
+    {
+      "question": "What type of roll determines sanity loss?",
+      "answer": "A 1D100 roll"
+    },
+    {
+      "question": "What is the result of a successful sanity roll?",
+      "answer": "Equal to or less than current Sanity points"
+    },
+    {
+      "question": "What determines Maximum Sanity points?",
+      "answer": "Maximum Sanity points equal 99 minus whatever percentiles of the Cthulhu Mythos skill the investigator has."
+    },
+    {
+      "question": "What is a Sanity Roll?",
+      "answer": "A Sanity Roll: A 1D100 roll. A success is equal to or less than current Sanity points."
+    },
+    {
+      "question": "What is a Story?",
+      "answer": "Story: See Scenario."
+    },
+    {
+      "question": "What is a Skill Roll?",
+      "answer": "A Skill Roll: A 1D100 roll. See Success."
+    },
+    {
+      "question": "What does SIZ represent?",
+      "answer": "STR: Strength, a Characteristic. See Characteristic."
+    },
+    {
+      "question": "What is the method for tracking skill improvement in the investigator development phase?",
+      "answer": "Tick by marking the box ('tick' or 'check') next to the skill on the investigator sheet"
+    },
+    {
+      "question": "How do skills improve in the investigator development phase?",
+      "answer": "In 1D10-point increments"
+    },
+    {
+      "question": "What can be ticked on the investigator sheet?",
+      "answer": "Skills"
+    },
+    {
+      "question": "What is the effect of a major wound on a character?",
+      "answer": "The character may fall unconscious"
+    },
+    {
+      "question": "What skill roll can return a character to consciousness?",
+      "answer": "First Aid or Medicine"
+    },
+    {
+      "question": "What can be ticked in a Rating?",
+      "answer": "Rating cannot be ticked"
+    },
+    {
+      "question": "What is a Tome containing in the Cthulhu Mythos?",
+      "answer": "knowledge of the Cthulhu Mythos"
+    },
+    {
+      "question": "What skill roll may return a character to consciousness?",
+      "answer": "First Aid or Medicine"
+    },
+    {
+      "question": "What is the condition for a character to fall unconscious?",
+      "answer": "fail to roll equal to or under CON"
+    },
+    {
+      "question": "Where can the duration of unconsciousness be decided?",
+      "answer": "at the Keeper's discretion"
+    },
+    {
+      "question": "What edition of Call of Cthulhu these rules are intended for?",
+      "answer": "7th Edition"
+    },
+    {
+      "question": "Why are the rules intended to be made compatible with 7th Edition?",
+      "answer": "To allow materials from all previous editions of Call of Cthulhu to be made compatible with 7th Edition using minimal effort"
+    },
+    {
+      "question": "Why should players not be too concerned about converting existing investigators?",
+      "answer": "The average investigator has a limited life-expectancy"
+    },
+    {
+      "question": "What changes have been made to unify characteristics and skills?",
+      "answer": "They are now on a comparable percentage scale"
+    },
+    {
+      "question": "What is the intention behind making skills and characteristics comparable?",
+      "answer": "To make it easier to compare and make opposed rolls using a mixture of skills and characteristics"
+    }
+  ]
+}

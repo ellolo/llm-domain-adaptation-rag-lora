@@ -1,0 +1,85 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for resolving combat attacks in a tabletop role-playing game. The rules cover various aspects of combat, including aiming, shooting, and reloading firearms, as well as the mechanics of resolving attack rolls and dealing damage. The document also introduces a system for tracking penalty dice and adjusting difficulty levels based on the number of attacks made. Additionally, it provides guidelines for resolving attacks, including the probability of hitting a target and the amount of damage dealt. The rules aim to create a more realistic and immersive combat experience for players.",
+  "qa_pairs": [
+    {
+      "question": "What can Harvey see in the room before he checks if the creature is dead?",
+      "answer": "Two more creatures lurking in the shadows at the far side of the room."
+    },
+    {
+      "question": "What is Harvey doing before firing on the creature?",
+      "answer": "Spending a round aiming"
+    },
+    {
+      "question": "What is the difficulty level of Harvey's shot on the creature?",
+      "answer": "Regular"
+    },
+    {
+      "question": "Why does Harvey choose to shoot through the table?",
+      "answer": "Because the table is flimsy and the nearest creature is mostly concealed by it."
+    },
+    {
+      "question": "What is the range of the shot for Harvey?",
+      "answer": "around 20 feet"
+    },
+    {
+      "question": "What is the difficulty level of the shot for Harvey?",
+      "answer": "Regular"
+    },
+    {
+      "question": "What damage is dealt by the shot?",
+      "answer": "5 points of damage"
+    },
+    {
+      "question": "How many shots can Harvey take?",
+      "answer": "six"
+    },
+    {
+      "question": "How many shots has Harvey taken so far?",
+      "answer": "six"
+    },
+    {
+      "question": "What is the range of Harvey's shot in round six?",
+      "answer": "40 yards"
+    },
+    {
+      "question": "Why is a penalty die added to Harvey's roll?",
+      "answer": "Because Harvey is loading and firing a shot on the same round."
+    },
+    {
+      "question": "What happens to the remaining creature after the attack?",
+      "answer": "The remaining creature escapes unharmed."
+    },
+    {
+      "question": "How does the penalty die change for multiple attack rolls?",
+      "answer": "Add one penalty die (or remove a bonus die) for each additional attack roll."
+    },
+    {
+      "question": "What happens if the penalty dice total three?",
+      "answer": "Stick with two penalty dice and raise the difficulty level by one step."
+    },
+    {
+      "question": "What is the final damage dealt by a critical at very long range?",
+      "answer": "1D10 + 10"
+    },
+    {
+      "question": "What happens to the remaining creature after a critical attack?",
+      "answer": "It escapes unharmed"
+    },
+    {
+      "question": "What is the condition for ammunition to be expended?",
+      "answer": "When moving between targets, one bullet per meter/yard."
+    },
+    {
+      "question": "What happens to shots that hit the target in a successful attack roll?",
+      "answer": "Half of the shots fired hit the target."
+    },
+    {
+      "question": "What is the outcome when an attack roll is an Extreme success?",
+      "answer": "All shots fired hit the target."
+    },
+    {
+      "question": "What happens to the shots hit by an Extreme success?",
+      "answer": "The first half of the shots hit the target."
+    }
+  ]
+}

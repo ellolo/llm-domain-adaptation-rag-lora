@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document provides a step-by-step guide to creating an investigator in a tabletop role-playing game. The guide begins by determining the investigator's move rate, personal interest skills, and combat values, followed by allocating skill points to various skills and attributes. The document also provides tables and guidelines for determining finances, creating a backstory, and listing equipment and fellow investigators. The goal is to create a well-rounded and balanced investigator, with a focus on allocating skill points and attributes to create a unique and effective character.",
+  "qa_pairs": [
+    {
+      "question": "What is the age range used to deduct from Move Rate?",
+      "answer": "40s, 50s, 60s, 70s, 80s"
+    },
+    {
+      "question": "What is the condition for both DEX and STR to be greater than SIZ?",
+      "answer": "MOV 9"
+    },
+    {
+      "question": "What is the condition for STR or DEX to be equal to or greater than SIZ?",
+      "answer": "MOV 7"
+    },
+    {
+      "question": "What is the condition for all DEX, STR, and SIZ to be equal?",
+      "answer": "MOV 8"
+    },
+    {
+      "question": "How much is deducted from Move Rate if the age is in the 40s?",
+      "answer": "1"
+    },
+    {
+      "question": "How much is deducted from Move Rate if the age is in the 80s?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the formula to calculate personal interest points?",
+      "answer": "Calculate personal interest points by multiplying INT by 2."
+    },
+    {
+      "question": "How to determine Damage Bonus & Build?",
+      "answer": "STR+SIZ and looking up the result"
+    },
+    {
+      "question": "Where to find the Credit Rating to determine Spending Level, Cash on Hand, and Assets?",
+      "answer": "Table II: Cash and Assets (page 57)"
+    },
+    {
+      "question": "What is the purpose of creating a Backstory?",
+      "answer": "To make the investigator come to life"
+    },
+    {
+      "question": "How to determine Finances?",
+      "answer": "Determine Finances by looking up your investigator\u2019s Credit Rating"
+    },
+    {
+      "question": "What is the purpose of the Dodge box?",
+      "answer": "To store all combat skills in one place for handy reference"
+    },
+    {
+      "question": "Where can investigators find equipment lists?",
+      "answer": "page 238"
+    },
+    {
+      "question": "Where can investigators find weapon lists?",
+      "answer": "page 250"
+    },
+    {
+      "question": "What is the purpose of the 'Fellow Investigators' section?",
+      "answer": "as a handy reminder of who\u2019s who"
+    },
+    {
+      "question": "How should occupation skills be allocated?",
+      "answer": "as percentage points among those skills listed for the occupation"
+    },
+    {
+      "question": "What happens if points are left undistributed?",
+      "answer": "points are lost"
+    },
+    {
+      "question": "What is the purpose of the base chance of success in a skill?",
+      "answer": "the base chance of success in that skill"
+    },
+    {
+      "question": "What is the purpose of allocating points to Credit Rating?",
+      "answer": "Points should also be allocated to Credit Rating within the range indicated for the occupation."
+    },
+    {
+      "question": "What happens if points are not allocated to a skill?",
+      "answer": "However, points left undistributed are lost."
+    },
+    {
+      "question": "What does the number in brackets next to a skill represent?",
+      "answer": "Each skill has a number in brackets next to it on the investigator sheet: this is the base chance of success in that skill, and any points allocated to that skill are added to this base number."
+    },
+    {
+      "question": "What is the total value obtained for each skill?",
+      "answer": "Write down the total points for each skill on the investigator sheet (the points you\u2019ve allocated plus the base chance printed on the investigator sheet)."
+    },
+    {
+      "question": "What is the purpose of the space on the investigator sheet?",
+      "answer": "The sheet also has space"
+    },
+    {
+      "question": "What is the significance of the base chance of success in a skill?",
+      "answer": "this is the base chance of success in that skill"
+    }
+  ]
+}

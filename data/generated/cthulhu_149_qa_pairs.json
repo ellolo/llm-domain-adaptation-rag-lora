@@ -1,0 +1,73 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the \"Escaping the Pursuer\" scenario from the Call of Cthulhu game, a character named Harvey is being chased by the police. The police car can accelerate to move multiple locations in one movement action, but this comes with risks, including penalty dice for hazard rolls. The Keeper can call for a sudden hazard at any time, and players can choose to accelerate to gain speed, but must be prepared for the consequences. The game mechanics allow for a dynamic and unpredictable chase, with the pursuer's speed and the environment affecting the outcome.",
+  "qa_pairs": [
+    {
+      "question": "What is the first movement action of Police car P1?",
+      "answer": "3 locations"
+    },
+    {
+      "question": "What is the penalty for Police car P1 when negotiating the hazard with Harvey?",
+      "answer": "1 (-1)"
+    },
+    {
+      "question": "What penalty must the police car take when rolling to negotiate the hazard?",
+      "answer": "a penalty die"
+    },
+    {
+      "question": "Can the Keeper call for another sudden hazard until after the players do so?",
+      "answer": "yes, after the players' move"
+    },
+    {
+      "question": "How many locations ahead is Harvey?",
+      "answer": "2 locations"
+    },
+    {
+      "question": "Can the Keeper call for another sudden hazard until after the players do so?",
+      "answer": "Yes, the Keeper is unable to call for another sudden hazard until after the players do so."
+    },
+    {
+      "question": "How many locations can a driver move with one movement action?",
+      "answer": "1, 2, or 3 locations"
+    },
+    {
+      "question": "What happens when a driver encounters hazards during movement with one movement action?",
+      "answer": "One penalty die is applied to the skill rolls"
+    },
+    {
+      "question": "How many locations a driver can move with one movement action?",
+      "answer": "2 or 3"
+    },
+    {
+      "question": "How many penalty dice are applied to the skill rolls if a driver moves 4 or 5 locations with one movement action?",
+      "answer": "Two"
+    },
+    {
+      "question": "How many locations can one see in a crowded city?",
+      "answer": "A couple of locations ahead"
+    },
+    {
+      "question": "How many locations can one see on a straight road in the country?",
+      "answer": "A considerable distance (1D10 locations)"
+    },
+    {
+      "question": "What are the possible locations ahead for a character in a crowded city?",
+      "answer": "A couple of locations ahead"
+    },
+    {
+      "question": "What is the possible distance a character can see on a straight road in the country?",
+      "answer": "A considerable distance (1D10 locations)"
+    },
+    {
+      "question": "Can a character retract their decision to accelerate and travel a number of locations on one movement action?",
+      "answer": "No, it cannot be retracted"
+    },
+    {
+      "question": "How many locations a car can move in one chase round?",
+      "answer": "20 locations"
+    },
+    {
+      "question": "Can the pursuer continue chasing the fleeing character indefinitely?",
+      "answer": "No, as long as their location or direction of travel can be identified"
+    }
+  ]
+}

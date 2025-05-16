@@ -1,0 +1,117 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for a \"Cut to the Chase\" chase scene are outlined, where characters or vehicles are pursued by others. The chase is resolved through a series of skill rolls, movement actions, and combat encounters. The pursuers are placed in order of speed, and the fleeing characters/vehicles are positioned accordingly. Hazards, barriers, and combat are also resolved through skill rolls and combat encounters, with specific rules for vehicles and combat. The environment can also affect the chase, with random locations and penalties added to the roll.",
+  "qa_pairs": [
+    {
+      "question": "What is the rule for determining the order of pursuers in a chase?",
+      "answer": "Place the pursuers in order, slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+    },
+    {
+      "question": "What happens if a fleeing character's speed is greater than that of their pursuers?",
+      "answer": "They may escape completely."
+    },
+    {
+      "question": "How do pursuers with a lower speed than the slowest fleeing character fare?",
+      "answer": "They are completely out of the chase."
+    },
+    {
+      "question": "What is the rule for updating a character's speed after a speed roll?",
+      "answer": "MOV remains unchanged if passed, MOV +1 if an Extreme success, and MOV \u20131 if failed."
+    },
+    {
+      "question": "What happens to pursuers if their speed is lower than the slowest fleeing character?",
+      "answer": "They are completely out of the chase."
+    },
+    {
+      "question": "How should pursuers be placed in order?",
+      "answer": "Slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+    },
+    {
+      "question": "How should fleeing characters be placed in order?",
+      "answer": "Slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV."
+    },
+    {
+      "question": "How should movement actions be allocated to each participant?",
+      "answer": "Every character and vehicle gets one movement action by default, plus the difference between their movement rating (MOV) and the movement rating of the slowest participant in the chase."
+    },
+    {
+      "question": "What is the condition for a pursuer to be 'completely out of the chase'?",
+      "answer": "Pursuers with a speed that is lower than the slowest fleeing character."
+    },
+    {
+      "question": "How should pursuers be placed in order?",
+      "answer": "Slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+    },
+    {
+      "question": "How should fleeing characters be placed in order?",
+      "answer": "Slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV."
+    },
+    {
+      "question": "How many movement actions are given to each participant, by default?",
+      "answer": "One movement action by default."
+    },
+    {
+      "question": "What is the order of pursuers in the chase?",
+      "answer": "slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+    },
+    {
+      "question": "How do fleeing characters/vehicles position themselves in the chase?",
+      "answer": "slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV."
+    },
+    {
+      "question": "How are hazards and barriers positioned in the game?",
+      "answer": "Hazards: Make a skill roll to move through a hazard."
+    },
+    {
+      "question": "How can characters buy bonus dice to negotiate hazards?",
+      "answer": "1 or 2 movement actions may be spent to buy 1 or 2 bonus dice for the skill roll to negotiate a hazard."
+    },
+    {
+      "question": "What happens if a vehicle attacks a barrier and fails to destroy it?",
+      "answer": "The vehicle is wrecked."
+    },
+    {
+      "question": "How much damage a vehicle inflicts on a barrier if it attacks and fails to destroy it?",
+      "answer": "1D10 damage"
+    },
+    {
+      "question": "What is the damage suffered by a vehicle if the barrier it attacked is destroyed?",
+      "answer": "Half the barrier's hit points prior to impact"
+    },
+    {
+      "question": "How many hit points does a mature tree have?",
+      "answer": "50 hit points"
+    },
+    {
+      "question": "What happens to a vehicle's damage if the barrier is destroyed?",
+      "answer": "The vehicle suffers an amount of damage equal to half the barrier's hit points prior to impact."
+    },
+    {
+      "question": "How much damage does a strong domestic external door deal?",
+      "answer": "15 hit points."
+    },
+    {
+      "question": "What happens to a vehicle's build points after taking damage?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle's build by one point (round down); damage below 10 points is ignored."
+    },
+    {
+      "question": "How does a vehicle's damage affect its build points?",
+      "answer": "Whenever a vehicle is used to inflict damage, it also suffers an amount of damage equal to half (round down) that which it delivers, but never enough to cause it to lose a greater amount of build points than the thing which it hit originally possessed."
+    },
+    {
+      "question": "What is the damage a vehicle can inflict on an enemy?",
+      "answer": "1D10 damage per listed build point"
+    },
+    {
+      "question": "What happens to a vehicle after it inflicts damage on an enemy?",
+      "answer": "A vehicle also suffers an amount of damage equal to half (round down) that which it delivers"
+    },
+    {
+      "question": "How does a vehicle's build points decrease after taking damage?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle's build by one point (round down)"
+    },
+    {
+      "question": "What is the roll required to determine a random location in the environment?",
+      "answer": "Roll 1D100, with 01-59 = 1 open location, 60+ = 1 Regular hazard, 85+ = 1 Hard hazard, and 96+ = 1 Extreme hazard"
+    }
+  ]
+}

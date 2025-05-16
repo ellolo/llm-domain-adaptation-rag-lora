@@ -1,0 +1,105 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, rules for vehicle chases are outlined, including how characters can use firearms during a chase, target vehicle tires, and deal with vehicle damage. Characters can also choose to interact with a location in an alternative way, such as attempting to open a door instead of running down a street. Additionally, rules are provided for characters joining an ongoing chase, including speed rolls to determine movement rates and positioning on the map. Key concepts include the use of penalty dice, vehicle armor, and the consequences of vehicle damage.",
+  "qa_pairs": [
+    {
+      "question": "How many locations a vehicle can advance with no penalty die?",
+      "answer": "3"
+    },
+    {
+      "question": "How many locations a vehicle can advance with 1 penalty die?",
+      "answer": "5"
+    },
+    {
+      "question": "Does stopping for a moment to use a firearm cost movement action?",
+      "answer": "Yes, 1 movement action"
+    },
+    {
+      "question": "Does continuing to chase affect a character's performance?",
+      "answer": "No, it does not"
+    },
+    {
+      "question": "Does firing during a chase cost additional movement actions?",
+      "answer": "No, it does not"
+    },
+    {
+      "question": "Does taking shots affect a character's performance in the chase?",
+      "answer": "No, taking shots does not affect a character's performance in the chase."
+    },
+    {
+      "question": "Can vehicle tires be targeted with gunfire?",
+      "answer": "Yes, vehicle tires can be targeted with gunfire."
+    },
+    {
+      "question": "What is the armor value of vehicle tires?",
+      "answer": "3"
+    },
+    {
+      "question": "What happens to a vehicle's build if a tire takes 2 points of damage?",
+      "answer": "A burst tire reduces a vehicle's build by 1 point."
+    },
+    {
+      "question": "Who should judge the ranges for firearms?",
+      "answer": "The Keeper"
+    },
+    {
+      "question": "What happens to a driver who falls unconscious due to a major wound?",
+      "answer": "The driver automatically loses control of the vehicle."
+    },
+    {
+      "question": "What is the damage rolled for the firearms attack against Harvey?",
+      "answer": "1D10 damage"
+    },
+    {
+      "question": "How much damage is reduced from the total damage rolled for the firearms attack against Harvey?",
+      "answer": "2"
+    },
+    {
+      "question": "What type of incident is chosen by the Keeper for the vehicular collision?",
+      "answer": "Moderate incident"
+    },
+    {
+      "question": "What happens to Harvey's car after the collision?",
+      "answer": "It glances off the side of an oncoming car, sending Harvey's car spinning out of control."
+    },
+    {
+      "question": "What happens to Harvey's car after it glances off the side of an oncoming car?",
+      "answer": "It spins out of control."
+    },
+    {
+      "question": "What is an alternative way to interact with a location, as described by the Keeper?",
+      "answer": "Running to the nearest door and attempting to open it."
+    },
+    {
+      "question": "What should the Keeper do after a character joins an ongoing chase?",
+      "answer": "Position them on an appropriate location."
+    },
+    {
+      "question": "How do characters who join an ongoing chase determine their movement rate?",
+      "answer": "With a speed roll."
+    },
+    {
+      "question": "What should the Keeper do after a character makes a speed roll to determine their movement rate?",
+      "answer": "Position them on an appropriate location."
+    },
+    {
+      "question": "What is the requirement for a character joining a chase as a pursuer?",
+      "answer": "A MOV rate that is at least equal to the slowest fleeing character."
+    },
+    {
+      "question": "What should happen if a character joining a chase as a pursuer fails to achieve the required MOV rate?",
+      "answer": "They can be ignored."
+    },
+    {
+      "question": "What is the rule for a character joining a chase as a fleeing character?",
+      "answer": "Their MOV rate should be faster than the slowest fleeing character."
+    },
+    {
+      "question": "What should a Keeper do after a character joins a chase?",
+      "answer": "Position them on an appropriate location."
+    },
+    {
+      "question": "What action is required for characters joining a chase in progress?",
+      "answer": "Make a speed roll to determine their MOV rate."
+    }
+  ]
+}

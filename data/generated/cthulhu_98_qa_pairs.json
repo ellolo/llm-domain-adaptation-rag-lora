@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, the Keeper determines the difficulty level for non-player characters (NPCs) based on their skills and the player's goals. The Keeper can adjust the difficulty level based on the player's actions, such as attempting to intimidate or persuade an NPC, and can also impose penalties or rewards for specific circumstances. The Keeper's decisions can significantly impact the outcome of a scene, and may require the player to make skill rolls to succeed. The Keeper's discretion is key in determining the success or failure of a player's actions.",
+  "qa_pairs": [
+    {
+      "question": "What is the threshold for a Hard success in a Call of Cthulhu skill check?",
+      "answer": "A roll equal to or below half skill"
+    },
+    {
+      "question": "What is the threshold for an Extreme success in a Call of Cthulhu skill check?",
+      "answer": "A roll equal to or below one-fifth of skill"
+    },
+    {
+      "question": "What happens to the difficulty level when a non-player character is positively inclined towards the player's goal?",
+      "answer": "No modification to the difficulty level is required"
+    },
+    {
+      "question": "How is the difficulty level affected when a non-player character is strongly opposed to the player's goal?",
+      "answer": "The difficulty is raised by one or two levels"
+    },
+    {
+      "question": "What is the criteria for an Extreme success?",
+      "answer": "An Extreme success is if the roll is equal to or below one-fifth of the opposing skill."
+    },
+    {
+      "question": "What happens when a non-player character is positively inclined towards the player's goal?",
+      "answer": "The Keeper should not bother rolling dice, but simply have them agree."
+    },
+    {
+      "question": "How does the difficulty level change when a non-player character is strongly opposed to the player's goal?",
+      "answer": "The difficulty is raised by one or two levels."
+    },
+    {
+      "question": "How does the Keeper adjust the difficulty level when the player supports their case or is willing to use a weapon?",
+      "answer": "The Keeper should lower the difficulty by one level."
+    },
+    {
+      "question": "What is the lowest chance of success required for an Extreme success?",
+      "answer": "equal to or below one-fifth of the skill"
+    },
+    {
+      "question": "Can there be no chance of success in some rare circumstances?",
+      "answer": "yes, and the Keeper may rule that there is no chance of success"
+    },
+    {
+      "question": "How did the difficulty level begin for the cultist?",
+      "answer": "Regular"
+    },
+    {
+      "question": "How did the Keeper increase the difficulty level for the cultist?",
+      "answer": "by two steps to Extreme"
+    },
+    {
+      "question": "Why does the Keeper increase the difficulty level after Brian threatens violence?",
+      "answer": "The Keeper increases the difficulty level by two steps to Extreme."
+    },
+    {
+      "question": "What happens to the difficulty level after Brian fails to succeed in the Intimidation roll?",
+      "answer": "The Keeper lowers the difficulty level to Hard."
+    },
+    {
+      "question": "What is the consequence of the Keeper not being compelled to reveal the contact's name?",
+      "answer": "It is entirely up to the Keeper whether the doctor is forthcoming."
+    },
+    {
+      "question": "What happens to Brian if he had succeeded in the Intimidation roll?",
+      "answer": "The Keeper would be compelled to give up the name of the contact."
+    },
+    {
+      "question": "What is the consequence of failing the Intimidation roll?",
+      "answer": "The Keeper is entirely up to whether the doctor is forthcoming."
+    },
+    {
+      "question": "What is the chance of succeeding in both Mechanical Repair and Electrical Repair rolls?",
+      "answer": "1%."
+    },
+    {
+      "question": "What is the chance of succeeding in a simultaneous roll?",
+      "answer": "10%."
+    },
+    {
+      "question": "What determines whether a situation calls for sequential skill rolls or a combined skill roll?",
+      "answer": "The Keeper's discretion."
+    },
+    {
+      "question": "What happens if the player succeeds in the Intimidation roll?",
+      "answer": "The Keeper would be compelled to give up the name of the contact."
+    },
+    {
+      "question": "What is the chance of succeeding in both Mechanical Repair and Electrical Repair rolls?",
+      "answer": "The chance of succeeding in both would be 1%."
+    },
+    {
+      "question": "What skill roll would allow Harvey to see the cultist?",
+      "answer": "A successful Spot Hidden roll."
+    },
+    {
+      "question": "Can the Keeper decide to make a combined skill roll?",
+      "answer": "The Keeper must decide whether a situation calls for sequential skill rolls or a combined skill roll."
+    }
+  ]
+}

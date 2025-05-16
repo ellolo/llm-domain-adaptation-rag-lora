@@ -1,0 +1,101 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a chase scenario, characters and vehicles have a set number of movement actions based on their speed rating relative to the slowest participant. Each character can use their movement actions to move forward, initiate an attack, cast a spell, or perform other actions requiring time and dice rolls. The pursuer's speed and DEX rating determine their movement actions, with faster pursuers having more movement actions. The chase can be resolved quickly if the pursuer is faster, or it can become a stalemate if both characters have the same speed.",
+  "qa_pairs": [
+    {
+      "question": "How many movement actions does every character and vehicle get by default?",
+      "answer": "One movement action"
+    },
+    {
+      "question": "How do movement actions for characters and vehicles change based on their movement rating?",
+      "answer": "The difference between their movement rating and the movement rating of the slowest participant in the chase"
+    },
+    {
+      "question": "Why does the farmer have a second movement action?",
+      "answer": "Because his speed is one more than that of the slowest character in the chase\u2014Harvey"
+    },
+    {
+      "question": "What is Harvey's movement rating after following speed rolls?",
+      "answer": "5"
+    },
+    {
+      "question": "What is the farmer's movement rating?",
+      "answer": "6"
+    },
+    {
+      "question": "How many movement actions does the farmer have?",
+      "answer": "Two movement actions"
+    },
+    {
+      "question": "What is the movement order in a Chase Round?",
+      "answer": "DEX order, from highest to lowest"
+    },
+    {
+      "question": "How many movement actions does each character get by default?",
+      "answer": "One"
+    },
+    {
+      "question": "Why does the farmer get a second movement action?",
+      "answer": "Because his speed is one more than that of the slowest character"
+    },
+    {
+      "question": "What is the movement action that allows a character to move forward in the chase?",
+      "answer": "Spending movement actions"
+    },
+    {
+      "question": "Can some monsters initiate multiple attacks in one round?",
+      "answer": "Yes, they can"
+    },
+    {
+      "question": "What type of skill allows a character to initiate an attack?",
+      "answer": "Fighting, Firearms, or Drive Auto"
+    },
+    {
+      "question": "What happens if two characters want to act at the same time?",
+      "answer": "The one with the highest DEX takes priority."
+    },
+    {
+      "question": "What is the cost of moving from one location to the next?",
+      "answer": "1 movement action."
+    },
+    {
+      "question": "What is the effect of a chase on pushed rolls?",
+      "answer": "Pushed rolls are not used in a chase."
+    },
+    {
+      "question": "What happens when a round ends with neither character acting?",
+      "answer": "The round may end with neither of them acting."
+    },
+    {
+      "question": "What determines the cost of movement in a chase?",
+      "answer": "The cost of movement is not specified in a chase."
+    },
+    {
+      "question": "What is the movement action for Harvey after his turn?",
+      "answer": "None, as he has used all his movement actions."
+    },
+    {
+      "question": "How many movement actions does Harvey have?",
+      "answer": "1"
+    },
+    {
+      "question": "How many locations does the farmer advance in round 1?",
+      "answer": "2"
+    },
+    {
+      "question": "What happens to the gap between the farmer and Harvey at the end of round 1?",
+      "answer": "It is closed from 2 locations to 1 location"
+    },
+    {
+      "question": "What would happen if the farmer had a higher DEX?",
+      "answer": "He would have moved first in round 1 and caught up with Harvey immediately"
+    },
+    {
+      "question": "What determines the outcome of a chase scene on even ground?",
+      "answer": "Whether the pursuer is faster than the character he or she is chasing"
+    },
+    {
+      "question": "What happens to the chase if both characters are of the same MOV speed?",
+      "answer": "One character might stay just out of range of the other, with no end to the chase"
+    }
+  ]
+}
