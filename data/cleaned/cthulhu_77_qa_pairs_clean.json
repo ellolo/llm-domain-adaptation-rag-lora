@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines three skills in the Call of Cthulhu role-playing game: Stealth, Ride, and Science. Stealth involves understanding and observing a target without being detected, while Ride involves handling and riding a mount, such as a horse or donkey. Both skills have regular and hard difficulty levels, with pushing examples that demonstrate extreme or reckless behavior. Failing these skills can result in various consequences, including the target becoming aware of the observer, the rider being thrown from the mount, or the investigator becoming obsessed with the animal.",
+  "qa_pairs": [
+    {
+      "question": "What is the primary difficulty of understanding spoken communication in a regular setting?",
+      "answer": "Regular difficulty: understand the spoken communication of a person who is in clear sight and in relatively close proximity.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a hard difficulty in determining spoken communication, and how is it achieved?",
+      "answer": "Hard difficulty: determine the spoken communication of a person whose mouth is occasionally obscured and/or is some distance away (e.g. in a large crowd of people).",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a person fails to successfully push an observation roll?",
+      "answer": "Sample Consequences of failing a Pushed roll: the target becomes aware that you are watching them intently, and takes offense and confronts you.",
+      "rating": 7
+    },
+    {
+      "question": "What could lead to someone being mistaken for having intentional attention on them?",
+      "answer": "The drunken man across the bar is angered, mistakenly thinking that you are looking at him, and punches you.",
+      "rating": 8
+    },
+    {
+      "question": "What might occur if a person is too intent on an observation to notice their surroundings?",
+      "answer": "You are so intent on the target that you miss what is happening in your close proximity (someone steals your case, or you walk into a lamp post).",
+      "rating": 9
+    },
+    {
+      "question": "What happens if an investigator fails a pushed Ride roll?",
+      "answer": "The investigator's chance of remaining mounted equals their Ride skill.",
+      "rating": 8
+    },
+    {
+      "question": "How many hit points are lost in the accident if an investigator falls from a mount?",
+      "answer": "At least 1D6 hit points",
+      "rating": 6
+    },
+    {
+      "question": "What skill is intended to apply to saddle horses, donkeys, or mules?",
+      "answer": "Ride",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a steed unexpectedly rears or stumbles while the rider is riding side-saddle?",
+      "answer": "The rider's chance of remaining mounted decreases by one level.",
+      "rating": 9
+    },
+    {
+      "question": "Can a steed unexpectedly rear or stumble be ridden successfully, regardless of the rider's skill?",
+      "answer": "Yes, but the level of difficulty would be higher.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the rider's chance of remaining mounted if a steed rears or stumbles?",
+      "answer": "The rider's Ride skill",
+      "rating": 9
+    },
+    {
+      "question": "How much hit points are lost in an accident if an investigator falls from a mount?",
+      "answer": "At least 1D6 hit points",
+      "rating": 8
+    },
+    {
+      "question": "What skill/Difficulty level is required for basic animal handling or riding a mount at a walking pace?",
+      "answer": "Basic animal handling or riding a mount at a walking pace does not require a ride roll",
+      "rating": 7
+    },
+    {
+      "question": "What is considered a hard difficulty for riding a mount?",
+      "answer": "Riding a mount at speed in rough, unfamiliar terrain where weather conditions are poor",
+      "rating": 9
+    },
+    {
+      "question": "How does riding a mount at speed affect the difficulty level?",
+      "answer": "It increases the difficulty level by one level",
+      "rating": 8
+    },
+    {
+      "question": "What increases the difficulty level by one level?",
+      "answer": "Riding side-saddle",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points are lost in an accident if an investigator falls from a mount?",
+      "answer": "At least 1D6 hit points",
+      "rating": 8
+    },
+    {
+      "question": "Does a ride roll affect basic animal handling or riding a mount at a walking pace?",
+      "answer": "No",
+      "rating": 9
+    },
+    {
+      "question": "What is considered hard difficulty while riding a mount?",
+      "answer": "Riding a mount at speed in rough, unfamiliar terrain with poor weather conditions",
+      "rating": 9
+    },
+    {
+      "question": "What should a rider prefer to do instead of risking a mount while approaching trouble?",
+      "answer": "Jumping clear",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the rider in a failed pushed roll?",
+      "answer": "The rider is thrown from the mount and takes falling damage.",
+      "rating": 9
+    },
+    {
+      "question": "What is the consequence if an insane investigator fails a pushed roll?",
+      "answer": "The investigator becomes obsessed with the animal.",
+      "rating": 8
+    },
+    {
+      "question": "What is required for a character to purchase a skill specialization?",
+      "answer": "They must spend skill points to purchase any skill specialization.",
+      "rating": 9
+    },
+    {
+      "question": "What type of education and training is suggested by science (specializations)?",
+      "answer": "A degree of formalized education and training.",
+      "rating": 8
+    },
+    {
+      "question": "What limits the understanding and scope of a character with a science specialty?",
+      "answer": "The era in which they are playing.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary difficulty of understanding spoken communication in a regular setting?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty: understand the spoken communication of a person who is in clear sight and in relatively close proximity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a hard difficulty in determining spoken communication, and how is it achieved?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty: determine the spoken communication of a person whose mouth is occasionally obscured and/or is some distance away (e.g. in a large crowd of people)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a person fails to successfully push an observation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sample Consequences of failing a Pushed roll: the target becomes aware that you are watching them intently, and takes offense and confronts you."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could lead to someone being mistaken for having intentional attention on them?"
+      },
+      {
+        "role": "assistant",
+        "content": "The drunken man across the bar is angered, mistakenly thinking that you are looking at him, and punches you."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might occur if a person is too intent on an observation to notice their surroundings?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are so intent on the target that you miss what is happening in your close proximity (someone steals your case, or you walk into a lamp post)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed Ride roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator's chance of remaining mounted equals their Ride skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points are lost in the accident if an investigator falls from a mount?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least 1D6 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is intended to apply to saddle horses, donkeys, or mules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ride"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a steed unexpectedly rears or stumbles while the rider is riding side-saddle?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rider's chance of remaining mounted decreases by one level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a steed unexpectedly rear or stumble be ridden successfully, regardless of the rider's skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but the level of difficulty would be higher."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the rider's chance of remaining mounted if a steed rears or stumbles?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rider's Ride skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much hit points are lost in an accident if an investigator falls from a mount?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least 1D6 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill/Difficulty level is required for basic animal handling or riding a mount at a walking pace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Basic animal handling or riding a mount at a walking pace does not require a ride roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is considered a hard difficulty for riding a mount?"
+      },
+      {
+        "role": "assistant",
+        "content": "Riding a mount at speed in rough, unfamiliar terrain where weather conditions are poor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does riding a mount at speed affect the difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "It increases the difficulty level by one level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What increases the difficulty level by one level?"
+      },
+      {
+        "role": "assistant",
+        "content": "Riding side-saddle"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points are lost in an accident if an investigator falls from a mount?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least 1D6 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does a ride roll affect basic animal handling or riding a mount at a walking pace?"
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is considered hard difficulty while riding a mount?"
+      },
+      {
+        "role": "assistant",
+        "content": "Riding a mount at speed in rough, unfamiliar terrain with poor weather conditions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a rider prefer to do instead of risking a mount while approaching trouble?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jumping clear"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the rider in a failed pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rider is thrown from the mount and takes falling damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator becomes obsessed with the animal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a character to purchase a skill specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "They must spend skill points to purchase any skill specialization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of education and training is suggested by science (specializations)?"
+      },
+      {
+        "role": "assistant",
+        "content": "A degree of formalized education and training."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What limits the understanding and scope of a character with a science specialty?"
+      },
+      {
+        "role": "assistant",
+        "content": "The era in which they are playing."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for updating an investigator's Credit Rating are outlined. The Credit Rating is influenced by changes in the investigator's income, assets, and employment status. A Credit Rating of 57 indicates that the investigator is now within the 'wealthy' income bracket. The document also provides guidelines for updating the investigator's cash and assets, as well as for handling significant life events such as job loss, divorce, or financial setbacks.",
+  "qa_pairs": [
+    {
+      "question": "How much money does Harvey have to reach the 'wealthy' bracket?",
+      "answer": "$30,000",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's initial Credit Rating?",
+      "answer": "41",
+      "rating": 9
+    },
+    {
+      "question": "What is the initial Credit Rating of the investigator?",
+      "answer": "48",
+      "rating": 9
+    },
+    {
+      "question": "How does the investigator's Credit Rating change if they are promoted?",
+      "answer": "Add 1D6 Credit Rating",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the investigator's Credit Rating when they are promoted?",
+      "answer": "The investigator's Credit Rating should rise accordingly (add 1D6 Credit Rating).",
+      "rating": 6
+    },
+    {
+      "question": "How much does the investigator's Credit Rating decrease when they lose their main source of income?",
+      "answer": "The investigator's Credit Rating decreases by 2D10 with each following investigator development phase.",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum Credit Rating if the investigator has a state safety net?",
+      "answer": "The minimum Credit Rating will be 1D10-1.",
+      "rating": 9
+    },
+    {
+      "question": "How does the investigator's Credit Rating decrease if they are demoted or take a period of unpaid leave?",
+      "answer": "The investigator's Credit Rating decreases by 1D10.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an investigator's Credit Rating if there is a state safety net?",
+      "answer": "The minimum Credit Rating will be 1D10-1.",
+      "rating": 8
+    },
+    {
+      "question": "How much does an investigator's Credit Rating decrease in the event of a dramatic decline in character's fortunes?",
+      "answer": "The investigator must reduce his or her Credit Rating by 1D100.",
+      "rating": 9
+    },
+    {
+      "question": "What does a Credit Rating of zero indicate?",
+      "answer": "That either the investigator is offered another job immediately or that they secreted money away somewhere safe.",
+      "rating": 8
+    },
+    {
+      "question": "How does the lowest Credit Rating function?",
+      "answer": "It indicates that the lowest Credit Rating is zero\u2014negative numbers are ignored.",
+      "rating": 7
+    },
+    {
+      "question": "What must the investigator reduce their Credit Rating by?",
+      "answer": "1D100",
+      "rating": 6
+    },
+    {
+      "question": "What happens if an investigator's Credit Rating withstands the loss?",
+      "answer": "Either the investigator is offered another job immediately or they secreted money away",
+      "rating": 8
+    },
+    {
+      "question": "What can affect an investigator's asset value?",
+      "answer": "A change in their Credit Rating score.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much money does Harvey have to reach the 'wealthy' bracket?"
+      },
+      {
+        "role": "assistant",
+        "content": "$30,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's initial Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "41"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial Credit Rating of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "48"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator's Credit Rating change if they are promoted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add 1D6 Credit Rating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's Credit Rating when they are promoted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator's Credit Rating should rise accordingly (add 1D6 Credit Rating)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the investigator's Credit Rating decrease when they lose their main source of income?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator's Credit Rating decreases by 2D10 with each following investigator development phase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Credit Rating if the investigator has a state safety net?"
+      },
+      {
+        "role": "assistant",
+        "content": "The minimum Credit Rating will be 1D10-1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator's Credit Rating decrease if they are demoted or take a period of unpaid leave?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator's Credit Rating decreases by 1D10."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Credit Rating if there is a state safety net?"
+      },
+      {
+        "role": "assistant",
+        "content": "The minimum Credit Rating will be 1D10-1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does an investigator's Credit Rating decrease in the event of a dramatic decline in character's fortunes?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator must reduce his or her Credit Rating by 1D100."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a Credit Rating of zero indicate?"
+      },
+      {
+        "role": "assistant",
+        "content": "That either the investigator is offered another job immediately or that they secreted money away somewhere safe."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the lowest Credit Rating function?"
+      },
+      {
+        "role": "assistant",
+        "content": "It indicates that the lowest Credit Rating is zero\u2014negative numbers are ignored."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the investigator reduce their Credit Rating by?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator's Credit Rating withstands the loss?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either the investigator is offered another job immediately or they secreted money away"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can affect an investigator's asset value?"
+      },
+      {
+        "role": "assistant",
+        "content": "A change in their Credit Rating score."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 16,
+    "filtered": 15,
+    "retention_rate": 0.94,
+    "avg_score": 7.8
+  }
+}

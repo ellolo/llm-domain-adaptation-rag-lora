@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, investigators are sent to a dig site in the woods, where they encounter undead servants, including Richard Gibson, who block their access to the site. The investigators must decide whether to try to gain entry or take a more cautious approach. If they gain access, they may be introduced to Carl White, the site foreman, who explains the purpose of the dig site and warns them about the dangers of the site. The investigators' actions will determine the outcome of their encounter with the undead servants and the site's foreman.",
+  "qa_pairs": [
+    {
+      "question": "What happens to the artists if they are still bound when night falls?",
+      "answer": "They rise as un-dead servants at midnight.",
+      "rating": 8
+    },
+    {
+      "question": "What time of day do the investigators must be liberated if they are to avoid becoming un-dead servants?",
+      "answer": "Midnight.",
+      "rating": 9
+    },
+    {
+      "question": "Who comes to the lake to call forth Gla'aki and offer up the investigators as undying servants?",
+      "answer": "Turner and his gang.",
+      "rating": 7
+    },
+    {
+      "question": "What is the goal of the investigators' actions in this scene, as determined by the actions of the investigators?",
+      "answer": "To gain open and direct entry to the dig site.",
+      "rating": 8
+    },
+    {
+      "question": "What will happen if the investigators don't liberate the artists?",
+      "answer": "They will rise as un-dead servants at midnight.",
+      "rating": 8
+    },
+    {
+      "question": "What is dependent on the actions of the investigators in this scene?",
+      "answer": "How this scene unfolds",
+      "rating": 6
+    },
+    {
+      "question": "What is blocking the road for the investigators?",
+      "answer": "A five bar-gate",
+      "rating": 9
+    },
+    {
+      "question": "Who is standing beside a five bar-gate that blocks the road?",
+      "answer": "Richard Gibson, an undead servant from the survey team.",
+      "rating": 8
+    },
+    {
+      "question": "What is the sound coming from the clearing in front of the investigators?",
+      "answer": "The sound of machinery.",
+      "rating": 9
+    },
+    {
+      "question": "What is Richard's attitude towards the investigators if they are not hostile?",
+      "answer": "Surprisingly civil and welcoming.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the work site where the investigators are being turned away?",
+      "answer": "Conducting blasting.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result if they push the roll and fail?",
+      "answer": "Time is wasted, and other undead servants arrive, leading to a possible confrontation.",
+      "rating": 7
+    },
+    {
+      "question": "Who takes the crystal to the surface if they succeed?",
+      "answer": "Richard",
+      "rating": 8
+    },
+    {
+      "question": "What are James Stanton, Dean Walters, and Carl White doing with the ropes and tools?",
+      "answer": "Attaching them to the crystal to pull it to the surface.",
+      "rating": 9
+    },
+    {
+      "question": "Who assists them at night?",
+      "answer": "Turner and his gang",
+      "rating": 8
+    },
+    {
+      "question": "Who is the site foreman that Richard will take them to?",
+      "answer": "Carl White",
+      "rating": 8
+    },
+    {
+      "question": "What is the main purpose of the team at the dig site?",
+      "answer": "To recover mineral deposits in the water drainage basin",
+      "rating": 9
+    },
+    {
+      "question": "What can be found in the foreman's office?",
+      "answer": "Geological survey maps and basic laboratory equipment",
+      "rating": 7
+    },
+    {
+      "question": "How many temporary huts are there in the dig site?",
+      "answer": "Five",
+      "rating": 6
+    },
+    {
+      "question": "What type of equipment is there in the woods?",
+      "answer": "Geological survey maps and basic laboratory equipment",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of the fourth hut?",
+      "answer": "To hold prisoners",
+      "rating": 8
+    },
+    {
+      "question": "What is the current use of the third hut?",
+      "answer": "It is a kitchen and mess hall (not used of late).",
+      "rating": 9
+    },
+    {
+      "question": "What items can be found in the fifth hut?",
+      "answer": "Drilling equipment and other tools, such as dynamite.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of Carl White's office?",
+      "answer": "It is an opportunity for Carl White to be introduced to the investigators.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the artists if they are still bound when night falls?"
+      },
+      {
+        "role": "assistant",
+        "content": "They rise as un-dead servants at midnight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What time of day do the investigators must be liberated if they are to avoid becoming un-dead servants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Midnight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who comes to the lake to call forth Gla'aki and offer up the investigators as undying servants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turner and his gang."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the investigators' actions in this scene, as determined by the actions of the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "To gain open and direct entry to the dig site."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen if the investigators don't liberate the artists?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will rise as un-dead servants at midnight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is dependent on the actions of the investigators in this scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "How this scene unfolds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is blocking the road for the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "A five bar-gate"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is standing beside a five bar-gate that blocks the road?"
+      },
+      {
+        "role": "assistant",
+        "content": "Richard Gibson, an undead servant from the survey team."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the sound coming from the clearing in front of the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sound of machinery."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Richard's attitude towards the investigators if they are not hostile?"
+      },
+      {
+        "role": "assistant",
+        "content": "Surprisingly civil and welcoming."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the work site where the investigators are being turned away?"
+      },
+      {
+        "role": "assistant",
+        "content": "Conducting blasting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result if they push the roll and fail?"
+      },
+      {
+        "role": "assistant",
+        "content": "Time is wasted, and other undead servants arrive, leading to a possible confrontation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who takes the crystal to the surface if they succeed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Richard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are James Stanton, Dean Walters, and Carl White doing with the ropes and tools?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attaching them to the crystal to pull it to the surface."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who assists them at night?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turner and his gang"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the site foreman that Richard will take them to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carl White"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the team at the dig site?"
+      },
+      {
+        "role": "assistant",
+        "content": "To recover mineral deposits in the water drainage basin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be found in the foreman's office?"
+      },
+      {
+        "role": "assistant",
+        "content": "Geological survey maps and basic laboratory equipment"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many temporary huts are there in the dig site?"
+      },
+      {
+        "role": "assistant",
+        "content": "Five"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of equipment is there in the woods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Geological survey maps and basic laboratory equipment"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the fourth hut?"
+      },
+      {
+        "role": "assistant",
+        "content": "To hold prisoners"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current use of the third hut?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is a kitchen and mess hall (not used of late)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What items can be found in the fifth hut?"
+      },
+      {
+        "role": "assistant",
+        "content": "Drilling equipment and other tools, such as dynamite."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Carl White's office?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is an opportunity for Carl White to be introduced to the investigators."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 24,
+    "retention_rate": 0.92,
+    "avg_score": 7.8
+  }
+}

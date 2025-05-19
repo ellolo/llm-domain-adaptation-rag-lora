@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, a \"Bout of Madness\" is a temporary state of insanity that can befall investigators, lasting anywhere from 1D10 combat rounds to several hours or even indefinitely. During this time, the investigator's backstory, personality, and abilities can be altered by the Keeper, reflecting their descent into madness. The Keeper and player work together to add or revise entries to the investigator's backstory, which can include new traits, phobias, and manias, as well as changes to their possessions, injuries, and arcane abilities.",
+  "qa_pairs": [
+    {
+      "question": "How long does a bout of madness last?",
+      "answer": "1D10 combat rounds (real time)",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator's backstory entries after a bout of madness?",
+      "answer": "The Keeper may amend or add new entries to reflect the investigator's descent into madness",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of adding or altering backstory entries?",
+      "answer": "To reflect the investigator's descent into madness and tie the investigator into the plot more strongly",
+      "rating": 8
+    },
+    {
+      "question": "Can the Keeper add or revise backstory entries at any time?",
+      "answer": "No, the Keeper should work with the player to add or revise entries appropriately",
+      "rating": 7
+    },
+    {
+      "question": "What can be added or altered to reflect events in the story and tie the investigator into the plot more strongly?",
+      "answer": "Entries can be added or altered to reflect events in the story and thus tie the investigator into the plot more strongly.",
+      "rating": 9
+    },
+    {
+      "question": "What might be suitable personal description entries for the investigator?",
+      "answer": "Suitable entries might include 'Wild-eyed', 'Thousand-yard stare', 'World-weary', or 'No longer cares for their own appearance'.",
+      "rating": 8
+    },
+    {
+      "question": "How should the player and Keeper feel after the investigator comes to after a Bout of Madness?",
+      "answer": "Coming to after a Bout of Madness should be disorienting.",
+      "rating": 9
+    },
+    {
+      "question": "What can be done to a balanced ideology or belief entry to make it more extreme or deranged?",
+      "answer": "A balanced entry such as 'religious' might be changed to something more extreme or deranged, such as 'Unbelievers must be converted or made to suffer'.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of altering or adding entries in the Call of Cthulhu story?",
+      "answer": "To tie the investigator into the plot more strongly",
+      "rating": 9
+    },
+    {
+      "question": "What type of descriptions might be suitable for personal characteristics in the Call of Cthulhu story?",
+      "answer": "Entries such as 'Wild-eyed,' 'Thousand-yard stare,' 'World-weary,' or 'No longer cares for their own appearance'.",
+      "rating": 8
+    },
+    {
+      "question": "How might the significance of a person be added to the story?",
+      "answer": "By adding a new name together with a reason for its inclusion, such as 'Can't rest until Delbert Smith is in his grave'.",
+      "rating": 9
+    },
+    {
+      "question": "How might a Keeper change the ideology or beliefs of a character in the story?",
+      "answer": "By altering a balanced entry such as 'religious' to something more extreme or deranged, such as 'Unbelievers must be converted or made to suffer'.",
+      "rating": 9
+    },
+    {
+      "question": "What type of personal description entries might be suitable for the Keeper?",
+      "answer": "Entries such as 'Wild-eyed,' 'Thousand-yard stare,' 'World-weary,' or 'No longer cares for their own appearance'.",
+      "rating": 8
+    },
+    {
+      "question": "How should Coming to after a Bout of Madness be characterized?",
+      "answer": "As disorienting.",
+      "rating": 7
+    },
+    {
+      "question": "What is an alternative to making a new entry for a specific situation?",
+      "answer": "A new entry that is appropriate to the situation might be made.",
+      "rating": 6
+    },
+    {
+      "question": "What is an example of a new name being added with a reason for its inclusion?",
+      "answer": "Can't rest until Delbert Smith is in his grave.",
+      "rating": 9
+    },
+    {
+      "question": "How long does a bout of madness last during a scene with other investigators?",
+      "answer": "1D10 combat rounds.",
+      "rating": 8
+    },
+    {
+      "question": "How long does the state of temporary insanity last?",
+      "answer": "1D10 hours.",
+      "rating": 8
+    },
+    {
+      "question": "What is the duration of the bout of madness if it happens during a scene with other investigators present?",
+      "answer": "1D10 combat rounds",
+      "rating": 9
+    },
+    {
+      "question": "How long does the full duration of temporary insanity last?",
+      "answer": "1D10 hours",
+      "rating": 8
+    },
+    {
+      "question": "What is the duration of the state of insanity if it lasts longer than the temporary insanity?",
+      "answer": "Indefinite insanity",
+      "rating": 9
+    },
+    {
+      "question": "Can the investigator choose to play out the bout of madness round-by-round, even when alone?",
+      "answer": "Yes, the Keeper thinks it appropriate",
+      "rating": 7
+    },
+    {
+      "question": "What is the method to determine the nature of the bout of madness?",
+      "answer": "Either roll on Table VII: Bouts of Madness\u2014Real Time, or the Keeper may choose an appropriate option.",
+      "rating": 8
+    },
+    {
+      "question": "What can happen to a new possession during a bout of madness?",
+      "answer": "A new possession might be acquired and given great significance.",
+      "rating": 8
+    },
+    {
+      "question": "What can result from rolls during a bout of madness?",
+      "answer": "Phobias and Manias.",
+      "rating": 9
+    },
+    {
+      "question": "What can happen to injuries & scars during a bout of madness?",
+      "answer": "They are usually altered as a result of major wounds.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does a bout of madness last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 combat rounds (real time)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's backstory entries after a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may amend or add new entries to reflect the investigator's descent into madness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of adding or altering backstory entries?"
+      },
+      {
+        "role": "assistant",
+        "content": "To reflect the investigator's descent into madness and tie the investigator into the plot more strongly"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper add or revise backstory entries at any time?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the Keeper should work with the player to add or revise entries appropriately"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be added or altered to reflect events in the story and tie the investigator into the plot more strongly?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entries can be added or altered to reflect events in the story and thus tie the investigator into the plot more strongly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might be suitable personal description entries for the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Suitable entries might include 'Wild-eyed', 'Thousand-yard stare', 'World-weary', or 'No longer cares for their own appearance'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the player and Keeper feel after the investigator comes to after a Bout of Madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Coming to after a Bout of Madness should be disorienting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be done to a balanced ideology or belief entry to make it more extreme or deranged?"
+      },
+      {
+        "role": "assistant",
+        "content": "A balanced entry such as 'religious' might be changed to something more extreme or deranged, such as 'Unbelievers must be converted or made to suffer'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of altering or adding entries in the Call of Cthulhu story?"
+      },
+      {
+        "role": "assistant",
+        "content": "To tie the investigator into the plot more strongly"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of descriptions might be suitable for personal characteristics in the Call of Cthulhu story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entries such as 'Wild-eyed,' 'Thousand-yard stare,' 'World-weary,' or 'No longer cares for their own appearance'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might the significance of a person be added to the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "By adding a new name together with a reason for its inclusion, such as 'Can't rest until Delbert Smith is in his grave'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might a Keeper change the ideology or beliefs of a character in the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "By altering a balanced entry such as 'religious' to something more extreme or deranged, such as 'Unbelievers must be converted or made to suffer'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of personal description entries might be suitable for the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entries such as 'Wild-eyed,' 'Thousand-yard stare,' 'World-weary,' or 'No longer cares for their own appearance'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should Coming to after a Bout of Madness be characterized?"
+      },
+      {
+        "role": "assistant",
+        "content": "As disorienting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative to making a new entry for a specific situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "A new entry that is appropriate to the situation might be made."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a new name being added with a reason for its inclusion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Can't rest until Delbert Smith is in his grave."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does a bout of madness last during a scene with other investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 combat rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the state of temporary insanity last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the bout of madness if it happens during a scene with other investigators present?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 combat rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the full duration of temporary insanity last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the state of insanity if it lasts longer than the temporary insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indefinite insanity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigator choose to play out the bout of madness round-by-round, even when alone?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Keeper thinks it appropriate"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the method to determine the nature of the bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either roll on Table VII: Bouts of Madness\u2014Real Time, or the Keeper may choose an appropriate option."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to a new possession during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "A new possession might be acquired and given great significance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can result from rolls during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Phobias and Manias."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to injuries & scars during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are usually altered as a result of major wounds."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

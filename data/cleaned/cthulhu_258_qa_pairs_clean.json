@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a list of suggested spells from various sources within the Cthulhu Mythos, a shared universe of horror fiction created by H.P. Lovecraft. The spells are categorized by their associated tomes, including the Necronomicon, Al Azif, and the Greek and Latin translations of the Necronomicon. Each spell is accompanied by a sanity loss rating, a Cthulhu Mythos rating, and a study period, indicating the difficulty and complexity of the spell. The document also includes information on the mythos rating and the entities associated with each spell, such as Azathoth, Cthulhu, and Yog-Sothoth.",
+  "qa_pairs": [
+    {
+      "question": "When was the single folio version of 'Monstres and their Kynde' stolen from the British Museum?",
+      "answer": "1898",
+      "rating": 8
+    },
+    {
+      "question": "What is the Mythos Rating of 'Sanity Loss'?",
+      "answer": "24",
+      "rating": 9
+    },
+    {
+      "question": "How many weeks does it take to study 'Sanity Loss'?",
+      "answer": "36 weeks",
+      "rating": 7
+    },
+    {
+      "question": "What are some suggested spells that can be cast with 'Suggested Spells'?",
+      "answer": "Command Faceless One, Command Ice Demon, Command Invisible Servant, Command Night",
+      "rating": 6
+    },
+    {
+      "question": "What is the source of 'Sanity Loss'?",
+      "answer": "Cthulhu Mythos",
+      "rating": 8
+    },
+    {
+      "question": "What is the first book mentioned in the text?",
+      "answer": "Necronomicon",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take to complete the study of the Necronomicon?",
+      "answer": "30 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the twin of Zhar mentioned in the text?",
+      "answer": "Lloigor",
+      "rating": 7
+    },
+    {
+      "question": "When was the English version of the Necronomicon published?",
+      "answer": "1909",
+      "rating": 8
+    },
+    {
+      "question": "What is the Necronomicon's publication date?",
+      "answer": "1909",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended study duration for the Necronomicon?",
+      "answer": "36 weeks",
+      "rating": 9
+    },
+    {
+      "question": "What is the suggested Mythos rating for the Necronomicon?",
+      "answer": "24",
+      "rating": 7
+    },
+    {
+      "question": "What is the recommended duration for studying the Necronomicon?",
+      "answer": "36 weeks",
+      "rating": 9
+    },
+    {
+      "question": "What is the publication date of Al Azif?",
+      "answer": "c. 730 AD",
+      "rating": 9
+    },
+    {
+      "question": "When was this version of the text referred to as lost?",
+      "answer": "12th century",
+      "rating": 8
+    },
+    {
+      "question": "What is the suggested study duration for this text?",
+      "answer": "68 weeks",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommended spell for summoning a deity in this text?",
+      "answer": "Contact Deity/Nyarlathotep",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the Elder Sign mentioned in this text?",
+      "answer": "Elder Sign",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the creature that can be summoned using the Summon/Bind spell in this text?",
+      "answer": "Servitor of the Outer Gods",
+      "rating": 8
+    },
+    {
+      "question": "When was the Greek manuscript translated by Theodoras Philetas?",
+      "answer": "c. 950 AD",
+      "rating": 9
+    },
+    {
+      "question": "What happened to the last known copy of the Greek manuscript?",
+      "answer": "It was burned in Salem, 1692",
+      "rating": 9
+    },
+    {
+      "question": "In what century was the Latin manuscript printed in Germany?",
+      "answer": "Late 15th century",
+      "rating": 8
+    },
+    {
+      "question": "How many weeks were suggested for studying the Cthulhu Mythos book?",
+      "answer": "68 weeks",
+      "rating": 9
+    },
+    {
+      "question": "By whom was the Latin manuscript translated?",
+      "answer": "Olaus Wormius",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the single folio version of 'Monstres and their Kynde' stolen from the British Museum?"
+      },
+      {
+        "role": "assistant",
+        "content": "1898"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating of 'Sanity Loss'?"
+      },
+      {
+        "role": "assistant",
+        "content": "24"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks does it take to study 'Sanity Loss'?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some suggested spells that can be cast with 'Suggested Spells'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Command Faceless One, Command Ice Demon, Command Invisible Servant, Command Night"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of 'Sanity Loss'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first book mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Necronomicon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to complete the study of the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the twin of Zhar mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lloigor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the English version of the Necronomicon published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1909"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Necronomicon's publication date?"
+      },
+      {
+        "role": "assistant",
+        "content": "1909"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended study duration for the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested Mythos rating for the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "24"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended duration for studying the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the publication date of Al Azif?"
+      },
+      {
+        "role": "assistant",
+        "content": "c. 730 AD"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was this version of the text referred to as lost?"
+      },
+      {
+        "role": "assistant",
+        "content": "12th century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested study duration for this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "68 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended spell for summoning a deity in this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Contact Deity/Nyarlathotep"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Elder Sign mentioned in this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elder Sign"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the creature that can be summoned using the Summon/Bind spell in this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Servitor of the Outer Gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Greek manuscript translated by Theodoras Philetas?"
+      },
+      {
+        "role": "assistant",
+        "content": "c. 950 AD"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the last known copy of the Greek manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "It was burned in Salem, 1692"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what century was the Latin manuscript printed in Germany?"
+      },
+      {
+        "role": "assistant",
+        "content": "Late 15th century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks were suggested for studying the Cthulhu Mythos book?"
+      },
+      {
+        "role": "assistant",
+        "content": "68 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By whom was the Latin manuscript translated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Olaus Wormius"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

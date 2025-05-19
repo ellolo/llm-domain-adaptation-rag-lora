@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game \"Chases Investigators,\" players take on the role of investigators tasked with uncovering the truth behind the Cthulhu Mythos, a series of cosmic horrors that challenge their sanity. The game's mechanics are designed to simulate the psychological effects of encountering such horrors, with Sanity points serving as a measure of the investigator's mental resilience. Investigators can lose Sanity points, leading to temporary or indefinite insanity, and the Keeper will test their resiliency through Sanity rolls. The game's goal is to navigate the horrors of the Cthulhu Mythos while maintaining a grip on reality.",
+  "qa_pairs": [
+    {
+      "question": "What is the result of Johansen's fighting maneuver?",
+      "answer": "Johansen's first two next round actions are lost.",
+      "rating": 8
+    },
+    {
+      "question": "How many locations ahead of the Keeper is Johansen after his movement action?",
+      "answer": "Johansen is now 6 locations ahead.",
+      "rating": 9
+    },
+    {
+      "question": "What is Johansen doing as he flees?",
+      "answer": "Johansen looks over his shoulder to see Cthulhu.",
+      "rating": 7
+    },
+    {
+      "question": "What is Johansen using to escape from Cthulhu?",
+      "answer": "Johansen used his steamboat to ram Cthulhu.",
+      "rating": 9
+    },
+    {
+      "question": "How many movement actions does Johansen have left?",
+      "answer": "Johansen has only 1 movement action.",
+      "rating": 8
+    },
+    {
+      "question": "What is the state of mind that investigators must maintain throughout the game?",
+      "answer": "Sane and rational",
+      "rating": 9
+    },
+    {
+      "question": "What are the consequences of investigators losing Sanity points?",
+      "answer": "Insanity, and in extreme cases, permanent insanity",
+      "rating": 9
+    },
+    {
+      "question": "What happens when an investigator's Sanity points reach zero?",
+      "answer": "They become permanently and incurably insane, and cease to be a player character",
+      "rating": 9
+    },
+    {
+      "question": "How do investigators' Sanity points affect their ability to withstand horrors?",
+      "answer": "Sanity points determine whether an investigator can withstand the horrors of the Cthulhu Mythos",
+      "rating": 9
+    },
+    {
+      "question": "What is the ultimate consequence of losing all Sanity points?",
+      "answer": "Permanently and incurably insane, and ceasing to be a player character",
+      "rating": 8
+    },
+    {
+      "question": "What happens when an investigator's Sanity points are reduced to zero?",
+      "answer": "The investigator is permanently and incurably insane and ceases to be a player character.",
+      "rating": 9
+    },
+    {
+      "question": "How is Sanity in the game modeled?",
+      "answer": "Sanity in the game is modeled after the behavior of protagonists in H.P. Lovecraft's fiction",
+      "rating": 8
+    },
+    {
+      "question": "What does Sanity represent in the game?",
+      "answer": "Sanity represents the investigator's flexibility and resilience to emotional trauma",
+      "rating": 9
+    },
+    {
+      "question": "How does starting with a high number of Sanity points affect an investigator?",
+      "answer": "Characters that start with a high number of Sanity points find it easier to rationalize traumatic events or repress horrific memories",
+      "rating": 8
+    },
+    {
+      "question": "What can cause emotional disturbance in an investigator?",
+      "answer": "Other gruesome and comparatively ordinary sights and events can also cause emotional disturbance, in addition to the cosmic horror of the Cthulhu Mythos",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of high Sanity points on a character's ability to rationalize traumatic events?",
+      "answer": "Characters that start with a high number of Sanity points find it easier to rationalize traumatic events or to repress horrific memories",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of low Sanity points on a character?",
+      "answer": "Those with a lower number of Sanity points are mentally fragile and more susceptible to emotional upset.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Keeper's Sanity roll in an unnerving or horrifying situation?",
+      "answer": "The Keeper will test the resiliency and emotional strength of the investigators.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when an investigator loses too many Sanity points in too short a time?",
+      "answer": "Investigator insanity is triggered, causing temporary or indefinite insanity.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of too many Sanity points being lost in too short a time?",
+      "answer": "Too many Sanity points being lost in too short a time causes temporary or indefinite insanity.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when too many Sanity points are lost in too short a time?",
+      "answer": "Investigator insanity is triggered.",
+      "rating": 9
+    },
+    {
+      "question": "How do Sanity points change throughout the game?",
+      "answer": "They can change up and down.",
+      "rating": 7
+    },
+    {
+      "question": "What determines a successful Sanity roll?",
+      "answer": "A roll equal to or less than the investigator\u2019s current Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "Can bonus dice be applied to Sanity rolls?",
+      "answer": "No, bonus dice are not applied to Sanity rolls.",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of a successful Sanity roll?",
+      "answer": "The investigator loses Sanity points.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Johansen's fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Johansen's first two next round actions are lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many locations ahead of the Keeper is Johansen after his movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Johansen is now 6 locations ahead."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Johansen doing as he flees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Johansen looks over his shoulder to see Cthulhu."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Johansen using to escape from Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Johansen used his steamboat to ram Cthulhu."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does Johansen have left?"
+      },
+      {
+        "role": "assistant",
+        "content": "Johansen has only 1 movement action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of mind that investigators must maintain throughout the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sane and rational"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of investigators losing Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Insanity, and in extreme cases, permanent insanity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an investigator's Sanity points reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become permanently and incurably insane, and cease to be a player character"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators' Sanity points affect their ability to withstand horrors?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity points determine whether an investigator can withstand the horrors of the Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate consequence of losing all Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Permanently and incurably insane, and ceasing to be a player character"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an investigator's Sanity points are reduced to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator is permanently and incurably insane and ceases to be a player character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Sanity in the game modeled?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity in the game is modeled after the behavior of protagonists in H.P. Lovecraft's fiction"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Sanity represent in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity represents the investigator's flexibility and resilience to emotional trauma"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does starting with a high number of Sanity points affect an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters that start with a high number of Sanity points find it easier to rationalize traumatic events or repress horrific memories"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can cause emotional disturbance in an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Other gruesome and comparatively ordinary sights and events can also cause emotional disturbance, in addition to the cosmic horror of the Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of high Sanity points on a character's ability to rationalize traumatic events?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters that start with a high number of Sanity points find it easier to rationalize traumatic events or to repress horrific memories"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of low Sanity points on a character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Those with a lower number of Sanity points are mentally fragile and more susceptible to emotional upset."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Keeper's Sanity roll in an unnerving or horrifying situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper will test the resiliency and emotional strength of the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an investigator loses too many Sanity points in too short a time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigator insanity is triggered, causing temporary or indefinite insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of too many Sanity points being lost in too short a time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Too many Sanity points being lost in too short a time causes temporary or indefinite insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when too many Sanity points are lost in too short a time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigator insanity is triggered."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Sanity points change throughout the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can change up and down."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines a successful Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll equal to or less than the investigator\u2019s current Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can bonus dice be applied to Sanity rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, bonus dice are not applied to Sanity rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a successful Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator loses Sanity points."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

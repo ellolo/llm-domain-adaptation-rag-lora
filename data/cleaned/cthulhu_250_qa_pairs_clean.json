@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Cthulhu Mythos, certain books, known as \"Mythos Tomes,\" can possess a distinct \"character\" that echoes their powerful owners, such as grand sorcerers and cult potentates. These books are often bound in leather, have a musky odor, and may cause nearby books to char and blacken. Mythos Tomes can be a source of great power for investigators, but using them too freely can unbalance the game and make it predictable. The presence of these books can also drive owners to delve deeper into the Mythos and court insanity.",
+  "qa_pairs": [
+    {
+      "question": "How did the text originally exist?",
+      "answer": "otted down on notepaper",
+      "rating": 8
+    },
+    {
+      "question": "Where was the text inserted?",
+      "answer": "here or there",
+      "rating": 9
+    },
+    {
+      "question": "What is the text that was originally noted down?",
+      "answer": "the text",
+      "rating": 7
+    },
+    {
+      "question": "What was the original form of the text?",
+      "answer": "inserted",
+      "rating": 6
+    },
+    {
+      "question": "What happens to some tomes as they grow in age?",
+      "answer": "They begin to possess their own 'character' as they grow in age.",
+      "rating": 9
+    },
+    {
+      "question": "How do some books seem to be manifesting distinct 'personalities'?",
+      "answer": "Some books apparently manifest distinct 'personalities' that echo once-powerful owners, such as grand sorcerers and cult potentates.",
+      "rating": 10
+    },
+    {
+      "question": "What is often found in the binding of Mythos books?",
+      "answer": "The binding will probably be leather, perhaps human or even that of some unworldly being.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the pages of other, nearby books when a Mythos book is present?",
+      "answer": "The presence of the tome causes the pages of other, nearby books to char and blacken.",
+      "rating": 9
+    },
+    {
+      "question": "Is the leather of the book likely to be human or unworldly?",
+      "answer": "human or even that of some unworldly being",
+      "rating": 9
+    },
+    {
+      "question": "Does the book cause nearby books to char and blacken?",
+      "answer": "yes, it does",
+      "rating": 8
+    },
+    {
+      "question": "What is the attitude of sorcerers and cultists towards their tomes?",
+      "answer": "They consider the knowledge contained within their tomes to be theirs by right\u2013and not to be lightly passed to the unworthy",
+      "rating": 9
+    },
+    {
+      "question": "Why are sorcerers and cultists uninterested in the needs of posterity?",
+      "answer": "They intend to live forever and they consider the knowledge contained within their tomes to be theirs by right\u2013and not to be lightly passed to the unworthy",
+      "rating": 9
+    },
+    {
+      "question": "Does the presence of the tome cause the pages of other, nearby books to char and blacken?",
+      "answer": "Yes, according to the text.",
+      "rating": 8
+    },
+    {
+      "question": "Are sorcerers and cultists concerned with the needs of posterity?",
+      "answer": "No, they are not concerned with the needs of posterity.",
+      "rating": 6
+    },
+    {
+      "question": "What is the Keeper supposed to do with a new Mythos tome?",
+      "answer": "The Keeper chooses the book\u2019s original language and can make up its title in that language as well.",
+      "rating": 9
+    },
+    {
+      "question": "What should investigators know about a new Mythos tome?",
+      "answer": "know the language of its composition, know what it looks and feels like, know how many Sanity points are lost in reading it, know how many Cthulhu Mythos points its comprehension adds, and be able to determine what spells (if any) can be found within it.",
+      "rating": 8
+    },
+    {
+      "question": "What can investigators do with a new Mythos tome?",
+      "answer": "The process of reading can be leisurely and can be suspended at any point for as long as need be.",
+      "rating": 7
+    },
+    {
+      "question": "How should a new Mythos tome be treated?",
+      "answer": "Add a few percentiles to the Cthulhu Mythos skill reward. Treat the original edition as another edition.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper's role when creating a new Mythos tome?",
+      "answer": "The Keeper chooses the book's original language and can make up its title in that language as well.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of investigators when studying a terrifying book?",
+      "answer": "To read the book and potentially gain access to Mythos power and energy.",
+      "rating": 8
+    },
+    {
+      "question": "What can Mythos tomes be considered as in the context of the game?",
+      "answer": "A physical and mental portal to the madness of secrets beyond the reasoning of mortal man.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential effect of using Mythos tomes too freely in the game?",
+      "answer": "Unbalancing a game",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of finding a Mythos tome in every direction the investigators turn?",
+      "answer": "Making the game predictable and the challenge lessened",
+      "rating": 8
+    },
+    {
+      "question": "What can obtaining a Mythos book be in the context of the game?",
+      "answer": "A scenario in itself, or at least a suitably dangerous sidetrack to a campaign",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the text originally exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "otted down on notepaper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was the text inserted?"
+      },
+      {
+        "role": "assistant",
+        "content": "here or there"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the text that was originally noted down?"
+      },
+      {
+        "role": "assistant",
+        "content": "the text"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the original form of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "inserted"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to some tomes as they grow in age?"
+      },
+      {
+        "role": "assistant",
+        "content": "They begin to possess their own 'character' as they grow in age."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do some books seem to be manifesting distinct 'personalities'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some books apparently manifest distinct 'personalities' that echo once-powerful owners, such as grand sorcerers and cult potentates."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is often found in the binding of Mythos books?"
+      },
+      {
+        "role": "assistant",
+        "content": "The binding will probably be leather, perhaps human or even that of some unworldly being."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the pages of other, nearby books when a Mythos book is present?"
+      },
+      {
+        "role": "assistant",
+        "content": "The presence of the tome causes the pages of other, nearby books to char and blacken."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the leather of the book likely to be human or unworldly?"
+      },
+      {
+        "role": "assistant",
+        "content": "human or even that of some unworldly being"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does the book cause nearby books to char and blacken?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it does"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the attitude of sorcerers and cultists towards their tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "They consider the knowledge contained within their tomes to be theirs by right\u2013and not to be lightly passed to the unworthy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are sorcerers and cultists uninterested in the needs of posterity?"
+      },
+      {
+        "role": "assistant",
+        "content": "They intend to live forever and they consider the knowledge contained within their tomes to be theirs by right\u2013and not to be lightly passed to the unworthy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does the presence of the tome cause the pages of other, nearby books to char and blacken?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, according to the text."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are sorcerers and cultists concerned with the needs of posterity?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they are not concerned with the needs of posterity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper supposed to do with a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper chooses the book\u2019s original language and can make up its title in that language as well."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should investigators know about a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "know the language of its composition, know what it looks and feels like, know how many Sanity points are lost in reading it, know how many Cthulhu Mythos points its comprehension adds, and be able to determine what spells (if any) can be found within it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can investigators do with a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The process of reading can be leisurely and can be suspended at any point for as long as need be."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should a new Mythos tome be treated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add a few percentiles to the Cthulhu Mythos skill reward. Treat the original edition as another edition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role when creating a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper chooses the book's original language and can make up its title in that language as well."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of investigators when studying a terrifying book?"
+      },
+      {
+        "role": "assistant",
+        "content": "To read the book and potentially gain access to Mythos power and energy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can Mythos tomes be considered as in the context of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A physical and mental portal to the madness of secrets beyond the reasoning of mortal man."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential effect of using Mythos tomes too freely in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unbalancing a game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of finding a Mythos tome in every direction the investigators turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making the game predictable and the challenge lessened"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can obtaining a Mythos book be in the context of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A scenario in itself, or at least a suitably dangerous sidetrack to a campaign"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 24,
+    "retention_rate": 0.92,
+    "avg_score": 7.9
+  }
+}

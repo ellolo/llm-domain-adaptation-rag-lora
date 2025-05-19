@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"Jump\" skill in the Call of Cthulhu game allows investigators to leap, jump, or fall with varying degrees of success, depending on the difficulty level. A successful Jump can reduce fall damage, allow for longer jumps, and even enable investigators to push themselves to extreme heights. The skill also has a \"Pushed\" variant, which requires more success and can result in more severe consequences if failed. Additionally, the \"Other Language\" skill allows investigators to understand and communicate in languages other than their own, with varying levels of proficiency.",
+  "qa_pairs": [
+    {
+      "question": "What happens to the investigator when they succeed in a jump?",
+      "answer": "The investigator becomes intensely fearful of the target and does their bidding.",
+      "rating": 9
+    },
+    {
+      "question": "What can Jump be used for when falling?",
+      "answer": "To lessen the potential fall damage.",
+      "rating": 8
+    },
+    {
+      "question": "What constitutes a regular jump, a hard jump, or an extreme jump?",
+      "answer": "Respectively requiring Regular success, Hard success, and Extreme success.",
+      "rating": 9
+    },
+    {
+      "question": "What is a regular success for a jump?",
+      "answer": "A situation where an investigator can safely leap down vertically to their own height, jump horizontally from a standing start across a gap for a distance equal to the jumper\u2019s own height, or run and then jump horizontally to a distance of twice the jumper\u2019s own height.",
+      "rating": 9
+    },
+    {
+      "question": "How far is the world record for the long jump?",
+      "answer": "Around 29 feet.",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of using Jump when falling?",
+      "answer": "Lessen the potential fall damage.",
+      "rating": 8
+    },
+    {
+      "question": "How would you define a regular success in Jump?",
+      "answer": "A regular success would be required for an investigator to safely leap down vertically to his or her own height, jump horizontally from a standing start across a gap for a distance equal to the jumper\u2019s own height, or run and then jump horizontally to a distance of twice the jumper\u2019s own height.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential damage reduction achieved by a successful Jump when falling from a height?",
+      "answer": "Reducing resultant damage by half.",
+      "rating": 9
+    },
+    {
+      "question": "What is the world record for the long jump in feet?",
+      "answer": "Around 29 feet.",
+      "rating": 9
+    },
+    {
+      "question": "How far could an Extreme success achieve compared to a regular success?",
+      "answer": "Twice the jumper\u2019s own height.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three physical challenges of a regular difficulty jump?",
+      "answer": "Regular difficulty involves safely leaping down vertically, jumping horizontally from a standing start, and running and then jumping horizontally to a distance of twice the jumper's own height.",
+      "rating": 9
+    },
+    {
+      "question": "What is the hard difficulty challenge in terms of regular difficulty?",
+      "answer": "The hard difficulty challenge increases distances by 50%, such as jumping from a rooftop and through the window of a neighboring building across the alley.",
+      "rating": 9
+    },
+    {
+      "question": "What is a Pushed roll in the context of a jump?",
+      "answer": "A Pushed roll is a skill roll that occurs when a character is trapped in a pit and jumping to escape, allowing for multiple attempts.",
+      "rating": 8
+    },
+    {
+      "question": "What is the key difference between a regular difficulty jump and a hard difficulty jump?",
+      "answer": "The key difference is the increased distance, with hard difficulty jumps being 50% longer than regular difficulty jumps.",
+      "rating": 9
+    },
+    {
+      "question": "What type of roll is required when safely leaping down vertically?",
+      "answer": "No roll is required when safely leaping down vertically.",
+      "rating": 7
+    },
+    {
+      "question": "What are the consequences of failing a pushed roll?",
+      "answer": "fall and suffer physical harm; achieve the jump but a valuable possession is dropped in the process.",
+      "rating": 6
+    },
+    {
+      "question": "What does the 'Other (Specializations)' skill represent?",
+      "answer": "the user\u2019s chance to understand, speak, read and write in a language other than his or her own.",
+      "rating": 9
+    },
+    {
+      "question": "Can individuals know any number of languages?",
+      "answer": "An individual can know any number of languages.",
+      "rating": 8
+    },
+    {
+      "question": "What should be chosen for the 'Other (Specializations)' skill?",
+      "answer": "ordinary earthly languages (such as Aklo, Hyperborean, etc.); archaic speech or writing in unknown languages should not be chosen (unless agreed with the Keeper).",
+      "rating": 9
+    },
+    {
+      "question": "How difficult is it to comprehend an entire book with the 'Other (Specializations)' skill?",
+      "answer": "A single successful Other Language roll normally allows comprehension of an entire book.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition to raise the difficulty level in the Keeper's Other Language roll?",
+      "answer": "archaic speech or writing in that language",
+      "rating": 7
+    },
+    {
+      "question": "What skill level allows a single successful Other Language roll for comprehension of an entire book?",
+      "answer": "5% skill",
+      "rating": 8
+    },
+    {
+      "question": "At what skill level can a character pass for a native speaker of a foreign language?",
+      "answer": "75% skill",
+      "rating": 9
+    },
+    {
+      "question": "How do investigators identify a present-day human language?",
+      "answer": "with a Know roll",
+      "rating": 8
+    },
+    {
+      "question": "How do investigators identify an extinct human language?",
+      "answer": "with an Archaeology or History roll",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when they succeed in a jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator becomes intensely fearful of the target and does their bidding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can Jump be used for when falling?"
+      },
+      {
+        "role": "assistant",
+        "content": "To lessen the potential fall damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What constitutes a regular jump, a hard jump, or an extreme jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "Respectively requiring Regular success, Hard success, and Extreme success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a regular success for a jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "A situation where an investigator can safely leap down vertically to their own height, jump horizontally from a standing start across a gap for a distance equal to the jumper\u2019s own height, or run and then jump horizontally to a distance of twice the jumper\u2019s own height."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far is the world record for the long jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 29 feet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of using Jump when falling?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lessen the potential fall damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would you define a regular success in Jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "A regular success would be required for an investigator to safely leap down vertically to his or her own height, jump horizontally from a standing start across a gap for a distance equal to the jumper\u2019s own height, or run and then jump horizontally to a distance of twice the jumper\u2019s own height."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential damage reduction achieved by a successful Jump when falling from a height?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reducing resultant damage by half."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the world record for the long jump in feet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 29 feet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far could an Extreme success achieve compared to a regular success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twice the jumper\u2019s own height."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three physical challenges of a regular difficulty jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty involves safely leaping down vertically, jumping horizontally from a standing start, and running and then jumping horizontally to a distance of twice the jumper's own height."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty challenge in terms of regular difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "The hard difficulty challenge increases distances by 50%, such as jumping from a rooftop and through the window of a neighboring building across the alley."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll in the context of a jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Pushed roll is a skill roll that occurs when a character is trapped in a pit and jumping to escape, allowing for multiple attempts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key difference between a regular difficulty jump and a hard difficulty jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key difference is the increased distance, with hard difficulty jumps being 50% longer than regular difficulty jumps."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is required when safely leaping down vertically?"
+      },
+      {
+        "role": "assistant",
+        "content": "No roll is required when safely leaping down vertically."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "fall and suffer physical harm; achieve the jump but a valuable possession is dropped in the process."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the 'Other (Specializations)' skill represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "the user\u2019s chance to understand, speak, read and write in a language other than his or her own."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can individuals know any number of languages?"
+      },
+      {
+        "role": "assistant",
+        "content": "An individual can know any number of languages."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be chosen for the 'Other (Specializations)' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "ordinary earthly languages (such as Aklo, Hyperborean, etc.); archaic speech or writing in unknown languages should not be chosen (unless agreed with the Keeper)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How difficult is it to comprehend an entire book with the 'Other (Specializations)' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A single successful Other Language roll normally allows comprehension of an entire book."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition to raise the difficulty level in the Keeper's Other Language roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "archaic speech or writing in that language"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill level allows a single successful Other Language roll for comprehension of an entire book?"
+      },
+      {
+        "role": "assistant",
+        "content": "5% skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what skill level can a character pass for a native speaker of a foreign language?"
+      },
+      {
+        "role": "assistant",
+        "content": "75% skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators identify a present-day human language?"
+      },
+      {
+        "role": "assistant",
+        "content": "with a Know roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators identify an extinct human language?"
+      },
+      {
+        "role": "assistant",
+        "content": "with an Archaeology or History roll"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

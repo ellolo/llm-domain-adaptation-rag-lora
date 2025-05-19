@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Lovecraftian universe, a shoggoth is a monstrous, amorphous creature that can engulf and crush multiple targets, dealing massive damage. When a shoggoth attacks, it can engulf multiple victims, each of whom must make a successful opposed STR roll to avoid being sucked apart. Shoggoths can also regenerate hit points and have various vulnerabilities, such as being unable to withstand fire and electrical attacks. Additionally, there are smaller, intelligent shoggoth-like creatures known as Shoggoth Lords, which are cunning and charming but have a tendency to melt down into their monstrous forms when threatened or distracted.",
+  "qa_pairs": [
+    {
+      "question": "How big is the area a shoggoth can cover?",
+      "answer": "5 yards square",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a shoggoth attacks more than one target?",
+      "answer": "It must divide its STR among all targets",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage penalty for a victim held within a shoggoth?",
+      "answer": "Hits are lost equal to the shoggoth's damage bonus",
+      "rating": 8
+    },
+    {
+      "question": "Can a shoggoth engulf any number of enemies?",
+      "answer": "However, they may not exceed a total SIZ greater than its own SIZ",
+      "rating": 9
+    },
+    {
+      "question": "How do victims within a shoggoth strike back?",
+      "answer": "Only on rounds in which they successfully roll STR or less on 1D100",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage type that deals full damage to a shoggoth victim?",
+      "answer": "Damage descriptive as rupturing, crushing, and being sucked into pieces.",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum total SIZ of enemies a shoggoth can engulf?",
+      "answer": "Its own SIZ.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Dodge percentage for a shoggoth?",
+      "answer": "8% (4/1)",
+      "rating": 7
+    },
+    {
+      "question": "What type of damage is halved when attacking a shoggoth?",
+      "answer": "Fire and electrical attacks.",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points does a shoggoth regenerate per round?",
+      "answer": "2.",
+      "rating": 8
+    },
+    {
+      "question": "What is the potential outcome of the unknown code in the cells of all living things on Earth?",
+      "answer": "The code causes cells to modify, allowing a hybridized and rapid evolution never before seen in nature.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship between Shoggoth Lords and their larger monstrous cousins?",
+      "answer": "Shoggoth Lords are smaller, more intelligent descendants of their larger monstrous cousins.",
+      "rating": 8
+    },
+    {
+      "question": "What is unique about the evolution of Shoggoth Lords?",
+      "answer": "A handful of Shoggoths have evolved into intelligent creatures able at will to mimic humans in appearance and speech.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential reaction of humans to the shoggoth within them?",
+      "answer": "Will mankind welcome or revolt in horror at the shoggoth within us all?",
+      "rating": 9
+    },
+    {
+      "question": "What is the origin of the genetic code that could reveal a hitherto unknown code in the cells of all living things on Earth?",
+      "answer": "The origin is not specified, but it may come from some quirk of evolution, or perhaps through the unwitting intervention of some other species or being.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary effect of the code when activated?",
+      "answer": "allows a hybridized and rapid evolution never before seen in nature\u2014with flesh instantaneously adapting to changing environments",
+      "rating": 9
+    },
+    {
+      "question": "How do Shoggoth Lords transform between their human and monstrous forms?",
+      "answer": "They can freely transmute between their human and monstrous forms",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical form in which Shoggoth Lords appear in humans?",
+      "answer": "grossly obese, hairless figures",
+      "rating": 8
+    },
+    {
+      "question": "How long can a Shoggoth Lord maintain its human form?",
+      "answer": "It takes great concentration and control to remain in human form for any length of time",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a Shoggoth Lord is caught off-guard, angered, or distracted?",
+      "answer": "It quickly melts down into its terrible true gelatinous self",
+      "rating": 9
+    },
+    {
+      "question": "What is required for a shoggoth lord to remain in human form?",
+      "answer": "Great concentration and control",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a shoggoth lord is caught off-guard, angered, or distracted?",
+      "answer": "It quickly melts down into its gelatinous self",
+      "rating": 8
+    },
+    {
+      "question": "Why do shoggoth lords find the human world appealing?",
+      "answer": "They find it delightful horror of comprehension",
+      "rating": 7
+    },
+    {
+      "question": "What is the primary motivation of shoggoth lords?",
+      "answer": "To satisfy themselves",
+      "rating": 9
+    },
+    {
+      "question": "How do shoggoth lords deal with their territory and disputes?",
+      "answer": "They make grandiose claims of territory and engage in murderous squabbles",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How big is the area a shoggoth can cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 yards square"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a shoggoth attacks more than one target?"
+      },
+      {
+        "role": "assistant",
+        "content": "It must divide its STR among all targets"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage penalty for a victim held within a shoggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hits are lost equal to the shoggoth's damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a shoggoth engulf any number of enemies?"
+      },
+      {
+        "role": "assistant",
+        "content": "However, they may not exceed a total SIZ greater than its own SIZ"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do victims within a shoggoth strike back?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only on rounds in which they successfully roll STR or less on 1D100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type that deals full damage to a shoggoth victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage descriptive as rupturing, crushing, and being sucked into pieces."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum total SIZ of enemies a shoggoth can engulf?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its own SIZ."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage for a shoggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "8% (4/1)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage is halved when attacking a shoggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fire and electrical attacks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does a shoggoth regenerate per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential outcome of the unknown code in the cells of all living things on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The code causes cells to modify, allowing a hybridized and rapid evolution never before seen in nature."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between Shoggoth Lords and their larger monstrous cousins?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shoggoth Lords are smaller, more intelligent descendants of their larger monstrous cousins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about the evolution of Shoggoth Lords?"
+      },
+      {
+        "role": "assistant",
+        "content": "A handful of Shoggoths have evolved into intelligent creatures able at will to mimic humans in appearance and speech."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential reaction of humans to the shoggoth within them?"
+      },
+      {
+        "role": "assistant",
+        "content": "Will mankind welcome or revolt in horror at the shoggoth within us all?"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the genetic code that could reveal a hitherto unknown code in the cells of all living things on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The origin is not specified, but it may come from some quirk of evolution, or perhaps through the unwitting intervention of some other species or being."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary effect of the code when activated?"
+      },
+      {
+        "role": "assistant",
+        "content": "allows a hybridized and rapid evolution never before seen in nature\u2014with flesh instantaneously adapting to changing environments"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Shoggoth Lords transform between their human and monstrous forms?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can freely transmute between their human and monstrous forms"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical form in which Shoggoth Lords appear in humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "grossly obese, hairless figures"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long can a Shoggoth Lord maintain its human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes great concentration and control to remain in human form for any length of time"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Shoggoth Lord is caught off-guard, angered, or distracted?"
+      },
+      {
+        "role": "assistant",
+        "content": "It quickly melts down into its terrible true gelatinous self"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a shoggoth lord to remain in human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "Great concentration and control"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a shoggoth lord is caught off-guard, angered, or distracted?"
+      },
+      {
+        "role": "assistant",
+        "content": "It quickly melts down into its gelatinous self"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do shoggoth lords find the human world appealing?"
+      },
+      {
+        "role": "assistant",
+        "content": "They find it delightful horror of comprehension"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary motivation of shoggoth lords?"
+      },
+      {
+        "role": "assistant",
+        "content": "To satisfy themselves"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do shoggoth lords deal with their territory and disputes?"
+      },
+      {
+        "role": "assistant",
+        "content": "They make grandiose claims of territory and engage in murderous squabbles"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

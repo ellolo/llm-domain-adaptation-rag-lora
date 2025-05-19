@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Hounds of Tindalos are a type of monstrous creature in the Call of Cthulhu universe, characterized by their bluish pus-like ichor that deals ongoing damage to victims. They can also inflict permanent damage through a tongue attack, which creates a deep, bloodless wound. The creatures are highly adaptable and can change their form, making them difficult to track or defeat. They are vulnerable to daylight and can be dispelled by intense light, but can be resistant to mundane attacks.",
+  "qa_pairs": [
+    {
+      "question": "What is Tindalos covered with?",
+      "answer": "A sort of bluish pus (Ichor)",
+      "rating": 9
+    },
+    {
+      "question": "What happens when a victim is struck by a Fighting attack?",
+      "answer": "A gout of the ichor is smeared over them",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the ichor is wiped off with a rag or towel?",
+      "answer": "It can be wiped off with a DEX roll",
+      "rating": 7
+    },
+    {
+      "question": "How much damage is done to the target when the ichor is on their body?",
+      "answer": "2D6 damage per round",
+      "rating": 9
+    },
+    {
+      "question": "What happens if fire is applied to the ichor?",
+      "answer": "1D6 hit points are lost to burns from the flame",
+      "rating": 8
+    },
+    {
+      "question": "How much hit points are lost to burns from the flame?",
+      "answer": "1D6",
+      "rating": 6
+    },
+    {
+      "question": "What damage is drained from a hound per round using tongue attack?",
+      "answer": "3D6 POW",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for the ichor?",
+      "answer": "1D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the percentage chance to see a hound of Tindalos?",
+      "answer": "1D20",
+      "rating": 8
+    },
+    {
+      "question": "What are the Hunting Horrors that accompany a Hunting Horror?",
+      "answer": "Great viperine creatures, which had curiously distorted heads, and grotesquely great clawed appendages.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a Hunting Horror?",
+      "answer": "Average Damage Bonus: 3D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the average build of a Hunting Horror?",
+      "answer": "Average Build: 4",
+      "rating": 7
+    },
+    {
+      "question": "What is the average magic points for a Hunting Horror?",
+      "answer": "Average Magic Points: 21",
+      "rating": 8
+    },
+    {
+      "question": "What do the hunting horrors resemble?",
+      "answer": "enormous  ropy  black  serpents  or  worms",
+      "rating": 6
+    },
+    {
+      "question": "How do the hunting horrors typically move?",
+      "answer": "swiftly",
+      "rating": 9
+    },
+    {
+      "question": "What affects the hunting horrors?",
+      "answer": "daylight",
+      "rating": 8
+    },
+    {
+      "question": "How long do the hunting horrors typically average?",
+      "answer": "forty feet",
+      "rating": 7
+    },
+    {
+      "question": "How can a strong burst of light affect the hunting horrors?",
+      "answer": "sear one to dust",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tindalos covered with?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sort of bluish pus (Ichor)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a victim is struck by a Fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A gout of the ichor is smeared over them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the ichor is wiped off with a rag or towel?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can be wiped off with a DEX roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is done to the target when the ichor is on their body?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 damage per round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if fire is applied to the ichor?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 hit points are lost to burns from the flame"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much hit points are lost to burns from the flame?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What damage is drained from a hound per round using tongue attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D6 POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the ichor?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage chance to see a hound of Tindalos?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the Hunting Horrors that accompany a Hunting Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Great viperine creatures, which had curiously distorted heads, and grotesquely great clawed appendages."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Hunting Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Damage Bonus: 3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of a Hunting Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Build: 4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a Hunting Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Magic Points: 21"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the hunting horrors resemble?"
+      },
+      {
+        "role": "assistant",
+        "content": "enormous  ropy  black  serpents  or  worms"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the hunting horrors typically move?"
+      },
+      {
+        "role": "assistant",
+        "content": "swiftly"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What affects the hunting horrors?"
+      },
+      {
+        "role": "assistant",
+        "content": "daylight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long do the hunting horrors typically average?"
+      },
+      {
+        "role": "assistant",
+        "content": "forty feet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a strong burst of light affect the hunting horrors?"
+      },
+      {
+        "role": "assistant",
+        "content": "sear one to dust"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 18,
+    "retention_rate": 0.72,
+    "avg_score": 7.8
+  }
+}

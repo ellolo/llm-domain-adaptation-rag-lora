@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"Art and Craft\" skill in the Call of Cthulhu game allows investigators to specialize in various creative pursuits, such as acting, fine art, or carpentry. These specializations can be used to create items, duplicate or fake objects, or gain information about an item. The skill can be used to make or repair items, and the success of the roll can indicate the quality and precision of the item. The skill also has a \"pushed\" version, which requires more effort and can result in more extreme consequences if failed.",
+  "qa_pairs": [
+    {
+      "question": "What can happen to the finds if the site is seized or publicity is high?",
+      "answer": "The finds can be stolen.",
+      "rating": 8
+    },
+    {
+      "question": "How can an investigator spend skill points?",
+      "answer": "To purchase any skill specialization.",
+      "rating": 9
+    },
+    {
+      "question": "What is the 'Art and Craft' skill?",
+      "answer": "The generic 'Art and Craft' skill cannot be purchased.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary function of the 'Art and Craft' skill?",
+      "answer": "This skill may enable the making or repair of an item\u2014typically requiring equipment and time, to be determined by the Keeper, if necessary.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the success of an item made with the 'Art and Craft' skill?",
+      "answer": "a higher level of success indicates the item made is of high quality and/or precision.",
+      "rating": 8
+    },
+    {
+      "question": "Who determines the success of an item made with the 'Art and Craft' skill?",
+      "answer": "by the Keeper, if necessary.",
+      "rating": 8
+    },
+    {
+      "question": "Can the generic 'Art and Craft' skill be purchased?",
+      "answer": "No, the generic 'Art and Craft' skill cannot be purchased.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of an art or craft skill?",
+      "answer": "To make or repair an item, typically requiring equipment and time.",
+      "rating": 8
+    },
+    {
+      "question": "What is the difference between making an item and faking an item with an art or craft skill?",
+      "answer": "Making an item requires the original, while faking an item requires a specific original to be copied.",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the art or craft skill used to make fake documentation?",
+      "answer": "Forgery.",
+      "rating": 8
+    },
+    {
+      "question": "What is a higher level of success in making an item?",
+      "answer": "A higher level of success indicates the item made is of high quality and/or precision.",
+      "rating": 9
+    },
+    {
+      "question": "What type of skill is used to make a fake item?",
+      "answer": "An art or craft skill might also be used to make a duplicate or fake item.",
+      "rating": 8
+    },
+    {
+      "question": "What is the term for faking documentation?",
+      "answer": "In the case of faking documentation, a specific specialization (Forgery) is used.",
+      "rating": 9
+    },
+    {
+      "question": "What does a successful roll provide information about?",
+      "answer": "A successful roll might provide information about an item, such as where or when it might have been made, some point of history or technique concerning it, or who might have made it.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the difficulty level of a successful roll?",
+      "answer": "The intricacy and distinctiveness of the original to be copied.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of a successful roll in faking documentation?",
+      "answer": "Providing information about an item, such as its history or technique.",
+      "rating": 8
+    },
+    {
+      "question": "What type of item is considered 'hard' to replicate?",
+      "answer": "A higher quality or particularly intricate piece.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a challenging task in faking documentation?",
+      "answer": "Reworking the object, piece or composition from scratch.",
+      "rating": 9
+    },
+    {
+      "question": "What is a significant consequence of failing a Pushed roll?",
+      "answer": "A vast amount of time and money is wasted in creating a failed attempt; the audience or customer is highly offended or physically injured by some aspect of your work.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of characters in the game are trained in Acting?",
+      "answer": "5% (Acting, 05%): The performer is trained in theatrical and/or film acting...",
+      "rating": 7
+    },
+    {
+      "question": "What can a character trained in Acting do to adopt a persona?",
+      "answer": "adopt a persona, memorize scripts...",
+      "rating": 6
+    },
+    {
+      "question": "What artistic mediums is the artist skilled in?",
+      "answer": "oils, acrylic, watercolor, pencil, crayon or pastels",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to the finds if the site is seized or publicity is high?"
+      },
+      {
+        "role": "assistant",
+        "content": "The finds can be stolen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can an investigator spend skill points?"
+      },
+      {
+        "role": "assistant",
+        "content": "To purchase any skill specialization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The generic 'Art and Craft' skill cannot be purchased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill may enable the making or repair of an item\u2014typically requiring equipment and time, to be determined by the Keeper, if necessary."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the success of an item made with the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "a higher level of success indicates the item made is of high quality and/or precision."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who determines the success of an item made with the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "by the Keeper, if necessary."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the generic 'Art and Craft' skill be purchased?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the generic 'Art and Craft' skill cannot be purchased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of an art or craft skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make or repair an item, typically requiring equipment and time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between making an item and faking an item with an art or craft skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making an item requires the original, while faking an item requires a specific original to be copied."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the art or craft skill used to make fake documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forgery."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a higher level of success in making an item?"
+      },
+      {
+        "role": "assistant",
+        "content": "A higher level of success indicates the item made is of high quality and/or precision."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of skill is used to make a fake item?"
+      },
+      {
+        "role": "assistant",
+        "content": "An art or craft skill might also be used to make a duplicate or fake item."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the term for faking documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the case of faking documentation, a specific specialization (Forgery) is used."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a successful roll provide information about?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful roll might provide information about an item, such as where or when it might have been made, some point of history or technique concerning it, or who might have made it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of a successful roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The intricacy and distinctiveness of the original to be copied."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of a successful roll in faking documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Providing information about an item, such as its history or technique."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of item is considered 'hard' to replicate?"
+      },
+      {
+        "role": "assistant",
+        "content": "A higher quality or particularly intricate piece."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a challenging task in faking documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reworking the object, piece or composition from scratch."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a significant consequence of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A vast amount of time and money is wasted in creating a failed attempt; the audience or customer is highly offended or physically injured by some aspect of your work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of characters in the game are trained in Acting?"
+      },
+      {
+        "role": "assistant",
+        "content": "5% (Acting, 05%): The performer is trained in theatrical and/or film acting..."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a character trained in Acting do to adopt a persona?"
+      },
+      {
+        "role": "assistant",
+        "content": "adopt a persona, memorize scripts..."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What artistic mediums is the artist skilled in?"
+      },
+      {
+        "role": "assistant",
+        "content": "oils, acrylic, watercolor, pencil, crayon or pastels"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 22,
+    "retention_rate": 0.92,
+    "avg_score": 8.0
+  }
+}

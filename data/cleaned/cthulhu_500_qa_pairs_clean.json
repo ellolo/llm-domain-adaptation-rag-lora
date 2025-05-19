@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop game, resolving firearm attacks involves rolling dice and applying modifiers to determine the outcome. The difficulty level of the attack, ranging from Normal to Extreme, affects the roll, with Extreme being the most challenging. The type of damage dealt also varies, with Minor, Moderate, Severe, Deadly, Terminal, and Splat categories representing increasing levels of harm. Additionally, malfunctions and poison effects can also impact the outcome of the attack.",
+  "qa_pairs": [
+    {
+      "question": "What is the criteria for a successful attack roll in a firearms scenario?",
+      "answer": "If the attack roll is successful: half of the shots fired hit the target\u2014roll damage for half of the shots (round down, minimum of one).",
+      "rating": 9
+    },
+    {
+      "question": "What is the result when the attack is an Extreme success?",
+      "answer": "all shots fired hit the target, the first half (round down, minimum of one) of which impale.",
+      "rating": 9
+    },
+    {
+      "question": "How do you determine the damage for a successful attack roll?",
+      "answer": "roll damage for half of the shots (round down, minimum of one)",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for a successful hit in an Extreme difficulty level?",
+      "answer": "the best possible result is a successful hit and not an impale.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the attack is successful but not an Extreme success?",
+      "answer": "half of the shots fired hit the target\u2014roll damage for half of the shots (round down, minimum of one).",
+      "rating": 9
+    },
+    {
+      "question": "What is the best possible result for an Extreme difficulty level shot in a firearm attack?",
+      "answer": "a successful hit and not an impale.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when an attack roll result is equal to or higher than the firing weapon's malfunction number?",
+      "answer": "the weapon malfunctions and does not fire.",
+      "rating": 8
+    },
+    {
+      "question": "How much damage is a Minor injury in Call of Cthulhu?",
+      "answer": "1D3",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage type for moderate attacks in Call of Cthulhu?",
+      "answer": "1D6",
+      "rating": 8
+    },
+    {
+      "question": "How much damage is a Severe injury in Call of Cthulhu?",
+      "answer": "1D10",
+      "rating": 9
+    },
+    {
+      "question": "What is the best possible result for an Extreme difficulty level shot in a firearm attack?",
+      "answer": "a successful hit and not an impale",
+      "rating": 7
+    },
+    {
+      "question": "What happens when an attack roll result is equal to or higher than the firing weapon's malfunction number?",
+      "answer": "the weapon malfunctions and does not fire",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage level for Minor injuries?",
+      "answer": "1D3",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage level for Severe injuries?",
+      "answer": "1D10",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage level for Moderate injuries?",
+      "answer": "1D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome if a character fails a CON roll in a state of physical exertion?",
+      "answer": "Damage is sustained each round thereafter until death or until the victim is able to breathe",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome if a character fails a CON roll each round?",
+      "answer": "Damage is sustained each round thereafter until death",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome if a character fails a CON roll and is unable to breathe?",
+      "answer": "Death",
+      "rating": 10
+    },
+    {
+      "question": "What is the effect of a roll equal to or less than one-fifth of CON on damage from poisons?",
+      "answer": "Poisons may cause damage to be halved.",
+      "rating": 7
+    },
+    {
+      "question": "What symptoms may poisons cause in victims?",
+      "answer": "stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness and paralysis.",
+      "rating": 9
+    },
+    {
+      "question": "How do Keepers determine if a victim can act or not due to poison symptoms?",
+      "answer": "It is up to the Keeper whether the symptoms permit the victim to act or not, or to act with a penalty die or an increased level of difficulty.",
+      "rating": 8
+    },
+    {
+      "question": "Under what condition can a poison's effects be shaken off?",
+      "answer": "If the CON roll is a critical success.",
+      "rating": 6
+    },
+    {
+      "question": "How are characters ordered in a combat situation?",
+      "answer": "Highest DEX, Readied Firearms go first.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the criteria for a successful attack roll in a firearms scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the attack roll is successful: half of the shots fired hit the target\u2014roll damage for half of the shots (round down, minimum of one)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result when the attack is an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "all shots fired hit the target, the first half (round down, minimum of one) of which impale."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you determine the damage for a successful attack roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "roll damage for half of the shots (round down, minimum of one)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a successful hit in an Extreme difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "the best possible result is a successful hit and not an impale."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the attack is successful but not an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "half of the shots fired hit the target\u2014roll damage for half of the shots (round down, minimum of one)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the best possible result for an Extreme difficulty level shot in a firearm attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "a successful hit and not an impale."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an attack roll result is equal to or higher than the firing weapon's malfunction number?"
+      },
+      {
+        "role": "assistant",
+        "content": "the weapon malfunctions and does not fire."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is a Minor injury in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for moderate attacks in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is a Severe injury in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the best possible result for an Extreme difficulty level shot in a firearm attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "a successful hit and not an impale"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an attack roll result is equal to or higher than the firing weapon's malfunction number?"
+      },
+      {
+        "role": "assistant",
+        "content": "the weapon malfunctions and does not fire"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage level for Minor injuries?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage level for Severe injuries?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage level for Moderate injuries?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if a character fails a CON roll in a state of physical exertion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage is sustained each round thereafter until death or until the victim is able to breathe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if a character fails a CON roll each round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage is sustained each round thereafter until death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if a character fails a CON roll and is unable to breathe?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a roll equal to or less than one-fifth of CON on damage from poisons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Poisons may cause damage to be halved."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What symptoms may poisons cause in victims?"
+      },
+      {
+        "role": "assistant",
+        "content": "stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness and paralysis."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Keepers determine if a victim can act or not due to poison symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is up to the Keeper whether the symptoms permit the victim to act or not, or to act with a penalty die or an increased level of difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition can a poison's effects be shaken off?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the CON roll is a critical success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are characters ordered in a combat situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Highest DEX, Readied Firearms go first."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 23,
+    "retention_rate": 0.92,
+    "avg_score": 7.8
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses various artifacts and devices from the Cthulhu Mythos, a fictional universe created by H.P. Lovecraft. These artifacts, such as the Shining Trapezohedron and the stone box from the Cult of Starry Wisdom, are said to hold significant power and knowledge, granting users visions of other worlds and dimensions. The Cult of Starry Wisdom, a New England sect, is believed to have possessed the Shining Trapezohedron, which was later lost and possibly still hidden. The document also touches on the Cult of Nyarlathotep, which uses a stone box to summon the Haunter of the Dark, a malevolent entity. Additionally, it mentions the Serpent People, a fictional species said to have advanced knowledge in biology and science.",
+  "qa_pairs": [
+    {
+      "question": "What are the standard sanity losses for viewing certain entities?",
+      "answer": "1D6 Cthulhu Mythos points.",
+      "rating": 9
+    },
+    {
+      "question": "Where is the technology of the shan similar to the mi-go technology?",
+      "answer": "Most like that of the mi-go\u2014it has been predominantly turned toward the dark science of the Mythos Gods.",
+      "rating": 8
+    },
+    {
+      "question": "What is at the center of each of these 'space ships'?",
+      "answer": "a 'nuclear reactor'",
+      "rating": 7
+    },
+    {
+      "question": "What object is suspended in the box and catches Blake's attention?",
+      "answer": "Shining Trapezohedron",
+      "rating": 9
+    },
+    {
+      "question": "What was the last recorded owners of the Shining Trapezohedron?",
+      "answer": "The Cult of Starry Wisdom",
+      "rating": 8
+    },
+    {
+      "question": "Where was the Shining Trapezohedron last stored by its owners?",
+      "answer": "A church in Providence, Rhode Island",
+      "rating": 8
+    },
+    {
+      "question": "When were the last recorded owners of the Shining Trapezohedron?",
+      "answer": "1844 and 1877.",
+      "rating": 9
+    },
+    {
+      "question": "In what year did the cult mysteriously dissolve?",
+      "answer": "1877",
+      "rating": 8
+    },
+    {
+      "question": "When were the members of the cult purportedly holding the artifact?",
+      "answer": "1844 and 1877",
+      "rating": 8
+    },
+    {
+      "question": "What happened to the artifact in 1934?",
+      "answer": "It was thrown into the deepest channel of Narragansett Bay",
+      "rating": 9
+    },
+    {
+      "question": "What is the stone in the metal box used for?",
+      "answer": "The stone rewards or damns those who look into it with visions of other worlds and dimensions",
+      "rating": 7
+    },
+    {
+      "question": "Who is believed to have manufactured the ancient artifact?",
+      "answer": "The mi-go on Yuggoth",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the hideous avatar of Nyarlathotep that appears when the box is closed?",
+      "answer": "The Haunter of the Dark",
+      "rating": 9
+    },
+    {
+      "question": "What is the Haunter of the Dark known as?",
+      "answer": "the Haunter of the Dark",
+      "rating": 6
+    },
+    {
+      "question": "What is the origin of the serpent people kingdoms?",
+      "answer": "deep below the Earth in Yoth",
+      "rating": 8
+    },
+    {
+      "question": "What is believed to be the origin of this artifact?",
+      "answer": "This artifact is ancient, predating humanity and possibly manufactured by the mi-go on Yuggoth.",
+      "rating": 9
+    },
+    {
+      "question": "What was the primary reason for the founding of many serpent people kingdoms?",
+      "answer": "Many serpent people kingdoms were founded on sorcery and alchemy;",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the standard sanity losses for viewing certain entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 Cthulhu Mythos points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the technology of the shan similar to the mi-go technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "Most like that of the mi-go\u2014it has been predominantly turned toward the dark science of the Mythos Gods."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is at the center of each of these 'space ships'?"
+      },
+      {
+        "role": "assistant",
+        "content": "a 'nuclear reactor'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What object is suspended in the box and catches Blake's attention?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shining Trapezohedron"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the last recorded owners of the Shining Trapezohedron?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cult of Starry Wisdom"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was the Shining Trapezohedron last stored by its owners?"
+      },
+      {
+        "role": "assistant",
+        "content": "A church in Providence, Rhode Island"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When were the last recorded owners of the Shining Trapezohedron?"
+      },
+      {
+        "role": "assistant",
+        "content": "1844 and 1877."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what year did the cult mysteriously dissolve?"
+      },
+      {
+        "role": "assistant",
+        "content": "1877"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When were the members of the cult purportedly holding the artifact?"
+      },
+      {
+        "role": "assistant",
+        "content": "1844 and 1877"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the artifact in 1934?"
+      },
+      {
+        "role": "assistant",
+        "content": "It was thrown into the deepest channel of Narragansett Bay"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the stone in the metal box used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "The stone rewards or damns those who look into it with visions of other worlds and dimensions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is believed to have manufactured the ancient artifact?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mi-go on Yuggoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the hideous avatar of Nyarlathotep that appears when the box is closed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Haunter of the Dark"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Haunter of the Dark known as?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Haunter of the Dark"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the serpent people kingdoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "deep below the Earth in Yoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is believed to be the origin of this artifact?"
+      },
+      {
+        "role": "assistant",
+        "content": "This artifact is ancient, predating humanity and possibly manufactured by the mi-go on Yuggoth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the primary reason for the founding of many serpent people kingdoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many serpent people kingdoms were founded on sorcery and alchemy;"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 17,
+    "filtered": 17,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

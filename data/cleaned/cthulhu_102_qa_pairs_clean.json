@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, managing a character's finances is a crucial aspect of the game. The game introduces a spending limit, where characters must adhere to a daily spending limit, and can incur debt if they exceed it. Characters can also receive large sums of money, which can be invested or added to their cash reserves, and their financial situation can impact their Sanity and overall well-being. The game also introduces a Credit Rating system, where characters' financial situations can be adjusted based on their income, assets, and other factors.",
+  "qa_pairs": [
+    {
+      "question": "How much is Harvey's daily spending limit?",
+      "answer": "$10 per day",
+      "rating": 8
+    },
+    {
+      "question": "How much does Harvey exceed his spending limit on one day?",
+      "answer": "$15",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Harvey's cash when he exceeds his spending limit?",
+      "answer": "He reduces his cash by the excess amount",
+      "rating": 8
+    },
+    {
+      "question": "What can a character do with a large sum of money received during the game?",
+      "answer": "Add it to cash in the short term or invest it in time as part of their assets",
+      "rating": 7
+    },
+    {
+      "question": "Why does Harvey reduce his cash?",
+      "answer": "He reduces his cash by $15.",
+      "rating": 6
+    },
+    {
+      "question": "What happens to Harvey's Sanity?",
+      "answer": "His Sanity may well decline with physical and material decline.",
+      "rating": 9
+    },
+    {
+      "question": "How does a character receive a large sum of money?",
+      "answer": "A character may receive a large sum of money as a reward.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey's physical and material situation?",
+      "answer": "His physical and material situation may decline.",
+      "rating": 7
+    },
+    {
+      "question": "What can lead to loss of employment and a fall in income for an investigator?",
+      "answer": "Ill-health (physical or mental) or continued absence from work",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an investigator's finances if a stock market crash occurs?",
+      "answer": "A major effect on their finances",
+      "rating": 7
+    },
+    {
+      "question": "How can an investigator's credit rating be raised?",
+      "answer": "By acquiring a higher-paying job",
+      "rating": 9
+    },
+    {
+      "question": "What happens to an investigator's Sanity if their physical and material decline continues?",
+      "answer": "A steady decline in Sanity",
+      "rating": 6
+    },
+    {
+      "question": "How might a stock market crash affect an individual's finances?",
+      "answer": "It will have a major effect on their finances",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a person's Credit Rating if they lose their employment?",
+      "answer": "It will fall",
+      "rating": 9
+    },
+    {
+      "question": "Can a loss of assets necessarily indicate a loss of Credit Rating?",
+      "answer": "No, it is not necessarily the case if one still has a reliable income",
+      "rating": 8
+    },
+    {
+      "question": "What is a reason a Credit Rating might be raised?",
+      "answer": "an investigator acquires a higher-paying job",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a Credit Rating if an investigator loses their employment?",
+      "answer": "it will fall",
+      "rating": 8
+    },
+    {
+      "question": "Does a loss of assets necessarily indicate a loss of Credit Rating?",
+      "answer": "no, if one still has a reliable income",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper decide on if an investigator's financial situation has undergone a significant change?",
+      "answer": "one of the following options",
+      "rating": 7
+    },
+    {
+      "question": "What happens to an investigator's Credit Rating if they lose their employment?",
+      "answer": "Their Credit Rating will fall.",
+      "rating": 8
+    },
+    {
+      "question": "Does a loss of assets necessarily indicate a loss of Credit Rating?",
+      "answer": "No, a loss of assets does not necessarily indicate a loss of Credit Rating if one still has a reliable income.",
+      "rating": 9
+    },
+    {
+      "question": "What should an investigator do when they come into money?",
+      "answer": "They should check to see if their assets are equal to those of a higher living standard bracket.",
+      "rating": 8
+    },
+    {
+      "question": "How should an investigator increase their Credit Rating after coming into money?",
+      "answer": "In steps of 1D10 until their Credit Rating is within the new bracket.",
+      "rating": 9
+    },
+    {
+      "question": "How does the player adjust their Credit Rating?",
+      "answer": "In steps of 1D10 until their Credit Rating is within the new bracket.",
+      "rating": 9
+    },
+    {
+      "question": "What is the 'wealthy' bracket for the 1920s?",
+      "answer": "$25,000\u2013$44,500",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is Harvey's daily spending limit?"
+      },
+      {
+        "role": "assistant",
+        "content": "$10 per day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does Harvey exceed his spending limit on one day?"
+      },
+      {
+        "role": "assistant",
+        "content": "$15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's cash when he exceeds his spending limit?"
+      },
+      {
+        "role": "assistant",
+        "content": "He reduces his cash by the excess amount"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a character do with a large sum of money received during the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add it to cash in the short term or invest it in time as part of their assets"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does Harvey reduce his cash?"
+      },
+      {
+        "role": "assistant",
+        "content": "He reduces his cash by $15."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "His Sanity may well decline with physical and material decline."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character receive a large sum of money?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character may receive a large sum of money as a reward."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's physical and material situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "His physical and material situation may decline."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can lead to loss of employment and a fall in income for an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ill-health (physical or mental) or continued absence from work"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's finances if a stock market crash occurs?"
+      },
+      {
+        "role": "assistant",
+        "content": "A major effect on their finances"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can an investigator's credit rating be raised?"
+      },
+      {
+        "role": "assistant",
+        "content": "By acquiring a higher-paying job"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Sanity if their physical and material decline continues?"
+      },
+      {
+        "role": "assistant",
+        "content": "A steady decline in Sanity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might a stock market crash affect an individual's finances?"
+      },
+      {
+        "role": "assistant",
+        "content": "It will have a major effect on their finances"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a person's Credit Rating if they lose their employment?"
+      },
+      {
+        "role": "assistant",
+        "content": "It will fall"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a loss of assets necessarily indicate a loss of Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it is not necessarily the case if one still has a reliable income"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a reason a Credit Rating might be raised?"
+      },
+      {
+        "role": "assistant",
+        "content": "an investigator acquires a higher-paying job"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a Credit Rating if an investigator loses their employment?"
+      },
+      {
+        "role": "assistant",
+        "content": "it will fall"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does a loss of assets necessarily indicate a loss of Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, if one still has a reliable income"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper decide on if an investigator's financial situation has undergone a significant change?"
+      },
+      {
+        "role": "assistant",
+        "content": "one of the following options"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Credit Rating if they lose their employment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their Credit Rating will fall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does a loss of assets necessarily indicate a loss of Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, a loss of assets does not necessarily indicate a loss of Credit Rating if one still has a reliable income."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should an investigator do when they come into money?"
+      },
+      {
+        "role": "assistant",
+        "content": "They should check to see if their assets are equal to those of a higher living standard bracket."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should an investigator increase their Credit Rating after coming into money?"
+      },
+      {
+        "role": "assistant",
+        "content": "In steps of 1D10 until their Credit Rating is within the new bracket."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the player adjust their Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "In steps of 1D10 until their Credit Rating is within the new bracket."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'wealthy' bracket for the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "$25,000\u2013$44,500"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 25,
+    "retention_rate": 0.96,
+    "avg_score": 7.9
+  }
+}

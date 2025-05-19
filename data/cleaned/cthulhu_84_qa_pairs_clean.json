@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu role-playing game, the \"Transferable Benefit\" rule allows for the improvement of one specialization to have a positive impact on other closely related specialisms. When a character raises a specialization to 50% or over, all other related skill specializations are raised by 10 percentage points, but not higher than 50%. This rule can be applied multiple times, with the second application raising related specializations by 10 percentage points again, but not higher than 90%. This rule applies to various skills, including Fighting, Firearms, Languages, and Survival.",
+  "qa_pairs": [
+    {
+      "question": "What happens when a character raises a specialization to 50% or over?",
+      "answer": "All other related skill specializations are raised by 10 percentage points (but not higher than 50%).",
+      "rating": 9
+    },
+    {
+      "question": "Can a character raise a specialization to 90% or over and get additional 10 points in other specializations?",
+      "answer": "Yes, this can happen only once more: when a character first raises a specialization to 90% or over, all other related specializations are again raised by 10 percentage points (but not higher than 90%).",
+      "rating": 8
+    },
+    {
+      "question": "How many percentage points do all other related skill specializations gain when a character raises a specialization to 50% or over?",
+      "answer": "10 percentage points (but not higher than 50%).",
+      "rating": 9
+    },
+    {
+      "question": "Can a character boost a specialization and gain additional 10 points in other specializations before spending more points in those other specializations?",
+      "answer": "Yes, during investigator creation the player may boost a specialization and gain the additional 10 points in each of the others.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to other related skill specializations when a character raises a specialization to 50% or over?",
+      "answer": "They are raised by 10 percentage points (but not higher than 50%).",
+      "rating": 8
+    },
+    {
+      "question": "What is the result when a character raises a specialization to 90% or over, in addition to the previous effect?",
+      "answer": "All other related specializations are again raised by 10 percentage points (but not higher than 90%).",
+      "rating": 9
+    },
+    {
+      "question": "How many skill points does Matthew spend to raise his Fighting (Brawl) skill to 50%?",
+      "answer": "25 skill points.",
+      "rating": 8
+    },
+    {
+      "question": "How much does Matthew's base chance with an axe increase due to his Fighting (Brawl) specialization?",
+      "answer": "10 percentage points to 25%.",
+      "rating": 9
+    },
+    {
+      "question": "What is the base chance with an axe for Matthew's investigator?",
+      "answer": "25%",
+      "rating": 8
+    },
+    {
+      "question": "How many points did Brian put into his Fighting (Axe) specialization?",
+      "answer": "25 points",
+      "rating": 9
+    },
+    {
+      "question": "What is the current skill level for Fighting (Brawl) after Brian's gains?",
+      "answer": "52%",
+      "rating": 8
+    },
+    {
+      "question": "How much did Brian's Axe skill rise after his gains?",
+      "answer": "5%",
+      "rating": 7
+    },
+    {
+      "question": "How many points did Brian put in his Fighting (Brawl) specialization?",
+      "answer": "20 points",
+      "rating": 9
+    },
+    {
+      "question": "How many points did Brian raise his Sword specialization after gaining 7 points in Fighting (Brawl)?",
+      "answer": "32% + 10 points = 42% (note that the exact points are not mentioned)",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum percentage increase for a character's skills when raising a language to 50%?",
+      "answer": "50%",
+      "rating": 9
+    },
+    {
+      "question": "What percentage increase does a character's other related language families receive when a language is raised to 50%?",
+      "answer": "10 percentage points",
+      "rating": 8
+    },
+    {
+      "question": "What percentage increase does a character's other related language families receive when a language is raised to 90%?",
+      "answer": "10 percentage points",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended method for identifying language families?",
+      "answer": "Refer to standard encyclopedia entries",
+      "rating": 9
+    },
+    {
+      "question": "What chapter details Call of Cthulhu game rules?",
+      "answer": "chapter 4",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of the Call of Cthulhu game rules?",
+      "answer": "to ensure fairness and balance, as well as to resolve conflicts and challenges",
+      "rating": 8
+    },
+    {
+      "question": "What type of game is Call of Cthulhu?",
+      "answer": "roleplaying game",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character raises a specialization to 50% or over?"
+      },
+      {
+        "role": "assistant",
+        "content": "All other related skill specializations are raised by 10 percentage points (but not higher than 50%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character raise a specialization to 90% or over and get additional 10 points in other specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, this can happen only once more: when a character first raises a specialization to 90% or over, all other related specializations are again raised by 10 percentage points (but not higher than 90%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many percentage points do all other related skill specializations gain when a character raises a specialization to 50% or over?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 percentage points (but not higher than 50%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character boost a specialization and gain additional 10 points in other specializations before spending more points in those other specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, during investigator creation the player may boost a specialization and gain the additional 10 points in each of the others."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to other related skill specializations when a character raises a specialization to 50% or over?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are raised by 10 percentage points (but not higher than 50%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result when a character raises a specialization to 90% or over, in addition to the previous effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "All other related specializations are again raised by 10 percentage points (but not higher than 90%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many skill points does Matthew spend to raise his Fighting (Brawl) skill to 50%?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 skill points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does Matthew's base chance with an axe increase due to his Fighting (Brawl) specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 percentage points to 25%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base chance with an axe for Matthew's investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points did Brian put into his Fighting (Axe) specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current skill level for Fighting (Brawl) after Brian's gains?"
+      },
+      {
+        "role": "assistant",
+        "content": "52%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did Brian's Axe skill rise after his gains?"
+      },
+      {
+        "role": "assistant",
+        "content": "5%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points did Brian put in his Fighting (Brawl) specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "20 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points did Brian raise his Sword specialization after gaining 7 points in Fighting (Brawl)?"
+      },
+      {
+        "role": "assistant",
+        "content": "32% + 10 points = 42% (note that the exact points are not mentioned)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum percentage increase for a character's skills when raising a language to 50%?"
+      },
+      {
+        "role": "assistant",
+        "content": "50%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage increase does a character's other related language families receive when a language is raised to 50%?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 percentage points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage increase does a character's other related language families receive when a language is raised to 90%?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 percentage points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended method for identifying language families?"
+      },
+      {
+        "role": "assistant",
+        "content": "Refer to standard encyclopedia entries"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What chapter details Call of Cthulhu game rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "chapter 4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Call of Cthulhu game rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "to ensure fairness and balance, as well as to resolve conflicts and challenges"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of game is Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "roleplaying game"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 21,
+    "retention_rate": 0.95,
+    "avg_score": 8.1
+  }
+}

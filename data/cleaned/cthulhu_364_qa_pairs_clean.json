@@ -1,0 +1,374 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Tcho-Tcho, a savage and cruel cult, is a type of monster in the Cthulhu Mythos. They are characterized by their primitive and savage nature, with a focus on dark gods and the Old Ones. Tcho-Tchos have limited abilities, with a low HP and damage bonus, but excel in skills such as Intimidate, Stealth, and Swim. They are also vulnerable to sanity loss, with a high risk of degeneration. The document provides guidelines for creating and interacting with Tcho-Tcho characters in a Lovecraftian setting.",
+  "qa_pairs": [
+    {
+      "question": "What is the typical number of spells known by a Tcho-Tcho priest or acolyte?",
+      "answer": "At least three",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a Tcho-Tcho's unarmed fighting attacks?",
+      "answer": "1D3 + damage bonus",
+      "rating": 9
+    },
+    {
+      "question": "What is the Tcho-Tcho's dodge percentage?",
+      "answer": "26%",
+      "rating": 7
+    },
+    {
+      "question": "What is the Tcho-Tcho's average magic points?",
+      "answer": "10",
+      "rating": 6
+    },
+    {
+      "question": "What is the Tcho-Tcho's attack damage range?",
+      "answer": "1D3",
+      "rating": 8
+    },
+    {
+      "question": "What is the phrase coined by H.P. Lovecraft to describe the Old Ones?",
+      "answer": "The Old Ones were, the Old Ones are, and the Old Ones shall be.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship between the alien races of the Cthulhu Mythos and the Mythos gods?",
+      "answer": "The alien races of the Cthulhu Mythos are horrifying because they do not care about the fate of humanity.",
+      "rating": 10
+    },
+    {
+      "question": "What is an avatar in the context of this text?",
+      "answer": "A specific form, sometimes with specific attributes, in which a portion of a god may appear.",
+      "rating": 8
+    },
+    {
+      "question": "How many avatars is Nyarlathotep particularly well known for?",
+      "answer": "His thousand avatars (or masks).",
+      "rating": 9
+    },
+    {
+      "question": "What is the term used to mean not only gods but also those with godlike powers?",
+      "answer": "Deity.",
+      "rating": 7
+    },
+    {
+      "question": "What is Great Cthulhu believed to be by many?",
+      "answer": "Part of an alien race.",
+      "rating": 8
+    },
+    {
+      "question": "How are Great Old Ones distinguished from actual gods?",
+      "answer": "As Elder Gods, Other Gods, Outer Gods, etc.",
+      "rating": 9
+    },
+    {
+      "question": "What is Lovecraft's approach to defining the Mythos gods?",
+      "answer": "Inconsistent in his use of these entities, just as real world myths have inconsistencies and contradictions.",
+      "rating": 8
+    },
+    {
+      "question": "How should the Keeper make decisions about the gods in their story?",
+      "answer": "The Keeper should feel empowered to make their own decisions about what fits their story, and which gods they wish to use and how.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of listing characteristic values for each deity?",
+      "answer": "These values are included only to give a sense of scale and completeness.",
+      "rating": 8
+    },
+    {
+      "question": "Can the values of the gods be lowered or raised according to the scenario and the Keeper's requirements?",
+      "answer": "Yes, these values may be raised or lowered according to the scenario and the Keeper's requirements.",
+      "rating": 9
+    },
+    {
+      "question": "Why defining the gods too closely may be counterproductive?",
+      "answer": "Defining them too closely may prove counterproductive because these matters are meant to be beyond man's understanding.",
+      "rating": 8
+    },
+    {
+      "question": "How do the values of the gods compare to those of an investigator?",
+      "answer": "These values are often so large when compared with those of an investigator that they may cease to have any useful relevance.",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of the Keeper's requirements in adjusting the values of the gods?",
+      "answer": "The Keeper's requirements may influence the values of the gods by raising or lowering them according to the scenario.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical number of spells known by a Tcho-Tcho priest or acolyte?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Tcho-Tcho's unarmed fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Tcho-Tcho's dodge percentage?"
+      },
+      {
+        "role": "assistant",
+        "content": "26%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Tcho-Tcho's average magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Tcho-Tcho's attack damage range?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the phrase coined by H.P. Lovecraft to describe the Old Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Old Ones were, the Old Ones are, and the Old Ones shall be."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between the alien races of the Cthulhu Mythos and the Mythos gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "The alien races of the Cthulhu Mythos are horrifying because they do not care about the fate of humanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an avatar in the context of this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A specific form, sometimes with specific attributes, in which a portion of a god may appear."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many avatars is Nyarlathotep particularly well known for?"
+      },
+      {
+        "role": "assistant",
+        "content": "His thousand avatars (or masks)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the term used to mean not only gods but also those with godlike powers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Great Cthulhu believed to be by many?"
+      },
+      {
+        "role": "assistant",
+        "content": "Part of an alien race."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Great Old Ones distinguished from actual gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "As Elder Gods, Other Gods, Outer Gods, etc."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Lovecraft's approach to defining the Mythos gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inconsistent in his use of these entities, just as real world myths have inconsistencies and contradictions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the Keeper make decisions about the gods in their story?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should feel empowered to make their own decisions about what fits their story, and which gods they wish to use and how."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of listing characteristic values for each deity?"
+      },
+      {
+        "role": "assistant",
+        "content": "These values are included only to give a sense of scale and completeness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the values of the gods be lowered or raised according to the scenario and the Keeper's requirements?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, these values may be raised or lowered according to the scenario and the Keeper's requirements."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why defining the gods too closely may be counterproductive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Defining them too closely may prove counterproductive because these matters are meant to be beyond man's understanding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the values of the gods compare to those of an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "These values are often so large when compared with those of an investigator that they may cease to have any useful relevance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Keeper's requirements in adjusting the values of the gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper's requirements may influence the values of the gods by raising or lowering them according to the scenario."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 19,
+    "retention_rate": 0.95,
+    "avg_score": 8.1
+  }
+}

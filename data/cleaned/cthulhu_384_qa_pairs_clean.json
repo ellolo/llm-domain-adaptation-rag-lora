@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Cthulhu Mythos, Nodens is a powerful deity, often depicted as a grey-bearded human, who serves as the Lord of the Great Abyss. He is known to aid humans in times of need, but typically avoids physical confrontations. Nodens has no cult on Earth, but is served by nightgaunts, and his abilities include summoning nightgaunts, dismissing enemies, and healing himself. In contrast, Nyarlathotep is a dark god with a thousand forms, known for causing madness and insanity, and is often depicted as a messenger, heart, and soul of the gods.",
+  "qa_pairs": [
+    {
+      "question": "Who is the Lord of the Great Abyss?",
+      "answer": "Nodens",
+      "rating": 10
+    },
+    {
+      "question": "What is the form that Nodens usually takes?",
+      "answer": "A normal human, grey-bearded and hoary",
+      "rating": 10
+    },
+    {
+      "question": "How is Nodens often ridden?",
+      "answer": "A chariot formed from a huge seashell drawn by unearthly monsters or fantastic beings from earthly legend",
+      "rating": 10
+    },
+    {
+      "question": "Who serves Nodens on Earth?",
+      "answer": "Nightgaunts",
+      "rating": 10
+    },
+    {
+      "question": "What is Nodens's damage bonus?",
+      "answer": "+3D6",
+      "rating": 10
+    },
+    {
+      "question": "What is Nodens known to have aided?",
+      "answer": "those who were pursued or harassed by the Great Old Ones or Nyarlathotep",
+      "rating": 10
+    },
+    {
+      "question": "How does Nodens physically interact with foes?",
+      "answer": "he never physically attacks a foe",
+      "rating": 10
+    },
+    {
+      "question": "What does Nodens do when faced with a powerful foe?",
+      "answer": "he attempts to dismiss the enemy: an opposed POW roll",
+      "rating": 10
+    },
+    {
+      "question": "How far has Nodens been known to take a human?",
+      "answer": "to the outer reaches of the galaxy (and back again)",
+      "rating": 9
+    },
+    {
+      "question": "What armor can Nodens choose to add?",
+      "answer": "None to start, but may choose to add armor by spending 1 magic point per point of armor desired\u2014this armor lasts until moonset or sunrise.",
+      "rating": 8
+    },
+    {
+      "question": "Can Nodens summon other servants?",
+      "answer": "Yes, he can summon other servants at a rate of one per magic point expended",
+      "rating": 9
+    },
+    {
+      "question": "What is unique about Nyarlathotep's pshent?",
+      "answer": "it glowed with inherent light",
+      "rating": 8
+    },
+    {
+      "question": "What is Nyarlathotep's role in the Gods?",
+      "answer": "He is the messenger, heart, and soul of the Gods.",
+      "rating": 9
+    },
+    {
+      "question": "How many different forms does Nyarlathotep claim to have?",
+      "answer": "A thousand different forms.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of causing madness for Nyarlathotep?",
+      "answer": "Causing madness and insanity is more important and enjoyable than mere death or destruction.",
+      "rating": 9
+    },
+    {
+      "question": "How many forms of Nyarlathotep have been described?",
+      "answer": "Only a few of Nyarlathotep's 999 forms have been described.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the Lord of the Great Abyss?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nodens"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the form that Nodens usually takes?"
+      },
+      {
+        "role": "assistant",
+        "content": "A normal human, grey-bearded and hoary"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Nodens often ridden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A chariot formed from a huge seashell drawn by unearthly monsters or fantastic beings from earthly legend"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who serves Nodens on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nightgaunts"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Nodens's damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Nodens known to have aided?"
+      },
+      {
+        "role": "assistant",
+        "content": "those who were pursued or harassed by the Great Old Ones or Nyarlathotep"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Nodens physically interact with foes?"
+      },
+      {
+        "role": "assistant",
+        "content": "he never physically attacks a foe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Nodens do when faced with a powerful foe?"
+      },
+      {
+        "role": "assistant",
+        "content": "he attempts to dismiss the enemy: an opposed POW roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far has Nodens been known to take a human?"
+      },
+      {
+        "role": "assistant",
+        "content": "to the outer reaches of the galaxy (and back again)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What armor can Nodens choose to add?"
+      },
+      {
+        "role": "assistant",
+        "content": "None to start, but may choose to add armor by spending 1 magic point per point of armor desired\u2014this armor lasts until moonset or sunrise."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Nodens summon other servants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, he can summon other servants at a rate of one per magic point expended"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about Nyarlathotep's pshent?"
+      },
+      {
+        "role": "assistant",
+        "content": "it glowed with inherent light"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Nyarlathotep's role in the Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is the messenger, heart, and soul of the Gods."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many different forms does Nyarlathotep claim to have?"
+      },
+      {
+        "role": "assistant",
+        "content": "A thousand different forms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of causing madness for Nyarlathotep?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causing madness and insanity is more important and enjoyable than mere death or destruction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many forms of Nyarlathotep have been described?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only a few of Nyarlathotep's 999 forms have been described."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 16,
+    "retention_rate": 0.64,
+    "avg_score": 8.8
+  }
+}

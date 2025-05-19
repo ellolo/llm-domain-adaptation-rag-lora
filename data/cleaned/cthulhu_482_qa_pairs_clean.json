@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a price list for various goods and services, including clothing, shoes, meals, lodging, medical equipment, and real estate. The prices range from a few cents to several dollars, with some items listed in multiple units (e.g., $90.00+, $10.95). The prices are organized into categories such as women's clothing, meals out, lodging, and medical equipment. The prices also include various units of measurement, such as dollars, cents, and pounds. Overall, the list provides a snapshot of prices for everyday items and services in the early 20th century.",
+  "qa_pairs": [
+    {
+      "question": "What is the price of a Chic Designer Dress?",
+      "answer": "$10.95",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a Satin Charmeuse?",
+      "answer": "$10.95",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a Silk Hose (3 pairs)?",
+      "answer": "$2.59",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of a Dress Hair Comb?",
+      "answer": "98\u00a2",
+      "rating": 7
+    },
+    {
+      "question": "What is the price of a Bathing Cap?",
+      "answer": "$1.29",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of Outdoor Knee-Length Knickers?",
+      "answer": "$1.79",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a Silk Hose (3 pairs)?",
+      "answer": "$2.59",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of a Velvet Coat with Fur Trim?",
+      "answer": "$39.75",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of Rotgut Gin (Shot) in cents?",
+      "answer": "10\u00a2",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of Coca-Cola (12 oz.) in cents?",
+      "answer": "25\u00a2",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of Fleabag Hotel (per Night) in cents?",
+      "answer": "4.50",
+      "rating": 7
+    },
+    {
+      "question": "What is the price of Apartment, Average (rent per week) in cents?",
+      "answer": "350.00",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of Country House in cents?",
+      "answer": "1175.00",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of Large (9 Rooms) Pre-Fabricated Houses in cents?",
+      "answer": "3278.00",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of House (rent per year) in dollars?",
+      "answer": "1000.00",
+      "rating": 8
+    },
+    {
+      "question": "What is the price range for Average House in dollars?",
+      "answer": "$8142.00",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of aspirin?",
+      "answer": "10\u00a2",
+      "rating": 8
+    },
+    {
+      "question": "How much is a medical case?",
+      "answer": "$3.59",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of a scalpel set?",
+      "answer": "$12.50",
+      "rating": 9
+    },
+    {
+      "question": "How much is a gauze bandage (5 yards)?",
+      "answer": "69\u00a2",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of alcohol (half gallon)?",
+      "answer": "69\u00a2",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of forceps?",
+      "answer": "$1.39",
+      "rating": 9
+    },
+    {
+      "question": "How much is a laxative, nature's remedy?",
+      "answer": "25\u00a2",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Chic Designer Dress?"
+      },
+      {
+        "role": "assistant",
+        "content": "$10.95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Satin Charmeuse?"
+      },
+      {
+        "role": "assistant",
+        "content": "$10.95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Silk Hose (3 pairs)?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2.59"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Dress Hair Comb?"
+      },
+      {
+        "role": "assistant",
+        "content": "98\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Bathing Cap?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.29"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Outdoor Knee-Length Knickers?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.79"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Silk Hose (3 pairs)?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2.59"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Velvet Coat with Fur Trim?"
+      },
+      {
+        "role": "assistant",
+        "content": "$39.75"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Rotgut Gin (Shot) in cents?"
+      },
+      {
+        "role": "assistant",
+        "content": "10\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Coca-Cola (12 oz.) in cents?"
+      },
+      {
+        "role": "assistant",
+        "content": "25\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Fleabag Hotel (per Night) in cents?"
+      },
+      {
+        "role": "assistant",
+        "content": "4.50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Apartment, Average (rent per week) in cents?"
+      },
+      {
+        "role": "assistant",
+        "content": "350.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Country House in cents?"
+      },
+      {
+        "role": "assistant",
+        "content": "1175.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Large (9 Rooms) Pre-Fabricated Houses in cents?"
+      },
+      {
+        "role": "assistant",
+        "content": "3278.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of House (rent per year) in dollars?"
+      },
+      {
+        "role": "assistant",
+        "content": "1000.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price range for Average House in dollars?"
+      },
+      {
+        "role": "assistant",
+        "content": "$8142.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of aspirin?"
+      },
+      {
+        "role": "assistant",
+        "content": "10\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is a medical case?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3.59"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a scalpel set?"
+      },
+      {
+        "role": "assistant",
+        "content": "$12.50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is a gauze bandage (5 yards)?"
+      },
+      {
+        "role": "assistant",
+        "content": "69\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of alcohol (half gallon)?"
+      },
+      {
+        "role": "assistant",
+        "content": "69\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of forceps?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.39"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is a laxative, nature's remedy?"
+      },
+      {
+        "role": "assistant",
+        "content": "25\u00a2"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

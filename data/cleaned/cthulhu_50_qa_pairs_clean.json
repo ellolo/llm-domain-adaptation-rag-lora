@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a list of skills, categorized by type, with varying levels of difficulty and expertise required to master them. The skills range from everyday tasks like driving and photography to more specialized and extreme skills such as demolitions, electrical repair, and cryptography. Some skills are marked as \"Extreme\" or \"T\" to indicate that they are particularly challenging or require specialized knowledge. The document also includes a key that explains the notation used to categorize the skills.",
+  "qa_pairs": [
+    {
+      "question": "What is Extreme difficulty in the skill value?",
+      "answer": "equal to or below one-fifth of the skill value",
+      "rating": 8
+    },
+    {
+      "question": "What situations might cause Extreme difficulty?",
+      "answer": "in the most extreme and dire situations, such as being shot at or pursued, or when conditions are uniquely appalling",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a skill requiring Extreme difficulty in Demolitions?",
+      "answer": "defuse an explosive device of a radically different design to any seen before, perhaps of futuristic or alien origin",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a skill requiring Extreme difficulty in Electrical Repair?",
+      "answer": "working on futuristic or alien technology that uses a form of electronics",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a skill requiring Extreme difficulty in Listen?",
+      "answer": "Eavesdropping on a quiet conversation in an extremely noisy environment",
+      "rating": 7
+    },
+    {
+      "question": "What is an example of a skill requiring Extreme difficulty in Locksmith?",
+      "answer": "Opening a high security lock with only a piece of wire (i.e. no tools); crack open the most secure of bank vaults",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum percentage required to read someone's intent or determine they are lying?",
+      "answer": "90%",
+      "rating": 8
+    },
+    {
+      "question": "What skill is denoted by the letter \u03a9?",
+      "answer": "Electronics",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of people have the skill 'Archaeology'?",
+      "answer": "01%",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of people have the skill 'Drive Auto'?",
+      "answer": "20%",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of people have the skill 'Flamethrower'?",
+      "answer": "10%",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of people have the skill 'First Aid'?",
+      "answer": "30%",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of skills is History?",
+      "answer": "5%",
+      "rating": 6
+    },
+    {
+      "question": "What percentage of skills is Intimidate?",
+      "answer": "15%",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of skills is Occult?",
+      "answer": "5%",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of skills is Read Lips?",
+      "answer": "1%",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of skills is Ride?",
+      "answer": "5%",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the Science category is dedicated to Rifle?",
+      "answer": "25%",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the Science category is dedicated to Shotgun?",
+      "answer": "25%",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the Rifle category is further defined by the subcategory 'Shotgun'?",
+      "answer": "25%",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage of the Science category allocated to G?",
+      "answer": "01%",
+      "rating": 9
+    },
+    {
+      "question": "What is the category for Rifle, along with Shotgun, mentioned in the text?",
+      "answer": "Rifle/Shotgun",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the Science category is allocated to the category 'Science'?",
+      "answer": "01%",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Extreme difficulty in the skill value?"
+      },
+      {
+        "role": "assistant",
+        "content": "equal to or below one-fifth of the skill value"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What situations might cause Extreme difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "in the most extreme and dire situations, such as being shot at or pursued, or when conditions are uniquely appalling"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a skill requiring Extreme difficulty in Demolitions?"
+      },
+      {
+        "role": "assistant",
+        "content": "defuse an explosive device of a radically different design to any seen before, perhaps of futuristic or alien origin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a skill requiring Extreme difficulty in Electrical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "working on futuristic or alien technology that uses a form of electronics"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a skill requiring Extreme difficulty in Listen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eavesdropping on a quiet conversation in an extremely noisy environment"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a skill requiring Extreme difficulty in Locksmith?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opening a high security lock with only a piece of wire (i.e. no tools); crack open the most secure of bank vaults"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum percentage required to read someone's intent or determine they are lying?"
+      },
+      {
+        "role": "assistant",
+        "content": "90%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is denoted by the letter \u03a9?"
+      },
+      {
+        "role": "assistant",
+        "content": "Electronics"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of people have the skill 'Archaeology'?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of people have the skill 'Drive Auto'?"
+      },
+      {
+        "role": "assistant",
+        "content": "20%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of people have the skill 'Flamethrower'?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of people have the skill 'First Aid'?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skills is History?"
+      },
+      {
+        "role": "assistant",
+        "content": "5%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skills is Intimidate?"
+      },
+      {
+        "role": "assistant",
+        "content": "15%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skills is Occult?"
+      },
+      {
+        "role": "assistant",
+        "content": "5%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skills is Read Lips?"
+      },
+      {
+        "role": "assistant",
+        "content": "1%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skills is Ride?"
+      },
+      {
+        "role": "assistant",
+        "content": "5%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Science category is dedicated to Rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Science category is dedicated to Shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Rifle category is further defined by the subcategory 'Shotgun'?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of the Science category allocated to G?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the category for Rifle, along with Shotgun, mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rifle/Shotgun"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Science category is allocated to the category 'Science'?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this game system, a \"pushed roll\" is a failed skill roll that grants the Keeper free rein over the outcome, allowing them to create more challenging and horror-themed consequences. When a player fails a pushed roll, the Keeper can impose additional consequences, such as damage, loss of equipment, or capture, to make the investigators' lives more difficult. This mechanic allows the Keeper to escalate the horror and tension in the game, while also giving players the opportunity to push back against the consequences of their failed rolls. The system also includes various consequences, such as setbacks, deals, and fainting, to create a Lovecraftian atmosphere of fear and uncertainty.",
+  "qa_pairs": [
+    {
+      "question": "What is Harvey trying to do to avoid being caught by the cultists?",
+      "answer": "He is trying to hide in plain sight among the passing crowds.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of Harvey failing to hide in plain sight?",
+      "answer": "He will have no chance of escape if the cultists spot him.",
+      "rating": 9
+    },
+    {
+      "question": "What does Harvey's player successfully do to avoid being caught?",
+      "answer": "He melts away into the crowd.",
+      "rating": 9
+    },
+    {
+      "question": "What does the Keeper say after Harvey hides in plain sight?",
+      "answer": "The Keeper approves this for a pushed roll.",
+      "rating": 7
+    },
+    {
+      "question": "What is Harvey trying to do by pushing the failed Stealth roll?",
+      "answer": "Harvey's trying to make himself easier to spot and have no chance of escape if the pushed roll is failed.",
+      "rating": 8
+    },
+    {
+      "question": "What is the likely consequence if the pushed roll is failed?",
+      "answer": "He could well find himself bumping into one of the pursuing cultists and be caught.",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome when Harvey's pushed roll is successful?",
+      "answer": "The player's goal is achieved as it would have been for the original roll. None of the consequences of failure happen.",
+      "rating": 9
+    },
+    {
+      "question": "What is the likely consequence if Harvey's pushed roll is failed?",
+      "answer": "He could well find himself bumping into one of the pursuing cultists and be caught.",
+      "rating": 8
+    },
+    {
+      "question": "What is the likely consequence if the pushed roll is failed?",
+      "answer": "The Keeper says, \u201cWell, as Harvey is trying to mingle with the crowd of people in the street\u2014if the pushed roll is failed he could well find himself bumping into one of the pursuing cultists and be caught.\u201d",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the player when a pushed roll is failed?",
+      "answer": "The player\u2019s goal is achieved as it would have been for the original roll. None of the consequences of failure happen.",
+      "rating": 9
+    },
+    {
+      "question": "What does a failed pushed roll grant the Keeper?",
+      "answer": "The Keeper can even incorporate the player\u2019s goal being achieved (even though the player failed the pushed roll), but at some form of cost.",
+      "rating": 8
+    },
+    {
+      "question": "What are some possible outcomes of a failed pushed roll for the Keeper?",
+      "answer": "The Keeper can incorporate the player\u2019s goal being achieved, but at some form of cost. The possible outcomes include damage, Sanity checks, loss of equipment, isolation from the rest of the investigators, capture, and so on.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the Keeper when a player fails a pushed roll?",
+      "answer": "The Keeper gets to push the horror back in that player's face.",
+      "rating": 7
+    },
+    {
+      "question": "What is the consequence that the Keeper can incorporate even if the player fails a pushed roll?",
+      "answer": "A form of cost",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of a player failing a pushed skill roll?",
+      "answer": "The Keeper gets to push the horror back in that player's face.",
+      "rating": 7
+    },
+    {
+      "question": "What is the theme that the game should steer towards when a player fails a pushed roll?",
+      "answer": "The theme of horror",
+      "rating": 8
+    },
+    {
+      "question": "What happens when a player fails a skill roll?",
+      "answer": "The Keeper gets to push the horror back in that player\u2019s face.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey after he fails the Stealth roll?",
+      "answer": "The Keeper now has license to make matters far worse for Harvey.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Harvey after he falls to the pavement?",
+      "answer": "The crowd parts around him and the cultists come forward, grabbing him.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cultist doing to Harvey as they manhandle him?",
+      "answer": "The cultist is holding a dagger to Harvey\u2019s ribs.",
+      "rating": 7
+    },
+    {
+      "question": "What do the people in the crowd shout as they come forward to grab Harvey?",
+      "answer": "He\u2019s our friend!",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey trying to do to avoid being caught by the cultists?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is trying to hide in plain sight among the passing crowds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of Harvey failing to hide in plain sight?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will have no chance of escape if the cultists spot him."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Harvey's player successfully do to avoid being caught?"
+      },
+      {
+        "role": "assistant",
+        "content": "He melts away into the crowd."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper say after Harvey hides in plain sight?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper approves this for a pushed roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey trying to do by pushing the failed Stealth roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey's trying to make himself easier to spot and have no chance of escape if the pushed roll is failed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the likely consequence if the pushed roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "He could well find himself bumping into one of the pursuing cultists and be caught."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when Harvey's pushed roll is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player's goal is achieved as it would have been for the original roll. None of the consequences of failure happen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the likely consequence if Harvey's pushed roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "He could well find himself bumping into one of the pursuing cultists and be caught."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the likely consequence if the pushed roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper says, \u201cWell, as Harvey is trying to mingle with the crowd of people in the street\u2014if the pushed roll is failed he could well find himself bumping into one of the pursuing cultists and be caught.\u201d"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the player when a pushed roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player\u2019s goal is achieved as it would have been for the original roll. None of the consequences of failure happen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a failed pushed roll grant the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can even incorporate the player\u2019s goal being achieved (even though the player failed the pushed roll), but at some form of cost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some possible outcomes of a failed pushed roll for the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can incorporate the player\u2019s goal being achieved, but at some form of cost. The possible outcomes include damage, Sanity checks, loss of equipment, isolation from the rest of the investigators, capture, and so on."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Keeper when a player fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper gets to push the horror back in that player's face."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence that the Keeper can incorporate even if the player fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A form of cost"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a player failing a pushed skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper gets to push the horror back in that player's face."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the theme that the game should steer towards when a player fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The theme of horror"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a player fails a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper gets to push the horror back in that player\u2019s face."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey after he fails the Stealth roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper now has license to make matters far worse for Harvey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey after he falls to the pavement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The crowd parts around him and the cultists come forward, grabbing him."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cultist doing to Harvey as they manhandle him?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cultist is holding a dagger to Harvey\u2019s ribs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the people in the crowd shout as they come forward to grab Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "He\u2019s our friend!"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 21,
+    "filtered": 21,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

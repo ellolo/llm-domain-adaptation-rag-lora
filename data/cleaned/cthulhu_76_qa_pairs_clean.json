@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses the \"Psychology\" skill in the Call of Cthulhu role-playing game, which allows investigators to study individuals and form an idea of their motives and character. This skill can be used to oppose various social interaction rolls, such as Intimidate, Fast Talk, Persuade, and Charm, and can also be used to see through disguises. Failing a Pushed roll, which involves immersing oneself in data about a target, can have significant consequences, including revealing one's own motivations or launching a physical attack. The skill can also be used to read lips, allowing investigators to listen in on conversations without being heard.",
+  "qa_pairs": [
+    {
+      "question": "What could be the result of a patient going berserk in a room full of tarantulas?",
+      "answer": "Possible damage to self and to others, and the patient thinks they are the 'spider king'.",
+      "rating": 8
+    },
+    {
+      "question": "What is a possible consequence for an insane character to practice psychoanalysis?",
+      "answer": "An insane character who fails a pushed roll could seek to become a cult leader.",
+      "rating": 9
+    },
+    {
+      "question": "What is a common perception skill to all humans?",
+      "answer": "Psychology, which allows the user to study an individual and form an idea of another person's motives and character.",
+      "rating": 7
+    },
+    {
+      "question": "Can the Keeper make concealed Psychology skill rolls on the player's behalf?",
+      "answer": "Yes, the Keeper may choose to make concealed Psychology skill rolls on the player's behalf.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage is assigned to the Psychology skill?",
+      "answer": "10%.",
+      "rating": 6
+    },
+    {
+      "question": "What skills can Psychology be used to oppose?",
+      "answer": "Intimidate, Fast Talk, Persuade, and Charm.",
+      "rating": 9
+    },
+    {
+      "question": "What is the regular difficulty for reading someone's intent or determining if they're lying?",
+      "answer": "Below 50%.",
+      "rating": 8
+    },
+    {
+      "question": "What is the hard difficulty for reading someone's intent or determining if they're lying?",
+      "answer": "Between 50% and 89%.",
+      "rating": 8
+    },
+    {
+      "question": "How would one approach reading someone's intent?",
+      "answer": "By being very subtle and asking highly personal, intimate, or direct questions.",
+      "rating": 9
+    },
+    {
+      "question": "What can you do to understand someone's motivations?",
+      "answer": "Immerse yourself in data regarding a specific person.",
+      "rating": 7
+    },
+    {
+      "question": "What is the goal of using Psychology to read someone?",
+      "answer": "To think like them and understand their motivations.",
+      "rating": 8
+    },
+    {
+      "question": "What is a possible consequence of failing a Pushed roll?",
+      "answer": "You somehow reveal your own motivations to the target",
+      "rating": 6
+    },
+    {
+      "question": "What action might the target take against you if you fail a Pushed roll?",
+      "answer": "The target refuses to speak with you further or takes action against you",
+      "rating": 9
+    },
+    {
+      "question": "What might happen to you if you fail a Pushed roll for an insane investigator?",
+      "answer": "You believe you hear the target's evil thoughts and launch a physical attack upon them",
+      "rating": 8
+    },
+    {
+      "question": "What penalty might occur after failing a Pushed roll for an insane investigator?",
+      "answer": "You are unable to roll until you recover",
+      "rating": 7
+    },
+    {
+      "question": "What is a possible outcome of spending all week locked in your room?",
+      "answer": "You become a physical and mental wreck",
+      "rating": 8
+    },
+    {
+      "question": "What might happen to you after spending all week locked in your room?",
+      "answer": "You are unable to roll until you recover",
+      "rating": 7
+    },
+    {
+      "question": "What is the basic requirement for using Read Lips skill?",
+      "answer": "Line of sight is necessary",
+      "rating": 9
+    },
+    {
+      "question": "What is the limitation when only one speaker's lips can be seen?",
+      "answer": "Only half of the conversation can be deciphered",
+      "rating": 8
+    },
+    {
+      "question": "Can Read Lips be used to silently communicate with another person?",
+      "answer": "Yes, it can",
+      "rating": 9
+    },
+    {
+      "question": "What skill opposes Read Lips when the target wishes to remain hidden or unobserved?",
+      "answer": "Stealth of the target",
+      "rating": 8
+    },
+    {
+      "question": "What is the regular difficulty level of Read Lips?",
+      "answer": "Understand the spoken communication of a person who is in clear sight and in relatively close proximity",
+      "rating": 7
+    },
+    {
+      "question": "What is the hard difficulty level of Read Lips?",
+      "answer": "Determine the spoken communication of a person",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could be the result of a patient going berserk in a room full of tarantulas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Possible damage to self and to others, and the patient thinks they are the 'spider king'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible consequence for an insane character to practice psychoanalysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "An insane character who fails a pushed roll could seek to become a cult leader."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common perception skill to all humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychology, which allows the user to study an individual and form an idea of another person's motives and character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper make concealed Psychology skill rolls on the player's behalf?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Keeper may choose to make concealed Psychology skill rolls on the player's behalf."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage is assigned to the Psychology skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills can Psychology be used to oppose?"
+      },
+      {
+        "role": "assistant",
+        "content": "Intimidate, Fast Talk, Persuade, and Charm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty for reading someone's intent or determining if they're lying?"
+      },
+      {
+        "role": "assistant",
+        "content": "Below 50%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty for reading someone's intent or determining if they're lying?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 50% and 89%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would one approach reading someone's intent?"
+      },
+      {
+        "role": "assistant",
+        "content": "By being very subtle and asking highly personal, intimate, or direct questions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can you do to understand someone's motivations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Immerse yourself in data regarding a specific person."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of using Psychology to read someone?"
+      },
+      {
+        "role": "assistant",
+        "content": "To think like them and understand their motivations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible consequence of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "You somehow reveal your own motivations to the target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action might the target take against you if you fail a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target refuses to speak with you further or takes action against you"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to you if you fail a Pushed roll for an insane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "You believe you hear the target's evil thoughts and launch a physical attack upon them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What penalty might occur after failing a Pushed roll for an insane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are unable to roll until you recover"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible outcome of spending all week locked in your room?"
+      },
+      {
+        "role": "assistant",
+        "content": "You become a physical and mental wreck"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to you after spending all week locked in your room?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are unable to roll until you recover"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the basic requirement for using Read Lips skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Line of sight is necessary"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the limitation when only one speaker's lips can be seen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only half of the conversation can be deciphered"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Read Lips be used to silently communicate with another person?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it can"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill opposes Read Lips when the target wishes to remain hidden or unobserved?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stealth of the target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level of Read Lips?"
+      },
+      {
+        "role": "assistant",
+        "content": "Understand the spoken communication of a person who is in clear sight and in relatively close proximity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty level of Read Lips?"
+      },
+      {
+        "role": "assistant",
+        "content": "Determine the spoken communication of a person"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

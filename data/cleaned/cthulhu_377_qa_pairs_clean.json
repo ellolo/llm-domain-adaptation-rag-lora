@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nEihort is a monstrous being, known as the God of the Labyrinth, that resides in a network of tunnels beneath England's Severn Valley. It is said to have a cult following in the cities of Brichester and Camside, where it is worshipped by demented humans who are led by a group of smaller, grub-like creatures called the Brood. Eihort's Bargain is a deal made with humans, where they are implanted with Brood, leading to progressively horrible and sanity-wracking dreams, ultimately resulting in the human's death. Eihort is a formidable foe, with high strength, power, and regeneration abilities, making it a powerful entity in the Cthulhu Mythos.",
+  "qa_pairs": [
+    {
+      "question": "Where does Eihort live?",
+      "answer": "deep beneath England\u2019s Severn Valley",
+      "rating": 8
+    },
+    {
+      "question": "What are Eihort's known cults?",
+      "answer": "in the Severn Valley, particularly in the cities of Brichester and Camside",
+      "rating": 7
+    },
+    {
+      "question": "What are Eihort's Brood?",
+      "answer": "a group of Eihort's that have formed themselves into the simulacrum of a human",
+      "rating": 9
+    },
+    {
+      "question": "Is Eihort a monstrous being?",
+      "answer": "yes, it is described as a monstrous being",
+      "rating": 8
+    },
+    {
+      "question": "Where does Eihort live?",
+      "answer": "deep beneath England\u2019s Severn Valley",
+      "rating": 8
+    },
+    {
+      "question": "What are Eihort\u2019s Brood?",
+      "answer": "small, globular, white grub-like or spider-like creatures",
+      "rating": 9
+    },
+    {
+      "question": "How do Eihort\u2019s Brood typically harm targets?",
+      "answer": "by gnawing motionless targets to the bone",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Eihort\u2019s Brood after a certain event?",
+      "answer": "they will metamorphose into smaller versions of Eihort",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the Brood after they are implanted in Eihort's body?",
+      "answer": "Then they will metamorphose into smaller versions of Eihort and thereafter attend him.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of Eihort smashing a human captive to death?",
+      "answer": "Whoever answers and accepts Eihort's Bargain accepts the implantation of immature Brood into his or her body.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the victim's sanity after accepting Eihort's Bargain?",
+      "answer": "Progressively horrible and sanity-wracking dreams begin, costing 1D4 Sanity points and adding 1D3 Cthulhu Mythos.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage can a group of Brood do to a defenseless target in 1D10 minutes?",
+      "answer": "In 1D10 minutes a group can do 1 hit point damage to a defenseless target.",
+      "rating": 7
+    },
+    {
+      "question": "How much damage can a group do to a defenseless target in 1D10 minutes?",
+      "answer": "1 hit point damage.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if the captive refuses Eihort in Eihort's Bargain?",
+      "answer": "Eihort smashes him or her to death.",
+      "rating": 8
+    },
+    {
+      "question": "How does Eihort regenerate hit points after being brought to 0 hit points?",
+      "answer": "He regenerates 3 hit points per combat round.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Eihort's remains when he is brought to 0 hit points?",
+      "answer": "His remains ooze into the ground.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage Eihort deals with physical attacks?",
+      "answer": "All physical attacks do minimum damage.",
+      "rating": 7
+    },
+    {
+      "question": "How much Sanity points is Eihort at risk of losing per roll of a 1D20?",
+      "answer": "1D20",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Eihort live?"
+      },
+      {
+        "role": "assistant",
+        "content": "deep beneath England\u2019s Severn Valley"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Eihort's known cults?"
+      },
+      {
+        "role": "assistant",
+        "content": "in the Severn Valley, particularly in the cities of Brichester and Camside"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Eihort's Brood?"
+      },
+      {
+        "role": "assistant",
+        "content": "a group of Eihort's that have formed themselves into the simulacrum of a human"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Eihort a monstrous being?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it is described as a monstrous being"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Eihort live?"
+      },
+      {
+        "role": "assistant",
+        "content": "deep beneath England\u2019s Severn Valley"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Eihort\u2019s Brood?"
+      },
+      {
+        "role": "assistant",
+        "content": "small, globular, white grub-like or spider-like creatures"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Eihort\u2019s Brood typically harm targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "by gnawing motionless targets to the bone"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Eihort\u2019s Brood after a certain event?"
+      },
+      {
+        "role": "assistant",
+        "content": "they will metamorphose into smaller versions of Eihort"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Brood after they are implanted in Eihort's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "Then they will metamorphose into smaller versions of Eihort and thereafter attend him."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of Eihort smashing a human captive to death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whoever answers and accepts Eihort's Bargain accepts the implantation of immature Brood into his or her body."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's sanity after accepting Eihort's Bargain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Progressively horrible and sanity-wracking dreams begin, costing 1D4 Sanity points and adding 1D3 Cthulhu Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a group of Brood do to a defenseless target in 1D10 minutes?"
+      },
+      {
+        "role": "assistant",
+        "content": "In 1D10 minutes a group can do 1 hit point damage to a defenseless target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a group do to a defenseless target in 1D10 minutes?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hit point damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the captive refuses Eihort in Eihort's Bargain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eihort smashes him or her to death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Eihort regenerate hit points after being brought to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "He regenerates 3 hit points per combat round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Eihort's remains when he is brought to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "His remains ooze into the ground."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage Eihort deals with physical attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "All physical attacks do minimum damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points is Eihort at risk of losing per roll of a 1D20?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D20"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 18,
+    "retention_rate": 0.9,
+    "avg_score": 7.6
+  }
+}

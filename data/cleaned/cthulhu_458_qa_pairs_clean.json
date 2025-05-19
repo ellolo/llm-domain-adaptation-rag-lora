@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a role-playing game, particularly one involving a mystery or horror theme, the Keeper should not be afraid to adapt the narrative to the players' choices, allowing them to explore different paths and leads. This can lead to a more immersive and engaging experience for the players. The Keeper should also be prepared to introduce complications and dangers to slow down the investigation, and to use the game's mechanics, such as the Idea roll, to resolve conflicts. By doing so, the Keeper can create a more dynamic and thrilling game world.",
+  "qa_pairs": [
+    {
+      "question": "Does Crimson Letters have a set path to the truth?",
+      "answer": "No",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of a Keeper in Crimson Letters?",
+      "answer": "To expand the narrative and accommodate player choices",
+      "rating": 9
+    },
+    {
+      "question": "Should the Keeper avoid expanding the narrative?",
+      "answer": "No",
+      "rating": 7
+    },
+    {
+      "question": "Where should the Keeper typically reveal clues and key events?",
+      "answer": "Where and when the Keeper chooses to locate them",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper do if the players stray too far away from the plot?",
+      "answer": "Subtly bring them back round if they stray too far away from the plot needlessly.",
+      "rating": 9
+    },
+    {
+      "question": "Where should the Keeper locate clues, encounters, and key events?",
+      "answer": "Where and when the Keeper chooses to locate them.",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper be aware of when it comes to adverse consequences to the investigators?",
+      "answer": "Adverse consequences to the investigators' actions, up to the point of simply destroying them out of hand.",
+      "rating": 9
+    },
+    {
+      "question": "What is the ideal outcome for the Keeper to achieve when bringing players back on track?",
+      "answer": "So that the players never guess when it happens.",
+      "rating": 8
+    },
+    {
+      "question": "What may happen to the player characters if they are perceived as a threat?",
+      "answer": "They may become subject to investigation, pursuit, pressure, and even attack.",
+      "rating": 9
+    },
+    {
+      "question": "What action might the thief take if they suspect the investigator is onto them?",
+      "answer": "They might turn the tables on the investigator's actions and paint them as a threat to be dealt with.",
+      "rating": 8
+    },
+    {
+      "question": "What is a potential consequence of the wrong question in the wrong ear?",
+      "answer": "It might tip the thief to the investigator's actions and paint them as a threat to be dealt with.",
+      "rating": 7
+    },
+    {
+      "question": "What might be a result of public displays of force or heavy-handedness?",
+      "answer": "It might turn the tables on the player characters, making them subject to investigation, pursuit, pressure, and even attack.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the investigators are too quick in their investigation?",
+      "answer": "The Keeper should add in extra complications and dangers to slow them down a little.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Idea roll in the scenario?",
+      "answer": "To help the players who are stuck",
+      "rating": 6
+    },
+    {
+      "question": "What can happen if the police become involved in the scenario?",
+      "answer": "Further complications for the players",
+      "rating": 7
+    },
+    {
+      "question": "What is the goal of the Keeper in terms of pacing and menace?",
+      "answer": "To focus on and create drama and action",
+      "rating": 9
+    },
+    {
+      "question": "What is a possible action the Keeper can take to slow down the investigators?",
+      "answer": "Throw in some false leads, have one of the NPCs be out of town for a few days, kill an NPC unexpectedly or put the investigators in unexpected danger!",
+      "rating": 8
+    },
+    {
+      "question": "What can happen when events escalate in the scenario?",
+      "answer": "The police are likely to become involved, leading to further complications for the players.",
+      "rating": 9
+    },
+    {
+      "question": "What is a possible motivation for the thief to ask the investigators to handle the papers?",
+      "answer": "In desperation, the thief might contrive to have the investigators handle the papers, in an attempt to compel others to join the struggle against the Horror.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper's option if the players become stuck?",
+      "answer": "The Keeper should remember the Idea roll if the players become stuck.",
+      "rating": 7
+    },
+    {
+      "question": "What is the main idea of the scenario?",
+      "answer": "Roleplaying games are about the experience of play, not who\u2019s first over the finish line.",
+      "rating": 9
+    },
+    {
+      "question": "What can the Keeper add to the scenario?",
+      "answer": "The Keeper can add to these or judiciously place the information elsewhere in the path of the investigators as required.",
+      "rating": 8
+    },
+    {
+      "question": "Where is Leiter\u2019s Cottage located?",
+      "answer": "Leiter\u2019s Cottage is located near the campus.",
+      "rating": 6
+    },
+    {
+      "question": "Who owns Leiter\u2019s Cottage?",
+      "answer": "A number of similar homes are owned by the same entity, but the entity is not specified in the text.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does Crimson Letters have a set path to the truth?"
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of a Keeper in Crimson Letters?"
+      },
+      {
+        "role": "assistant",
+        "content": "To expand the narrative and accommodate player choices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Should the Keeper avoid expanding the narrative?"
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where should the Keeper typically reveal clues and key events?"
+      },
+      {
+        "role": "assistant",
+        "content": "Where and when the Keeper chooses to locate them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do if the players stray too far away from the plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Subtly bring them back round if they stray too far away from the plot needlessly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where should the Keeper locate clues, encounters, and key events?"
+      },
+      {
+        "role": "assistant",
+        "content": "Where and when the Keeper chooses to locate them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper be aware of when it comes to adverse consequences to the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Adverse consequences to the investigators' actions, up to the point of simply destroying them out of hand."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ideal outcome for the Keeper to achieve when bringing players back on track?"
+      },
+      {
+        "role": "assistant",
+        "content": "So that the players never guess when it happens."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What may happen to the player characters if they are perceived as a threat?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may become subject to investigation, pursuit, pressure, and even attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action might the thief take if they suspect the investigator is onto them?"
+      },
+      {
+        "role": "assistant",
+        "content": "They might turn the tables on the investigator's actions and paint them as a threat to be dealt with."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a potential consequence of the wrong question in the wrong ear?"
+      },
+      {
+        "role": "assistant",
+        "content": "It might tip the thief to the investigator's actions and paint them as a threat to be dealt with."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might be a result of public displays of force or heavy-handedness?"
+      },
+      {
+        "role": "assistant",
+        "content": "It might turn the tables on the player characters, making them subject to investigation, pursuit, pressure, and even attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigators are too quick in their investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should add in extra complications and dangers to slow them down a little."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Idea roll in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To help the players who are stuck"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if the police become involved in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Further complications for the players"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Keeper in terms of pacing and menace?"
+      },
+      {
+        "role": "assistant",
+        "content": "To focus on and create drama and action"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible action the Keeper can take to slow down the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Throw in some false leads, have one of the NPCs be out of town for a few days, kill an NPC unexpectedly or put the investigators in unexpected danger!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen when events escalate in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The police are likely to become involved, leading to further complications for the players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible motivation for the thief to ask the investigators to handle the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "In desperation, the thief might contrive to have the investigators handle the papers, in an attempt to compel others to join the struggle against the Horror."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's option if the players become stuck?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should remember the Idea roll if the players become stuck."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main idea of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roleplaying games are about the experience of play, not who\u2019s first over the finish line."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the Keeper add to the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can add to these or judiciously place the information elsewhere in the path of the investigators as required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Leiter\u2019s Cottage located?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leiter\u2019s Cottage is located near the campus."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who owns Leiter\u2019s Cottage?"
+      },
+      {
+        "role": "assistant",
+        "content": "A number of similar homes are owned by the same entity, but the entity is not specified in the text."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

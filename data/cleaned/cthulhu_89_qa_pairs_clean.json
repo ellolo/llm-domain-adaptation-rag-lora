@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, a \"pushed roll\" refers to a skill or characteristic roll that is attempted multiple times, with the goal of achieving a specific outcome. When attempting a pushed roll, the Keeper can foreshadow the consequences of failure to create a more immersive and dramatic experience for the players. This can include describing the outcome of failure in detail, highlighting potential dangers, or hinting at unseen consequences. The Keeper's goal is to create an interesting and engaging consequence, rather than simply stating a flat failure.",
+  "qa_pairs": [
+    {
+      "question": "What is the risk if you are persuading a police officer?",
+      "answer": "risking arrest",
+      "rating": 8
+    },
+    {
+      "question": "What is the risk if you are searching a room?",
+      "answer": "risking breaking things or spending too long there",
+      "rating": 7
+    },
+    {
+      "question": "What is the risk if you are trying to read someone with Psychology?",
+      "answer": "studying a person too closely or asking prying questions",
+      "rating": 8
+    },
+    {
+      "question": "What is the risk if it involves Cthulhu Mythos?",
+      "answer": "staring into the abyss of dark knowledge for so long that something looks back",
+      "rating": 9
+    },
+    {
+      "question": "What is the risk if you are climbing a wall?",
+      "answer": "continuing even though it feels completely unsafe",
+      "rating": 6
+    },
+    {
+      "question": "What is the difference between a pushed roll and a re-roll?",
+      "answer": "A pushed roll is not simply a re-roll; time always passes between rolls\u2013it may be seconds or hours.",
+      "rating": 9
+    },
+    {
+      "question": "Can Luck be pushed, or is it off-limits?",
+      "answer": "Only skill and characteristic rolls can be pushed, not Luck, Sanity, or combat rolls.",
+      "rating": 8
+    },
+    {
+      "question": "Can rolls determining damage or Sanity loss be pushed?",
+      "answer": "Only skill and characteristic rolls can be pushed, not rolls to determine an amount of damage or Sanity loss.",
+      "rating": 8
+    },
+    {
+      "question": "Is the skill and difficulty level always the same after a pushed roll?",
+      "answer": "The skill and difficulty level normally remain unchanged, but may be modified if the situation changes.",
+      "rating": 8
+    },
+    {
+      "question": "Can the doctor avoid repeating the formulae he found?",
+      "answer": "No, he frequently comes upon the same formulae, repeating them under his breath.",
+      "rating": 9
+    },
+    {
+      "question": "What type of rolls can be pushed?",
+      "answer": "skill and characteristic rolls",
+      "rating": 7
+    },
+    {
+      "question": "Can Luck be pushed?",
+      "answer": "No, only skill and characteristic rolls can be pushed",
+      "rating": 8
+    },
+    {
+      "question": "What does the Keeper do before foreshadowing failure?",
+      "answer": "The Keeper says, 'If you fail...' followed by details",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper highlight when foreshadowing failure?",
+      "answer": "Things that would be apparent to the investigator",
+      "rating": 8
+    },
+    {
+      "question": "Can the investigator suggest consequences for failure?",
+      "answer": "Yes, players are welcome to offer their own suggestions",
+      "rating": 9
+    },
+    {
+      "question": "Why should the Keeper foreshadow consequences?",
+      "answer": "The player requests foreshadowing to clarify the dangers, or the Keeper chooses to foreshadow to highlight the danger or increase drama.",
+      "rating": 9
+    },
+    {
+      "question": "Why should the Keeper focus on an interesting consequence?",
+      "answer": "It is imperative that the Keeper focuses on an interesting consequence, rather than flat failure.",
+      "rating": 9
+    },
+    {
+      "question": "Where is more advice on foreshadowing offered?",
+      "answer": "More advice on foreshadowing is offered in Chapter 10: Playing the Game.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of foreshadowing in the game?",
+      "answer": "The purpose of foreshadowing is to highlight the danger or to increase the drama of the situation.",
+      "rating": 9
+    },
+    {
+      "question": "Why would the Keeper hint at something that the investigator would not be aware of?",
+      "answer": "The Keeper might only hint at it (at the Keeper\u2019s discretion).",
+      "rating": 7
+    },
+    {
+      "question": "Why should the Keeper foreshadow the consequence?",
+      "answer": "The player requests foreshadowing to clarify the dangers or the player is aware of them and wants to gauge the risk, or the Keeper chooses to foreshadow to highlight the danger or to increase the drama of the situation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Keeper's goal when choosing a consequence?",
+      "answer": "The Keeper should focus on an interesting consequence, rather than flat failure.",
+      "rating": 9
+    },
+    {
+      "question": "What type of roll is Harvey's player attempting to make?",
+      "answer": "A Stealth roll at Regular difficulty.",
+      "rating": 8
+    },
+    {
+      "question": "Why does Harvey decide to try to hide in plain sight?",
+      "answer": "Because he believes it's only a matter of time before he is caught.",
+      "rating": 8
+    },
+    {
+      "question": "Where is Harvey trying to hide?",
+      "answer": "Among the passing crowds in the main street.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the risk if you are persuading a police officer?"
+      },
+      {
+        "role": "assistant",
+        "content": "risking arrest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the risk if you are searching a room?"
+      },
+      {
+        "role": "assistant",
+        "content": "risking breaking things or spending too long there"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the risk if you are trying to read someone with Psychology?"
+      },
+      {
+        "role": "assistant",
+        "content": "studying a person too closely or asking prying questions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the risk if it involves Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "staring into the abyss of dark knowledge for so long that something looks back"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the risk if you are climbing a wall?"
+      },
+      {
+        "role": "assistant",
+        "content": "continuing even though it feels completely unsafe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between a pushed roll and a re-roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A pushed roll is not simply a re-roll; time always passes between rolls\u2013it may be seconds or hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Luck be pushed, or is it off-limits?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only skill and characteristic rolls can be pushed, not Luck, Sanity, or combat rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can rolls determining damage or Sanity loss be pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only skill and characteristic rolls can be pushed, not rolls to determine an amount of damage or Sanity loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the skill and difficulty level always the same after a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The skill and difficulty level normally remain unchanged, but may be modified if the situation changes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the doctor avoid repeating the formulae he found?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, he frequently comes upon the same formulae, repeating them under his breath."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of rolls can be pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "skill and characteristic rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Luck be pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, only skill and characteristic rolls can be pushed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper do before foreshadowing failure?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper says, 'If you fail...' followed by details"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper highlight when foreshadowing failure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Things that would be apparent to the investigator"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigator suggest consequences for failure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, players are welcome to offer their own suggestions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper foreshadow consequences?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player requests foreshadowing to clarify the dangers, or the Keeper chooses to foreshadow to highlight the danger or increase drama."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper focus on an interesting consequence?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is imperative that the Keeper focuses on an interesting consequence, rather than flat failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is more advice on foreshadowing offered?"
+      },
+      {
+        "role": "assistant",
+        "content": "More advice on foreshadowing is offered in Chapter 10: Playing the Game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of foreshadowing in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The purpose of foreshadowing is to highlight the danger or to increase the drama of the situation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why would the Keeper hint at something that the investigator would not be aware of?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper might only hint at it (at the Keeper\u2019s discretion)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper foreshadow the consequence?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player requests foreshadowing to clarify the dangers or the player is aware of them and wants to gauge the risk, or the Keeper chooses to foreshadow to highlight the danger or to increase the drama of the situation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's goal when choosing a consequence?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should focus on an interesting consequence, rather than flat failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is Harvey's player attempting to make?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Stealth roll at Regular difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does Harvey decide to try to hide in plain sight?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because he believes it's only a matter of time before he is caught."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Harvey trying to hide?"
+      },
+      {
+        "role": "assistant",
+        "content": "Among the passing crowds in the main street."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

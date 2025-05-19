@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses the \"Pushed\" skill, which involves persuading or manipulating others to achieve a desired outcome. This skill can be used to advance an argument, appeal to a target's reason, or use suggestion techniques to make the target receptive. However, failing to successfully use the Pushed skill can have severe consequences, such as the target taking offense, feeling duped, or even committing suicide. The document also introduces two related skills, Pilot and Operate Heavy Machinery, which require different skill levels and difficulty levels to master.",
+  "qa_pairs": [
+    {
+      "question": "What is a Pushed roll in the context of the text?",
+      "answer": "A Pushed roll involves using persuasion, demonstration, and possibly subliminal messages to make someone receptive to your argument.",
+      "rating": 9
+    },
+    {
+      "question": "What skills can be used if the investigator starts to take an alternative approach?",
+      "answer": "A different skill to be used",
+      "rating": 8
+    },
+    {
+      "question": "What is a Pushed roll if the investigator switches from one skill to another?",
+      "answer": "Still constitutes a Pushed roll",
+      "rating": 9
+    },
+    {
+      "question": "What happens if threats are used, according to the text?",
+      "answer": "It may become Intimidate",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the investigator is relying on befriending the target, according to the text?",
+      "answer": "It may become Charm",
+      "rating": 8
+    },
+    {
+      "question": "What is a Pushed roll in the context of the text?",
+      "answer": "A Pushed roll involves using persuasion, demonstration, and possibly subliminal messages to make someone receptive to your argument.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if someone fails a Pushed roll?",
+      "answer": "The target may take great offense, refuse to do business, or even sue the perpetrator.",
+      "rating": 9
+    },
+    {
+      "question": "What is the consequence of someone pulling a knife on another person in this context?",
+      "answer": "The target does not like the person's big talk and pulls a knife out of nowhere.",
+      "rating": 9
+    },
+    {
+      "question": "What is the alternative approach to Pushing in this context?",
+      "answer": "The alternative approach is to Intimidate someone, which involves using threats to gain their cooperation.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of using bribery to gain someone's cooperation in this context?",
+      "answer": "The target may sign the forms, but later feel duped and hire a private eye or sue the perpetrator for malpractice.",
+      "rating": 9
+    },
+    {
+      "question": "What is the air/water equivalent of Drive Automobile?",
+      "answer": "Pilot (Specializations)",
+      "rating": 7
+    },
+    {
+      "question": "How do skill rolls work for piloting air and water craft?",
+      "answer": "Skill rolls are required for storms, navigation by instrument, low visibility, and other difficult situations.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the difficulty level of skill rolls for piloting?",
+      "answer": "Bad weather, poor visibility, and damage",
+      "rating": 9
+    },
+    {
+      "question": "What is the starting percentage for Pilot (Specializations)?",
+      "answer": "01%",
+      "rating": 6
+    },
+    {
+      "question": "Can the generic Pilot skill be purchased?",
+      "answer": "No, the generic Pilot skill cannot be purchased.",
+      "rating": 8
+    },
+    {
+      "question": "What is required for sailing or flying on a calm day with good visibility?",
+      "answer": "Modest skill",
+      "rating": 7
+    },
+    {
+      "question": "What skill rolls are required for storms, navigation by instrument, low visibility, and other difficult situations?",
+      "answer": "Skill rolls",
+      "rating": 8
+    },
+    {
+      "question": "What is the regular difficulty level for an emergency landing with a light aircraft?",
+      "answer": "Emergency landing with a light aircraft in a farmer\u2019s field",
+      "rating": 6
+    },
+    {
+      "question": "How difficult is it to operate heavy machinery?",
+      "answer": "01%",
+      "rating": 9
+    },
+    {
+      "question": "What is required to drive and operate a tank, backhoe, steam shovel, or other large-scale construction machine?",
+      "answer": "Required to drive and operate a tank, backhoe, steam shovel, or other large-scale construction machine",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of the task is required to drive and operate a tank?",
+      "answer": "01%",
+      "rating": 9
+    },
+    {
+      "question": "What type of machines does the Keeper decide to raise the difficulty level for if they are mostly unfamiliar?",
+      "answer": "very different sorts of machines",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for manipulating machinery to achieve a delicate or specific task?",
+      "answer": "Hard difficulty",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Pushed roll involves using persuasion, demonstration, and possibly subliminal messages to make someone receptive to your argument."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills can be used if the investigator starts to take an alternative approach?"
+      },
+      {
+        "role": "assistant",
+        "content": "A different skill to be used"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll if the investigator switches from one skill to another?"
+      },
+      {
+        "role": "assistant",
+        "content": "Still constitutes a Pushed roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if threats are used, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may become Intimidate"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator is relying on befriending the target, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may become Charm"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Pushed roll involves using persuasion, demonstration, and possibly subliminal messages to make someone receptive to your argument."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if someone fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target may take great offense, refuse to do business, or even sue the perpetrator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of someone pulling a knife on another person in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target does not like the person's big talk and pulls a knife out of nowhere."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative approach to Pushing in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "The alternative approach is to Intimidate someone, which involves using threats to gain their cooperation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of using bribery to gain someone's cooperation in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target may sign the forms, but later feel duped and hire a private eye or sue the perpetrator for malpractice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the air/water equivalent of Drive Automobile?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pilot (Specializations)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do skill rolls work for piloting air and water craft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skill rolls are required for storms, navigation by instrument, low visibility, and other difficult situations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of skill rolls for piloting?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bad weather, poor visibility, and damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting percentage for Pilot (Specializations)?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the generic Pilot skill be purchased?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the generic Pilot skill cannot be purchased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for sailing or flying on a calm day with good visibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modest skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill rolls are required for storms, navigation by instrument, low visibility, and other difficult situations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skill rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level for an emergency landing with a light aircraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Emergency landing with a light aircraft in a farmer\u2019s field"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How difficult is it to operate heavy machinery?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to drive and operate a tank, backhoe, steam shovel, or other large-scale construction machine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Required to drive and operate a tank, backhoe, steam shovel, or other large-scale construction machine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the task is required to drive and operate a tank?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of machines does the Keeper decide to raise the difficulty level for if they are mostly unfamiliar?"
+      },
+      {
+        "role": "assistant",
+        "content": "very different sorts of machines"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for manipulating machinery to achieve a delicate or specific task?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 23,
+    "retention_rate": 0.92,
+    "avg_score": 7.7
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Miskatonic University has acquired a vast collection of historical documents, diaries, and artifacts from a recently deceased octogenarian bachelor. The collection, which includes papers from the 1690s Arkham Witch Trials, was initially assessed by the university's legal firm, but its true value and significance were soon realized by Leiter, a faculty member. Leiter attempted to sell duplicates of the papers to various parties, but this led to a series of horrific events, including the disappearance of the papers and the madness of his accomplice, Cecil Hunter. As a result, Leiter was forced to flee the university, leaving behind his career and reputation.",
+  "qa_pairs": [
+    {
+      "question": "Who is the last direct descendant of a line going back to the founding of the town?",
+      "answer": "The person who died an octogenarian bachelor",
+      "rating": 9
+    },
+    {
+      "question": "What has been inventories by the legal firm assigned by the Cobb family?",
+      "answer": "Papers, including diaries, historical documents, pictures, and artifacts",
+      "rating": 8
+    },
+    {
+      "question": "Where were the papers passed on for more professional assessment of their worth and significance?",
+      "answer": "The Miskatonic",
+      "rating": 9
+    },
+    {
+      "question": "What is the understanding regarding the trust of the papers?",
+      "answer": "That the trust may be repaid with the eventual investiture of a collection or the donation of certain papers",
+      "rating": 8
+    },
+    {
+      "question": "Who assigned the papers to be inventoried by a legal firm?",
+      "answer": "The Cobb family",
+      "rating": 7
+    },
+    {
+      "question": "Why were the papers passed to the Miskatonic University?",
+      "answer": "For more professional assessment of their worth and significance",
+      "rating": 8
+    },
+    {
+      "question": "What was the desired outcome of the trust established by the papers?",
+      "answer": "The eventual investiture of a collection or the donation of certain papers",
+      "rating": 9
+    },
+    {
+      "question": "What was Leiter's motivation for wanting the papers assessed?",
+      "answer": "To receive the prestige that the assessment would bring",
+      "rating": 6
+    },
+    {
+      "question": "What prompted Leiter to lobby heavily for the assessment of the papers?",
+      "answer": "He had pressing ulterior motives for securing the work due to his money running out and creditors threatening repayment.",
+      "rating": 9
+    },
+    {
+      "question": "What did Leiter discover among the papers he assessed?",
+      "answer": "A bound sheaf of previously unknown correspondence and evidentiary materials from the Arkham Witch Trials of the 1690s.",
+      "rating": 8
+    },
+    {
+      "question": "How did Leiter initially perceive the value of the documents he discovered?",
+      "answer": "He thought they were worth a small fortune to the right buyer.",
+      "rating": 7
+    },
+    {
+      "question": "What did Leiter later learn was the actual value of the documents he discovered?",
+      "answer": "Nothing; he was mistaken about their value.",
+      "rating": 6
+    },
+    {
+      "question": "What valuable documents did Leiter discover among the papers?",
+      "answer": "The Witch Trial Papers",
+      "rating": 8
+    },
+    {
+      "question": "Who was Leiter's accomplice in trying to forge the Witch Trial Papers?",
+      "answer": "Cecil Hunter",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of Leiter's offer to sell the Witch Trial Papers to potential buyers?",
+      "answer": "Most of his contacts were poor, except for solicitations from would-be clients with reputations that frightened him",
+      "rating": 8
+    },
+    {
+      "question": "What led Leiter to believe he was being followed?",
+      "answer": "His home was broken into and ransacked",
+      "rating": 9
+    },
+    {
+      "question": "What caused Leiter's home to be broken into and ransacked?",
+      "answer": "He was the center of a bidding war between several clients.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to Cecil Hunter after being assigned the task?",
+      "answer": "He went mad.",
+      "rating": 8
+    },
+    {
+      "question": "What ultimately happened to the rest of the papers?",
+      "answer": "They went missing.",
+      "rating": 7
+    },
+    {
+      "question": "What led to Leiter's increasing misgivings about forging the diagrams?",
+      "answer": "Hunter's own increasing misgivings.",
+      "rating": 8
+    },
+    {
+      "question": "When did Leiter's life spiral out of control?",
+      "answer": "Shortly after Cecil Hunter went mad and the rest of the papers went missing.",
+      "rating": 9
+    },
+    {
+      "question": "Who was assigned the task of forging several sets of diagrams?",
+      "answer": "Cecil Hunter",
+      "rating": 8
+    },
+    {
+      "question": "Why did Cecil Hunter go mad?",
+      "answer": "He went mad due to a sudden spate of horrific nightmares.",
+      "rating": 9
+    },
+    {
+      "question": "Where did Leiter return on the evening of the 23rd September?",
+      "answer": "To his faculty office in the Mis-Katonic University",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the last direct descendant of a line going back to the founding of the town?"
+      },
+      {
+        "role": "assistant",
+        "content": "The person who died an octogenarian bachelor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been inventories by the legal firm assigned by the Cobb family?"
+      },
+      {
+        "role": "assistant",
+        "content": "Papers, including diaries, historical documents, pictures, and artifacts"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where were the papers passed on for more professional assessment of their worth and significance?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Miskatonic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the understanding regarding the trust of the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "That the trust may be repaid with the eventual investiture of a collection or the donation of certain papers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who assigned the papers to be inventoried by a legal firm?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cobb family"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why were the papers passed to the Miskatonic University?"
+      },
+      {
+        "role": "assistant",
+        "content": "For more professional assessment of their worth and significance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the desired outcome of the trust established by the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The eventual investiture of a collection or the donation of certain papers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter's motivation for wanting the papers assessed?"
+      },
+      {
+        "role": "assistant",
+        "content": "To receive the prestige that the assessment would bring"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What prompted Leiter to lobby heavily for the assessment of the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "He had pressing ulterior motives for securing the work due to his money running out and creditors threatening repayment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did Leiter discover among the papers he assessed?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bound sheaf of previously unknown correspondence and evidentiary materials from the Arkham Witch Trials of the 1690s."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Leiter initially perceive the value of the documents he discovered?"
+      },
+      {
+        "role": "assistant",
+        "content": "He thought they were worth a small fortune to the right buyer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did Leiter later learn was the actual value of the documents he discovered?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing; he was mistaken about their value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What valuable documents did Leiter discover among the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Witch Trial Papers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was Leiter's accomplice in trying to forge the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cecil Hunter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of Leiter's offer to sell the Witch Trial Papers to potential buyers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Most of his contacts were poor, except for solicitations from would-be clients with reputations that frightened him"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What led Leiter to believe he was being followed?"
+      },
+      {
+        "role": "assistant",
+        "content": "His home was broken into and ransacked"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What caused Leiter's home to be broken into and ransacked?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was the center of a bidding war between several clients."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Cecil Hunter after being assigned the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "He went mad."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What ultimately happened to the rest of the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "They went missing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What led to Leiter's increasing misgivings about forging the diagrams?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hunter's own increasing misgivings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did Leiter's life spiral out of control?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shortly after Cecil Hunter went mad and the rest of the papers went missing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was assigned the task of forging several sets of diagrams?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cecil Hunter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Cecil Hunter go mad?"
+      },
+      {
+        "role": "assistant",
+        "content": "He went mad due to a sudden spate of horrific nightmares."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where did Leiter return on the evening of the 23rd September?"
+      },
+      {
+        "role": "assistant",
+        "content": "To his faculty office in the Mis-Katonic University"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

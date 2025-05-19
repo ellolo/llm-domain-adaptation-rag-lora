@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses methods for creating investigators in the Call of Cthulhu tabletop role-playing game. There are five options for allocating characteristic values: using the default method, point-buy, the Quick Fire Method, Reaching the Heights of Human Potential, and an optional rule to cap starting skill values. Each method has its own set of rules and guidelines for allocating characteristic values, occupation skills, and other attributes. The document also provides a quick reference chart for determining half and fifth values for characteristic and skill values.",
+  "qa_pairs": [
+    {
+      "question": "What is the recommended minimum value for INT and SIZ characteristics?",
+      "answer": "40",
+      "rating": 8
+    },
+    {
+      "question": "How many points can be shared among the eight characteristics in Option 4?",
+      "answer": "460",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommended minimum value range for any characteristic?",
+      "answer": "15 to 90",
+      "rating": 8
+    },
+    {
+      "question": "How many rolls of 3D6 and 2D6+6 should be rolled?",
+      "answer": "Eight",
+      "rating": 7
+    },
+    {
+      "question": "What is the recommended minimum value for INT and SIZ?",
+      "answer": "40",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for allocating points among the eight characteristics?",
+      "answer": "15 to 90",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended method if you wish to get up and running quickly?",
+      "answer": "Option 5: Quick Fire Method",
+      "rating": 9
+    },
+    {
+      "question": "How to calculate Luck?",
+      "answer": "3D6 \u00d7 5",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended minimum value for INT and SIZ?",
+      "answer": "40",
+      "rating": 8
+    },
+    {
+      "question": "How many points should be allocated among the eight characteristics?",
+      "answer": "460",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum value allowed for any characteristic?",
+      "answer": "15",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended method for allocating points among characteristics?",
+      "answer": "Option 4: Point Buy Characteristics",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommended minimum value for INT and SIZ?",
+      "answer": "40",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum value for a characteristic, according to the text?",
+      "answer": "15",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended method to get up and running quickly?",
+      "answer": "Option 5: Quick Fire Method",
+      "rating": 9
+    },
+    {
+      "question": "How should you allocate values among occupation skills and Credit Rating?",
+      "answer": "One at 70%, two at 60%, three at 50%, and three at 40%",
+      "rating": 9
+    },
+    {
+      "question": "What is the target score to boost non-occupation skills by 20%?",
+      "answer": "20",
+      "rating": 8
+    },
+    {
+      "question": "What is the limitation on the maximum score for characteristics?",
+      "answer": "90",
+      "rating": 9
+    },
+    {
+      "question": "Can the 'Reaching the Heights of Human Potential' option be used alone, or with other methods?",
+      "answer": "in combination with any other method",
+      "rating": 7
+    },
+    {
+      "question": "What is the mechanism to distribute extra percentage points for truly exceptional investigators?",
+      "answer": "1D10 percentage points",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage points allowed for distributing as the players' wish among the characteristics for truly exceptional investigators?",
+      "answer": "1D10 percentage points",
+      "rating": 9
+    },
+    {
+      "question": "What is the concern for investigators with high skills in the game?",
+      "answer": "Unbalancing the game",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended upper limit for starting skills to address concerns about high skills?",
+      "answer": "75%",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the Quick Reference Chart for Half and Fifth Values?",
+      "answer": "To determine the half (Hard) and fifth (Extreme) values for characteristic or skill values",
+      "rating": 8
+    },
+    {
+      "question": "What is the required roll to boost an investigator's INT to 99?",
+      "answer": "A roll of 9 on the die.",
+      "rating": 10
+    },
+    {
+      "question": "What is the upper limit for starting skills if high skills are a concern for the group?",
+      "answer": "75%.",
+      "rating": 8
+    },
+    {
+      "question": "Where can you find the half and fifth values for characteristic or skill values?",
+      "answer": "In the Quick Reference Chart.",
+      "rating": 9
+    },
+    {
+      "question": "How do you determine the half value in the Quick Reference Chart?",
+      "answer": "By reading across to the Base Number column and finding the half value (\u00bd) under it.",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended minimum value for INT and SIZ characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "40"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points can be shared among the eight characteristics in Option 4?"
+      },
+      {
+        "role": "assistant",
+        "content": "460"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended minimum value range for any characteristic?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 to 90"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rolls of 3D6 and 2D6+6 should be rolled?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended minimum value for INT and SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "40"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for allocating points among the eight characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 to 90"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended method if you wish to get up and running quickly?"
+      },
+      {
+        "role": "assistant",
+        "content": "Option 5: Quick Fire Method"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to calculate Luck?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D6 \u00d7 5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended minimum value for INT and SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "40"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points should be allocated among the eight characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "460"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum value allowed for any characteristic?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended method for allocating points among characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Option 4: Point Buy Characteristics"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended minimum value for INT and SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "40"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum value for a characteristic, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended method to get up and running quickly?"
+      },
+      {
+        "role": "assistant",
+        "content": "Option 5: Quick Fire Method"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should you allocate values among occupation skills and Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "One at 70%, two at 60%, three at 50%, and three at 40%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target score to boost non-occupation skills by 20%?"
+      },
+      {
+        "role": "assistant",
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the limitation on the maximum score for characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "90"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the 'Reaching the Heights of Human Potential' option be used alone, or with other methods?"
+      },
+      {
+        "role": "assistant",
+        "content": "in combination with any other method"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the mechanism to distribute extra percentage points for truly exceptional investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 percentage points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage points allowed for distributing as the players' wish among the characteristics for truly exceptional investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 percentage points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the concern for investigators with high skills in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unbalancing the game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended upper limit for starting skills to address concerns about high skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "75%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Quick Reference Chart for Half and Fifth Values?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine the half (Hard) and fifth (Extreme) values for characteristic or skill values"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required roll to boost an investigator's INT to 99?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll of 9 on the die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the upper limit for starting skills if high skills are a concern for the group?"
+      },
+      {
+        "role": "assistant",
+        "content": "75%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find the half and fifth values for characteristic or skill values?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the Quick Reference Chart."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you determine the half value in the Quick Reference Chart?"
+      },
+      {
+        "role": "assistant",
+        "content": "By reading across to the Base Number column and finding the half value (\u00bd) under it."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

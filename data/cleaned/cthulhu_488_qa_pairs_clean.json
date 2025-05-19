@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a catalog or inventory list for various firearms, combat equipment, and hand-to-hand weapons. The list includes items such as ammunition, signal guns, and firearms like .22 Long Rifle, .30-06 Rifle, and 9mm Parabellum, with prices ranging from $15 to $1,000. The document also includes a table listing various hand-to-hand weapons, including their damage, range, and uses, with examples such as brass knuckles, bullwhips, and nunchaku. The prices and details suggest a focus on military or tactical equipment, possibly for a role-playing game or simulation.",
+  "qa_pairs": [
+    {
+      "question": "How much does a .22 Long Rifle ammunition cost?",
+      "answer": "$24.00",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of 10-Gauge Shell?",
+      "answer": "$30.00",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of 12-Gauge Shell?",
+      "answer": "$26.00",
+      "rating": 8
+    },
+    {
+      "question": "How much does a 5.56mm ammunition cost?",
+      "answer": "$12.00",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of 9mm Parabellum ammunition?",
+      "answer": "$39.00",
+      "rating": 8
+    },
+    {
+      "question": "How much does a Hand-Held Taser cost?",
+      "answer": "$50.00",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of Aluminum Knuckles?",
+      "answer": "$20.00",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage type for a Bullwhip?",
+      "answer": "Touch",
+      "rating": 8
+    },
+    {
+      "question": "What is the base range for a Crossbow?",
+      "answer": "30 yards",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage type for a Chainsaw?",
+      "answer": "Touch",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage type for a Live Wire, 220-volt charge?",
+      "answer": "Touch",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage type for a Mace Spray?",
+      "answer": "Touch",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage type for a Nunchaku?",
+      "answer": "Touch",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage type for a Garrote?",
+      "answer": "Touch",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage type for a Firearm (Bow)?",
+      "answer": "Touch",
+      "rating": 8
+    },
+    {
+      "question": "How many times is the action 'Fighting' or 'Brawl' repeated in the text?",
+      "answer": "5",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a 'Flail' attack in the text?",
+      "answer": "2D8+Stun",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage roll for 'Touch' attacks with a 1D8+DB?",
+      "answer": "1D8+DB",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage roll for 'Touch' attacks with a 1D4+2+DB?",
+      "answer": "1D4+2+DB",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage roll for 'Touch' attacks with a 1D4+DB?",
+      "answer": "1D4+DB",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a 'Stun' attack in the text?",
+      "answer": "2D8+Stun",
+      "rating": 9
+    },
+    {
+      "question": "How long is the range of 'Touch' attacks in the text?",
+      "answer": "6 feet",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage roll for 'Throw' attacks in the text?",
+      "answer": "1D4+half DB",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a .22 Long Rifle ammunition cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$24.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 10-Gauge Shell?"
+      },
+      {
+        "role": "assistant",
+        "content": "$30.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 12-Gauge Shell?"
+      },
+      {
+        "role": "assistant",
+        "content": "$26.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a 5.56mm ammunition cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$12.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 9mm Parabellum ammunition?"
+      },
+      {
+        "role": "assistant",
+        "content": "$39.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a Hand-Held Taser cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$50.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Aluminum Knuckles?"
+      },
+      {
+        "role": "assistant",
+        "content": "$20.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a Bullwhip?"
+      },
+      {
+        "role": "assistant",
+        "content": "Touch"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range for a Crossbow?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a Chainsaw?"
+      },
+      {
+        "role": "assistant",
+        "content": "Touch"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a Live Wire, 220-volt charge?"
+      },
+      {
+        "role": "assistant",
+        "content": "Touch"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a Mace Spray?"
+      },
+      {
+        "role": "assistant",
+        "content": "Touch"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a Nunchaku?"
+      },
+      {
+        "role": "assistant",
+        "content": "Touch"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a Garrote?"
+      },
+      {
+        "role": "assistant",
+        "content": "Touch"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a Firearm (Bow)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Touch"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many times is the action 'Fighting' or 'Brawl' repeated in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a 'Flail' attack in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D8+Stun"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage roll for 'Touch' attacks with a 1D8+DB?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8+DB"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage roll for 'Touch' attacks with a 1D4+2+DB?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4+2+DB"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage roll for 'Touch' attacks with a 1D4+DB?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4+DB"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a 'Stun' attack in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D8+Stun"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long is the range of 'Touch' attacks in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 feet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage roll for 'Throw' attacks in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4+half DB"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.9
+  }
+}

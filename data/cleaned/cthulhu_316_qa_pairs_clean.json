@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes various alien devices and technologies used by the Yithians and Deep Ones, including the Tabula Rasa Device, which erases memories of those displaced through time, and the Temporal Communicator, a device that allows Yithians to communicate with entities across time and space. These devices are often complex and require specialized knowledge to operate, making them inaccessible to humans. The Deep Ones' technology is also described as organic and influenced by their alliance with the Shoggoths, with a focus on organic constructs and tools. The devices are often used for espionage and communication purposes, and their operation can have significant consequences for those involved.",
+  "qa_pairs": [
+    {
+      "question": "What type of devices can be used to deactivate stasis cubes?",
+      "answer": "The simpler stasis cubes that anyone can use by accident.",
+      "rating": 9
+    },
+    {
+      "question": "Is the technology of the deep ones recognizable to humans?",
+      "answer": "No, the technology of the deep ones is almost unrecognizable to humans.",
+      "rating": 8
+    },
+    {
+      "question": "How do deep one cities differ from human cities?",
+      "answer": "Deep one cities are not as much constructed as grown.",
+      "rating": 7
+    },
+    {
+      "question": "How does technology influence deep one society?",
+      "answer": "Technology is still an important force, but it does not influence deep one society nearly as much as it does humanity's.",
+      "rating": 8
+    },
+    {
+      "question": "What is believed to be the basis of the organic technology of the deep ones?",
+      "answer": "They discovered the basis of their organic technology when they first allied with the shoggoths and discovered how the elder things had made those creatures and how they could be controlled.",
+      "rating": 9
+    },
+    {
+      "question": "How are deep one cities often constructed?",
+      "answer": "On occasion other useful tools are grown as well.",
+      "rating": 6
+    },
+    {
+      "question": "What is the primary function of the Tabula Rasa Device?",
+      "answer": "The primary function of the Tabula Rasa Device is to erase the memories of those entities the Yithians displace through time.",
+      "rating": 8
+    },
+    {
+      "question": "What is the physical appearance of the Tabula Rasa Device?",
+      "answer": "The Tabula Rasa Device is a small, slim, rectangular copper box covered with tiny indentations.",
+      "rating": 9
+    },
+    {
+      "question": "How are the needles inserted into the victim's head?",
+      "answer": "The needles are inserted into the victim's head via five flexible metal tubes, which take five rounds.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the victim's memories after the device is activated?",
+      "answer": "The device erases up to a year's worth of memories or removes 5 points of INT, at the operator's discretion.",
+      "rating": 8
+    },
+    {
+      "question": "Can the victim's memories always be completely erased?",
+      "answer": "No, there is an INT chance that some memory returns in the form of dreams every year.",
+      "rating": 7
+    },
+    {
+      "question": "Can the function of the device be reversed?",
+      "answer": "Yes, the function of the device may also be reversed, feeding the stored memories to the original victim or alternatively to another entity.",
+      "rating": 9
+    },
+    {
+      "question": "What is the annual chance that some memory returns in the form of dreams?",
+      "answer": "Every year there is an INT chance that some memory returns in the form of dreams.",
+      "rating": 6
+    },
+    {
+      "question": "What is required to successfully operate the tabula rasa device?",
+      "answer": "Humans ignorant of Yithian technology would require an Extreme INT roll to successful operate the device.",
+      "rating": 9
+    },
+    {
+      "question": "Who can use the tabula rasa device?",
+      "answer": "The tabula rasa device is very complex, and can only be used by those familiar with Yithian technology.",
+      "rating": 8
+    },
+    {
+      "question": "What is the material used to make the device when assembled?",
+      "answer": "When assembled, the device stands nearly a foot tall. It is made of bronze and covered with intricate carvings.",
+      "rating": 9
+    },
+    {
+      "question": "What is embedded into the top of the machine?",
+      "answer": "A red jewel, attuned to a specific Yithian, is embedded into the top of the machine.",
+      "rating": 9
+    },
+    {
+      "question": "How tall does the device stand when assembled?",
+      "answer": "nearly a foot tall",
+      "rating": 8
+    },
+    {
+      "question": "What is the material the device is made of?",
+      "answer": "bronze",
+      "rating": 9
+    },
+    {
+      "question": "What is embedded into the top of the machine?",
+      "answer": "a red jewel",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the jewel is powered on?",
+      "answer": "it begins to glow red",
+      "rating": 9
+    },
+    {
+      "question": "What is established with the Yithian attuned to the jewel?",
+      "answer": "contact",
+      "rating": 9
+    },
+    {
+      "question": "What can the Yithian see into using the machine?",
+      "answer": "the time and space occupied by the machine",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of devices can be used to deactivate stasis cubes?"
+      },
+      {
+        "role": "assistant",
+        "content": "The simpler stasis cubes that anyone can use by accident."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the technology of the deep ones recognizable to humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the technology of the deep ones is almost unrecognizable to humans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do deep one cities differ from human cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep one cities are not as much constructed as grown."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does technology influence deep one society?"
+      },
+      {
+        "role": "assistant",
+        "content": "Technology is still an important force, but it does not influence deep one society nearly as much as it does humanity's."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is believed to be the basis of the organic technology of the deep ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "They discovered the basis of their organic technology when they first allied with the shoggoths and discovered how the elder things had made those creatures and how they could be controlled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are deep one cities often constructed?"
+      },
+      {
+        "role": "assistant",
+        "content": "On occasion other useful tools are grown as well."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of the Tabula Rasa Device?"
+      },
+      {
+        "role": "assistant",
+        "content": "The primary function of the Tabula Rasa Device is to erase the memories of those entities the Yithians displace through time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the physical appearance of the Tabula Rasa Device?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Tabula Rasa Device is a small, slim, rectangular copper box covered with tiny indentations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are the needles inserted into the victim's head?"
+      },
+      {
+        "role": "assistant",
+        "content": "The needles are inserted into the victim's head via five flexible metal tubes, which take five rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's memories after the device is activated?"
+      },
+      {
+        "role": "assistant",
+        "content": "The device erases up to a year's worth of memories or removes 5 points of INT, at the operator's discretion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the victim's memories always be completely erased?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, there is an INT chance that some memory returns in the form of dreams every year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the function of the device be reversed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the function of the device may also be reversed, feeding the stored memories to the original victim or alternatively to another entity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the annual chance that some memory returns in the form of dreams?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every year there is an INT chance that some memory returns in the form of dreams."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to successfully operate the tabula rasa device?"
+      },
+      {
+        "role": "assistant",
+        "content": "Humans ignorant of Yithian technology would require an Extreme INT roll to successful operate the device."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can use the tabula rasa device?"
+      },
+      {
+        "role": "assistant",
+        "content": "The tabula rasa device is very complex, and can only be used by those familiar with Yithian technology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the material used to make the device when assembled?"
+      },
+      {
+        "role": "assistant",
+        "content": "When assembled, the device stands nearly a foot tall. It is made of bronze and covered with intricate carvings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is embedded into the top of the machine?"
+      },
+      {
+        "role": "assistant",
+        "content": "A red jewel, attuned to a specific Yithian, is embedded into the top of the machine."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How tall does the device stand when assembled?"
+      },
+      {
+        "role": "assistant",
+        "content": "nearly a foot tall"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the material the device is made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "bronze"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is embedded into the top of the machine?"
+      },
+      {
+        "role": "assistant",
+        "content": "a red jewel"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the jewel is powered on?"
+      },
+      {
+        "role": "assistant",
+        "content": "it begins to glow red"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is established with the Yithian attuned to the jewel?"
+      },
+      {
+        "role": "assistant",
+        "content": "contact"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the Yithian see into using the machine?"
+      },
+      {
+        "role": "assistant",
+        "content": "the time and space occupied by the machine"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 8.2
+  }
+}

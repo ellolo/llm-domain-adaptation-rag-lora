@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe investigators are being stalked by Gla'aki, a powerful undead deity, and its minions, who are attempting to convert them to their cause. The minions, August and Jacob, are cunning and aim to entice the investigators to their master's lake, where they will be imprisoned and eventually converted. The investigators can avoid combat by avoiding the minions during the day, but if they start a fight or try to leave, the minions will attack and try to incapacitate them before imprisoning them in caskets. The caskets are enchanted and require a high STR or POW to open, and the investigators will find various items and clues inside, including a mysterious spine and a diary belonging to one of Gla'aki's servants.",
+  "qa_pairs": [
+    {
+      "question": "What is the current status of the piece of the crystal?",
+      "answer": "It was scattered around the world.",
+      "rating": 8
+    },
+    {
+      "question": "What is the benefit of aiding the piece in finding the crystal and delivering it to the lake?",
+      "answer": "Our benefactor can destroy it, weakening the strength of the prison that binds it.",
+      "rating": 9
+    },
+    {
+      "question": "What is the ultimate goal of the speakers in joining with the piece of the crystal?",
+      "answer": "To be made immortal by our new God.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the caskets at night?",
+      "answer": "They are partially open and empty.",
+      "rating": 8
+    },
+    {
+      "question": "Who is the new God in the text?",
+      "answer": "Gla'aki",
+      "rating": 9
+    },
+    {
+      "question": "What is the state of the caskets at night?",
+      "answer": "Partially open and empty",
+      "rating": 8
+    },
+    {
+      "question": "What do August and Jacob aim to do when their caskets are discovered?",
+      "answer": "Win the investigators to their cause",
+      "rating": 7
+    },
+    {
+      "question": "What is the vulnerable state of August and Jacob during the day?",
+      "answer": "During the day",
+      "rating": 6
+    },
+    {
+      "question": "What is the strategy of Gla'aki's undead servants?",
+      "answer": "They avoid combat and entice investigators to the lake once it grows dark.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if investigators start a fight or attempt to leave?",
+      "answer": "August and Jacob will attack and try to incapacitate them before placing them in the empty caskets.",
+      "rating": 8
+    },
+    {
+      "question": "How do the caskets prevent escape?",
+      "answer": "The lid is firmly sealed in place by both physical weight and magical properties.",
+      "rating": 9
+    },
+    {
+      "question": "How many people can fit inside a casket?",
+      "answer": "Each casket is large enough to squeeze two people inside.",
+      "rating": 7
+    },
+    {
+      "question": "What is the source of the blue light inside the casket?",
+      "answer": "Gla'aki, the god, has invested magical properties in the lid, providing limited illumination.",
+      "rating": 9
+    },
+    {
+      "question": "What does the old Civil War-era rifle in Turner's Cabin indicate?",
+      "answer": "The rifle has not been maintained, suggesting the cabin has been unused for some time.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the blue stone caskets in the basement?",
+      "answer": "The caskets are used by the undead servants to shield themselves from the harmful sunlight during the day.",
+      "rating": 9
+    },
+    {
+      "question": "How are the caskets sealed in place?",
+      "answer": "The lid is sealed firmly in place by the magical properties invested in it by Gla'aki, not just physical weight.",
+      "rating": 9
+    },
+    {
+      "question": "What is the source of the light in the caskets?",
+      "answer": "the harmful sunlight",
+      "rating": 8
+    },
+    {
+      "question": "Who are two members of Turner's gang that lie in their caskets during the day?",
+      "answer": "August and Jacob",
+      "rating": 9
+    },
+    {
+      "question": "What items are found in the unoccupied caskets?",
+      "answer": "G Trinkets belonging to the members of Turner's gang",
+      "rating": 7
+    },
+    {
+      "question": "What are some of the items found in the unoccupied caskets?",
+      "answer": "lockets with the pictures of loved ones, long since dead, rings or other jewelry of the same period",
+      "rating": 8
+    },
+    {
+      "question": "Who lies in caskets during the day?",
+      "answer": "August and Jacob, two of Turner's gang",
+      "rating": 9
+    },
+    {
+      "question": "What is one of Gla'aki's spines?",
+      "answer": "A glistening, metallic, sharp spine that appears to have been snapped off at one end",
+      "rating": 9
+    },
+    {
+      "question": "What are found in the other caskets besides unoccupied ones?",
+      "answer": "Trinkets belonging to the members of Turner's gang, including lockets and jewelry",
+      "rating": 8
+    },
+    {
+      "question": "What is the nature of the metal in Gla'aki's spine?",
+      "answer": "Not a metal of Earthly origin",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of the piece of the crystal?"
+      },
+      {
+        "role": "assistant",
+        "content": "It was scattered around the world."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of aiding the piece in finding the crystal and delivering it to the lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Our benefactor can destroy it, weakening the strength of the prison that binds it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate goal of the speakers in joining with the piece of the crystal?"
+      },
+      {
+        "role": "assistant",
+        "content": "To be made immortal by our new God."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caskets at night?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are partially open and empty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the new God in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gla'aki"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of the caskets at night?"
+      },
+      {
+        "role": "assistant",
+        "content": "Partially open and empty"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do August and Jacob aim to do when their caskets are discovered?"
+      },
+      {
+        "role": "assistant",
+        "content": "Win the investigators to their cause"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the vulnerable state of August and Jacob during the day?"
+      },
+      {
+        "role": "assistant",
+        "content": "During the day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the strategy of Gla'aki's undead servants?"
+      },
+      {
+        "role": "assistant",
+        "content": "They avoid combat and entice investigators to the lake once it grows dark."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if investigators start a fight or attempt to leave?"
+      },
+      {
+        "role": "assistant",
+        "content": "August and Jacob will attack and try to incapacitate them before placing them in the empty caskets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the caskets prevent escape?"
+      },
+      {
+        "role": "assistant",
+        "content": "The lid is firmly sealed in place by both physical weight and magical properties."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many people can fit inside a casket?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each casket is large enough to squeeze two people inside."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of the blue light inside the casket?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gla'aki, the god, has invested magical properties in the lid, providing limited illumination."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the old Civil War-era rifle in Turner's Cabin indicate?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rifle has not been maintained, suggesting the cabin has been unused for some time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the blue stone caskets in the basement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caskets are used by the undead servants to shield themselves from the harmful sunlight during the day."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are the caskets sealed in place?"
+      },
+      {
+        "role": "assistant",
+        "content": "The lid is sealed firmly in place by the magical properties invested in it by Gla'aki, not just physical weight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of the light in the caskets?"
+      },
+      {
+        "role": "assistant",
+        "content": "the harmful sunlight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are two members of Turner's gang that lie in their caskets during the day?"
+      },
+      {
+        "role": "assistant",
+        "content": "August and Jacob"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What items are found in the unoccupied caskets?"
+      },
+      {
+        "role": "assistant",
+        "content": "G Trinkets belonging to the members of Turner's gang"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of the items found in the unoccupied caskets?"
+      },
+      {
+        "role": "assistant",
+        "content": "lockets with the pictures of loved ones, long since dead, rings or other jewelry of the same period"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who lies in caskets during the day?"
+      },
+      {
+        "role": "assistant",
+        "content": "August and Jacob, two of Turner's gang"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of Gla'aki's spines?"
+      },
+      {
+        "role": "assistant",
+        "content": "A glistening, metallic, sharp spine that appears to have been snapped off at one end"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are found in the other caskets besides unoccupied ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trinkets belonging to the members of Turner's gang, including lockets and jewelry"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the metal in Gla'aki's spine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not a metal of Earthly origin"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

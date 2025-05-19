@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a catalog of various ancient and occult texts, specifically those related to the Cthulhu Mythos. The texts include the Necronomicon, a book of dark knowledge, and other volumes such as \"Call of Cthulhu\" and \"Ponape Scripture\", which are said to hold secrets and knowledge of the deep ones. The catalog also mentions the Pnakotic Manuscripts, a precursor volume to the Necronomicon, and the Ponape Scripture, which details a South Sea islander cult that worships and breeds with the deep ones. Each text is described in terms of its condition, rarity, and mythos rating, which indicates its level of connection to the Cthulhu Mythos.",
+  "qa_pairs": [
+    {
+      "question": "In what year was the British Museum founded?",
+      "answer": "1753",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition of the copy found in the Biblioth\u00e8que Nationale?",
+      "answer": "In poor condition",
+      "rating": 9
+    },
+    {
+      "question": "When was the mysterious donor's body found?",
+      "answer": "a day later",
+      "rating": 7
+    },
+    {
+      "question": "In which century did the University of Buenos Aires' copy arrive in South America?",
+      "answer": "the late 17th century",
+      "rating": 8
+    },
+    {
+      "question": "What was the condition of the book at the Widener Library at Harvard?",
+      "answer": "poor condition, badly cracked and split",
+      "rating": 9
+    },
+    {
+      "question": "In what year did Harry Elkins Widener obtain the Necronomicon?",
+      "answer": "shortly before he boarded the Titanic in 1912",
+      "rating": 10
+    },
+    {
+      "question": "When was the book of Harry Elkins Widener obtained?",
+      "answer": "1912",
+      "rating": 8
+    },
+    {
+      "question": "Who purchased the Miskatonic University's Necronomicon?",
+      "answer": "A young Dr. Armitage",
+      "rating": 9
+    },
+    {
+      "question": "What was the condition of the text in the Miskatonic University's Necronomicon?",
+      "answer": "Complete and in fair to good condition",
+      "rating": 9
+    },
+    {
+      "question": "Who is credited with the masterwork poem in the English, by Justin Geoffrey?",
+      "answer": "Justin Geoffrey",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition of the text?",
+      "answer": "The text is complete and in fair to good condition.",
+      "rating": 7
+    },
+    {
+      "question": "How many copies of the book 'Call of Cthulhu' were published?",
+      "answer": "An edition of 1200 copies.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated age of the manuscript 'Pnakotic Manuscripts'?",
+      "answer": "15th century",
+      "rating": 8
+    },
+    {
+      "question": "How long is the study required to learn about 'Pnakotic Manuscripts'?",
+      "answer": "45 weeks",
+      "rating": 6
+    },
+    {
+      "question": "What is the Pnakotic Manuscripts' origins in terms of the source of its book's text?",
+      "answer": "The pre-human crinoids",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommended study duration for the Ponape Scripture?",
+      "answer": "45 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the accuracy of the Ponape Scripture compared to Hoag's manuscript?",
+      "answer": "inferior in accuracy and completeness",
+      "rating": 9
+    },
+    {
+      "question": "When was the text published?",
+      "answer": "c. 1795",
+      "rating": 7
+    },
+    {
+      "question": "What is the recommended duration for studying the text?",
+      "answer": "10 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What are the suggested spells in the printed version?",
+      "answer": "None",
+      "rating": 6
+    },
+    {
+      "question": "What is the accuracy and completeness level of the published text compared to Hoag's manuscript?",
+      "answer": "inferior",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what year was the British Museum founded?"
+      },
+      {
+        "role": "assistant",
+        "content": "1753"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the copy found in the Biblioth\u00e8que Nationale?"
+      },
+      {
+        "role": "assistant",
+        "content": "In poor condition"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the mysterious donor's body found?"
+      },
+      {
+        "role": "assistant",
+        "content": "a day later"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In which century did the University of Buenos Aires' copy arrive in South America?"
+      },
+      {
+        "role": "assistant",
+        "content": "the late 17th century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the condition of the book at the Widener Library at Harvard?"
+      },
+      {
+        "role": "assistant",
+        "content": "poor condition, badly cracked and split"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what year did Harry Elkins Widener obtain the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "shortly before he boarded the Titanic in 1912"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the book of Harry Elkins Widener obtained?"
+      },
+      {
+        "role": "assistant",
+        "content": "1912"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who purchased the Miskatonic University's Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "A young Dr. Armitage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the condition of the text in the Miskatonic University's Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complete and in fair to good condition"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is credited with the masterwork poem in the English, by Justin Geoffrey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Justin Geoffrey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text is complete and in fair to good condition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the book 'Call of Cthulhu' were published?"
+      },
+      {
+        "role": "assistant",
+        "content": "An edition of 1200 copies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated age of the manuscript 'Pnakotic Manuscripts'?"
+      },
+      {
+        "role": "assistant",
+        "content": "15th century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long is the study required to learn about 'Pnakotic Manuscripts'?"
+      },
+      {
+        "role": "assistant",
+        "content": "45 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Pnakotic Manuscripts' origins in terms of the source of its book's text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The pre-human crinoids"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended study duration for the Ponape Scripture?"
+      },
+      {
+        "role": "assistant",
+        "content": "45 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the accuracy of the Ponape Scripture compared to Hoag's manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "inferior in accuracy and completeness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the text published?"
+      },
+      {
+        "role": "assistant",
+        "content": "c. 1795"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended duration for studying the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the suggested spells in the printed version?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the accuracy and completeness level of the published text compared to Hoag's manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "inferior"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 21,
+    "retention_rate": 0.95,
+    "avg_score": 8.0
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, opposed rolls can be used to determine the outcome of non-combat interactions between investigators and non-player characters (NPCs). To make an opposed roll, both sides declare a mutually exclusive goal and select a skill or characteristic to use, which are then compared to determine success. The Keeper can apply bonuses or penalties to the rolls, and the results are compared using a tiered system, with Critical success beating Extreme success, and so on. This system allows for more nuanced and dramatic outcomes in non-combat interactions.",
+  "qa_pairs": [
+    {
+      "question": "What is the standard rule for melee combat?",
+      "answer": "Opposed rolls",
+      "rating": 10
+    },
+    {
+      "question": "When is it acceptable for a Keeper to use an opposed roll between non-player characters and investigators?",
+      "answer": "Outside of combat",
+      "rating": 10
+    },
+    {
+      "question": "Who decides whether an opposed roll will be used?",
+      "answer": "The Keeper",
+      "rating": 10
+    },
+    {
+      "question": "What is the purpose of using opposed rolls according to the Keeper?",
+      "answer": "To enhance the drama",
+      "rating": 10
+    },
+    {
+      "question": "What is the standard for melee combat?",
+      "answer": "Opposed rolls",
+      "rating": 10
+    },
+    {
+      "question": "How do both sides select a skill or characteristic for an opposed roll?",
+      "answer": "Each side selects one, approved by the Keeper",
+      "rating": 10
+    },
+    {
+      "question": "Can a Keeper 'push' the result of an opposed skill roll?",
+      "answer": "No, opposed skill rolls cannot be pushed",
+      "rating": 10
+    },
+    {
+      "question": "What must both sides select when playing Call of Cthulhu?",
+      "answer": "a skill or a characteristic",
+      "rating": 8
+    },
+    {
+      "question": "What determines a level of success in Call of Cthulhu?",
+      "answer": "comparing their rolls with their chosen skill or characteristic",
+      "rating": 9
+    },
+    {
+      "question": "What happens when a roll is 100?",
+      "answer": "the roll is a fumble",
+      "rating": 7
+    },
+    {
+      "question": "What can a roll of 96 or above be, if the roll required for success is less than 50?",
+      "answer": "a fumble",
+      "rating": 8
+    },
+    {
+      "question": "What determines a level of success in the game?",
+      "answer": "Both sides roll dice to determine a level of success by comparing their rolls with their chosen skill or characteristic.",
+      "rating": 9
+    },
+    {
+      "question": "How can a roll yield a 'fumble'?",
+      "answer": "A roll can yield a fumble if the roll required for success is less than 50, and the roll is 96 or over.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to opposed skill rolls?",
+      "answer": "Opposed skill rolls cannot be pushed.",
+      "rating": 8
+    },
+    {
+      "question": "How does a regular success roll compare to a character's skill or characteristic?",
+      "answer": "A regular success roll is equal to or below the character's skill or characteristic.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for a Critical success?",
+      "answer": "A roll of 01.",
+      "rating": 10
+    },
+    {
+      "question": "How does a Critical success compare to an Extreme success?",
+      "answer": "A Critical success beats an Extreme success.",
+      "rating": 9
+    },
+    {
+      "question": "Who are the two investigators playing chess?",
+      "answer": "Harvey and Edgar",
+      "rating": 8
+    },
+    {
+      "question": "What are the goals of the players in the chess game?",
+      "answer": "To win",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard rule for melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is it acceptable for a Keeper to use an opposed roll between non-player characters and investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Outside of combat"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who decides whether an opposed roll will be used?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of using opposed rolls according to the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "To enhance the drama"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard for melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do both sides select a skill or characteristic for an opposed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each side selects one, approved by the Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a Keeper 'push' the result of an opposed skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, opposed skill rolls cannot be pushed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must both sides select when playing Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "a skill or a characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines a level of success in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "comparing their rolls with their chosen skill or characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a roll is 100?"
+      },
+      {
+        "role": "assistant",
+        "content": "the roll is a fumble"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a roll of 96 or above be, if the roll required for success is less than 50?"
+      },
+      {
+        "role": "assistant",
+        "content": "a fumble"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines a level of success in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both sides roll dice to determine a level of success by comparing their rolls with their chosen skill or characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a roll yield a 'fumble'?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll can yield a fumble if the roll required for success is less than 50, and the roll is 96 or over."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to opposed skill rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed skill rolls cannot be pushed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a regular success roll compare to a character's skill or characteristic?"
+      },
+      {
+        "role": "assistant",
+        "content": "A regular success roll is equal to or below the character's skill or characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a Critical success?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll of 01."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a Critical success compare to an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Critical success beats an Extreme success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the two investigators playing chess?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey and Edgar"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the goals of the players in the chess game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To win"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 19,
+    "retention_rate": 0.95,
+    "avg_score": 8.6
+  }
+}

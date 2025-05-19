@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a chase scenario, characters and vehicles have a set number of movement actions based on their speed rating relative to the slowest participant. Each character can use their movement actions to move forward, initiate an attack, cast a spell, or perform other actions requiring time and dice rolls. The pursuer's speed and DEX rating determine their movement actions, with faster pursuers having more movement actions. The chase can be resolved quickly if the pursuer is faster, or it can become a stalemate if both characters have the same speed.",
+  "qa_pairs": [
+    {
+      "question": "How many movement actions does every character and vehicle get by default?",
+      "answer": "One movement action",
+      "rating": 8
+    },
+    {
+      "question": "How do movement actions for characters and vehicles change based on their movement rating?",
+      "answer": "The difference between their movement rating and the movement rating of the slowest participant in the chase",
+      "rating": 9
+    },
+    {
+      "question": "Why does the farmer have a second movement action?",
+      "answer": "Because his speed is one more than that of the slowest character in the chase\u2013Harvey",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's movement rating after following speed rolls?",
+      "answer": "5",
+      "rating": 7
+    },
+    {
+      "question": "What is the farmer's movement rating?",
+      "answer": "6",
+      "rating": 8
+    },
+    {
+      "question": "How many movement actions does the farmer have?",
+      "answer": "Two movement actions",
+      "rating": 8
+    },
+    {
+      "question": "What is the movement order in a Chase Round?",
+      "answer": "DEX order, from highest to lowest",
+      "rating": 9
+    },
+    {
+      "question": "How many movement actions does each character get by default?",
+      "answer": "One",
+      "rating": 8
+    },
+    {
+      "question": "Why does the farmer get a second movement action?",
+      "answer": "Because his speed is one more than that of the slowest character",
+      "rating": 8
+    },
+    {
+      "question": "What is the movement action that allows a character to move forward in the chase?",
+      "answer": "Spending movement actions",
+      "rating": 9
+    },
+    {
+      "question": "Can some monsters initiate multiple attacks in one round?",
+      "answer": "Yes, they can",
+      "rating": 7
+    },
+    {
+      "question": "What type of skill allows a character to initiate an attack?",
+      "answer": "Fighting, Firearms, or Drive Auto",
+      "rating": 8
+    },
+    {
+      "question": "What happens if two characters want to act at the same time?",
+      "answer": "The one with the highest DEX takes priority.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of moving from one location to the next?",
+      "answer": "1 movement action.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a chase on pushed rolls?",
+      "answer": "Pushed rolls are not used in a chase.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when a round ends with neither character acting?",
+      "answer": "The round may end with neither of them acting.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the cost of movement in a chase?",
+      "answer": "The cost of movement is not specified in a chase.",
+      "rating": 8
+    },
+    {
+      "question": "What is the movement action for Harvey after his turn?",
+      "answer": "None, as he has used all his movement actions.",
+      "rating": 9
+    },
+    {
+      "question": "How many movement actions does Harvey have?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "How many locations does the farmer advance in round 1?",
+      "answer": "2",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the gap between the farmer and Harvey at the end of round 1?",
+      "answer": "It is closed from 2 locations to 1 location",
+      "rating": 9
+    },
+    {
+      "question": "What would happen if the farmer had a higher DEX?",
+      "answer": "He would have moved first in round 1 and caught up with Harvey immediately",
+      "rating": 10
+    },
+    {
+      "question": "What determines the outcome of a chase scene on even ground?",
+      "answer": "Whether the pursuer is faster than the character he or she is chasing",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the chase if both characters are of the same MOV speed?",
+      "answer": "One character might stay just out of range of the other, with no end to the chase",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does every character and vehicle get by default?"
+      },
+      {
+        "role": "assistant",
+        "content": "One movement action"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do movement actions for characters and vehicles change based on their movement rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difference between their movement rating and the movement rating of the slowest participant in the chase"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the farmer have a second movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because his speed is one more than that of the slowest character in the chase\u2013Harvey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's movement rating after following speed rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the farmer's movement rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does the farmer have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two movement actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement order in a Chase Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX order, from highest to lowest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does each character get by default?"
+      },
+      {
+        "role": "assistant",
+        "content": "One"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the farmer get a second movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because his speed is one more than that of the slowest character"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement action that allows a character to move forward in the chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spending movement actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can some monsters initiate multiple attacks in one round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of skill allows a character to initiate an attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting, Firearms, or Drive Auto"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if two characters want to act at the same time?"
+      },
+      {
+        "role": "assistant",
+        "content": "The one with the highest DEX takes priority."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of moving from one location to the next?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 movement action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a chase on pushed rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pushed rolls are not used in a chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a round ends with neither character acting?"
+      },
+      {
+        "role": "assistant",
+        "content": "The round may end with neither of them acting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the cost of movement in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost of movement is not specified in a chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement action for Harvey after his turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "None, as he has used all his movement actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does Harvey have?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many locations does the farmer advance in round 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the gap between the farmer and Harvey at the end of round 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is closed from 2 locations to 1 location"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen if the farmer had a higher DEX?"
+      },
+      {
+        "role": "assistant",
+        "content": "He would have moved first in round 1 and caught up with Harvey immediately"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the outcome of a chase scene on even ground?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whether the pursuer is faster than the character he or she is chasing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the chase if both characters are of the same MOV speed?"
+      },
+      {
+        "role": "assistant",
+        "content": "One character might stay just out of range of the other, with no end to the chase"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

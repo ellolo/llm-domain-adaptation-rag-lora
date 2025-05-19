@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, a patient named Hunter is being held in a sanatorium and is desperate to escape. The investigators, Leiter, are trying to gather information from Hunter, who is semi-lucid and only provides coherent statements when triggered by certain words and phrases. Hunter's statements reveal a dark and twisted world, filled with references to money, art, and the occult, as well as a sense of paranoia and desperation. The investigators' interactions with Hunter may trigger important statements about the recent past, which Hunter's mind can only approach obliquely.",
+  "qa_pairs": [
+    {
+      "question": "What is Hunter's primary concern?",
+      "answer": "He wants to get out of the sanatorium, by any means.",
+      "rating": 9
+    },
+    {
+      "question": "What can certain words and phrases trigger in Hunter's statements?",
+      "answer": "pertinent statements about the recent past",
+      "rating": 8
+    },
+    {
+      "question": "What was Hunter's state of mind during his semi-lucid statement?",
+      "answer": "distracted, incoherent, and incapable of conducting a rational conversation",
+      "rating": 9
+    },
+    {
+      "question": "What does Hunter believe about art and money?",
+      "answer": "He believes that money is the only thing that matters, and that we all sell our souls in some way.",
+      "rating": 9
+    },
+    {
+      "question": "What might happen if the investigators are sympathetic towards Hunter's claims?",
+      "answer": "He may seek out the investigators' company.",
+      "rating": 7
+    },
+    {
+      "question": "Under what conditions might the investigators hear the voice of the patient in the padded cell next door?",
+      "answer": "When the patient is calm and partly sedated.",
+      "rating": 8
+    },
+    {
+      "question": "What might be a key factor in triggering important statements about the recent past from Hunter's mind?",
+      "answer": "Certain words and phrases used by the investigators.",
+      "rating": 8
+    },
+    {
+      "question": "Who is the author of the direct quote mentioned in the text?",
+      "answer": "Edgar Allan Poe",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of the direct quote from Edgar Allan Poe?",
+      "answer": "The Conqueror Worm",
+      "rating": 10
+    },
+    {
+      "question": "What is the phrase that describes the outcome of the investigators' successful roll?",
+      "answer": "Hard Own Language roll",
+      "rating": 8
+    },
+    {
+      "question": "What is the phrase used to describe the effect of the investigators' successful roll?",
+      "answer": " investigators succeeding in a Hard Own Language roll will identify the last part of this as a direct quote from Edgar Allan Poe",
+      "rating": 9
+    },
+    {
+      "question": "Who wrote the direct quote 'Man, and its hero the Conqueror Worm!'?",
+      "answer": "Edgar Allan Poe",
+      "rating": 10
+    },
+    {
+      "question": "What was the main focus of the sale/buyer's conversation?",
+      "answer": "Money",
+      "rating": 7
+    },
+    {
+      "question": "What was the ultimate outcome of the sale/buyer's conversation?",
+      "answer": "They were scared",
+      "rating": 6
+    },
+    {
+      "question": "How many chapters are in the text?",
+      "answer": "3 (or at least 3 chapters have been mentioned: 'chapter 15: scenarios')",
+      "rating": 8
+    },
+    {
+      "question": "What is the main theme of the conversation between Wick and Lucy?",
+      "answer": "They discuss Wick's new job and how it's affecting him, with a dark tone.",
+      "rating": 9
+    },
+    {
+      "question": "What does Wick mention in his shop?",
+      "answer": "Rats, which he describes as 'bad man, eats and eats and eats'.",
+      "rating": 8
+    },
+    {
+      "question": "What is Lucy's impression of the new job?",
+      "answer": "She sees it as a negative one, comparing the person to 'all worms, poor thing'.",
+      "rating": 9
+    },
+    {
+      "question": "What does Lucy do for a living?",
+      "answer": "She pours and waits tables, as mentioned in the phrase 'waiting tables waiting tables waiting...'.",
+      "rating": 7
+    },
+    {
+      "question": "What is the situation in the Studio?",
+      "answer": "The situation in the Studio is a breaking, screaming entity at the walls.",
+      "rating": 8
+    },
+    {
+      "question": "Who speaks to the Keeper?",
+      "answer": "An unknown character, likely the narrator.",
+      "rating": 6
+    },
+    {
+      "question": "What is the Keeper's responsibility?",
+      "answer": "There is no exact 'right' or 'wrong' path, but the Keeper needs further advice.",
+      "rating": 8
+    },
+    {
+      "question": "What is the source of the problem in the Studio?",
+      "answer": "A breaking, screaming entity, likely the entity they refer to as 'it' in the text.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Hunter's primary concern?"
+      },
+      {
+        "role": "assistant",
+        "content": "He wants to get out of the sanatorium, by any means."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can certain words and phrases trigger in Hunter's statements?"
+      },
+      {
+        "role": "assistant",
+        "content": "pertinent statements about the recent past"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Hunter's state of mind during his semi-lucid statement?"
+      },
+      {
+        "role": "assistant",
+        "content": "distracted, incoherent, and incapable of conducting a rational conversation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Hunter believe about art and money?"
+      },
+      {
+        "role": "assistant",
+        "content": "He believes that money is the only thing that matters, and that we all sell our souls in some way."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen if the investigators are sympathetic towards Hunter's claims?"
+      },
+      {
+        "role": "assistant",
+        "content": "He may seek out the investigators' company."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions might the investigators hear the voice of the patient in the padded cell next door?"
+      },
+      {
+        "role": "assistant",
+        "content": "When the patient is calm and partly sedated."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might be a key factor in triggering important statements about the recent past from Hunter's mind?"
+      },
+      {
+        "role": "assistant",
+        "content": "Certain words and phrases used by the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the author of the direct quote mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Edgar Allan Poe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the direct quote from Edgar Allan Poe?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Conqueror Worm"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the phrase that describes the outcome of the investigators' successful roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard Own Language roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the phrase used to describe the effect of the investigators' successful roll?"
+      },
+      {
+        "role": "assistant",
+        "content": " investigators succeeding in a Hard Own Language roll will identify the last part of this as a direct quote from Edgar Allan Poe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the direct quote 'Man, and its hero the Conqueror Worm!'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Edgar Allan Poe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the main focus of the sale/buyer's conversation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Money"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the ultimate outcome of the sale/buyer's conversation?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were scared"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many chapters are in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 (or at least 3 chapters have been mentioned: 'chapter 15: scenarios')"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main theme of the conversation between Wick and Lucy?"
+      },
+      {
+        "role": "assistant",
+        "content": "They discuss Wick's new job and how it's affecting him, with a dark tone."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Wick mention in his shop?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rats, which he describes as 'bad man, eats and eats and eats'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Lucy's impression of the new job?"
+      },
+      {
+        "role": "assistant",
+        "content": "She sees it as a negative one, comparing the person to 'all worms, poor thing'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Lucy do for a living?"
+      },
+      {
+        "role": "assistant",
+        "content": "She pours and waits tables, as mentioned in the phrase 'waiting tables waiting tables waiting...'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the situation in the Studio?"
+      },
+      {
+        "role": "assistant",
+        "content": "The situation in the Studio is a breaking, screaming entity at the walls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who speaks to the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "An unknown character, likely the narrator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's responsibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no exact 'right' or 'wrong' path, but the Keeper needs further advice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of the problem in the Studio?"
+      },
+      {
+        "role": "assistant",
+        "content": "A breaking, screaming entity, likely the entity they refer to as 'it' in the text."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 23,
+    "filtered": 23,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

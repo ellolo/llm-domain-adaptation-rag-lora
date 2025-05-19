@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes various creatures from the horror genre that can be used as foes in stories or as mounts for investigators. The creatures include giant fruit bats, smaller bats, birds such as magpies, crows, and eagles, and the condor, a vulture-like bird. Each creature has unique statistics, including size, damage, and movement, which can be used to represent them in a game or story. The document also provides rules for how these creatures interact with each other and with humans, including their abilities and weaknesses.",
+  "qa_pairs": [
+    {
+      "question": "What is the typical gathering size of smaller bats common to the United States?",
+      "answer": "up to 50,000 individuals",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a Large bat?",
+      "answer": "-2",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks can a Large bat make per round?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "What is the movement speed of a Large bat?",
+      "answer": "1 / 12 flying",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the Size of a group of Vampire Bats when they attack?",
+      "answer": "Increases by 10",
+      "rating": 6
+    },
+    {
+      "question": "How does the damage dice size change for each extra bat in a group?",
+      "answer": "Increases by 1",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a Vampire Bat?",
+      "answer": "-2",
+      "rating": 9
+    },
+    {
+      "question": "What is the move speed of a Vampire Bat?",
+      "answer": "1 / 12 flying",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a Vampire Bat?",
+      "answer": "-2",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks does a Vampire Bat have per round?",
+      "answer": "1",
+      "rating": 9
+    },
+    {
+      "question": "What is the armor of a Vampire Bat?",
+      "answer": "None",
+      "rating": 7
+    },
+    {
+      "question": "What is the skill of Spot Hidden for a Vampire Bat?",
+      "answer": "75%",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the number of bats each time the target beats the bats in a Fighting roll?",
+      "answer": "The number of bats is reduced by one.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage inflicted by a group of 6 bats in a Fighting roll?",
+      "answer": "1D6 damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the Dodge percentage of a Vampire Bat?",
+      "answer": "52% (26/10)",
+      "rating": 9
+    },
+    {
+      "question": "What ability do all birds have to affect an attacker's chance to hit?",
+      "answer": "They can cut an attacker's chance to hit in half (one penalty die to hit) while they are flying.",
+      "rating": 8
+    },
+    {
+      "question": "What type of birds can only attack helpless prey of any sort?",
+      "answer": "Vultures",
+      "rating": 8
+    },
+    {
+      "question": "Where do giant birds primarily live?",
+      "answer": "The western hemisphere",
+      "rating": 9
+    },
+    {
+      "question": "What is a notable characteristic of giant birds that affect their attackers?",
+      "answer": "All birds can cut an attacker's chance to hit in half",
+      "rating": 7
+    },
+    {
+      "question": "What is the average damage bonus for a giant bird?",
+      "answer": "+1D6",
+      "rating": 6
+    },
+    {
+      "question": "Where do giant birds typically perch?",
+      "answer": "On rocky ledges, or in trees that have grown close enough to support their considerable weight.",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of giant birds in the western hemisphere?",
+      "answer": "The western hemisphere",
+      "rating": 9
+    },
+    {
+      "question": "Where can giant birds only walk?",
+      "answer": "Anywhere this side of Antarctica",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for giant birds?",
+      "answer": "+1D6",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical gathering size of smaller bats common to the United States?"
+      },
+      {
+        "role": "assistant",
+        "content": "up to 50,000 individuals"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Large bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a Large bat make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement speed of a Large bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 / 12 flying"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Size of a group of Vampire Bats when they attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increases by 10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the damage dice size change for each extra bat in a group?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increases by 1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Vampire Bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the move speed of a Vampire Bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 / 12 flying"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Vampire Bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does a Vampire Bat have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor of a Vampire Bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill of Spot Hidden for a Vampire Bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "75%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the number of bats each time the target beats the bats in a Fighting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The number of bats is reduced by one."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage inflicted by a group of 6 bats in a Fighting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage of a Vampire Bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "52% (26/10)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What ability do all birds have to affect an attacker's chance to hit?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can cut an attacker's chance to hit in half (one penalty die to hit) while they are flying."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of birds can only attack helpless prey of any sort?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vultures"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do giant birds primarily live?"
+      },
+      {
+        "role": "assistant",
+        "content": "The western hemisphere"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a notable characteristic of giant birds that affect their attackers?"
+      },
+      {
+        "role": "assistant",
+        "content": "All birds can cut an attacker's chance to hit in half"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a giant bird?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do giant birds typically perch?"
+      },
+      {
+        "role": "assistant",
+        "content": "On rocky ledges, or in trees that have grown close enough to support their considerable weight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of giant birds in the western hemisphere?"
+      },
+      {
+        "role": "assistant",
+        "content": "The western hemisphere"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can giant birds only walk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anywhere this side of Antarctica"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for giant birds?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

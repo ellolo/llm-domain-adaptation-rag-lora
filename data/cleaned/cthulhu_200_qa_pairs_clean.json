@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a horror film or tabletop role-playing game, creating a collaborative story involves incorporating the players' ideas and backstories into the plot. The game master should listen to the players' descriptions of their investigators and incorporate them into the story, rather than imposing pre-determined details. This two-way process allows the game to feel more collaborative and immersive, and can be achieved by adapting the scenario to the players' contributions. By doing so, the game master can create a more engaging and dynamic story that resonates with each player.",
+  "qa_pairs": [
+    {
+      "question": "What type of horror film is often used in zombie films?",
+      "answer": "a horror film in which random characters have to work together to survive",
+      "rating": 9
+    },
+    {
+      "question": "How do some campaigns begin in relation to the Mythos?",
+      "answer": "with the investigators drawn together to combat the Mythos",
+      "rating": 8
+    },
+    {
+      "question": "What experience often brings investigators together to combat the Mythos?",
+      "answer": "a shared experience that has changed their view of the world and their purpose in life",
+      "rating": 9
+    },
+    {
+      "question": "What is the shared experience that brings investigators together?",
+      "answer": "something that has changed their view of the world and their purpose in life",
+      "rating": 8
+    },
+    {
+      "question": "Where did Nick's investigator grow up?",
+      "answer": "Tingewick, a small town",
+      "rating": 7
+    },
+    {
+      "question": "How did the Keeper adjust the scenario when the player contributed to the plot?",
+      "answer": "The Keeper changed pre-existing non-player characters to fit the player's contribution",
+      "rating": 9
+    },
+    {
+      "question": "What happened to the kidnap victim in the scenario?",
+      "answer": "She was made to be the kidnap victim, with her age adjusted accordingly",
+      "rating": 8
+    },
+    {
+      "question": "What did the Keeper ask the player for after incorporating some of Nick's responses into the plot?",
+      "answer": "The Keeper asked the player for the girl's name, after making her the kidnap victim",
+      "rating": 9
+    },
+    {
+      "question": "What does the Keeper do instead of adding new characters?",
+      "answer": "The Keeper changes some pre-existing non-player characters to fit those offered by the player.",
+      "rating": 8
+    },
+    {
+      "question": "What does the Keeper do when a player mentions a girl their investigator was sweet on?",
+      "answer": "The Keeper immediately latches onto this and has her be the kidnap victim.",
+      "rating": 9
+    },
+    {
+      "question": "How should the Keeper respond to the players' contributions to the story?",
+      "answer": "The Keeper should pick up on what the players say about their characters.",
+      "rating": 7
+    },
+    {
+      "question": "What kind of backstories should the players come up with for their investigators?",
+      "answer": "Interesting backstories for their investigators.",
+      "rating": 6
+    },
+    {
+      "question": "What should players be encouraged to do with their investigators?",
+      "answer": "Come up with interesting backstories for their investigators",
+      "rating": 8
+    },
+    {
+      "question": "How should the investigators and plot be integrated?",
+      "answer": "Weave them together wherever possible",
+      "rating": 9
+    },
+    {
+      "question": "What should be avoided when creating non-player characters?",
+      "answer": "Allowing the non-player characters to outshine the investigators.",
+      "rating": 8
+    },
+    {
+      "question": "What information should be taken note of from the players about their investigators?",
+      "answer": "Backstories, aspirations, friends, and rivals of the investigators.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of horror film is often used in zombie films?"
+      },
+      {
+        "role": "assistant",
+        "content": "a horror film in which random characters have to work together to survive"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do some campaigns begin in relation to the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "with the investigators drawn together to combat the Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What experience often brings investigators together to combat the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "a shared experience that has changed their view of the world and their purpose in life"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the shared experience that brings investigators together?"
+      },
+      {
+        "role": "assistant",
+        "content": "something that has changed their view of the world and their purpose in life"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where did Nick's investigator grow up?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tingewick, a small town"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the Keeper adjust the scenario when the player contributed to the plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper changed pre-existing non-player characters to fit the player's contribution"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the kidnap victim in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "She was made to be the kidnap victim, with her age adjusted accordingly"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did the Keeper ask the player for after incorporating some of Nick's responses into the plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper asked the player for the girl's name, after making her the kidnap victim"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper do instead of adding new characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper changes some pre-existing non-player characters to fit those offered by the player."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper do when a player mentions a girl their investigator was sweet on?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper immediately latches onto this and has her be the kidnap victim."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the Keeper respond to the players' contributions to the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should pick up on what the players say about their characters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of backstories should the players come up with for their investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Interesting backstories for their investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should players be encouraged to do with their investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Come up with interesting backstories for their investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the investigators and plot be integrated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Weave them together wherever possible"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be avoided when creating non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allowing the non-player characters to outshine the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What information should be taken note of from the players about their investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Backstories, aspirations, friends, and rivals of the investigators."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 16,
+    "retention_rate": 0.89,
+    "avg_score": 7.6
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a character sheet for a fictional game or story, specifically detailing the characteristics and abilities of three individuals: Hector and Carla Fademan, Wick's assistants, and Doctor John Wheatcroft, a physician. The main topic is the Cthulhu Mythos, a fictional universe of horror and the supernatural, and the characters' skills and abilities are tailored to this theme. The characters' stats and skills are presented in a format similar to tabletop role-playing games, with attributes such as CON, STR, and INT, as well as skills like Fighting, Cthulhu Mythos, and Library Use. The document also describes a malevolent monster known as the Horror, with its own unique abilities and characteristics.",
+  "qa_pairs": [
+    {
+      "question": "What percentage of the character's Constitution score is CON 80?",
+      "answer": "80%",
+      "rating": 9
+    },
+    {
+      "question": "What is the character's Strength score, represented as STR 75?",
+      "answer": "75",
+      "rating": 8
+    },
+    {
+      "question": "What is the character's Agility score, represented as DEX 55?",
+      "answer": "55",
+      "rating": 8
+    },
+    {
+      "question": "What is the character's Sanity score, represented as SAN 0?",
+      "answer": "0",
+      "rating": 7
+    },
+    {
+      "question": "What is the character's Speed, represented by Move 8?",
+      "answer": "8",
+      "rating": 8
+    },
+    {
+      "question": "What is the character's Intelligence score, represented as INT 45?",
+      "answer": "45",
+      "rating": 8
+    },
+    {
+      "question": "What is the character's Health Points, represented as HP 14?",
+      "answer": "14",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus of the Hunting Knife, represented by damage 1D6 + damage bonus?",
+      "answer": "+1D4",
+      "rating": 9
+    },
+    {
+      "question": "What is the Horror's Damage Points stat?",
+      "answer": "43*",
+      "rating": 8
+    },
+    {
+      "question": "What is the fighting attack's damage?",
+      "answer": "1D4 damage",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target's life after a fighting attack?",
+      "answer": "It drains 1D10 CON and STR per attack",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the Horror is fully manifested?",
+      "answer": "It will attempt to seize and embrace its victim",
+      "rating": 8
+    },
+    {
+      "question": "What does the Horror use to stare into the victim's eyes?",
+      "answer": "Soul Burn",
+      "rating": 7
+    },
+    {
+      "question": "How many attacks does the Horror have per round?",
+      "answer": "2 attacks per round",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the target survives a fighting attack?",
+      "answer": "They will recover the lost CON and STR at the rate of 1D10 per day",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of Soul Burn on the target?",
+      "answer": "The target must succeed in an unnamed test",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the character's Constitution score is CON 80?"
+      },
+      {
+        "role": "assistant",
+        "content": "80%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the character's Strength score, represented as STR 75?"
+      },
+      {
+        "role": "assistant",
+        "content": "75"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the character's Agility score, represented as DEX 55?"
+      },
+      {
+        "role": "assistant",
+        "content": "55"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the character's Sanity score, represented as SAN 0?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the character's Speed, represented by Move 8?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the character's Intelligence score, represented as INT 45?"
+      },
+      {
+        "role": "assistant",
+        "content": "45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the character's Health Points, represented as HP 14?"
+      },
+      {
+        "role": "assistant",
+        "content": "14"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of the Hunting Knife, represented by damage 1D6 + damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Horror's Damage Points stat?"
+      },
+      {
+        "role": "assistant",
+        "content": "43*"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fighting attack's damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's life after a fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "It drains 1D10 CON and STR per attack"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Horror is fully manifested?"
+      },
+      {
+        "role": "assistant",
+        "content": "It will attempt to seize and embrace its victim"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Horror use to stare into the victim's eyes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soul Burn"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does the Horror have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 attacks per round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target survives a fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will recover the lost CON and STR at the rate of 1D10 per day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Soul Burn on the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target must succeed in an unnamed test"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 16,
+    "retention_rate": 0.64,
+    "avg_score": 7.7
+  }
+}

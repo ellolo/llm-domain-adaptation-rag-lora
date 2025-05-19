@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Necronomicon, a work attributed to the fictional astronomer, poet, philosopher, and scientist Al-Azrad, has a complex and shrouded history. The text was first translated into Greek by Theodorus Philetas in 950, and later into Latin by Olaus Wormius in 1228. The work was repeatedly translated, printed, and banned throughout the Middle Ages and Renaissance, with various versions emerging, including the Sussex Manuscript and the Voynich Manuscript. Today, only five copies of the Necronomicon are known to exist, although an unknown number may still be held. The text's history is marked by its condemnation by the Church and its association with occult and philosophical circles.",
+  "qa_pairs": [
+    {
+      "question": "When was al-Azrad born?",
+      "answer": "around 700 A.D.",
+      "rating": 8
+    },
+    {
+      "question": "Where did al-Azrad die?",
+      "answer": "Damascus",
+      "rating": 9
+    },
+    {
+      "question": "When was the Al Azif translated into Greek?",
+      "answer": "in the year 950",
+      "rating": 7
+    },
+    {
+      "question": "By whom was the Al Azif translated into Greek?",
+      "answer": "By the Byzantine Theodorus Philetas",
+      "rating": 8
+    },
+    {
+      "question": "When was Philetas' manuscript condemned?",
+      "answer": "1050",
+      "rating": 9
+    },
+    {
+      "question": "Why was Philetas' manuscript banned in 1232?",
+      "answer": "Its rapid circulation among philosophical circles",
+      "rating": 8
+    },
+    {
+      "question": "When was the Latin and Greek versions of the Necronomicon banned by Pope Gregory IX?",
+      "answer": "1232",
+      "rating": 9
+    },
+    {
+      "question": "When was the first practical printing press using moveable type established?",
+      "answer": "1454",
+      "rating": 8
+    },
+    {
+      "question": "When is the Greek translation of the Necronomicon likely to have been printed in Italy?",
+      "answer": "1510",
+      "rating": 8
+    },
+    {
+      "question": "Who was the founder of the Aldine Press, famous for printing unedited Greek and Latin texts?",
+      "answer": "Aldus Manutius",
+      "rating": 9
+    },
+    {
+      "question": "When was the first practical printing press using moveable type established?",
+      "answer": "The year 1454 saw the first practical printing press using moveable type",
+      "rating": 9
+    },
+    {
+      "question": "Where was a black-letter version of the Latin Necronomicon printed?",
+      "answer": "A black-letter version of the Latin Necronomicon had been printed in Germany, probably in Mainz",
+      "rating": 8
+    },
+    {
+      "question": "Who produced an English translation of the Necronomicon in 1586?",
+      "answer": "Dr. John Dee produced an English translation of the Necronomicon",
+      "rating": 9
+    },
+    {
+      "question": "From which press is a Greek translation of the Necronomicon believed to have come?",
+      "answer": "This version is generally believed to have come from the press of Aldus Manutius",
+      "rating": 9
+    },
+    {
+      "question": "Who was John Dee?",
+      "answer": "John Dee, mathematician, astrologer, and physician to Queen Elizabeth of England.",
+      "rating": 8
+    },
+    {
+      "question": "Where was the Greek edition discovered by John Dee?",
+      "answer": "Eastern Europe",
+      "rating": 7
+    },
+    {
+      "question": "What was the status of John Dee's translation?",
+      "answer": "Never published, but believed to have been made from a Greek edition.",
+      "rating": 8
+    },
+    {
+      "question": "Where was a second printing of the Latin version made?",
+      "answer": "Spain, in the early seventeenth century",
+      "rating": 9
+    },
+    {
+      "question": "When was the Latin version of the Necronomicon first printed?",
+      "answer": "Early seventeenth century",
+      "rating": 7
+    },
+    {
+      "question": "What is the title of the Sussex Manuscript, also known as the Cultus Maleficarum?",
+      "answer": "Sussex Manuscript",
+      "rating": 8
+    },
+    {
+      "question": "When was the Al-Azif\u2014Ye Booke of ye Arab written?",
+      "answer": "Late sixteenth century",
+      "rating": 9
+    },
+    {
+      "question": "What is the current location of the Voynich Manuscript?",
+      "answer": "University of Pennsylvania",
+      "rating": 8
+    },
+    {
+      "question": "When was the Al-Azif\u2014Ye Booke of ye Arab written?",
+      "answer": "The Al-Azif\u2014Ye Booke of ye Arab was written in the late sixteenth century",
+      "rating": 9
+    },
+    {
+      "question": "What is written in the Voynich Manuscript?",
+      "answer": "The Voynich Manuscript is written in Greek and Latin using Arab script",
+      "rating": 8
+    },
+    {
+      "question": "What happened to the Necronomicon?",
+      "answer": "The Necronomicon was condemned and destroyed by the Church",
+      "rating": 8
+    },
+    {
+      "question": "How many copies of the Necronomicon are known to exist?",
+      "answer": "Only five copies of the Necronomicon are known to exist today",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was al-Azrad born?"
+      },
+      {
+        "role": "assistant",
+        "content": "around 700 A.D."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where did al-Azrad die?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damascus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Al Azif translated into Greek?"
+      },
+      {
+        "role": "assistant",
+        "content": "in the year 950"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By whom was the Al Azif translated into Greek?"
+      },
+      {
+        "role": "assistant",
+        "content": "By the Byzantine Theodorus Philetas"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was Philetas' manuscript condemned?"
+      },
+      {
+        "role": "assistant",
+        "content": "1050"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why was Philetas' manuscript banned in 1232?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its rapid circulation among philosophical circles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Latin and Greek versions of the Necronomicon banned by Pope Gregory IX?"
+      },
+      {
+        "role": "assistant",
+        "content": "1232"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the first practical printing press using moveable type established?"
+      },
+      {
+        "role": "assistant",
+        "content": "1454"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is the Greek translation of the Necronomicon likely to have been printed in Italy?"
+      },
+      {
+        "role": "assistant",
+        "content": "1510"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was the founder of the Aldine Press, famous for printing unedited Greek and Latin texts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aldus Manutius"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the first practical printing press using moveable type established?"
+      },
+      {
+        "role": "assistant",
+        "content": "The year 1454 saw the first practical printing press using moveable type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was a black-letter version of the Latin Necronomicon printed?"
+      },
+      {
+        "role": "assistant",
+        "content": "A black-letter version of the Latin Necronomicon had been printed in Germany, probably in Mainz"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who produced an English translation of the Necronomicon in 1586?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. John Dee produced an English translation of the Necronomicon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "From which press is a Greek translation of the Necronomicon believed to have come?"
+      },
+      {
+        "role": "assistant",
+        "content": "This version is generally believed to have come from the press of Aldus Manutius"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was John Dee?"
+      },
+      {
+        "role": "assistant",
+        "content": "John Dee, mathematician, astrologer, and physician to Queen Elizabeth of England."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was the Greek edition discovered by John Dee?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eastern Europe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the status of John Dee's translation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Never published, but believed to have been made from a Greek edition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was a second printing of the Latin version made?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spain, in the early seventeenth century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Latin version of the Necronomicon first printed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Early seventeenth century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the Sussex Manuscript, also known as the Cultus Maleficarum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sussex Manuscript"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Al-Azif\u2014Ye Booke of ye Arab written?"
+      },
+      {
+        "role": "assistant",
+        "content": "Late sixteenth century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current location of the Voynich Manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "University of Pennsylvania"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Al-Azif\u2014Ye Booke of ye Arab written?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Al-Azif\u2014Ye Booke of ye Arab was written in the late sixteenth century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is written in the Voynich Manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Voynich Manuscript is written in Greek and Latin using Arab script"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Necronomicon was condemned and destroyed by the Church"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the Necronomicon are known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only five copies of the Necronomicon are known to exist today"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

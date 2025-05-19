@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes various magical and supernatural artifacts from the Cthulhu Mythos, a shared universe created by H.P. Lovecraft and other authors. These artifacts include the Electric Gun, a device that fires electrical charges to harm or immobilize targets, and the Glass from Leng, a magical glass that shows visions of other places. The Moon Lens is another artifact that concentrates moonlight to aid in summoning the Dark Mother with a Thousand Young. Additionally, the document mentions the Great White Space, a dimension created or exploited by elder things, and the Elder Things themselves, ancient beings that have been active for billions of years.",
+  "qa_pairs": [
+    {
+      "question": "What is the material of the weapon?",
+      "answer": "black metal",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the target hits the electric jolt from the weapon?",
+      "answer": "the target must make a CON roll or fall unconscious for 1D6 rounds",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a Mi-go targets suffer damage from the electric gun?",
+      "answer": "They take normal rolled damage (surface burns to the carapace)",
+      "rating": 8
+    },
+    {
+      "question": "What is the probability of a human successfully firing the electric gun?",
+      "answer": "10%",
+      "rating": 6
+    },
+    {
+      "question": "What is the base chance for a human attacking with the Firearms (Electric Gun) skill?",
+      "answer": "10%",
+      "rating": 6
+    },
+    {
+      "question": "On which roll should you attempt to fire the Electric Gun?",
+      "answer": "1D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the base chance for a human attacking with the Firearms (Electric Gun) skill?",
+      "answer": "10%",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of the Electric Gun when viewed through the Glass from Leng?",
+      "answer": "The user can see random visions of other places, including beings from the Cthulhu Mythos",
+      "rating": 9
+    },
+    {
+      "question": "Who inscribes a pentagram in red chalk before using the Glass from Leng?",
+      "answer": "The possessor",
+      "rating": 9
+    },
+    {
+      "question": "What is inscribed on the glass in the ritual?",
+      "answer": "A pentagram in red chalk",
+      "rating": 8
+    },
+    {
+      "question": "What artifact is built by worshippers of Shub-Niggurath?",
+      "answer": "The Moon Lens",
+      "rating": 9
+    },
+    {
+      "question": "What is the Moon Lens used for?",
+      "answer": "The Moon Lens is used to concentrate a beam of moonlight and aid in the summoning of Shub-Niggurath at the full moon.",
+      "rating": 8
+    },
+    {
+      "question": "Where is the Moon Lens located?",
+      "answer": "The Moon Lens is located within Goatswood, in the Severn Valley of England.",
+      "rating": 9
+    },
+    {
+      "question": "How is the scene viewed in the text?",
+      "answer": "It appears randomly.",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of the moon lens?",
+      "answer": "To concentrate a beam of moonlight and aid in the summoning of Shub-Niggurath with a Thousand Young at the full moon.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the elder things' use of this dimension?",
+      "answer": "They actively exploited it to traverse the universe.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the material of the weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "black metal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the target hits the electric jolt from the weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "the target must make a CON roll or fall unconscious for 1D6 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Mi-go targets suffer damage from the electric gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "They take normal rolled damage (surface burns to the carapace)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the probability of a human successfully firing the electric gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base chance for a human attacking with the Firearms (Electric Gun) skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "On which roll should you attempt to fire the Electric Gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base chance for a human attacking with the Firearms (Electric Gun) skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Electric Gun when viewed through the Glass from Leng?"
+      },
+      {
+        "role": "assistant",
+        "content": "The user can see random visions of other places, including beings from the Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who inscribes a pentagram in red chalk before using the Glass from Leng?"
+      },
+      {
+        "role": "assistant",
+        "content": "The possessor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is inscribed on the glass in the ritual?"
+      },
+      {
+        "role": "assistant",
+        "content": "A pentagram in red chalk"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What artifact is built by worshippers of Shub-Niggurath?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Moon Lens"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Moon Lens used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Moon Lens is used to concentrate a beam of moonlight and aid in the summoning of Shub-Niggurath at the full moon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the Moon Lens located?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Moon Lens is located within Goatswood, in the Severn Valley of England."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the scene viewed in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "It appears randomly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the moon lens?"
+      },
+      {
+        "role": "assistant",
+        "content": "To concentrate a beam of moonlight and aid in the summoning of Shub-Niggurath with a Thousand Young at the full moon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the elder things' use of this dimension?"
+      },
+      {
+        "role": "assistant",
+        "content": "They actively exploited it to traverse the universe."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 17,
+    "filtered": 16,
+    "retention_rate": 0.94,
+    "avg_score": 7.5
+  }
+}

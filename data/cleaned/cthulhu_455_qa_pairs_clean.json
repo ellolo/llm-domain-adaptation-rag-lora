@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"yellowjackets\" are a pair of thugs from Atlantic City who are hired by Charles Leiter's creditors to collect a debt of $11,000. They are tasked with finding Leiter, who is believed to be dead, and are willing to use threats and violence to achieve their goal. The yellowjackets are largely ignorant of the truth and are driven by their desire to collect the debt, making them a potential threat to the investigators. They can be played as a rival to the investigators, a source of physical action, or even an unlikely ally, depending on the Keeper's discretion.",
+  "qa_pairs": [
+    {
+      "question": "Why are yellowjackets in Arkham?",
+      "answer": "Charles Leiter owed a great deal of money to their bosses in Atlantic City.",
+      "rating": 9
+    },
+    {
+      "question": "What is the yellowjackets' main goal in Arkham?",
+      "answer": "They are trying to cover up something about Charles Leiter's death.",
+      "rating": 8
+    },
+    {
+      "question": "Who has been under the yellowjackets' observation?",
+      "answer": "Lucy Stone, who works at the speakeasy and has been their one decent lead.",
+      "rating": 9
+    },
+    {
+      "question": "What interest will the yellowjackets take in Lucy Stone's interests?",
+      "answer": "They will take a close interest in anybody who takes an interest in her.",
+      "rating": 8
+    },
+    {
+      "question": "Who are the investigators in this text?",
+      "answer": "The investigators are mentioned as a group, but one of them, Oak, and Shaunassy are specifically mentioned as being involved.",
+      "rating": 7
+    },
+    {
+      "question": "Who is Lucy Stone, and what is her role in this story?",
+      "answer": "Lucy Stone works at a speakeasy, and the investigators are taking a close interest in her.",
+      "rating": 8
+    },
+    {
+      "question": "What is the status of Leiter's body in the eyes of the Atlantic City hoods?",
+      "answer": "The Atlantic City hoods think Leiter is alive, and any evidence showing his death may be disbelieved or seen as convincing only if extreme.",
+      "rating": 9
+    },
+    {
+      "question": "What is the motivation of the Atlantic City hoods in this text?",
+      "answer": "The Atlantic City hoods are largely motivated by a desire to disbelieve Leiter's death, as they think he is alive.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main task given to the Atlantic City hoods?",
+      "answer": "They are tasked with the collection of a gambling debt of $11,000 dollars.",
+      "rating": 9
+    },
+    {
+      "question": "How much debt do the Atlantic City hoods need to collect?",
+      "answer": "$11,000 dollars",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for the Keeper to go after the Witch Trial Papers?",
+      "answer": "The Keeper may decide that they will go after them if they discover the Witch Trial Papers' existence and worth.",
+      "rating": 7
+    },
+    {
+      "question": "What is the state of Leiter's corpse that might disbelieve the Atlantic City hoods of his death?",
+      "answer": "The poor state of the corpse",
+      "rating": 6
+    },
+    {
+      "question": "What can persuade the group that Leiter is genuinely dead?",
+      "answer": "Showing them Leiter's body",
+      "rating": 8
+    },
+    {
+      "question": "What is the group tasked with collecting?",
+      "answer": "$11,000 dollars",
+      "rating": 8
+    },
+    {
+      "question": "What type of violence will the group avoid?",
+      "answer": "Public displays",
+      "rating": 9
+    },
+    {
+      "question": "What is the preferred method of attack for the Call of Cthulhu's minions?",
+      "answer": "They will resort to threats and casual violence as a matter of course.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition under which the minions will engage in willful murder?",
+      "answer": "They will not engage in willful murder unless attacked themselves.",
+      "rating": 9
+    },
+    {
+      "question": "What types of weapons do the minions carry?",
+      "answer": "They are armed with knuckledusters, straight razors, and heavy-caliber pistols.",
+      "rating": 7
+    },
+    {
+      "question": "What is the preferred approach of the minions when dealing with a target?",
+      "answer": "They will try to isolate a target rather than risk getting outnumbered.",
+      "rating": 8
+    },
+    {
+      "question": "Who is the rival to the investigators?",
+      "answer": "T",
+      "rating": 6
+    },
+    {
+      "question": "What does T want concrete proof of?",
+      "answer": "Leiter's death",
+      "rating": 9
+    },
+    {
+      "question": "What does the Keeper note that T and the other investigator are?",
+      "answer": "A deliberate spoiling factor for the scenario",
+      "rating": 8
+    },
+    {
+      "question": "Can T and the other investigator be used to provide physical action?",
+      "answer": "Yes, they can serve as fodder for a stand-up fight",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are yellowjackets in Arkham?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charles Leiter owed a great deal of money to their bosses in Atlantic City."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the yellowjackets' main goal in Arkham?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are trying to cover up something about Charles Leiter's death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has been under the yellowjackets' observation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucy Stone, who works at the speakeasy and has been their one decent lead."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What interest will the yellowjackets take in Lucy Stone's interests?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will take a close interest in anybody who takes an interest in her."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the investigators in this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators are mentioned as a group, but one of them, Oak, and Shaunassy are specifically mentioned as being involved."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is Lucy Stone, and what is her role in this story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucy Stone works at a speakeasy, and the investigators are taking a close interest in her."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the status of Leiter's body in the eyes of the Atlantic City hoods?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Atlantic City hoods think Leiter is alive, and any evidence showing his death may be disbelieved or seen as convincing only if extreme."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the motivation of the Atlantic City hoods in this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Atlantic City hoods are largely motivated by a desire to disbelieve Leiter's death, as they think he is alive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main task given to the Atlantic City hoods?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are tasked with the collection of a gambling debt of $11,000 dollars."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much debt do the Atlantic City hoods need to collect?"
+      },
+      {
+        "role": "assistant",
+        "content": "$11,000 dollars"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the Keeper to go after the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may decide that they will go after them if they discover the Witch Trial Papers' existence and worth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of Leiter's corpse that might disbelieve the Atlantic City hoods of his death?"
+      },
+      {
+        "role": "assistant",
+        "content": "The poor state of the corpse"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can persuade the group that Leiter is genuinely dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "Showing them Leiter's body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the group tasked with collecting?"
+      },
+      {
+        "role": "assistant",
+        "content": "$11,000 dollars"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of violence will the group avoid?"
+      },
+      {
+        "role": "assistant",
+        "content": "Public displays"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the preferred method of attack for the Call of Cthulhu's minions?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will resort to threats and casual violence as a matter of course."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition under which the minions will engage in willful murder?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will not engage in willful murder unless attacked themselves."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of weapons do the minions carry?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are armed with knuckledusters, straight razors, and heavy-caliber pistols."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the preferred approach of the minions when dealing with a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will try to isolate a target rather than risk getting outnumbered."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the rival to the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "T"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does T want concrete proof of?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leiter's death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper note that T and the other investigator are?"
+      },
+      {
+        "role": "assistant",
+        "content": "A deliberate spoiling factor for the scenario"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can T and the other investigator be used to provide physical action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can serve as fodder for a stand-up fight"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 23,
+    "retention_rate": 0.88,
+    "avg_score": 7.9
+  }
+}

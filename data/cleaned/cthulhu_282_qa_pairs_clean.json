@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document provides information on various spells in a fictional setting, specifically those related to the Cthulhu Mythos. The spells include Dismiss Deity, which can be cast at any time and can be used to banish or repel deities, as well as Cause/Cure Blindness, which can either inflict or reverse blindness on a target. Additionally, the document describes the Chant of Thoth, which grants the caster increased mental faculties, and Cloud Memory, which blocks a target's ability to remember a specific event. The spells are accompanied by alternative names and specific rules for casting and effects.",
+  "qa_pairs": [
+    {
+      "question": "When can the Dismiss portion of the spell be cast?",
+      "answer": "anytime, anywhere",
+      "rating": 9
+    },
+    {
+      "question": "What words can be used for inspiration when composing alternative names for Dismiss Deity spells?",
+      "answer": "Banishment, Dispel, Exile, Repel, Bane, Evict, Repudiate, Cast Out",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points are required to cast the Cause/Cure Blindness spell?",
+      "answer": "8 magic points",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points are required to cast the Cause/Cure Blindness spell?",
+      "answer": "2D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What are some alternative spell names for 'Dismiss Deity'?",
+      "answer": "Banishment, Dispel, Exile, Repel, Bane, Evict, Repudiate, Cast Out",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of 'Cause/Cure Blindness' on a target?",
+      "answer": "The target suffers complete and permanent blindness, or the spell can reverse blindness if the eyes and optic nerves are intact",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the spell in magic points?",
+      "answer": "8",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of the Chant of Thoth in magic points?",
+      "answer": "10",
+      "rating": 8
+    },
+    {
+      "question": "What is the casting time of the Chant of Thoth?",
+      "answer": "30 minutes",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the Chant of Thoth on the caster's chance of solving an intellectual problem?",
+      "answer": "It boosts his or her chance of solving a particular intellectual problem",
+      "rating": 8
+    },
+    {
+      "question": "What is required for the spell Chant of Thoth to take effect?",
+      "answer": "The caster must succeed in an opposed POW roll with the target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of casting the spell Chant of Thoth?",
+      "answer": "10 magic points.",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of the Cloud Memory spell in magic points?",
+      "answer": "1D6 magic points",
+      "rating": 8
+    },
+    {
+      "question": "What must the caster be able to see to cast the Cloud Memory spell?",
+      "answer": "The target",
+      "rating": 6
+    },
+    {
+      "question": "What happens if the caster wins the opposed POW roll with the target?",
+      "answer": "The target's mind is mentally blocked regarding one specified incident",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the Cloud Memory spell fails?",
+      "answer": "The event in question becomes vivid in the target's mind",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the target's mind if the caster wins?",
+      "answer": "The target's mind is mentally blocked regarding one specified incident.",
+      "rating": 9
+    },
+    {
+      "question": "Can the spell block knowledge of spells or the Cthulhu Mythos?",
+      "answer": "No, it cannot block knowledge of spells or the Cthulhu Mythos unless the knowledge is firmly tied to a specific event.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of the spell in terms of magic points?",
+      "answer": "1+ magic points equal to twice the damage delivered that round",
+      "rating": 7
+    },
+    {
+      "question": "What is the alternative name for this spell?",
+      "answer": "Befuddle, Dumbfound, Mystify",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When can the Dismiss portion of the spell be cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "anytime, anywhere"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What words can be used for inspiration when composing alternative names for Dismiss Deity spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banishment, Dispel, Exile, Repel, Bane, Evict, Repudiate, Cast Out"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points are required to cast the Cause/Cure Blindness spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are required to cast the Cause/Cure Blindness spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some alternative spell names for 'Dismiss Deity'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banishment, Dispel, Exile, Repel, Bane, Evict, Repudiate, Cast Out"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of 'Cause/Cure Blindness' on a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target suffers complete and permanent blindness, or the spell can reverse blindness if the eyes and optic nerves are intact"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Chant of Thoth in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time of the Chant of Thoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Chant of Thoth on the caster's chance of solving an intellectual problem?"
+      },
+      {
+        "role": "assistant",
+        "content": "It boosts his or her chance of solving a particular intellectual problem"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the spell Chant of Thoth to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must succeed in an opposed POW roll with the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the spell Chant of Thoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Cloud Memory spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the caster be able to see to cast the Cloud Memory spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster wins the opposed POW roll with the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's mind is mentally blocked regarding one specified incident"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Cloud Memory spell fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The event in question becomes vivid in the target's mind"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's mind if the caster wins?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's mind is mentally blocked regarding one specified incident."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the spell block knowledge of spells or the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it cannot block knowledge of spells or the Cthulhu Mythos unless the knowledge is firmly tied to a specific event."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "1+ magic points equal to twice the damage delivered that round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Befuddle, Dumbfound, Mystify"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

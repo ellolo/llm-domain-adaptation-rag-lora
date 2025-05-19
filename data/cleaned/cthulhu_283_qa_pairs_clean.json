@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a list of spells from a fantasy role-playing game, specifically those related to Sanity, POW, and magic points. The spells described include \"Clutch of Nyogtha\", \"Wrath of the Dark Wizard\", and \"Consume Likeness\", which involve manipulating the target's Sanity, POW, and physical appearance. These spells often require specific conditions, such as opposed POW rolls or the expenditure of magic points, to take effect. The document also mentions \"Contact Spells\", which allow cultists to communicate with Mythos creatures and deities.",
+  "qa_pairs": [
+    {
+      "question": "What is the alternative name for the Clutch of Nyogtha spell?",
+      "answer": "Befuddle, Dumbfound, Mystify",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of casting the Clutch of Nyogtha spell?",
+      "answer": "1+ magic points equal to twice the damage delivered that round; 1D20 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "How long does the casting time of the Clutch of Nyogtha spell last?",
+      "answer": "Instantaneous",
+      "rating": 9
+    },
+    {
+      "question": "What effect does the Clutch of Nyogtha spell have on the target's hit points?",
+      "answer": "The target loses 1D3 hit points for each combat round that the spell is in effect",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the target if the caster wins the roll, and the spell is in effect?",
+      "answer": "The target feels as though a large hand or tentacle is crushing its or her heart, losing 1D3 hit points for each combat round that the spell is in effect.",
+      "rating": 9
+    },
+    {
+      "question": "How long does the caster have to concentrate on the spell each round it is to remain in effect?",
+      "answer": "The caster must concentrate on the spell each round that it is to remain in effect.",
+      "rating": 8
+    },
+    {
+      "question": "What must the caster spend magic points for each round the spell lasts?",
+      "answer": "The caster must spend magic points equal to twice the number of hit points in damage.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target's chest if the accumulated damage from the spell reduces hit points to zero?",
+      "answer": "The target\u2019s chest ruptures and bursts.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the caster is distracted or the target successfully resists the spell?",
+      "answer": "The spell ends.",
+      "rating": 8
+    },
+    {
+      "question": "What is the alternative name for the 'Consume Likeness' spell?",
+      "answer": "The Vile Wrench, The Insidious Wrath of the Dark Wizard, Ye Loathsome Tickle.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of casting the 'Consume Likeness' spell?",
+      "answer": "10 magic points every 6 hours of casting.",
+      "rating": 8
+    },
+    {
+      "question": "How does the caster gain the living likeness of a person in the 'Consume Likeness' spell?",
+      "answer": "By assuming the living likeness of a person freshly dead, as seen by eye, video camera, X-ray, etc.",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the spell that allows the caster to consume a living being's likeness?",
+      "answer": "Consume Likeness",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of casting Consume Likeness in terms of magic points?",
+      "answer": "10 magic points every 6 hours of casting",
+      "rating": 8
+    },
+    {
+      "question": "What is the penalty to the caster's POW points when casting Consume Likeness?",
+      "answer": "5 POW points",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the caster's Sanity points when a victim is consumed?",
+      "answer": "The caster loses 1D20 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the caster's Sanity points when a victim is consumed?",
+      "answer": "The caster loses 1D20 Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for the caster to revert to their original form after losing one or more hit points?",
+      "answer": "20 seconds.",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take for the caster to assume the original form from the assumed form?",
+      "answer": "1D3 minutes.",
+      "rating": 7
+    },
+    {
+      "question": "What is the original form of the caster required to be reverted to before assuming another form?",
+      "answer": "Their original form.",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take to revert from an assumed form to the original form?",
+      "answer": "20 seconds",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take to assume a form from the original form?",
+      "answer": "1D3 minutes",
+      "rating": 7
+    },
+    {
+      "question": "What is another name for the Gift of Yig?",
+      "answer": "The Valusian Mantle, The Snake Skin Cloak",
+      "rating": 9
+    },
+    {
+      "question": "What is the casting time for contact spells?",
+      "answer": "1D6 + 4 rounds",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for the Clutch of Nyogtha spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Befuddle, Dumbfound, Mystify"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Clutch of Nyogtha spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1+ magic points equal to twice the damage delivered that round; 1D20 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the casting time of the Clutch of Nyogtha spell last?"
+      },
+      {
+        "role": "assistant",
+        "content": "Instantaneous"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does the Clutch of Nyogtha spell have on the target's hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target loses 1D3 hit points for each combat round that the spell is in effect"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target if the caster wins the roll, and the spell is in effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target feels as though a large hand or tentacle is crushing its or her heart, losing 1D3 hit points for each combat round that the spell is in effect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the caster have to concentrate on the spell each round it is to remain in effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must concentrate on the spell each round that it is to remain in effect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the caster spend magic points for each round the spell lasts?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must spend magic points equal to twice the number of hit points in damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's chest if the accumulated damage from the spell reduces hit points to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target\u2019s chest ruptures and bursts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster is distracted or the target successfully resists the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell ends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for the 'Consume Likeness' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Vile Wrench, The Insidious Wrath of the Dark Wizard, Ye Loathsome Tickle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the 'Consume Likeness' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points every 6 hours of casting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the caster gain the living likeness of a person in the 'Consume Likeness' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "By assuming the living likeness of a person freshly dead, as seen by eye, video camera, X-ray, etc."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the spell that allows the caster to consume a living being's likeness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consume Likeness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting Consume Likeness in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points every 6 hours of casting"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty to the caster's POW points when casting Consume Likeness?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 POW points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster's Sanity points when a victim is consumed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster loses 1D20 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster's Sanity points when a victim is consumed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster loses 1D20 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for the caster to revert to their original form after losing one or more hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "20 seconds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for the caster to assume the original form from the assumed form?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 minutes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the original form of the caster required to be reverted to before assuming another form?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their original form."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to revert from an assumed form to the original form?"
+      },
+      {
+        "role": "assistant",
+        "content": "20 seconds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to assume a form from the original form?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is another name for the Gift of Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Valusian Mantle, The Snake Skin Cloak"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time for contact spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + 4 rounds"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "summary": "This document appears to be a table listing various firearms, their characteristics, and costs in a fictional setting. The main topic is the categorization of firearms into different types, including shotguns, assault rifles, submachine guns, and machine guns. Key concepts include the damage, base range, and uses per round for each firearm, as well as their costs and malfunctions. The table also includes era-specific information for some firearms, indicating when they were commonly used.",
+  "qa_pairs": [
+    {
+      "question": "What is the AK-47 or AKM classified as?",
+      "answer": "Assault Rifle (i)",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for the AK-47 or AKM at base?",
+      "answer": "100 yards",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage for the AK-47 or AKM?",
+      "answer": "2D6+1",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for the AK-47 or AKM at 110 yards?",
+      "answer": "2D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage for the Barrett Model 82?",
+      "answer": "1 (2) or full auto",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for the Barrett Model 82 at 250 yards?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage for the AK-74?",
+      "answer": "2D10+1D8+6",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage for the M16A2?",
+      "answer": "2D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost for the AK-47 or AKM?",
+      "answer": "-/$895",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the Bergmann SMG?",
+      "answer": "MP181/MP2811",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the Heckler & Koch SMG?",
+      "answer": "MP5",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the Ingram SMG?",
+      "answer": "MAC-11",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the Skorpion SMG?",
+      "answer": "SMG",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the Thompson SMG?",
+      "answer": "Thompson",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the Uzi SMG?",
+      "answer": "Uzi SMG",
+      "rating": 6
+    },
+    {
+      "question": "What is the name of the Browning Auto Rifle?",
+      "answer": "M1918",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the Minigun?",
+      "answer": "Minigun",
+      "rating": 10
+    },
+    {
+      "question": "What is the total range for full auto in the text?",
+      "answer": "100 yards",
+      "rating": 8
+    },
+    {
+      "question": "What is the total range for 2D6+4 in the text?",
+      "answer": "90 yards",
+      "rating": 9
+    },
+    {
+      "question": "What is the total range for 2D6+4 in the text?",
+      "answer": "100 yards",
+      "rating": 8
+    },
+    {
+      "question": "What is the total range for full auto in the text?",
+      "answer": "90 yards",
+      "rating": 8
+    },
+    {
+      "question": "What is the total range for 1 (2) or full auto in the text?",
+      "answer": "90 yards",
+      "rating": 9
+    },
+    {
+      "question": "What is the total range for 1 (2) or full auto in the text?",
+      "answer": "100 yards",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of 20 yards or 32 in the text?",
+      "answer": "$1,000",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the AK-47 or AKM classified as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Assault Rifle (i)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the AK-47 or AKM at base?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage for the AK-47 or AKM?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the AK-47 or AKM at 110 yards?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage for the Barrett Model 82?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 (2) or full auto"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Barrett Model 82 at 250 yards?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage for the AK-74?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D10+1D8+6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage for the M16A2?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost for the AK-47 or AKM?"
+      },
+      {
+        "role": "assistant",
+        "content": "-/$895"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Bergmann SMG?"
+      },
+      {
+        "role": "assistant",
+        "content": "MP181/MP2811"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Heckler & Koch SMG?"
+      },
+      {
+        "role": "assistant",
+        "content": "MP5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Ingram SMG?"
+      },
+      {
+        "role": "assistant",
+        "content": "MAC-11"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Skorpion SMG?"
+      },
+      {
+        "role": "assistant",
+        "content": "SMG"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Thompson SMG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thompson"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Uzi SMG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Uzi SMG"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Browning Auto Rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "M1918"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Minigun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Minigun"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total range for full auto in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total range for 2D6+4 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "90 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total range for 2D6+4 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total range for full auto in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "90 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total range for 1 (2) or full auto in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "90 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total range for 1 (2) or full auto in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 20 yards or 32 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,000"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.1
+  }
+}

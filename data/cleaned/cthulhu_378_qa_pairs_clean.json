@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nGhatanothoa, a monstrous deity from H.P. Lovecraft's works, is known for its horrific appearance and malevolent powers. It dwells in a burrow beneath a volcanic cone, which can be uncovered by tectonic upheavals, and is often associated with the cult of lloigor. Ghatanothoa's powers include the ability to curse its victims, causing them to lose DEX and eventually petrify, and it can regenerate from its injuries. The deity is said to be tied to the island of R'lyeh, which is also home to other Great Old Ones.",
+  "qa_pairs": [
+    {
+      "question": "What happens to the remains of Ghatanothoa after death?",
+      "answer": "They ooze into the ground and regenerates somewhere far within the earth.",
+      "rating": 8
+    },
+    {
+      "question": "What type of spells can summon/bind Chthonian and Ghoul?",
+      "answer": "Spells: Cloud Memory, all Contact Deity spells, Create Gate, Summon/Bind Chthonian, Summon/Bind Ghoul.",
+      "rating": 9
+    },
+    {
+      "question": "What is the source of sanity loss for Eihort?",
+      "answer": "1D6/1D20 Sanity points to see Eihort.",
+      "rating": 7
+    },
+    {
+      "question": "Who wrote the description of Ghatanothoa?",
+      "answer": "H.P. Lovecraft and Hazel Heald, Out of the Eons",
+      "rating": 8
+    },
+    {
+      "question": "What does Ghatanothoa represent in the text?",
+      "answer": "A non-human, extra-galactic horror and hatefulness and unutterable evil",
+      "rating": 9
+    },
+    {
+      "question": "What is known about Ghatanothoa's appearance?",
+      "answer": "Ghatanothoa is known to be exceedingly horrible, with myriad tentacles, maws, and sensory organs, with a definite dreadful outline.",
+      "rating": 9
+    },
+    {
+      "question": "Where did Ghatanothoa dwell in ancient Mu?",
+      "answer": "In a burrow beneath a city originally built by Fungi from Yuggoth, though generally inhabited by primeval humans.",
+      "rating": 8
+    },
+    {
+      "question": "What was the outcome for Ghatanothoa when Mu sank?",
+      "answer": "He was no longer free, as his home was overlaid by the waves.",
+      "rating": 8
+    },
+    {
+      "question": "What is the possible consequence of tectonic upheavals?",
+      "answer": "Sometimes tectonic upheavals force Ghatanothoa's dwelling place to the surface, as if in horrific preparation for that awful day when it will rise, along with R'lyeh, to sink no more.",
+      "rating": 9
+    },
+    {
+      "question": "Where might Ghatanothoa be located, according to investigators?",
+      "answer": "Investigators might beware any island between New Zealand and Chile that matches the description of Ghatanothoa's abode.",
+      "rating": 8
+    },
+    {
+      "question": "What is Ghatanothoa's home's current state when Mu sinks?",
+      "answer": "overlaid by the waves",
+      "rating": 7
+    },
+    {
+      "question": "What happened to the priests of Mu if Ghatanothoa rose from his volcano?",
+      "answer": "they offered periodic human sacrifices",
+      "rating": 9
+    },
+    {
+      "question": "What ancient creatures served Ghatanothoa in his times?",
+      "answer": "certain fungi from Yuggoth",
+      "rating": 8
+    },
+    {
+      "question": "What is Ghatanothoa's strength score?",
+      "answer": "450",
+      "rating": 6
+    },
+    {
+      "question": "What motivated the priests of Mu to offer human sacrifices to Ghatanothoa?",
+      "answer": "They were unwilling to let him rise from his extinct volcano and cause greater carnage.",
+      "rating": 9
+    },
+    {
+      "question": "What effect does the Curse of Ghatanothoa have on witnesses?",
+      "answer": "It causes them to attempt CON rolls, which can result in them losing DEX or complete immobilization.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of an investigator's DEX being brought to zero?",
+      "answer": "It causes complete immobilization, a process normally irreversible.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus of Ghatanothoa's attacks?",
+      "answer": "+13D6",
+      "rating": 8
+    },
+    {
+      "question": "What is Ghatanothoa's damage bonus in terms of points?",
+      "answer": "450",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an investigator's DEX if they fail a CON roll?",
+      "answer": "The investigator loses 3D10 DEX as muscles stiffen and creeping paralysis begins.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the victim's flesh and sinews after a few minutes?",
+      "answer": "The victim's flesh and sinews rapidly harden to the consistency of leather and bone.",
+      "rating": 9
+    },
+    {
+      "question": "What affects the victim's Sanity points?",
+      "answer": "The blind, numb victim loses 1D6 Sanity points per day until reaching permanent madness or death.",
+      "rating": 9
+    },
+    {
+      "question": "Under what condition is the Great Old One's curse inoperative?",
+      "answer": "When the investigator is at less than 0 hit points.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of destroying the victim's brain?",
+      "answer": "Only the destruction of the brain can end the victim's suffering.",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the remains of Ghatanothoa after death?"
+      },
+      {
+        "role": "assistant",
+        "content": "They ooze into the ground and regenerates somewhere far within the earth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of spells can summon/bind Chthonian and Ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spells: Cloud Memory, all Contact Deity spells, Create Gate, Summon/Bind Chthonian, Summon/Bind Ghoul."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of sanity loss for Eihort?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6/1D20 Sanity points to see Eihort."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the description of Ghatanothoa?"
+      },
+      {
+        "role": "assistant",
+        "content": "H.P. Lovecraft and Hazel Heald, Out of the Eons"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Ghatanothoa represent in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A non-human, extra-galactic horror and hatefulness and unutterable evil"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is known about Ghatanothoa's appearance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ghatanothoa is known to be exceedingly horrible, with myriad tentacles, maws, and sensory organs, with a definite dreadful outline."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where did Ghatanothoa dwell in ancient Mu?"
+      },
+      {
+        "role": "assistant",
+        "content": "In a burrow beneath a city originally built by Fungi from Yuggoth, though generally inhabited by primeval humans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome for Ghatanothoa when Mu sank?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was no longer free, as his home was overlaid by the waves."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the possible consequence of tectonic upheavals?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sometimes tectonic upheavals force Ghatanothoa's dwelling place to the surface, as if in horrific preparation for that awful day when it will rise, along with R'lyeh, to sink no more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where might Ghatanothoa be located, according to investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigators might beware any island between New Zealand and Chile that matches the description of Ghatanothoa's abode."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ghatanothoa's home's current state when Mu sinks?"
+      },
+      {
+        "role": "assistant",
+        "content": "overlaid by the waves"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the priests of Mu if Ghatanothoa rose from his volcano?"
+      },
+      {
+        "role": "assistant",
+        "content": "they offered periodic human sacrifices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What ancient creatures served Ghatanothoa in his times?"
+      },
+      {
+        "role": "assistant",
+        "content": "certain fungi from Yuggoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ghatanothoa's strength score?"
+      },
+      {
+        "role": "assistant",
+        "content": "450"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What motivated the priests of Mu to offer human sacrifices to Ghatanothoa?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were unwilling to let him rise from his extinct volcano and cause greater carnage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does the Curse of Ghatanothoa have on witnesses?"
+      },
+      {
+        "role": "assistant",
+        "content": "It causes them to attempt CON rolls, which can result in them losing DEX or complete immobilization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of an investigator's DEX being brought to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "It causes complete immobilization, a process normally irreversible."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of Ghatanothoa's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+13D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ghatanothoa's damage bonus in terms of points?"
+      },
+      {
+        "role": "assistant",
+        "content": "450"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's DEX if they fail a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator loses 3D10 DEX as muscles stiffen and creeping paralysis begins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's flesh and sinews after a few minutes?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim's flesh and sinews rapidly harden to the consistency of leather and bone."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What affects the victim's Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The blind, numb victim loses 1D6 Sanity points per day until reaching permanent madness or death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition is the Great Old One's curse inoperative?"
+      },
+      {
+        "role": "assistant",
+        "content": "When the investigator is at less than 0 hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of destroying the victim's brain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only the destruction of the brain can end the victim's suffering."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.2
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, investigators can specialize in various firearms skills, such as Bow, Handgun, Heavy Weapons, Axe, Flamethrower, and Machine Gun. These specializations allow investigators to use specific types of firearms and determine their effectiveness in combat. Additionally, the First Aid skill enables investigators to provide emergency medical care, which can grant temporary hit points and stabilize dying characters. The effectiveness of these skills can be affected by the investigator's skill level, the situation, and the game's mechanics.",
+  "qa_pairs": [
+    {
+      "question": "What is the consequence of a fumble in Firearms specializations?",
+      "answer": "of a fumble is doubled and that they risk killing their investigator (or losing a limb) should this happen.",
+      "rating": 9
+    },
+    {
+      "question": "What does the 'Firearms' skill cover in Firearms specializations?",
+      "answer": "The generic 'Firearms' skill cannot be purchased.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of skill points can be spent on the 'Bow' specialization?",
+      "answer": "15%: use of bows and crossbows, ranging from medieval longbows to modern, high-powered compound bows.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of skill points can be spent on the 'Handgun' specialization?",
+      "answer": "20%: use for all pistol-like firearms when firing discrete shots.",
+      "rating": 9
+    },
+    {
+      "question": "What is the skill to use for machine pistols in Modern era games?",
+      "answer": "Submachine Gun skill",
+      "rating": 8
+    },
+    {
+      "question": "What is the skill to use for grenade launchers, anti-tank rockets, etc.?",
+      "answer": "Heavy Weapons skill",
+      "rating": 9
+    },
+    {
+      "question": "What is the skill to use for larger wood axes?",
+      "answer": "Axe skill",
+      "rating": 8
+    },
+    {
+      "question": "What is the skill to use for single shots from a bipod?",
+      "answer": "Rifle skill",
+      "rating": 9
+    },
+    {
+      "question": "What is the Rifle skill used for?",
+      "answer": "Firing any type of rifle (whether lever-action, bolt-action or semi-automatic) or scatter-gun",
+      "rating": 9
+    },
+    {
+      "question": "When to use the Rifle skill for a single shot?",
+      "answer": "When firing from a bipod",
+      "rating": 8
+    },
+    {
+      "question": "What is the Submachine Gun skill used for?",
+      "answer": "Firing any machine pistol or submachine gun; also for assault rifles set on burst",
+      "rating": 9
+    },
+    {
+      "question": "Where can you find a list of firearms?",
+      "answer": "Table XVII: Weapons (pages 401-405)",
+      "rating": 7
+    },
+    {
+      "question": "What type of skill is used when firing a shotgun?",
+      "answer": "When an assault rifle fires a single shot (or multiple singles), use this skill.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary purpose of the First Aid skill?",
+      "answer": "The user is able to provide emergency medical care.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary use of the Submachine Gun skill?",
+      "answer": "Firing any machine pistol or submachine gun; also for assault rifles set on burst",
+      "rating": 9
+    },
+    {
+      "question": "How quickly must First Aid be delivered to be effective?",
+      "answer": "within one hour",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary effect of successful use of First Aid?",
+      "answer": "rouse an unconscious person to consciousness",
+      "rating": 9
+    },
+    {
+      "question": "Can a character use First Aid to treat diseases?",
+      "answer": "no, Medicine skill is required",
+      "rating": 8
+    },
+    {
+      "question": "What is required for a successful First Aid treatment?",
+      "answer": "Either one of the people administering First Aid rolls a success",
+      "rating": 9
+    },
+    {
+      "question": "What effect does successful First Aid have on a dying character?",
+      "answer": "It stabilizes the character for one hour and grants 1 temporary hit point",
+      "rating": 9
+    },
+    {
+      "question": "How often does a character must make a successful CON roll to remain stabilized after successful First Aid?",
+      "answer": "At the end of the hour and each hour thereafter",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a character fails a CON roll while stabilized by successful First Aid?",
+      "answer": "The character loses the temporary hit point and must make a CON roll per round thereafter",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of a fumble in Firearms specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "of a fumble is doubled and that they risk killing their investigator (or losing a limb) should this happen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the 'Firearms' skill cover in Firearms specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "The generic 'Firearms' skill cannot be purchased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skill points can be spent on the 'Bow' specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "15%: use of bows and crossbows, ranging from medieval longbows to modern, high-powered compound bows."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skill points can be spent on the 'Handgun' specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "20%: use for all pistol-like firearms when firing discrete shots."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill to use for machine pistols in Modern era games?"
+      },
+      {
+        "role": "assistant",
+        "content": "Submachine Gun skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill to use for grenade launchers, anti-tank rockets, etc.?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heavy Weapons skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill to use for larger wood axes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Axe skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill to use for single shots from a bipod?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rifle skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Rifle skill used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Firing any type of rifle (whether lever-action, bolt-action or semi-automatic) or scatter-gun"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When to use the Rifle skill for a single shot?"
+      },
+      {
+        "role": "assistant",
+        "content": "When firing from a bipod"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Submachine Gun skill used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Firing any machine pistol or submachine gun; also for assault rifles set on burst"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find a list of firearms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Table XVII: Weapons (pages 401-405)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of skill is used when firing a shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "When an assault rifle fires a single shot (or multiple singles), use this skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of the First Aid skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The user is able to provide emergency medical care."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary use of the Submachine Gun skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Firing any machine pistol or submachine gun; also for assault rifles set on burst"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How quickly must First Aid be delivered to be effective?"
+      },
+      {
+        "role": "assistant",
+        "content": "within one hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary effect of successful use of First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "rouse an unconscious person to consciousness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character use First Aid to treat diseases?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, Medicine skill is required"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a successful First Aid treatment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either one of the people administering First Aid rolls a success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does successful First Aid have on a dying character?"
+      },
+      {
+        "role": "assistant",
+        "content": "It stabilizes the character for one hour and grants 1 temporary hit point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often does a character must make a successful CON roll to remain stabilized after successful First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the end of the hour and each hour thereafter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character fails a CON roll while stabilized by successful First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character loses the temporary hit point and must make a CON roll per round thereafter"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

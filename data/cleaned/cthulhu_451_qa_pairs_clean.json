@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nLucy Stone, a woman with a troubled past, is being questioned by investigators about her relationship with Leiter, a forger and gambler who recently died under mysterious circumstances. She is hiding information about Leiter's dealings, including his connections to an artist and a local antique dealer, and is evasive about his final weeks. Stone is motivated by self-interest, seeking to claim Leiter's hidden cash, and is willing to manipulate or deceive investigators to achieve her goals. She is also intimidated by the visit from the Atlantic City mob, who are suspicious of Leiter's death and want her to keep them informed of any suspicious activity.",
+  "qa_pairs": [
+    {
+      "question": "What was Leiter known for?",
+      "answer": "He was a forger and dealer in rare books.",
+      "rating": 8
+    },
+    {
+      "question": "Why did Lucy pay little notice to the details?",
+      "answer": "She paid little notice to many of the details.",
+      "rating": 9
+    },
+    {
+      "question": "Why did Lucy think Leiter was in debt?",
+      "answer": "She knew that the August trip had occasioned him losing big.",
+      "rating": 8
+    },
+    {
+      "question": "What was Lucy planning to do?",
+      "answer": "She\u2019ll break into Leiter\u2019s cottage in search of hidden loot.",
+      "rating": 7
+    },
+    {
+      "question": "Who is Leiter's gambler counterpart?",
+      "answer": "Lucy Stone",
+      "rating": 9
+    },
+    {
+      "question": "What was Lucy Stone doing on Leiter's business cards?",
+      "answer": "She had met him ",
+      "rating": 6
+    },
+    {
+      "question": "What is the reason for Lucy Stone's trip to Leiter's cottage?",
+      "answer": "She knows his secret hiding place",
+      "rating": 8
+    },
+    {
+      "question": "What was Leiter's past association with MU?",
+      "answer": "He had been kicked out a few years back",
+      "rating": 9
+    },
+    {
+      "question": "Who was Leiter's secret hiding place for hidden loot?",
+      "answer": "She knows his secret hiding place",
+      "rating": 8
+    },
+    {
+      "question": "What kind of student helped Leiter copy documents?",
+      "answer": "A student of some kind that had been kicked out of MU a few years back",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the local antique dealer who was a regular buyer?",
+      "answer": "Abner Wick",
+      "rating": 9
+    },
+    {
+      "question": "What was Leiter's mental state in his final weeks?",
+      "answer": "Rising paranoia, instability and desire to skip town",
+      "rating": 8
+    },
+    {
+      "question": "Who has been questioning the character about Leiter's death?",
+      "answer": "Two gangsters from the Atlantic City mob.",
+      "rating": 9
+    },
+    {
+      "question": "Why did the gangsters instruct the character to remain in contact with them?",
+      "answer": "To keep them informed if anything suspicious regarding Leiter showed up.",
+      "rating": 8
+    },
+    {
+      "question": "What happened to the character if she didn't tell the investigators about Leiter's death?",
+      "answer": "She would be calling the gangsters at Atlantic City as soon as they were gone.",
+      "rating": 7
+    },
+    {
+      "question": "What were the gangsters' interest in Leiter's death?",
+      "answer": "Whether or not Leiter was dead or had faked his death to avoid paying his debts.",
+      "rating": 9
+    },
+    {
+      "question": "What is required to draw further information from her about Leiter's death?",
+      "answer": "A Charm, Intimidate, or Persuade roll",
+      "rating": 8
+    },
+    {
+      "question": "Who has already questioned her about Leiter's death?",
+      "answer": "Two gangsters from the Atlantic City mob",
+      "rating": 9
+    },
+    {
+      "question": "Who is the narrator of the story?",
+      "answer": "T",
+      "rating": 7
+    },
+    {
+      "question": "What is the narrator's main concern about Leiter's body?",
+      "answer": "She wants to pay her final respects to his body.",
+      "rating": 8
+    },
+    {
+      "question": "What motivates the narrator to take action against the mobsters?",
+      "answer": "She\u2019s frightened by the visit from the mobsters.",
+      "rating": 9
+    },
+    {
+      "question": "How is the narrator ruled by her emotions?",
+      "answer": "She is ruled by her emotions as much as her head.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter known for?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was a forger and dealer in rare books."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Lucy pay little notice to the details?"
+      },
+      {
+        "role": "assistant",
+        "content": "She paid little notice to many of the details."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Lucy think Leiter was in debt?"
+      },
+      {
+        "role": "assistant",
+        "content": "She knew that the August trip had occasioned him losing big."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Lucy planning to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "She\u2019ll break into Leiter\u2019s cottage in search of hidden loot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is Leiter's gambler counterpart?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucy Stone"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Lucy Stone doing on Leiter's business cards?"
+      },
+      {
+        "role": "assistant",
+        "content": "She had met him "
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for Lucy Stone's trip to Leiter's cottage?"
+      },
+      {
+        "role": "assistant",
+        "content": "She knows his secret hiding place"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter's past association with MU?"
+      },
+      {
+        "role": "assistant",
+        "content": "He had been kicked out a few years back"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was Leiter's secret hiding place for hidden loot?"
+      },
+      {
+        "role": "assistant",
+        "content": "She knows his secret hiding place"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of student helped Leiter copy documents?"
+      },
+      {
+        "role": "assistant",
+        "content": "A student of some kind that had been kicked out of MU a few years back"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the local antique dealer who was a regular buyer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Abner Wick"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter's mental state in his final weeks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rising paranoia, instability and desire to skip town"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has been questioning the character about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two gangsters from the Atlantic City mob."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did the gangsters instruct the character to remain in contact with them?"
+      },
+      {
+        "role": "assistant",
+        "content": "To keep them informed if anything suspicious regarding Leiter showed up."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the character if she didn't tell the investigators about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "She would be calling the gangsters at Atlantic City as soon as they were gone."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the gangsters' interest in Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whether or not Leiter was dead or had faked his death to avoid paying his debts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to draw further information from her about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Charm, Intimidate, or Persuade roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has already questioned her about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two gangsters from the Atlantic City mob"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the narrator of the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "T"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the narrator's main concern about Leiter's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "She wants to pay her final respects to his body."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What motivates the narrator to take action against the mobsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "She\u2019s frightened by the visit from the mobsters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the narrator ruled by her emotions?"
+      },
+      {
+        "role": "assistant",
+        "content": "She is ruled by her emotions as much as her head."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

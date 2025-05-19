@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a catalog of various occult texts, including \"The Hammer of Witches\", \"Oracles of Nostradamus\", \"The Witch-Cult in Western Europe\", and \"The Zohar\", among others. These texts are categorized by their potential for inducing sanity loss and occult power, with some texts having a higher potential for both. The catalog also includes various texts from different cultures and languages, including Arabic, English, Greek, and Latin. The texts are listed with their authors, dates of publication, and other relevant information. Overall, the catalog provides a comprehensive overview of a range of occult texts that were considered influential in the Middle Ages and beyond.",
+  "qa_pairs": [
+    {
+      "question": "What is the title of the book 'Hammer of Witches' in German?",
+      "answer": "Der Hexenhammer",
+      "rating": 9
+    },
+    {
+      "question": "Approximately how many people died due to the 'Hammer of Witches'?",
+      "answer": "nine million",
+      "rating": 8
+    },
+    {
+      "question": "When was the German translation of 'Hammer of Witches' published?",
+      "answer": "1906",
+      "rating": 9
+    },
+    {
+      "question": "What is the approximate number of four-line verses in 'Oracles of Nostradamus'?",
+      "answer": "a thousand four-line verses",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated year for the prophecies in 'Oracles of Nostradamus'?",
+      "answer": "3797 AD",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of 'Oracles of Nostradamus' on sanity?",
+      "answer": "none",
+      "rating": 7
+    },
+    {
+      "question": "What are the prophecies in the text about?",
+      "answer": "Nonspecific and imagistic",
+      "rating": 8
+    },
+    {
+      "question": "How many editions of 'The Zohar' have been translated?",
+      "answer": "Many, including Latin, German, English, French, etc.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of 'The Zohar' on the character's sanity?",
+      "answer": "1/1D3+1",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the 'Witch-Cult' on the character's sanity?",
+      "answer": "None",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the 'Witch-Cult' on the character's Occult skill?",
+      "answer": "+1 percentile",
+      "rating": 8
+    },
+    {
+      "question": "When was 'The Zohar' written?",
+      "answer": "1280 AD",
+      "rating": 7
+    },
+    {
+      "question": "What is the subject of the Zohar volume?",
+      "answer": "The fundamental work of medieval Jewish mystical thought",
+      "rating": 9
+    },
+    {
+      "question": "When was the Zohar written?",
+      "answer": "1280 AD",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of reading the Zohar on a character's sanity?",
+      "answer": "Sanity Loss: none",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage increase in the character's occult abilities after reading the Zohar?",
+      "answer": "Occult: +7 percentiles",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of the book by Azathoth?",
+      "answer": "Azathoth and Others",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the Black Book mentioned in the list?",
+      "answer": "Black Book of the Skull",
+      "rating": 9
+    },
+    {
+      "question": "When was Daemonolatreia written?",
+      "answer": "c. 730",
+      "rating": 7
+    },
+    {
+      "question": "When was De Vermiis Mysteriis written?",
+      "answer": "c. 700",
+      "rating": 8
+    },
+    {
+      "question": "Who translated Daemonolatreia into English?",
+      "answer": "Johann Negus",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the book 'Hammer of Witches' in German?"
+      },
+      {
+        "role": "assistant",
+        "content": "Der Hexenhammer"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Approximately how many people died due to the 'Hammer of Witches'?"
+      },
+      {
+        "role": "assistant",
+        "content": "nine million"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the German translation of 'Hammer of Witches' published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1906"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the approximate number of four-line verses in 'Oracles of Nostradamus'?"
+      },
+      {
+        "role": "assistant",
+        "content": "a thousand four-line verses"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated year for the prophecies in 'Oracles of Nostradamus'?"
+      },
+      {
+        "role": "assistant",
+        "content": "3797 AD"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of 'Oracles of Nostradamus' on sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "none"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the prophecies in the text about?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nonspecific and imagistic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many editions of 'The Zohar' have been translated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many, including Latin, German, English, French, etc."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of 'The Zohar' on the character's sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D3+1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the 'Witch-Cult' on the character's sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the 'Witch-Cult' on the character's Occult skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1 percentile"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was 'The Zohar' written?"
+      },
+      {
+        "role": "assistant",
+        "content": "1280 AD"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the subject of the Zohar volume?"
+      },
+      {
+        "role": "assistant",
+        "content": "The fundamental work of medieval Jewish mystical thought"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Zohar written?"
+      },
+      {
+        "role": "assistant",
+        "content": "1280 AD"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of reading the Zohar on a character's sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity Loss: none"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage increase in the character's occult abilities after reading the Zohar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Occult: +7 percentiles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the book by Azathoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azathoth and Others"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Black Book mentioned in the list?"
+      },
+      {
+        "role": "assistant",
+        "content": "Black Book of the Skull"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was Daemonolatreia written?"
+      },
+      {
+        "role": "assistant",
+        "content": "c. 730"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was De Vermiis Mysteriis written?"
+      },
+      {
+        "role": "assistant",
+        "content": "c. 700"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who translated Daemonolatreia into English?"
+      },
+      {
+        "role": "assistant",
+        "content": "Johann Negus"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 21,
+    "retention_rate": 0.88,
+    "avg_score": 8.1
+  }
+}

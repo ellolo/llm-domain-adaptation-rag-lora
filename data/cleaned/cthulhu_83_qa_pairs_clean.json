@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for investigative skills in a fictional game are outlined, specifically for Pushed rolls, which involve taking risks or using extra effort to achieve a goal. Failing a Pushed roll can have severe consequences, such as physical harm or getting caught in a trap. The document also introduces the concept of Track, which allows investigators to follow tracks and trails, and provides guidelines for setting difficulty levels and resolving potential consequences. Additionally, it discusses specializations in skills like Fighting, Firearms, and Survival, highlighting transferable benefits and similarities between related specializations.",
+  "qa_pairs": [
+    {
+      "question": "What is a Pushed roll?",
+      "answer": "Throwing a lot of items in quick succession hoping one will hit the target",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of failing a Pushed roll?",
+      "answer": "Failing to hit the target",
+      "rating": 9
+    },
+    {
+      "question": "Can multiple missiles be used if there is a distinct risk connected with failure?",
+      "answer": "Yes, the Keeper might ask for a Pushed roll.",
+      "rating": 7
+    },
+    {
+      "question": "What is an example of taking more time to assess the distance?",
+      "answer": "Taking more time to assess the distance",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of taking a massive run-up?",
+      "answer": "Taking a massive run-up",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of throwing too hard?",
+      "answer": "Throwing too hard",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an insane investigator fails a pushed roll?",
+      "answer": "They will refuse to let go of the item to be thrown.",
+      "rating": 9
+    },
+    {
+      "question": "What factors affect the difficulty level of tracking with Track?",
+      "answer": "Time passed since the tracks were made, rain, and the type of ground covered.",
+      "rating": 8
+    },
+    {
+      "question": "How does the opponent's Stealth skill affect tracking difficulty?",
+      "answer": "The opponent\u2019s Stealth skill should be used to set the difficulty level.",
+      "rating": 9
+    },
+    {
+      "question": "What is the regular difficulty level of tracking in the forest under normal conditions?",
+      "answer": "Tracking an animal or human in the forest under normal (temperate) conditions.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a hard difficulty level of tracking?",
+      "answer": "Following a trail that is several (or more) days old.",
+      "rating": 9
+    },
+    {
+      "question": "What are some techniques used by investigators to locate tracks?",
+      "answer": "Backtracking, taking more time to study the area, and walking in increasing spirals.",
+      "rating": 8
+    },
+    {
+      "question": "What are the consequences of failing a Pushed roll in Sample Consequences of failing a Pushed roll: the tracks?",
+      "answer": "You are led directly into the path of a hungry bear/lion/cannibal, or you get lost and ambushed or caught in a trap.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if an insane investigator fails a Pushed roll?",
+      "answer": "The investigator compulsively follows any tracks until they are physically restrained or convinced otherwise.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the tracks the investigator is following?",
+      "answer": "They are physically restrained or the investigator is convinced otherwise.",
+      "rating": 8
+    },
+    {
+      "question": "How are Specializations dealt with?",
+      "answer": "In one of two ways, as addressed under Skill Specializations on page 54.",
+      "rating": 7
+    },
+    {
+      "question": "What type of skills are addressed under Specializations?",
+      "answer": "Art and Craft, and Science skills.",
+      "rating": 9
+    },
+    {
+      "question": "Where are Skill Specializations addressed?",
+      "answer": "On page 54.",
+      "rating": 8
+    },
+    {
+      "question": "What is a commonality among the specializations of Fighting, Firearms, Languages, and Survival?",
+      "answer": "There are much commonalities and transferable skills among the specializations.",
+      "rating": 9
+    },
+    {
+      "question": "How do the subdivisions of Firearms compare to each other?",
+      "answer": "There are more similarities than differences between the subdivisions of Firearms.",
+      "rating": 8
+    },
+    {
+      "question": "What skills are transferable from Fighting to other specializations?",
+      "answer": "Reaction times, judging range, evasions, feints, timing, spotting openings, and knowing where to hit.",
+      "rating": 9
+    },
+    {
+      "question": "How do the improvement of one specialization in Fighting, Firearms, Languages, and Survival compare to each other?",
+      "answer": "The improvement of one specialization has a transferable benefit to all other closely related specialisms.",
+      "rating": 9
+    },
+    {
+      "question": "How do the subdivisions of Firearms compare to the subdivisions of other specializations?",
+      "answer": "There are more similarities than differences between the subdivisions of Firearms.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a transferable skill from one specialization to another?",
+      "answer": "Any fighter will use skills from Fighting in other specializations.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Throwing a lot of items in quick succession hoping one will hit the target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing to hit the target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can multiple missiles be used if there is a distinct risk connected with failure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Keeper might ask for a Pushed roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of taking more time to assess the distance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking more time to assess the distance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of taking a massive run-up?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking a massive run-up"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of throwing too hard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Throwing too hard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will refuse to let go of the item to be thrown."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors affect the difficulty level of tracking with Track?"
+      },
+      {
+        "role": "assistant",
+        "content": "Time passed since the tracks were made, rain, and the type of ground covered."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the opponent's Stealth skill affect tracking difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opponent\u2019s Stealth skill should be used to set the difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level of tracking in the forest under normal conditions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tracking an animal or human in the forest under normal (temperate) conditions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a hard difficulty level of tracking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Following a trail that is several (or more) days old."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some techniques used by investigators to locate tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Backtracking, taking more time to study the area, and walking in increasing spirals."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a Pushed roll in Sample Consequences of failing a Pushed roll: the tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are led directly into the path of a hungry bear/lion/cannibal, or you get lost and ambushed or caught in a trap."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator compulsively follows any tracks until they are physically restrained or convinced otherwise."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the tracks the investigator is following?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are physically restrained or the investigator is convinced otherwise."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Specializations dealt with?"
+      },
+      {
+        "role": "assistant",
+        "content": "In one of two ways, as addressed under Skill Specializations on page 54."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of skills are addressed under Specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Art and Craft, and Science skills."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are Skill Specializations addressed?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 54."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a commonality among the specializations of Fighting, Firearms, Languages, and Survival?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are much commonalities and transferable skills among the specializations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the subdivisions of Firearms compare to each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are more similarities than differences between the subdivisions of Firearms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills are transferable from Fighting to other specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reaction times, judging range, evasions, feints, timing, spotting openings, and knowing where to hit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the improvement of one specialization in Fighting, Firearms, Languages, and Survival compare to each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "The improvement of one specialization has a transferable benefit to all other closely related specialisms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the subdivisions of Firearms compare to the subdivisions of other specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are more similarities than differences between the subdivisions of Firearms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a transferable skill from one specialization to another?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any fighter will use skills from Fighting in other specializations."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

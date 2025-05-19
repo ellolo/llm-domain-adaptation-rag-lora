@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, investigators can develop various skills to aid them in their investigations, including Locksmith, Lore, and Mechanical Repair. The Locksmith skill allows investigators to open and repair various types of locks, while Lore represents a character's expert understanding of unusual subjects. Mechanical Repair enables investigators to repair and create machines, and Lore skills can be used to communicate knowledge to the Keeper. These skills can be crucial in solving mysteries and overcoming challenges in the game.",
+  "qa_pairs": [
+    {
+      "question": "What happens if an insane investigator fails a pushed roll?",
+      "answer": "She or he becomes overly sensitive to all sounds and is unable to operate without earplugs or similar.",
+      "rating": 8
+    },
+    {
+      "question": "What is a locksmith capable of?",
+      "answer": "A locksmith can open car doors, hot-wire autos, jimmy library windows, figure out Chinese puzzle boxes, and penetrate ordinary commercial alarm systems.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level of opening a library window?",
+      "answer": "There is no difficulty level mentioned for opening a library window.",
+      "rating": 6
+    },
+    {
+      "question": "What is the difficulty level of opening a standard lock?",
+      "answer": "Regular difficulty.",
+      "rating": 7
+    },
+    {
+      "question": "What is the difficulty level of opening a high-security lock?",
+      "answer": "Hard difficulty.",
+      "rating": 8
+    },
+    {
+      "question": "What is a sample consequence of failing a 'Pushed' roll?",
+      "answer": "the lock is damaged beyond repair",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an insane investigator who fails a 'Pushed' roll?",
+      "answer": "he or she gives up on the lock and realizes the higher purpose of unlocking their own mind",
+      "rating": 9
+    },
+    {
+      "question": "What is a key tool for opening a high-security lock?",
+      "answer": "a skeleton key",
+      "rating": 9
+    },
+    {
+      "question": "What is a sample consequence of failing a 'Pushed' roll in terms of noise?",
+      "answer": "enough noise for someone or something to come looking",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a Specialization of Lore?",
+      "answer": "Dream Lore, Necronomicon Lore (e.g. history of)",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the Keeper's test for investigator's knowledge?",
+      "answer": "To test an investigator's knowledge",
+      "rating": 7
+    },
+    {
+      "question": "What is the Keeper's option when the investigator lacks the relevant Lore specialization?",
+      "answer": "Allow for another (more general) skill to be used but require a higher level of success",
+      "rating": 8
+    },
+    {
+      "question": "What was the example Keeper's test for a modern-day investigator's knowledge of alien abductions in the 1980s?",
+      "answer": "Regular success using UFO Lore or a Hard success using History",
+      "rating": 9
+    },
+    {
+      "question": "What is the percentage Lore represents?",
+      "answer": "01%",
+      "rating": 6
+    },
+    {
+      "question": "What are some examples of specializations in Lore?",
+      "answer": "Specializations of Lore include Dream Lore, Necronomicon Lore, UFO Lore, Vampire Lore, and Werewolf Lore.",
+      "rating": 8
+    },
+    {
+      "question": "How does the Keeper decide when to use Lore skills?",
+      "answer": "The Keeper decides when to use Lore skills when a particular area of specialist knowledge is central to the campaign being played.",
+      "rating": 9
+    },
+    {
+      "question": "What is an alternative method for communicating non-player character knowledge to the Keeper?",
+      "answer": "Lore skills are also used as a shorthand method of communicating the knowledge of a non-player character to the Keeper.",
+      "rating": 8
+    },
+    {
+      "question": "How are Lore skills represented in the game?",
+      "answer": "Lore skills are represented by the EDU characteristic and specific skills, such as History or Cthulhu Mythos.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary characteristic used to represent knowledge in the game?",
+      "answer": "Knowledge is represented by the EDU characteristic in the game.",
+      "rating": 8
+    },
+    {
+      "question": "What is EDU characteristic in the main?",
+      "answer": "knowledge is represented by the EDU characteristic",
+      "rating": 7
+    },
+    {
+      "question": "What is Mechanical Repair skill used for?",
+      "answer": "repair a broken machine, create a new one, or open common household locks",
+      "rating": 8
+    },
+    {
+      "question": "What skill is Mechanical Repair a companion to?",
+      "answer": "Electrical Repair",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage value of Mechanical Repair skill?",
+      "answer": "10%",
+      "rating": 6
+    },
+    {
+      "question": "What type of locks can Mechanical Repair be used for?",
+      "answer": "common household locks",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "She or he becomes overly sensitive to all sounds and is unable to operate without earplugs or similar."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a locksmith capable of?"
+      },
+      {
+        "role": "assistant",
+        "content": "A locksmith can open car doors, hot-wire autos, jimmy library windows, figure out Chinese puzzle boxes, and penetrate ordinary commercial alarm systems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of opening a library window?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no difficulty level mentioned for opening a library window."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of opening a standard lock?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of opening a high-security lock?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a sample consequence of failing a 'Pushed' roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "the lock is damaged beyond repair"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an insane investigator who fails a 'Pushed' roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "he or she gives up on the lock and realizes the higher purpose of unlocking their own mind"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key tool for opening a high-security lock?"
+      },
+      {
+        "role": "assistant",
+        "content": "a skeleton key"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a sample consequence of failing a 'Pushed' roll in terms of noise?"
+      },
+      {
+        "role": "assistant",
+        "content": "enough noise for someone or something to come looking"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a Specialization of Lore?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dream Lore, Necronomicon Lore (e.g. history of)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Keeper's test for investigator's knowledge?"
+      },
+      {
+        "role": "assistant",
+        "content": "To test an investigator's knowledge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's option when the investigator lacks the relevant Lore specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allow for another (more general) skill to be used but require a higher level of success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the example Keeper's test for a modern-day investigator's knowledge of alien abductions in the 1980s?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular success using UFO Lore or a Hard success using History"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage Lore represents?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of specializations in Lore?"
+      },
+      {
+        "role": "assistant",
+        "content": "Specializations of Lore include Dream Lore, Necronomicon Lore, UFO Lore, Vampire Lore, and Werewolf Lore."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper decide when to use Lore skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides when to use Lore skills when a particular area of specialist knowledge is central to the campaign being played."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative method for communicating non-player character knowledge to the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lore skills are also used as a shorthand method of communicating the knowledge of a non-player character to the Keeper."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Lore skills represented in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lore skills are represented by the EDU characteristic and specific skills, such as History or Cthulhu Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary characteristic used to represent knowledge in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Knowledge is represented by the EDU characteristic in the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is EDU characteristic in the main?"
+      },
+      {
+        "role": "assistant",
+        "content": "knowledge is represented by the EDU characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Mechanical Repair skill used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "repair a broken machine, create a new one, or open common household locks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is Mechanical Repair a companion to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Electrical Repair"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage value of Mechanical Repair skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of locks can Mechanical Repair be used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "common household locks"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

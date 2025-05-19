@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes three powerful entities from the Cthulhu Mythos: Shudde M'ell, Tsathoggua, and Tulzscha. Shudde M'ell is a burrowing creature that can create strong earthquakes, while Tsathoggua is a Great Old One with broad magical powers and a toad-like appearance. Tulzscha, on the other hand, is a malevolent entity that manifests as a blazing green flame, thriving on death, corruption, and decay. These entities are often associated with cults and are feared for their destructive powers.",
+  "qa_pairs": [
+    {
+      "question": "What is Shudde M'ell's damage bonus?",
+      "answer": "+12D6",
+      "rating": 10
+    },
+    {
+      "question": "How much damage does Shudde M'ell deal per round?",
+      "answer": "+12D6",
+      "rating": 10
+    },
+    {
+      "question": "What is Shudde M'ell's strength score?",
+      "answer": "450",
+      "rating": 8
+    },
+    {
+      "question": "What is Shudde M'ell's constitution score?",
+      "answer": "400",
+      "rating": 8
+    },
+    {
+      "question": "What is Shudde M'ell's intelligence score?",
+      "answer": "100",
+      "rating": 6
+    },
+    {
+      "question": "What type of earthquakes can Shudde M'ell create in conjunction with other chthonians?",
+      "answer": "strong earthquakes of regional size",
+      "rating": 9
+    },
+    {
+      "question": "What happens to everything over the hole created by Shudde M'ell if it attacks directly?",
+      "answer": "sucked in and destroyed",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus of Shudde M'ell's attacks?",
+      "answer": "+12D6",
+      "rating": 8
+    },
+    {
+      "question": "Where does Tsathoggua dwell?",
+      "answer": "The black gulf of N'Kai",
+      "rating": 9
+    },
+    {
+      "question": "What is a significant characteristic of Tsathoggua's appearance?",
+      "answer": "A fat furry body",
+      "rating": 8
+    },
+    {
+      "question": "How many Sanity points are lost to see Tsathoggua?",
+      "answer": "0/1D10",
+      "rating": 7
+    },
+    {
+      "question": "How many Sanity points are lost to see Shudde M'ell?",
+      "answer": "1D3/1D20",
+      "rating": 6
+    },
+    {
+      "question": "What is Tsathoggua's typical representation?",
+      "answer": "a fat furry body",
+      "rating": 8
+    },
+    {
+      "question": "How much Sanity points are lost to see Tsathoggua?",
+      "answer": "0/1D10",
+      "rating": 8
+    },
+    {
+      "question": "What is notable about the flame from Tulzscha?",
+      "answer": "it casts no shadows",
+      "rating": 9
+    },
+    {
+      "question": "What effect does the flame from Tulzscha have on the nitrous stone?",
+      "answer": "it coats the nitrous stone with venomous verdigris",
+      "rating": 9
+    },
+    {
+      "question": "What kind of powers does Tsathoggua possess?",
+      "answer": "Broad magical powers",
+      "rating": 8
+    },
+    {
+      "question": "What is the appearance of Tulzscha when it emerges from its depths?",
+      "answer": "A belching column of sick greenish flame",
+      "rating": 9
+    },
+    {
+      "question": "What effect does Tulzscha have on the nitrous stone it touches?",
+      "answer": "Coating the nitrous stone with a nasty, venomous verdigris",
+      "rating": 9
+    },
+    {
+      "question": "What type of environment does Tulzscha prefer to worship in?",
+      "answer": "Subterranean temples, especially during equinoxes, solstices, and important conjunctions",
+      "rating": 8
+    },
+    {
+      "question": "What does Tulzscha thrive on?",
+      "answer": "Death, corruption, and decay",
+      "rating": 9
+    },
+    {
+      "question": "Can Tulzscha move from where it emerges?",
+      "answer": "No, it cannot move from where it emerges",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shudde M'ell's damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+12D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does Shudde M'ell deal per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "+12D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shudde M'ell's strength score?"
+      },
+      {
+        "role": "assistant",
+        "content": "450"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shudde M'ell's constitution score?"
+      },
+      {
+        "role": "assistant",
+        "content": "400"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shudde M'ell's intelligence score?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of earthquakes can Shudde M'ell create in conjunction with other chthonians?"
+      },
+      {
+        "role": "assistant",
+        "content": "strong earthquakes of regional size"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to everything over the hole created by Shudde M'ell if it attacks directly?"
+      },
+      {
+        "role": "assistant",
+        "content": "sucked in and destroyed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of Shudde M'ell's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+12D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Tsathoggua dwell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The black gulf of N'Kai"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a significant characteristic of Tsathoggua's appearance?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fat furry body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost to see Tsathoggua?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost to see Shudde M'ell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3/1D20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tsathoggua's typical representation?"
+      },
+      {
+        "role": "assistant",
+        "content": "a fat furry body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points are lost to see Tsathoggua?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is notable about the flame from Tulzscha?"
+      },
+      {
+        "role": "assistant",
+        "content": "it casts no shadows"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does the flame from Tulzscha have on the nitrous stone?"
+      },
+      {
+        "role": "assistant",
+        "content": "it coats the nitrous stone with venomous verdigris"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of powers does Tsathoggua possess?"
+      },
+      {
+        "role": "assistant",
+        "content": "Broad magical powers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the appearance of Tulzscha when it emerges from its depths?"
+      },
+      {
+        "role": "assistant",
+        "content": "A belching column of sick greenish flame"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does Tulzscha have on the nitrous stone it touches?"
+      },
+      {
+        "role": "assistant",
+        "content": "Coating the nitrous stone with a nasty, venomous verdigris"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of environment does Tulzscha prefer to worship in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Subterranean temples, especially during equinoxes, solstices, and important conjunctions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Tulzscha thrive on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death, corruption, and decay"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Tulzscha move from where it emerges?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it cannot move from where it emerges"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 22,
+    "retention_rate": 0.88,
+    "avg_score": 7.8
+  }
+}

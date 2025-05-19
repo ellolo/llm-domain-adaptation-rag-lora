@@ -1,0 +1,412 @@
+{
+  "summary": "This document appears to be a section from the Call of Cthulhu tabletop role-playing game, specifically detailing the rules for studying and learning from tomes related to the Cthulhu Mythos. Key concepts include the time and effort required to study tomes, the risks of Sanity loss and increased Cthulhu Mythos skill, and the process of learning spells from tomes, other individuals, or Mythos entities. The document also provides a quick reference chart for determining half and fifth values for various skills and characteristics.",
+  "qa_pairs": [
+    {
+      "question": "What is the benefit of gaining a full study in the Cthulhu Mythos?",
+      "answer": "Each full study doubles in study time.",
+      "rating": 8
+    },
+    {
+      "question": "How much time is required to learn a spell from a Mythos book?",
+      "answer": "Variable duration (hours to weeks at Keeper\u2019s discretion, typically 2D6 weeks);",
+      "rating": 6
+    },
+    {
+      "question": "How do magic points recover?",
+      "answer": "1 Magic point per hour (more if POW is over 100).",
+      "rating": 9
+    },
+    {
+      "question": "What is required to retain a spell learned from a Mythos entity?",
+      "answer": "INT roll to retain spell.",
+      "rating": 7
+    },
+    {
+      "question": "How do magic points recover if the player overspends?",
+      "answer": "Take additional Magic points from hit points.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the time required for learning a spell from a Tome?",
+      "answer": "1D4 hours",
+      "rating": 9
+    },
+    {
+      "question": "What is the process for recovering Magic points?",
+      "answer": "1 Magic point per hour",
+      "rating": 8
+    },
+    {
+      "question": "What is the process for learning a spell from a Mythos entity?",
+      "answer": "Very fast; Hard INT roll to retain spell",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of failing the Pushed roll when Initial casting a spell?",
+      "answer": "Allows the spell to be cast but costs 1D6 x MP and Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "How do Magic points and overspending work?",
+      "answer": "Take additional Magic points from hit points",
+      "rating": 7
+    },
+    {
+      "question": "What is the process for learning a spell from another person?",
+      "answer": "Faster than from a book; as from a book, but faster",
+      "rating": 8
+    },
+    {
+      "question": "What is the characteristic for determining half (Hard) values in the chart?",
+      "answer": "Find the characteristic or skill value under the Base Number column",
+      "rating": 9
+    },
+    {
+      "question": "What do you read across to determine the half (Hard) value?",
+      "answer": "to determine the half (Hard) value",
+      "rating": 6
+    },
+    {
+      "question": "What is the value for the fifth (Extreme) value (1/5)?",
+      "answer": "1/5",
+      "rating": 8
+    },
+    {
+      "question": "How many Base Numbers are listed in the chart?",
+      "answer": "51",
+      "rating": 8
+    },
+    {
+      "question": "What is the value for the 25th Base Number?",
+      "answer": "25",
+      "rating": 9
+    },
+    {
+      "question": "What are the first two numbers mentioned in the text?",
+      "answer": "15, 100",
+      "rating": 7
+    },
+    {
+      "question": "How many numbers are listed in the text?",
+      "answer": "50",
+      "rating": 8
+    },
+    {
+      "question": "What is the last number mentioned in the text?",
+      "answer": "50",
+      "rating": 8
+    },
+    {
+      "question": "How many words are listed in the text?",
+      "answer": "50",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of numbers in the text?",
+      "answer": "15 to 50",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of gaining a full study in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full study doubles in study time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much time is required to learn a spell from a Mythos book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Variable duration (hours to weeks at Keeper\u2019s discretion, typically 2D6 weeks);"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do magic points recover?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 Magic point per hour (more if POW is over 100)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to retain a spell learned from a Mythos entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "INT roll to retain spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do magic points recover if the player overspends?"
+      },
+      {
+        "role": "assistant",
+        "content": "Take additional Magic points from hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the time required for learning a spell from a Tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the process for recovering Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 Magic point per hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the process for learning a spell from a Mythos entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Very fast; Hard INT roll to retain spell"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of failing the Pushed roll when Initial casting a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allows the spell to be cast but costs 1D6 x MP and Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Magic points and overspending work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Take additional Magic points from hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the process for learning a spell from another person?"
+      },
+      {
+        "role": "assistant",
+        "content": "Faster than from a book; as from a book, but faster"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the characteristic for determining half (Hard) values in the chart?"
+      },
+      {
+        "role": "assistant",
+        "content": "Find the characteristic or skill value under the Base Number column"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do you read across to determine the half (Hard) value?"
+      },
+      {
+        "role": "assistant",
+        "content": "to determine the half (Hard) value"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for the fifth (Extreme) value (1/5)?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Base Numbers are listed in the chart?"
+      },
+      {
+        "role": "assistant",
+        "content": "51"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for the 25th Base Number?"
+      },
+      {
+        "role": "assistant",
+        "content": "25"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the first two numbers mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "15, 100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many numbers are listed in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the last number mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many words are listed in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of numbers in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 to 50"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 21,
+    "retention_rate": 0.88,
+    "avg_score": 7.4
+  }
+}

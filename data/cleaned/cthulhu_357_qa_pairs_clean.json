@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Shans, also known as Insects from Shaggai, are parasitic, otherworldly beings that worship Azathoth and are known for their aesthetic enjoyment of abnormality and causing pain to others. They are extremely long-lived, scientifically advanced, and have access to magic-powered devices. The Shans are now fugitives on Earth, where they have brought slave beings from Xiclotl as guards and have infiltrated human politics. They possess humans to advance their agenda, and can implant memories and ideas in their hosts, effectively controlling their actions. The Shans are a significant threat to humanity, and their presence on Earth is shrouded in mystery and horror.",
+  "qa_pairs": [
+    {
+      "question": "What is the Dodge stat for a Servitor of the Outer Gods?",
+      "answer": "41%",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points are lost to see a Servitor of the Outer Gods?",
+      "answer": "1/1D10 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by spells and magical weapons to a Servitor of the Outer Gods?",
+      "answer": "Normal damage",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage regeneration per round for a Servitor of the Outer Gods until it is dead?",
+      "answer": "3 hit points",
+      "rating": 6
+    },
+    {
+      "question": "How long does it take for Shans to reach adulthood?",
+      "answer": "centuries",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary reason for the shan being a fugitive race?",
+      "answer": "a great catastrophe",
+      "rating": 9
+    },
+    {
+      "question": "What material were the temples used to transport Shans to other worlds made of?",
+      "answer": "grey metal",
+      "rating": 7
+    },
+    {
+      "question": "What component of Earth's atmosphere prevents Shans from teleporting away?",
+      "answer": "an unknown component",
+      "rating": 6
+    },
+    {
+      "question": "What was the reason for the shan's inability to teleport away from Earth?",
+      "answer": "The Earth's atmosphere contains a certain component that prevents the shan from teleporting away.",
+      "rating": 8
+    },
+    {
+      "question": "What role have the shan played in manipulating human affairs?",
+      "answer": "The shan have manipulated and possessed small numbers of humans to advance their alien agenda.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the shan's slave beings from Xiclotl?",
+      "answer": "The shan have brought slave beings from the planet Xiclotl as guards.",
+      "rating": 8
+    },
+    {
+      "question": "Where is the largest colony of shan rumored to exist?",
+      "answer": "The largest colony of shan is rumored to exist near Goatswood, a village in England's Severn Valley.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the human witch-cult?",
+      "answer": "finding sacrifices for Azathoth",
+      "rating": 9
+    },
+    {
+      "question": "Where is the largest colony of shan rumored to exist?",
+      "answer": "near Goatswood, a village of England\u2019s Severn Valley",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary function of a shan's mental attack?",
+      "answer": "to read its host\u2019s memories, affects thought processes and injects specific memories and ideas of its own",
+      "rating": 9
+    },
+    {
+      "question": "What is the status of the shan during the day?",
+      "answer": "the insect is not active within the brain, leaving the victim to do more or less as he or she pleases",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary function of a shan in a human host?",
+      "answer": "The shan implants memories and injects specific ideas to control the host.",
+      "rating": 9
+    },
+    {
+      "question": "When is the shan active within a human host?",
+      "answer": "The shan is active at night.",
+      "rating": 8
+    },
+    {
+      "question": "What effect can the shan have on a human host's sanity?",
+      "answer": "The shan can cause a human host to become raving mad.",
+      "rating": 9
+    },
+    {
+      "question": "What does the shan often implant in a human host's memories?",
+      "answer": "The shan often implants sanity-destroying sights or riddles to control the host.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge stat for a Servitor of the Outer Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "41%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost to see a Servitor of the Outer Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D10 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by spells and magical weapons to a Servitor of the Outer Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Normal damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage regeneration per round for a Servitor of the Outer Gods until it is dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for Shans to reach adulthood?"
+      },
+      {
+        "role": "assistant",
+        "content": "centuries"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary reason for the shan being a fugitive race?"
+      },
+      {
+        "role": "assistant",
+        "content": "a great catastrophe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What material were the temples used to transport Shans to other worlds made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "grey metal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What component of Earth's atmosphere prevents Shans from teleporting away?"
+      },
+      {
+        "role": "assistant",
+        "content": "an unknown component"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the reason for the shan's inability to teleport away from Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Earth's atmosphere contains a certain component that prevents the shan from teleporting away."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role have the shan played in manipulating human affairs?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shan have manipulated and possessed small numbers of humans to advance their alien agenda."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the shan's slave beings from Xiclotl?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shan have brought slave beings from the planet Xiclotl as guards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the largest colony of shan rumored to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "The largest colony of shan is rumored to exist near Goatswood, a village in England's Severn Valley."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the human witch-cult?"
+      },
+      {
+        "role": "assistant",
+        "content": "finding sacrifices for Azathoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the largest colony of shan rumored to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "near Goatswood, a village of England\u2019s Severn Valley"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of a shan's mental attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "to read its host\u2019s memories, affects thought processes and injects specific memories and ideas of its own"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the status of the shan during the day?"
+      },
+      {
+        "role": "assistant",
+        "content": "the insect is not active within the brain, leaving the victim to do more or less as he or she pleases"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of a shan in a human host?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shan implants memories and injects specific ideas to control the host."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is the shan active within a human host?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shan is active at night."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect can the shan have on a human host's sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shan can cause a human host to become raving mad."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the shan often implant in a human host's memories?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shan often implants sanity-destroying sights or riddles to control the host."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 20,
+    "retention_rate": 0.83,
+    "avg_score": 7.3
+  }
+}

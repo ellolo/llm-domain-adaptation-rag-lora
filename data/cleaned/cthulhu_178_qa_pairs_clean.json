@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game Call of Cthulhu, investigators can be institutionalized if they are deemed a danger to themselves or others due to mental health issues. The duration of institutionalization varies by state, but typically ranges from 60 to 180 days. To recover from insanity, investigators can receive rewards such as Keeper awards, increasing skills to 90%, or psychotherapy, which can restore Sanity points. However, psychoanalysis is not a cure-all and can have negative consequences if the investigator's mental state is too severe.",
+  "qa_pairs": [
+    {
+      "question": "What is the typical duration of institutionalization in the US?",
+      "answer": "60 game days",
+      "rating": 8
+    },
+    {
+      "question": "How long can an individual be held for observation and potential treatment in the US?",
+      "answer": "Up to 180 game days",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a person cannot care for themselves and seems to be at risk of self-harm or harm to others?",
+      "answer": "A medical doctor can certify that the individual should undergo psychiatric assessment and/or become an involuntary patient.",
+      "rating": 8
+    },
+    {
+      "question": "Can an individual avoid institutionalization by simply leaving the institution?",
+      "answer": "No, he or she can either convince the institution's staff to bring notice of his or her restored mental balance before the awarding court or climb over the institution's wall and run for his or her life.",
+      "rating": 7
+    },
+    {
+      "question": "What is the typical duration of institutionalization for a legal assessment?",
+      "answer": "60 game days",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical duration of institutionalization in some states?",
+      "answer": "Up to 180 days",
+      "rating": 9
+    },
+    {
+      "question": "What is the likely fate for an investigator who attempts bodily assault or murder without apparent motive?",
+      "answer": "Institutionalization for observation and potentially for treatment",
+      "rating": 8
+    },
+    {
+      "question": "What are some ways to raise an investigator's current Sanity points?",
+      "answer": "In addition to the care listed above, there are four ways",
+      "rating": 6
+    },
+    {
+      "question": "What is the fate of an investigator who attempts bodily assault or murder without apparent motive?",
+      "answer": "This fate is most likely for an investigator who attempts bodily assault or murder without apparent motive, or who intelligently shams mental disturbance to avoid serious criminal charges.",
+      "rating": 9
+    },
+    {
+      "question": "How can Sanity points be raised in addition to the care listed above?",
+      "answer": "In addition to the care listed above, there are four ways to raise an investigator\u2019s current Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What are Keeper award rolls for?",
+      "answer": "Keeper award rolls are the same for all participants, but are rolled individually by players.",
+      "rating": 7
+    },
+    {
+      "question": "What should Keeper award rolls be proportional to?",
+      "answer": "Such rewards should be proportional to the danger the group faced.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Keeper award rolls for all participants?",
+      "answer": "They are rolled individually by players",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the reward if investigators are cowardly, brutal, or murderous?",
+      "answer": "The Keeper may opt to reduce or remove the reward",
+      "rating": 8
+    },
+    {
+      "question": "How many Sanity points are awarded when a character increases a skill to 90%?",
+      "answer": "2D6 Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "What is awarded for increasing a Skill to 90%?",
+      "answer": "Discipline and self-esteem gained in mastering a skill",
+      "rating": 8
+    },
+    {
+      "question": "What is the reward for a character giving the Keeper?",
+      "answer": "1D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What is the reward for a character increasing a skill to 90%?",
+      "answer": "2D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a patient if the roll fails in Psychotherapy?",
+      "answer": "No Sanity points are gained, but no points are lost either",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a patient if the roll is fumbled in Psychotherapy?",
+      "answer": "1D6 Sanity points are lost, and treatment concludes",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the patient's Sanity points if the roll fails?",
+      "answer": "No points are added.",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of a fumbled roll on the patient's Sanity points?",
+      "answer": "The patient loses 1D6 Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What prevents psychoanalysis from working in the real world?",
+      "answer": "The symptoms of schizophrenia, psychotic disorders, bipolar disorders (manic depression), and severe depression.",
+      "rating": 9
+    },
+    {
+      "question": "What is psychoanalysis in the game world?",
+      "answer": "Mental first aid, equivalent to the game's equivalent of mental first aid.",
+      "rating": 8
+    },
+    {
+      "question": "What conditions are not treatable with psychoanalysis?",
+      "answer": "schizophrenia, psychotic disorders, bipolar disorders (manic depression) or severe depression.",
+      "rating": 9
+    },
+    {
+      "question": "What is psychoanalysis equivalent to in real life?",
+      "answer": "the game's equivalent of mental first aid",
+      "rating": 8
+    },
+    {
+      "question": "Can temporary insanity be cured in the game?",
+      "answer": "Yes, temporary insanity can be cured",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a player's participation in the game when their mind is in a certain state?",
+      "answer": "Participation is impossible",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical duration of institutionalization in the US?"
+      },
+      {
+        "role": "assistant",
+        "content": "60 game days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long can an individual be held for observation and potential treatment in the US?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 180 game days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a person cannot care for themselves and seems to be at risk of self-harm or harm to others?"
+      },
+      {
+        "role": "assistant",
+        "content": "A medical doctor can certify that the individual should undergo psychiatric assessment and/or become an involuntary patient."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can an individual avoid institutionalization by simply leaving the institution?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, he or she can either convince the institution's staff to bring notice of his or her restored mental balance before the awarding court or climb over the institution's wall and run for his or her life."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical duration of institutionalization for a legal assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "60 game days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical duration of institutionalization in some states?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 180 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the likely fate for an investigator who attempts bodily assault or murder without apparent motive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Institutionalization for observation and potentially for treatment"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some ways to raise an investigator's current Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "In addition to the care listed above, there are four ways"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fate of an investigator who attempts bodily assault or murder without apparent motive?"
+      },
+      {
+        "role": "assistant",
+        "content": "This fate is most likely for an investigator who attempts bodily assault or murder without apparent motive, or who intelligently shams mental disturbance to avoid serious criminal charges."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can Sanity points be raised in addition to the care listed above?"
+      },
+      {
+        "role": "assistant",
+        "content": "In addition to the care listed above, there are four ways to raise an investigator\u2019s current Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Keeper award rolls for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keeper award rolls are the same for all participants, but are rolled individually by players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Keeper award rolls be proportional to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Such rewards should be proportional to the danger the group faced."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Keeper award rolls for all participants?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are rolled individually by players"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the reward if investigators are cowardly, brutal, or murderous?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may opt to reduce or remove the reward"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are awarded when a character increases a skill to 90%?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is awarded for increasing a Skill to 90%?"
+      },
+      {
+        "role": "assistant",
+        "content": "Discipline and self-esteem gained in mastering a skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reward for a character giving the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reward for a character increasing a skill to 90%?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a patient if the roll fails in Psychotherapy?"
+      },
+      {
+        "role": "assistant",
+        "content": "No Sanity points are gained, but no points are lost either"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a patient if the roll is fumbled in Psychotherapy?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 Sanity points are lost, and treatment concludes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the patient's Sanity points if the roll fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "No points are added."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a fumbled roll on the patient's Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The patient loses 1D6 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What prevents psychoanalysis from working in the real world?"
+      },
+      {
+        "role": "assistant",
+        "content": "The symptoms of schizophrenia, psychotic disorders, bipolar disorders (manic depression), and severe depression."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is psychoanalysis in the game world?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mental first aid, equivalent to the game's equivalent of mental first aid."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What conditions are not treatable with psychoanalysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "schizophrenia, psychotic disorders, bipolar disorders (manic depression) or severe depression."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is psychoanalysis equivalent to in real life?"
+      },
+      {
+        "role": "assistant",
+        "content": "the game's equivalent of mental first aid"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can temporary insanity be cured in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, temporary insanity can be cured"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a player's participation in the game when their mind is in a certain state?"
+      },
+      {
+        "role": "assistant",
+        "content": "Participation is impossible"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

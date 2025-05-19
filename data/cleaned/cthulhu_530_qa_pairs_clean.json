@@ -1,0 +1,279 @@
+{
+  "summary": "This document appears to be a catalog or list of various magical items, spells, and creatures from the Cthulhu Mythos, a shared universe of horror fiction created by H.P. Lovecraft. The list includes items such as the Mist Projector, Gate Spells, and the Plutonian Drug, as well as creatures like the Byakhee, Chthonians, and the Crawling Ones. The document also includes various magical devices and tools, such as the Enthrall Victim spell and the Stasis Cube. The list is organized in a seemingly random manner, with no clear categorization or ordering.",
+  "qa_pairs": [
+    {
+      "question": "What is the code for the Mist Projector?",
+      "answer": "272",
+      "rating": 8
+    },
+    {
+      "question": "What is the code range for Gate Spells?",
+      "answer": "256-258",
+      "rating": 9
+    },
+    {
+      "question": "What is the code for the Plutonian Drug?",
+      "answer": "273",
+      "rating": 8
+    },
+    {
+      "question": "What is the code for the Enchant Whistle?",
+      "answer": "258",
+      "rating": 7
+    },
+    {
+      "question": "What is the code for the Shining Trapezohedron?",
+      "answer": "273",
+      "rating": 8
+    },
+    {
+      "question": "What is the code for the Enthrall Victim?",
+      "answer": "258",
+      "rating": 7
+    },
+    {
+      "question": "What is the code for the Star Stones of Mnar?",
+      "answer": "274",
+      "rating": 9
+    },
+    {
+      "question": "What is the code for the Evil Eye?",
+      "answer": "258",
+      "rating": 7
+    },
+    {
+      "question": "Who is Ibn-Ghazi?",
+      "answer": "Ibn-Ghazi",
+      "rating": 8
+    },
+    {
+      "question": "What is the Powder of Ibn-Ghazi?",
+      "answer": "Powder",
+      "rating": 9
+    },
+    {
+      "question": "What is the Powder of Ibn-Ghazi abbreviated as?",
+      "answer": "Powder",
+      "rating": 9
+    },
+    {
+      "question": "Is the Powder of Ibn-Ghazi a person or an object?",
+      "answer": "object",
+      "rating": 8
+    },
+    {
+      "question": "Is the Powder of Ibn-Ghazi related to Ibn-Ghazi?",
+      "answer": "related",
+      "rating": 7
+    },
+    {
+      "question": "Does the Powder of Ibn-Ghazi have any specific meaning?",
+      "answer": "no",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Mist Projector?"
+      },
+      {
+        "role": "assistant",
+        "content": "272"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code range for Gate Spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "256-258"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Plutonian Drug?"
+      },
+      {
+        "role": "assistant",
+        "content": "273"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Enchant Whistle?"
+      },
+      {
+        "role": "assistant",
+        "content": "258"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Shining Trapezohedron?"
+      },
+      {
+        "role": "assistant",
+        "content": "273"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Enthrall Victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "258"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Star Stones of Mnar?"
+      },
+      {
+        "role": "assistant",
+        "content": "274"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Evil Eye?"
+      },
+      {
+        "role": "assistant",
+        "content": "258"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ibn-Ghazi"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Powder of Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Powder"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Powder of Ibn-Ghazi abbreviated as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Powder"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the Powder of Ibn-Ghazi a person or an object?"
+      },
+      {
+        "role": "assistant",
+        "content": "object"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the Powder of Ibn-Ghazi related to Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "related"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does the Powder of Ibn-Ghazi have any specific meaning?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 14,
+    "retention_rate": 0.58,
+    "avg_score": 5.3
+  }
+}

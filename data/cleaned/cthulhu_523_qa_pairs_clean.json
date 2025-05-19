@@ -1,0 +1,469 @@
+{
+  "summary": "This document appears to be a summary of rules for a tabletop role-playing game, likely a fantasy or science fiction setting. The main topic is the game system's mechanics, including skills, spells, and character abilities. Key concepts include:\n\n* Skill systems, including Sleight of Hand, Speed Roll, and Spot Hidden, which govern a character's ability to perform specific actions.\n* Spellcasting systems, including Altering, Casting, and Creation, which govern a character's ability to cast magical effects.\n* Character abilities, such as Strength, Stealth, and Survival Skill, which govern a character's physical and mental capabilities.\n* Optional rules, such as Suppressing Fire and Surprise, which provide additional gameplay mechanics.\n\nOverall, this document provides a comprehensive overview of the game system's rules, allowing game masters and players to understand the game's mechanics and create engaging gameplay experiences.",
+  "qa_pairs": [
+    {
+      "question": "What is the Skill, Base Chance value?",
+      "answer": "36",
+      "rating": 8
+    },
+    {
+      "question": "What is the Skill, Combined Rolls value?",
+      "answer": "55",
+      "rating": 9
+    },
+    {
+      "question": "What is the Skill, Interpersonal Disambiguation value?",
+      "answer": "60",
+      "rating": 9
+    },
+    {
+      "question": "What is the Skill, Specializations value?",
+      "answer": "54",
+      "rating": 8
+    },
+    {
+      "question": "What are the Sleight Of Hand Skill values?",
+      "answer": "76",
+      "rating": 9
+    },
+    {
+      "question": "What is the Speed Roll, Chases value?",
+      "answer": "132",
+      "rating": 9
+    },
+    {
+      "question": "What is the Spell, Altering range?",
+      "answer": "243-245",
+      "rating": 8
+    },
+    {
+      "question": "What is the Spell, Casting range?",
+      "answer": "177-179",
+      "rating": 9
+    },
+    {
+      "question": "What is the Spell, Casting Time value?",
+      "answer": "243",
+      "rating": 10
+    },
+    {
+      "question": "What is the Spell, Creation value?",
+      "answer": "245",
+      "rating": 10
+    },
+    {
+      "question": "What is the Spell, Deeper Magic value?",
+      "answer": "242",
+      "rating": 10
+    },
+    {
+      "question": "What are the Skills, Optional Rules ranges?",
+      "answer": "78-79",
+      "rating": 10
+    },
+    {
+      "question": "What is the range of the game 'Spell'?",
+      "answer": "243",
+      "rating": 10
+    },
+    {
+      "question": "What is the range of the game 'Spells'?",
+      "answer": "242ff, 282",
+      "rating": 10
+    },
+    {
+      "question": "What is the spending level of the game 'Spell'?",
+      "answer": "46, 95",
+      "rating": 10
+    },
+    {
+      "question": "What is the hidden skill of 'Spot Hidden Skill'?",
+      "answer": "76, 88",
+      "rating": 10
+    },
+    {
+      "question": "What is the stealth skill of 'Stealth Skill'?",
+      "answer": "76-77, 88",
+      "rating": 8
+    },
+    {
+      "question": "What is the strength of the game 'Spell'?",
+      "answer": "30, 33, 37",
+      "rating": 9
+    },
+    {
+      "question": "What is the success level of the game 'Spell'?",
+      "answer": "83, 90",
+      "rating": 9
+    },
+    {
+      "question": "What is the summary of the game system rules?",
+      "answer": "407ff",
+      "rating": 7
+    },
+    {
+      "question": "Is 'Supressing Fire' an optional rule?",
+      "answer": "Yes, 126",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of 'Surprise'?",
+      "answer": "106-108",
+      "rating": 9
+    },
+    {
+      "question": "What is the sanity level of 'Sanity'?",
+      "answer": "31, 154ff, 179",
+      "rating": 8
+    },
+    {
+      "question": "What is the survival skill of 'Survival Skill'?",
+      "answer": "77",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Skill, Base Chance value?"
+      },
+      {
+        "role": "assistant",
+        "content": "36"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Skill, Combined Rolls value?"
+      },
+      {
+        "role": "assistant",
+        "content": "55"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Skill, Interpersonal Disambiguation value?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Skill, Specializations value?"
+      },
+      {
+        "role": "assistant",
+        "content": "54"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the Sleight Of Hand Skill values?"
+      },
+      {
+        "role": "assistant",
+        "content": "76"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Speed Roll, Chases value?"
+      },
+      {
+        "role": "assistant",
+        "content": "132"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Spell, Altering range?"
+      },
+      {
+        "role": "assistant",
+        "content": "243-245"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Spell, Casting range?"
+      },
+      {
+        "role": "assistant",
+        "content": "177-179"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Spell, Casting Time value?"
+      },
+      {
+        "role": "assistant",
+        "content": "243"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Spell, Creation value?"
+      },
+      {
+        "role": "assistant",
+        "content": "245"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Spell, Deeper Magic value?"
+      },
+      {
+        "role": "assistant",
+        "content": "242"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the Skills, Optional Rules ranges?"
+      },
+      {
+        "role": "assistant",
+        "content": "78-79"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the game 'Spell'?"
+      },
+      {
+        "role": "assistant",
+        "content": "243"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the game 'Spells'?"
+      },
+      {
+        "role": "assistant",
+        "content": "242ff, 282"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the spending level of the game 'Spell'?"
+      },
+      {
+        "role": "assistant",
+        "content": "46, 95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hidden skill of 'Spot Hidden Skill'?"
+      },
+      {
+        "role": "assistant",
+        "content": "76, 88"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the stealth skill of 'Stealth Skill'?"
+      },
+      {
+        "role": "assistant",
+        "content": "76-77, 88"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the strength of the game 'Spell'?"
+      },
+      {
+        "role": "assistant",
+        "content": "30, 33, 37"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the success level of the game 'Spell'?"
+      },
+      {
+        "role": "assistant",
+        "content": "83, 90"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the summary of the game system rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "407ff"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is 'Supressing Fire' an optional rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, 126"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of 'Surprise'?"
+      },
+      {
+        "role": "assistant",
+        "content": "106-108"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the sanity level of 'Sanity'?"
+      },
+      {
+        "role": "assistant",
+        "content": "31, 154ff, 179"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the survival skill of 'Survival Skill'?"
+      },
+      {
+        "role": "assistant",
+        "content": "77"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 9.0
+  }
+}

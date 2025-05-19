@@ -1,0 +1,260 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a catalog of ancient texts related to the Cthulhu Mythos, a shared universe of horror fiction created by H.P. Lovecraft. The texts include \"Cthaat Aquadingen\", \"Cthulhu in the Necronomicon\", \"Cultes des Goules\", and \"Confessions of the Mad Monk\", which provide insight into the power and influence of Cthulhu and other Lovecraftian deities. Each text is associated with a specific sanity loss and mythos rating, indicating the potential risks and rewards of studying these ancient tomes. The texts also suggest various spells and incantations that can be used to interact with Cthulhu and other entities from the mythos.",
+  "qa_pairs": [
+    {
+      "question": "What is the intended book by Dr. Laban Shrewsbury that contains information about Cthulhu?",
+      "answer": "The Necronomicon",
+      "rating": 9
+    },
+    {
+      "question": "How many weeks of study are suggested for this Cthulhu mythos content?",
+      "answer": "14 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the cult that the Church denounced?",
+      "answer": "Catalogs a large cult",
+      "rating": 7
+    },
+    {
+      "question": "Where are the most recent copies of the cult's materials found?",
+      "answer": "Fourteen copies are known to exist, the most recent surfacing in 1906, maintained at the Field Museum of Chicago, the British Museum, and the Union Theological Seminary in Manhattan.",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the book written by Clithanus?",
+      "answer": "Confessions of the Mad Monk Clithanus",
+      "rating": 8
+    },
+    {
+      "question": "How many weeks does it take to study the cult?",
+      "answer": "22 weeks",
+      "rating": 6
+    },
+    {
+      "question": "What is the number of known copies of the Catalogs a large cult practicing necromancy?",
+      "answer": "Fourteen",
+      "rating": 8
+    },
+    {
+      "question": "Where are the copies of the Catalogs a large cult practicing necromancy maintained?",
+      "answer": "The Field Museum of Chicago, the British Museum, and the Union Theological Seminary in Manhattan.",
+      "rating": 9
+    },
+    {
+      "question": "What is the suggested duration of study for the Confessions of the Mad Monk Clithanus?",
+      "answer": "22 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the suggested duration of study for the Confessions of the Mad Monk Clithanus (British Museum version)?",
+      "answer": "29 weeks",
+      "rating": 9
+    },
+    {
+      "question": "What is the Latin title of the text 'Cthaat Aquadingen'?",
+      "answer": "Cthaat Aquadingen",
+      "rating": 7
+    },
+    {
+      "question": "What is the estimated time period when the text 'Cthaat Aquadingen' was written?",
+      "answer": "c. 11-12th century",
+      "rating": 6
+    },
+    {
+      "question": "How many copies of the text 'Cthaat Aquadingen' are mentioned?",
+      "answer": "Three",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the intended book by Dr. Laban Shrewsbury that contains information about Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Necronomicon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks of study are suggested for this Cthulhu mythos content?"
+      },
+      {
+        "role": "assistant",
+        "content": "14 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the cult that the Church denounced?"
+      },
+      {
+        "role": "assistant",
+        "content": "Catalogs a large cult"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are the most recent copies of the cult's materials found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fourteen copies are known to exist, the most recent surfacing in 1906, maintained at the Field Museum of Chicago, the British Museum, and the Union Theological Seminary in Manhattan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the book written by Clithanus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Confessions of the Mad Monk Clithanus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks does it take to study the cult?"
+      },
+      {
+        "role": "assistant",
+        "content": "22 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of known copies of the Catalogs a large cult practicing necromancy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fourteen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are the copies of the Catalogs a large cult practicing necromancy maintained?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Field Museum of Chicago, the British Museum, and the Union Theological Seminary in Manhattan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested duration of study for the Confessions of the Mad Monk Clithanus?"
+      },
+      {
+        "role": "assistant",
+        "content": "22 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested duration of study for the Confessions of the Mad Monk Clithanus (British Museum version)?"
+      },
+      {
+        "role": "assistant",
+        "content": "29 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Latin title of the text 'Cthaat Aquadingen'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthaat Aquadingen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated time period when the text 'Cthaat Aquadingen' was written?"
+      },
+      {
+        "role": "assistant",
+        "content": "c. 11-12th century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the text 'Cthaat Aquadingen' are mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 13,
+    "retention_rate": 0.59,
+    "avg_score": 5.2
+  }
+}

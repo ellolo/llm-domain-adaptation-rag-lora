@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document discusses the \"Spending Luck\" optional rule in the Call of Cthulhu game system, which allows players to use Luck points to alter the outcome of skill rolls. Luck points can be spent on a 1-for-1 basis, but cannot be used to alter the result of a pushed roll or to buy off critical failures. The Luck score can be recovered through improvement checks, which can increase or decrease the score. This rule adds a layer of strategy to the game, as players must carefully manage their Luck points to achieve their goals.",
+  "qa_pairs": [
+    {
+      "question": "What is Harvey's age?",
+      "answer": "52",
+      "rating": 8
+    },
+    {
+      "question": "How many Luck points can be spent on a roll?",
+      "answer": "1",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Harvey's Luck score after using Luck points?",
+      "answer": "Reduces the chance of passing a future Luck roll",
+      "rating": 8
+    },
+    {
+      "question": "How many Luck points can be spent to alter a roll?",
+      "answer": "On a 1-for-1 basis",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of Luck points?",
+      "answer": "The player can use Luck points to alter a roll on a 1-for-1 basis.",
+      "rating": 9
+    },
+    {
+      "question": "Can Luck points be spent on all types of rolls?",
+      "answer": "No, Luck points may not be spent on Luck rolls, damage rolls, Sanity rolls, or rolls to determine the amount of Sanity points lost.",
+      "rating": 9
+    },
+    {
+      "question": "Can a player spend any amount of Luck points on a roll?",
+      "answer": "Yes, a player may spend any amount of Luck points (up to their current Luck value) on a roll.",
+      "rating": 9
+    },
+    {
+      "question": "Are there any rolls that cannot be altered by Luck points?",
+      "answer": "Yes, Criticals, fumbles, and firearm malfunctions always apply and cannot be bought off with Luck points.",
+      "rating": 9
+    },
+    {
+      "question": "How much Luck points can a player spend on a roll?",
+      "answer": "Any amount of Luck points (up to their current Luck value)",
+      "rating": 10
+    },
+    {
+      "question": "Can Luck points be spent to alter the result of a pushed roll?",
+      "answer": "No, Luck points may not be spent to alter the result of a pushed roll.",
+      "rating": 10
+    },
+    {
+      "question": "What happens to an investigator's Luck if Luck points are used to alter a dice roll?",
+      "answer": "No skill improvement check is earned.",
+      "rating": 10
+    },
+    {
+      "question": "How does an investigator's Luck change after each session of play?",
+      "answer": "It falls through spends and rises through recovery.",
+      "rating": 10
+    },
+    {
+      "question": "What is the maximum possible Luck score for an investigator?",
+      "answer": "99",
+      "rating": 10
+    },
+    {
+      "question": "What happens to Harvey's Luck score if the roll equals his Luck score?",
+      "answer": "No points are recovered",
+      "rating": 10
+    },
+    {
+      "question": "How many Luck points did Harvey's player spend to convert the Dodge roll to an Extreme success?",
+      "answer": "46",
+      "rating": 10
+    },
+    {
+      "question": "What is the minimum Dodge skill value mentioned in the text?",
+      "answer": "27",
+      "rating": 10
+    },
+    {
+      "question": "What was Harvey's Dodge roll?",
+      "answer": "73",
+      "rating": 8
+    },
+    {
+      "question": "How many Luck points did Harvey's player spend to convert the Dodge roll?",
+      "answer": "46",
+      "rating": 9
+    },
+    {
+      "question": "How many Luck points did Harvey's Luck go down to?",
+      "answer": "8",
+      "rating": 8
+    },
+    {
+      "question": "What was the outcome of Harvey's Luck recovery check?",
+      "answer": "Increased to 14",
+      "rating": 9
+    },
+    {
+      "question": "What is the current status of Harvey\u2019s Luck?",
+      "answer": "Harvey\u2019s Luck is now down to 8 points.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey\u2019s Luck after rolling 37?",
+      "answer": "Harvey\u2019s Luck increases to 14 after rolling 37.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a situation where investigators may prefer not to engage in combat?",
+      "answer": "An investigator may wish to merely subdue an opponent without causing undue harm.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of combat in this game system?",
+      "answer": "The primary goal of combat is to kill, or simply to flee.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's age?"
+      },
+      {
+        "role": "assistant",
+        "content": "52"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Luck points can be spent on a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Luck score after using Luck points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reduces the chance of passing a future Luck roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Luck points can be spent to alter a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "On a 1-for-1 basis"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Luck points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player can use Luck points to alter a roll on a 1-for-1 basis."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Luck points be spent on all types of rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Luck points may not be spent on Luck rolls, damage rolls, Sanity rolls, or rolls to determine the amount of Sanity points lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a player spend any amount of Luck points on a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a player may spend any amount of Luck points (up to their current Luck value) on a roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are there any rolls that cannot be altered by Luck points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, Criticals, fumbles, and firearm malfunctions always apply and cannot be bought off with Luck points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Luck points can a player spend on a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any amount of Luck points (up to their current Luck value)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Luck points be spent to alter the result of a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Luck points may not be spent to alter the result of a pushed roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Luck if Luck points are used to alter a dice roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "No skill improvement check is earned."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does an investigator's Luck change after each session of play?"
+      },
+      {
+        "role": "assistant",
+        "content": "It falls through spends and rises through recovery."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum possible Luck score for an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Luck score if the roll equals his Luck score?"
+      },
+      {
+        "role": "assistant",
+        "content": "No points are recovered"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Luck points did Harvey's player spend to convert the Dodge roll to an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "46"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Dodge skill value mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "27"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Harvey's Dodge roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "73"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Luck points did Harvey's player spend to convert the Dodge roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "46"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Luck points did Harvey's Luck go down to?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of Harvey's Luck recovery check?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increased to 14"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of Harvey\u2019s Luck?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey\u2019s Luck is now down to 8 points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey\u2019s Luck after rolling 37?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey\u2019s Luck increases to 14 after rolling 37."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a situation where investigators may prefer not to engage in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator may wish to merely subdue an opponent without causing undue harm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of combat in this game system?"
+      },
+      {
+        "role": "assistant",
+        "content": "The primary goal of combat is to kill, or simply to flee."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 9.1
+  }
+}

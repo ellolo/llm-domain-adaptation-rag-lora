@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, the Keeper has the discretion to determine the outcome of failed dice rolls, allowing for creative and non-sudden endings. The Keeper can choose to have multiple players attempt the same skill roll, such as researching a book or administering first aid, or allow individual players to attempt the task separately. This approach can add complexity and nuance to the game, while also providing opportunities for players to work together and contribute to the outcome. The Keeper's decisions should be guided by the game's mechanics and the players' intentions, and may involve pushing dice rolls or allowing multiple attempts.",
+  "qa_pairs": [
+    {
+      "question": "How will the Keeper decide what happens to Harvey if he fails his Jump roll?",
+      "answer": "The Keeper could describe Harvey falling to his death, ending the game, or describe how he falls and lands in an underground river.",
+      "rating": 9
+    },
+    {
+      "question": "What are the two possible outcomes for Harvey if he fails his Jump roll?",
+      "answer": "The first outcome will end the game, and the second allows the game to continue.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the Keeper describes Harvey falling to his death?",
+      "answer": "The game will end for Harvey's player.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if the Keeper describes Harvey landing in an underground river?",
+      "answer": "The game can continue, but Harvey's equipment is lost.",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended outcome when the game is about to end?",
+      "answer": "The first outcome will bring the game to a sudden end.",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper decide when multiple characters need to work together?",
+      "answer": "The decision of how many investigators may be involved in a particular situation is up to the Keeper.",
+      "rating": 9
+    },
+    {
+      "question": "What are some alternative options to sudden death in the game?",
+      "answer": "More Than One Player Rolling Dice for a Skill Roll",
+      "rating": 8
+    },
+    {
+      "question": "Can two or more characters work together to achieve a goal?",
+      "answer": "Yes, in some circumstances two or more characters may work together towards the same goal",
+      "rating": 8
+    },
+    {
+      "question": "How many people can assist each other in carrying a body?",
+      "answer": "Up to four people.",
+      "rating": 9
+    },
+    {
+      "question": "Can investigators in a public library conduct research and attempt a skill roll?",
+      "answer": "Yes, all investigators in the library.",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper use to set the difficulty level for carrying a body?",
+      "answer": "The SIZ characteristic of the body",
+      "rating": 9
+    },
+    {
+      "question": "How many successful rolls are required to conduct research in a public library?",
+      "answer": "One successful roll",
+      "rating": 8
+    },
+    {
+      "question": "What is required for a successful roll in Spotting a clue?",
+      "answer": "One successful roll is required.",
+      "rating": 8
+    },
+    {
+      "question": "What skill must everyone roll when trying to sneak past a guard?",
+      "answer": "Stealth skill.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if one person fails a Stealth roll?",
+      "answer": "The guard will be alerted to their presence.",
+      "rating": 8
+    },
+    {
+      "question": "How many investigators can administer First Aid to a fallen comrade?",
+      "answer": "Two investigators can administer First Aid to a fallen comrade.",
+      "rating": 9
+    },
+    {
+      "question": "What is required when an investigator attempts the same goal a second time?",
+      "answer": "a pushed roll",
+      "rating": 8
+    },
+    {
+      "question": "How many investigators can administer First Aid to a fallen comrade?",
+      "answer": "two",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How will the Keeper decide what happens to Harvey if he fails his Jump roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper could describe Harvey falling to his death, ending the game, or describe how he falls and lands in an underground river."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two possible outcomes for Harvey if he fails his Jump roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The first outcome will end the game, and the second allows the game to continue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Keeper describes Harvey falling to his death?"
+      },
+      {
+        "role": "assistant",
+        "content": "The game will end for Harvey's player."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Keeper describes Harvey landing in an underground river?"
+      },
+      {
+        "role": "assistant",
+        "content": "The game can continue, but Harvey's equipment is lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended outcome when the game is about to end?"
+      },
+      {
+        "role": "assistant",
+        "content": "The first outcome will bring the game to a sudden end."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper decide when multiple characters need to work together?"
+      },
+      {
+        "role": "assistant",
+        "content": "The decision of how many investigators may be involved in a particular situation is up to the Keeper."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some alternative options to sudden death in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "More Than One Player Rolling Dice for a Skill Roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can two or more characters work together to achieve a goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, in some circumstances two or more characters may work together towards the same goal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many people can assist each other in carrying a body?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to four people."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators in a public library conduct research and attempt a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, all investigators in the library."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper use to set the difficulty level for carrying a body?"
+      },
+      {
+        "role": "assistant",
+        "content": "The SIZ characteristic of the body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many successful rolls are required to conduct research in a public library?"
+      },
+      {
+        "role": "assistant",
+        "content": "One successful roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a successful roll in Spotting a clue?"
+      },
+      {
+        "role": "assistant",
+        "content": "One successful roll is required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill must everyone roll when trying to sneak past a guard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stealth skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if one person fails a Stealth roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The guard will be alerted to their presence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many investigators can administer First Aid to a fallen comrade?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two investigators can administer First Aid to a fallen comrade."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required when an investigator attempts the same goal a second time?"
+      },
+      {
+        "role": "assistant",
+        "content": "a pushed roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many investigators can administer First Aid to a fallen comrade?"
+      },
+      {
+        "role": "assistant",
+        "content": "two"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 18,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

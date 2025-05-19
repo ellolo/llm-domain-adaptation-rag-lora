@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe 7th edition of the Call of Cthulhu role-playing game, published by Chaosium, is a new iteration of the beloved game that has popularized the terrifying universe of H.P. Lovecraft. The game combines roleplaying adventure with Lovecraftian horror, and features a team of experienced game professionals who have managed to successfully transition the game's mechanics while maintaining its core elements. The game is designed for hardcore fans of the Cthulhu Mythos, who will be thrilled to hear that it has lost nothing in the transition and teems with terror, horror, and ways to introduce players to the dread world of Lovecraft. The game's mechanics and rules are designed to create a immersive and terrifying experience for players.",
+  "qa_pairs": [
+    {
+      "question": "What is the main reason for Call of Cthulhu's beloved status?",
+      "answer": "It is mostly due to the power of Lovecraft's world, and Chaosium's dedication in bringing it forth.",
+      "rating": 9
+    },
+    {
+      "question": "What has Chaosium done with its team of experienced game professionals?",
+      "answer": "They have managed a successful combination of roleplaying adventure with Lovecraftian horror in this 7th edition.",
+      "rating": 8
+    },
+    {
+      "question": "Who is the author of the Lovecraftian horror edition?",
+      "answer": "Sandy Petersen",
+      "rating": 7
+    },
+    {
+      "question": "In what year was the Lovecraftian horror edition published?",
+      "answer": "2014",
+      "rating": 6
+    },
+    {
+      "question": "Who is the main character in the example of play?",
+      "answer": "Harvey Walters",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of the chart that lists the half and fifth values?",
+      "answer": "Quick Reference Chart for Half and Fifth Values",
+      "rating": 9
+    },
+    {
+      "question": "What is the section title for the 'Half and Fifth Values' chart?",
+      "answer": "Quick Reference Chart for Half and Fifth Values",
+      "rating": 9
+    },
+    {
+      "question": "What is the section title for the 'Skills' section?",
+      "answer": "Skills",
+      "rating": 8
+    },
+    {
+      "question": "What is the page number for 'Skills' in the text?",
+      "answer": "52",
+      "rating": 10
+    },
+    {
+      "question": "What is the page number for 'Chases' in the text?",
+      "answer": "130",
+      "rating": 10
+    },
+    {
+      "question": "What is the number of the Combat Round?",
+      "answer": "102",
+      "rating": 10
+    },
+    {
+      "question": "What is the number of the Sanity section?",
+      "answer": "152",
+      "rating": 10
+    },
+    {
+      "question": "What is the number of the rule after 'Establishing the Chase'?",
+      "answer": "132",
+      "rating": 10
+    },
+    {
+      "question": "What is the title of the section after '8. Sanity'?",
+      "answer": "Sanity Points and SAN Rolls",
+      "rating": 10
+    },
+    {
+      "question": "What is the highest sanity value in the text?",
+      "answer": "152",
+      "rating": 10
+    },
+    {
+      "question": "What is the value for Perception Rolls?",
+      "answer": "201",
+      "rating": 10
+    },
+    {
+      "question": "What is the page number of 'Magic' in the text?",
+      "answer": "170",
+      "rating": 8
+    },
+    {
+      "question": "What is the page number of 'Eldritch Lore' in the text?",
+      "answer": "222",
+      "rating": 9
+    },
+    {
+      "question": "What is the starting page number for 'Playing the Game'?",
+      "answer": "182",
+      "rating": 8
+    },
+    {
+      "question": "What is the starting page number for 'The Grimoire'?",
+      "answer": "240",
+      "rating": 7
+    },
+    {
+      "question": "What is the starting number for the system?",
+      "answer": "182",
+      "rating": 9
+    },
+    {
+      "question": "Where can Mythos Tomes be found?",
+      "answer": "Tomes of Eldritch Lore (page 222)",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of the first section in the table of contents?",
+      "answer": "Tomes of Eldritch Lore",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of the book 'The Grimoire'?",
+      "answer": "Grimoire",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main reason for Call of Cthulhu's beloved status?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is mostly due to the power of Lovecraft's world, and Chaosium's dedication in bringing it forth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has Chaosium done with its team of experienced game professionals?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have managed a successful combination of roleplaying adventure with Lovecraftian horror in this 7th edition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the author of the Lovecraftian horror edition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sandy Petersen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what year was the Lovecraftian horror edition published?"
+      },
+      {
+        "role": "assistant",
+        "content": "2014"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the main character in the example of play?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey Walters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the chart that lists the half and fifth values?"
+      },
+      {
+        "role": "assistant",
+        "content": "Quick Reference Chart for Half and Fifth Values"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the section title for the 'Half and Fifth Values' chart?"
+      },
+      {
+        "role": "assistant",
+        "content": "Quick Reference Chart for Half and Fifth Values"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the section title for the 'Skills' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for 'Skills' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "52"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for 'Chases' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "130"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of the Combat Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "102"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of the Sanity section?"
+      },
+      {
+        "role": "assistant",
+        "content": "152"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of the rule after 'Establishing the Chase'?"
+      },
+      {
+        "role": "assistant",
+        "content": "132"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the section after '8. Sanity'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity Points and SAN Rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest sanity value in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "152"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Perception Rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "201"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number of 'Magic' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "170"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number of 'Eldritch Lore' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "222"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting page number for 'Playing the Game'?"
+      },
+      {
+        "role": "assistant",
+        "content": "182"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting page number for 'The Grimoire'?"
+      },
+      {
+        "role": "assistant",
+        "content": "240"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting number for the system?"
+      },
+      {
+        "role": "assistant",
+        "content": "182"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can Mythos Tomes be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tomes of Eldritch Lore (page 222)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the first section in the table of contents?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tomes of Eldritch Lore"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the book 'The Grimoire'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grimoire"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.8
+  }
+}

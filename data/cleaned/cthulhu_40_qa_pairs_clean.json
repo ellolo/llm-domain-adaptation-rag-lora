@@ -1,0 +1,241 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document provides guidance for creating investigators in the Call of Cthulhu role-playing game. To create an investigator, players can choose from various characteristics, such as ideology, significant people, and places, and roll dice to determine specific details. The characteristics can be used to create a unique and personalized investigator, with options ranging from religious beliefs to personal relationships and places of significance. The document also provides guidance on how to determine the significance of certain people or places to the investigator, adding depth and complexity to the character.",
+  "qa_pairs": [
+    {
+      "question": "What is the typical physical appearance of many investigators?",
+      "answer": "Baby-faced, Dull, Bookish, Plump, Slim, Stocky, Ordinary, Wrinkled, Sharp, Muscular, Frail",
+      "rating": 8
+    },
+    {
+      "question": "How many sides does a gun have?",
+      "answer": "42",
+      "rating": 9
+    },
+    {
+      "question": "What is a common necessity for many investigators?",
+      "answer": "A gun",
+      "rating": 7
+    },
+    {
+      "question": "What is an option for investigators regarding a higher power?",
+      "answer": "There is a higher power that you worship and pray to",
+      "rating": 6
+    },
+    {
+      "question": "What is an option for investigators regarding mankind's needs?",
+      "answer": "Mankind can do fine without religions",
+      "rating": 8
+    },
+    {
+      "question": "Who is the first person to identify?",
+      "answer": "Parent",
+      "rating": 8
+    },
+    {
+      "question": "Who is the 4th person to identify?",
+      "answer": "Child",
+      "rating": 9
+    },
+    {
+      "question": "Who is the 5th person to identify?",
+      "answer": "Partner",
+      "rating": 8
+    },
+    {
+      "question": "Who is the 6th person to identify?",
+      "answer": "Person who taught your highest occupational skill",
+      "rating": 7
+    },
+    {
+      "question": "Who is the 8th person to identify?",
+      "answer": "A famous person",
+      "rating": 6
+    },
+    {
+      "question": "What are some options for a place of quiet contemplation?",
+      "answer": "A place for quiet contemplation (e.g. the library, a parish church, Mecca, Stonehenge).",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of rolling to determine the significance of a person?",
+      "answer": "To determine why a person is significant to you.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical physical appearance of many investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Baby-faced, Dull, Bookish, Plump, Slim, Stocky, Ordinary, Wrinkled, Sharp, Muscular, Frail"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many sides does a gun have?"
+      },
+      {
+        "role": "assistant",
+        "content": "42"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common necessity for many investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "A gun"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an option for investigators regarding a higher power?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is a higher power that you worship and pray to"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an option for investigators regarding mankind's needs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mankind can do fine without religions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Parent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 4th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Child"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 5th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Partner"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 6th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Person who taught your highest occupational skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 8th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "A famous person"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some options for a place of quiet contemplation?"
+      },
+      {
+        "role": "assistant",
+        "content": "A place for quiet contemplation (e.g. the library, a parish church, Mecca, Stonehenge)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of rolling to determine the significance of a person?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine why a person is significant to you."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 12,
+    "retention_rate": 0.6,
+    "avg_score": 6.2
+  }
+}

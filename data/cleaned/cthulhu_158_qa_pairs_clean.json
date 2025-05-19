@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, cultists A, B, and C are chasing Harvey, with Brian already over the fence. In Round 1, Brian moves 4 spaces up the alley, while Harvey attempts to climb the fence but fails, leaving him vulnerable. Cultist C attacks Harvey, pulling him from the fence and throwing him back into the yard. Meanwhile, Cultist B attempts to climb down from the window but fails, taking a reckless approach by jumping instead.",
+  "qa_pairs": [
+    {
+      "question": "Who is Cultist A and B standing at the window with?",
+      "answer": "Cultist A and B stand at the window with Cultist C.",
+      "rating": 9
+    },
+    {
+      "question": "What has Cultist C done?",
+      "answer": "Cultist C has gone through the window and is now in the yard.",
+      "rating": 8
+    },
+    {
+      "question": "Who is out in front, in the alleyway, having scaled the fence already?",
+      "answer": "Brian is out in front, in the alleyway, having scaled the fence already.",
+      "rating": 9
+    },
+    {
+      "question": "Who is about to climb the fence?",
+      "answer": "Harvey (H) is about to climb the fence.",
+      "rating": 8
+    },
+    {
+      "question": "How many movement actions does Harvey have?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "How many movement actions does Brian have?",
+      "answer": "4",
+      "rating": 9
+    },
+    {
+      "question": "How many movement actions does Cultist C have?",
+      "answer": "5",
+      "rating": 8
+    },
+    {
+      "question": "What is the order of DEX in the characters?",
+      "answer": "Brian > Harvey > Cultists",
+      "rating": 9
+    },
+    {
+      "question": "What is the significance of the Keeper's action in Round 1?",
+      "answer": "The Keeper has 'cut to the chase' as per page 133.",
+      "rating": 9
+    },
+    {
+      "question": "How does the Keeper's action affect the cultists?",
+      "answer": "The Keeper allows for one investigator to be trapped, abandoned by his friends.",
+      "rating": 8
+    },
+    {
+      "question": "What action is taken by Brian, the lead cultist?",
+      "answer": "Brian moves first, running 4 spaces up the alley.",
+      "rating": 7
+    },
+    {
+      "question": "What is allowed by the Keeper for Brian's movement?",
+      "answer": "The Keeper allows for all four spaces to be open locations.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a speed roll in this scenario?",
+      "answer": "These things are simply allowed to have occurred as a result of the speed roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Harvey's Climb skill roll?",
+      "answer": "His Climb skill roll is a failure.",
+      "rating": 8
+    },
+    {
+      "question": "Why does the Keeper not apply damage for failing to climb the fence?",
+      "answer": "the fact that cultists are about to attack him is sufficient.",
+      "rating": 9
+    },
+    {
+      "question": "What must Harvey do if he wants to cross the fence?",
+      "answer": "He must make another attempt next round.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when Harvey fails to climb the fence?",
+      "answer": "The Keeper does not apply any damage for failing to climb the fence\u2014the fact that cultists are about to attack him is sufficient.",
+      "rating": 9
+    },
+    {
+      "question": "What does Cultist C do to Harvey after the Keeper's turn?",
+      "answer": "Cultist C runs across to Harvey and spends a third movement action to attack him.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current state of the Keeper's map?",
+      "answer": "window, fence, CultistA, CultistB, Harvey, Cultist C, Brian.",
+      "rating": 7
+    },
+    {
+      "question": "What happens when Cultist C's fighting maneuver is attempted?",
+      "answer": "The cultist's build is 0, the same as Harvey's, so no bonus or penalty dice are awarded for the fighting maneuver.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if Harvey tries to climb over the fence again?",
+      "answer": "He must make another attempt next round.",
+      "rating": 6
+    },
+    {
+      "question": "How many movement actions does Cultist C have left after his turn?",
+      "answer": "1 movement action left.",
+      "rating": 8
+    },
+    {
+      "question": "How many movement actions does Cultist C use in his turn?",
+      "answer": "4 movement actions.",
+      "rating": 7
+    },
+    {
+      "question": "What is the result of Harvey's attack roll?",
+      "answer": "A Failure.",
+      "rating": 8
+    },
+    {
+      "question": "Why did Cultist B not climb down from the window?",
+      "answer": "Cultist B took a reckless approach and jumped from the window rather than climbing.",
+      "rating": 8
+    },
+    {
+      "question": "What was the difficulty level of the climb roll for Cultist B?",
+      "answer": "The Keeper decided the difficulty level of the climb roll would be Regular, but raised it to Hard.",
+      "rating": 9
+    },
+    {
+      "question": "Did Cultist B succeed in his jump?",
+      "answer": "The Keeper rolled a failure for the cult.",
+      "rating": 7
+    },
+    {
+      "question": "Can Cultist B initiate another attack this round?",
+      "answer": "No, the cultist cannot initiate another attack this round.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is Cultist A and B standing at the window with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cultist A and B stand at the window with Cultist C."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has Cultist C done?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cultist C has gone through the window and is now in the yard."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is out in front, in the alleyway, having scaled the fence already?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian is out in front, in the alleyway, having scaled the fence already."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is about to climb the fence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey (H) is about to climb the fence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does Harvey have?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does Brian have?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does Cultist C have?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the order of DEX in the characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian > Harvey > Cultists"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the Keeper's action in Round 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper has 'cut to the chase' as per page 133."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper's action affect the cultists?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper allows for one investigator to be trapped, abandoned by his friends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action is taken by Brian, the lead cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian moves first, running 4 spaces up the alley."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is allowed by the Keeper for Brian's movement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper allows for all four spaces to be open locations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a speed roll in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "These things are simply allowed to have occurred as a result of the speed roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's Climb skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "His Climb skill roll is a failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper not apply damage for failing to climb the fence?"
+      },
+      {
+        "role": "assistant",
+        "content": "the fact that cultists are about to attack him is sufficient."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must Harvey do if he wants to cross the fence?"
+      },
+      {
+        "role": "assistant",
+        "content": "He must make another attempt next round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Harvey fails to climb the fence?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper does not apply any damage for failing to climb the fence\u2014the fact that cultists are about to attack him is sufficient."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Cultist C do to Harvey after the Keeper's turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cultist C runs across to Harvey and spends a third movement action to attack him."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of the Keeper's map?"
+      },
+      {
+        "role": "assistant",
+        "content": "window, fence, CultistA, CultistB, Harvey, Cultist C, Brian."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Cultist C's fighting maneuver is attempted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cultist's build is 0, the same as Harvey's, so no bonus or penalty dice are awarded for the fighting maneuver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey tries to climb over the fence again?"
+      },
+      {
+        "role": "assistant",
+        "content": "He must make another attempt next round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does Cultist C have left after his turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 movement action left."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does Cultist C use in his turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 movement actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's attack roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Cultist B not climb down from the window?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cultist B took a reckless approach and jumped from the window rather than climbing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the difficulty level of the climb roll for Cultist B?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decided the difficulty level of the climb roll would be Regular, but raised it to Hard."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Did Cultist B succeed in his jump?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper rolled a failure for the cult."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Cultist B initiate another attack this round?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the cultist cannot initiate another attack this round."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

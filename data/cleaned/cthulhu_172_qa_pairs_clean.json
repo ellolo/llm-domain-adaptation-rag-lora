@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the concept of insanity and its effects on characters in a game is explored. Insanity can manifest in various ways, including phobias, manias, and delusions, which can impact a character's actions and decisions. The \"Insanity Side-Effects\" section explains how the Keeper can present an investigator with delusional sensory information, requiring the player to make a \"Reality Check\" to determine what is real. This mechanic allows the Keeper to create a more immersive and unpredictable game world.",
+  "qa_pairs": [
+    {
+      "question": "What is the full form of the compulsion for starting fires?",
+      "answer": "Scribbleomania",
+      "rating": 8
+    },
+    {
+      "question": "What is Rhinotillexomania?",
+      "answer": "Rhinotillexomania: compulsive nose picking.",
+      "rating": 9
+    },
+    {
+      "question": "What is the full form of the intense fascination with trains and railroad travel?",
+      "answer": "Siderodromomania",
+      "rating": 8
+    },
+    {
+      "question": "What is the full form of the delusion that one is incredibly intelligent?",
+      "answer": "Sophomania",
+      "rating": 7
+    },
+    {
+      "question": "What is the full form of the compulsion for scratching oneself?",
+      "answer": "Titillomaniac",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of a dipsomaniac in a place that serves alcohol?",
+      "answer": "A dipsomaniac would take one penalty die on all rolls unless taking a drink.",
+      "rating": 9
+    },
+    {
+      "question": "How does the Keeper handle a character who fully succumbs to a drug craving?",
+      "answer": "The Keeper may alter the level of difficulty of certain skill rolls or impose a penalty die on opposed skill rolls depending on the situation and state of the character.",
+      "rating": 8
+    },
+    {
+      "question": "What skill enables an insane investigator to temporarily ignore a phobia or mania?",
+      "answer": "The Psychoanalysis skill.",
+      "rating": 9
+    },
+    {
+      "question": "What is Harvey's phobia of the moon?",
+      "answer": "Selenophobia (fear of the moon).",
+      "rating": 8
+    },
+    {
+      "question": "Is Harvey insane?",
+      "answer": "No, Harvey is sane at present.",
+      "rating": 9
+    },
+    {
+      "question": "What is Harvey's mental state at the beginning of the story?",
+      "answer": "sane",
+      "rating": 7
+    },
+    {
+      "question": "What triggers Harvey's decision to flee home?",
+      "answer": "underlying insanity",
+      "rating": 6
+    },
+    {
+      "question": "What happens to Harvey's Spot Hidden roll due to his phobia?",
+      "answer": "one penalty die is applied",
+      "rating": 8
+    },
+    {
+      "question": "When does the penalty cease?",
+      "answer": "when Harvey is safely inside doors and the moon is out of sight",
+      "rating": 9
+    },
+    {
+      "question": "What theme is explored in the text about Harvey's situation?",
+      "answer": "the line between madness and reality",
+      "rating": 9
+    },
+    {
+      "question": "What is the penalty applied to Harvey's Spot Hidden roll?",
+      "answer": "One penalty die is applied to his Spot Hidden roll.",
+      "rating": 8
+    },
+    {
+      "question": "Under what condition does the penalty cease?",
+      "answer": "When Harvey is safely in doors and the moon is out of sight.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Keeper's role regarding the investigator's insanity?",
+      "answer": "The Keeper is free to present an investigator suffering underlying insanity with delusional sensory information at any time.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Reality Check?",
+      "answer": "To make sure the player is sure of what their insane investigator is seeing, hearing, touching, feeling or smelling.",
+      "rating": 9
+    },
+    {
+      "question": "What is the significance of the moon being out of sight?",
+      "answer": "It indicates that the penalty will cease.",
+      "rating": 7
+    },
+    {
+      "question": "What is a Reality Check in the context of the game?",
+      "answer": "A way for the player to be sure of what their insane investigator is seeing, hearing, touching, feeling or smelling",
+      "rating": 8
+    },
+    {
+      "question": "What can trigger a Reality Check roll?",
+      "answer": "On behalf of an insane investigator, or if a player of an investigator suffering underlying insanity fails a Pushed skill roll",
+      "rating": 9
+    },
+    {
+      "question": "How can delusions be made more impactful?",
+      "answer": "By referring to the investigator's backstory and using an aspect as inspiration",
+      "rating": 8
+    },
+    {
+      "question": "What is a great example of delusions having an impact?",
+      "answer": "When they have relevance to the investigator",
+      "rating": 7
+    },
+    {
+      "question": "What can delusions cause as consequences?",
+      "answer": "Great consequences, especially when a player of an investigator suffering underlying insanity fails a Pushed skill roll",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the full form of the compulsion for starting fires?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scribbleomania"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Rhinotillexomania?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rhinotillexomania: compulsive nose picking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the full form of the intense fascination with trains and railroad travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Siderodromomania"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the full form of the delusion that one is incredibly intelligent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sophomania"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the full form of the compulsion for scratching oneself?"
+      },
+      {
+        "role": "assistant",
+        "content": "Titillomaniac"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a dipsomaniac in a place that serves alcohol?"
+      },
+      {
+        "role": "assistant",
+        "content": "A dipsomaniac would take one penalty die on all rolls unless taking a drink."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper handle a character who fully succumbs to a drug craving?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may alter the level of difficulty of certain skill rolls or impose a penalty die on opposed skill rolls depending on the situation and state of the character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill enables an insane investigator to temporarily ignore a phobia or mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Psychoanalysis skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's phobia of the moon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selenophobia (fear of the moon)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Harvey insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Harvey is sane at present."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's mental state at the beginning of the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "sane"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What triggers Harvey's decision to flee home?"
+      },
+      {
+        "role": "assistant",
+        "content": "underlying insanity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Spot Hidden roll due to his phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "one penalty die is applied"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When does the penalty cease?"
+      },
+      {
+        "role": "assistant",
+        "content": "when Harvey is safely inside doors and the moon is out of sight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What theme is explored in the text about Harvey's situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "the line between madness and reality"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty applied to Harvey's Spot Hidden roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die is applied to his Spot Hidden roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition does the penalty cease?"
+      },
+      {
+        "role": "assistant",
+        "content": "When Harvey is safely in doors and the moon is out of sight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role regarding the investigator's insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is free to present an investigator suffering underlying insanity with delusional sensory information at any time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Reality Check?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make sure the player is sure of what their insane investigator is seeing, hearing, touching, feeling or smelling."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the moon being out of sight?"
+      },
+      {
+        "role": "assistant",
+        "content": "It indicates that the penalty will cease."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Reality Check in the context of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A way for the player to be sure of what their insane investigator is seeing, hearing, touching, feeling or smelling"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can trigger a Reality Check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "On behalf of an insane investigator, or if a player of an investigator suffering underlying insanity fails a Pushed skill roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can delusions be made more impactful?"
+      },
+      {
+        "role": "assistant",
+        "content": "By referring to the investigator's backstory and using an aspect as inspiration"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a great example of delusions having an impact?"
+      },
+      {
+        "role": "assistant",
+        "content": "When they have relevance to the investigator"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can delusions cause as consequences?"
+      },
+      {
+        "role": "assistant",
+        "content": "Great consequences, especially when a player of an investigator suffering underlying insanity fails a Pushed skill roll"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

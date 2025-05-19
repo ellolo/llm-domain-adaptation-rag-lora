@@ -1,0 +1,241 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines various spells in a fantasy setting, including \"The Deathless Breath\", \"Banishment of Yde Etad\", and \"Bless Blade\". The main topic is spellcasting, with specific details on the costs, casting times, and effects of each spell. Key concepts include the use of magic points, Sanity points, and POW to determine the success or failure of spells, as well as the importance of specific conditions and rituals for spellcasting. The spells also have unique effects, such as the ability to banish or imbue entities with magical properties.",
+  "qa_pairs": [
+    {
+      "question": "What must be made between the caster and the target for the spell to take effect?",
+      "answer": "An opposed POW roll must be made between the caster with the highest POW and target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for the effectiveness of the spell?",
+      "answer": "The total number of participants must be divisible by three.",
+      "rating": 8
+    },
+    {
+      "question": "What is the requirement for the spell to take effect?",
+      "answer": "An opposed POW roll must be made between the caster with the highest POW and target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for the spell to be performed?",
+      "answer": "The spell must be performed in the open air in the middle of the night.",
+      "rating": 7
+    },
+    {
+      "question": "What is the bonus for additional sets of three casters?",
+      "answer": "One bonus die is granted for each additional set of three casters.",
+      "rating": 8
+    },
+    {
+      "question": "How should the spell be performed?",
+      "answer": "The spell must be performed in the open air in the middle of the night, ideally in a place of power associated with the target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the Bless Blade spell?",
+      "answer": "Cost: 5 POW; 1D4 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What is required for the blade of the Bless Blade spell to function?",
+      "answer": "The blade of the knife must be of an elemental metal such as iron or silver.",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum SIZ required for a blood sacrifice?",
+      "answer": "at least SIZ 50",
+      "rating": 8
+    },
+    {
+      "question": "What material can the blade of the knife be made of?",
+      "answer": "an elemental metal such as iron or silver",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the blade of the knife is broken, melted, or damaged?",
+      "answer": "it permanently loses the ability to cause damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the casting time for Body Warping of Gorgoroth?",
+      "answer": "1D6+4 minutes",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must be made between the caster and the target for the spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed POW roll must be made between the caster with the highest POW and target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the effectiveness of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The total number of participants must be divisible by three."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for the spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed POW roll must be made between the caster with the highest POW and target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the spell to be performed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell must be performed in the open air in the middle of the night."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus for additional sets of three casters?"
+      },
+      {
+        "role": "assistant",
+        "content": "One bonus die is granted for each additional set of three casters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the spell be performed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell must be performed in the open air in the middle of the night, ideally in a place of power associated with the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Bless Blade spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cost: 5 POW; 1D4 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the blade of the Bless Blade spell to function?"
+      },
+      {
+        "role": "assistant",
+        "content": "The blade of the knife must be of an elemental metal such as iron or silver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum SIZ required for a blood sacrifice?"
+      },
+      {
+        "role": "assistant",
+        "content": "at least SIZ 50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What material can the blade of the knife be made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "an elemental metal such as iron or silver"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the blade of the knife is broken, melted, or damaged?"
+      },
+      {
+        "role": "assistant",
+        "content": "it permanently loses the ability to cause damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time for Body Warping of Gorgoroth?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6+4 minutes"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 12,
+    "retention_rate": 0.6,
+    "avg_score": 5.3
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, the game master (Keeper) must make decisions about how to handle various situations, such as a character drowning or being strangled, and when to introduce custom rules. The game is designed to be flexible and encourage creative use of the core rules, rather than relying on a comprehensive list of every possible scenario. To create custom rules, the Keeper should consider whether a standard rule can handle the situation equally well and whether the custom rule will significantly enhance the game. In some cases, custom rules can be used to emphasize key characteristics, such as CON for dehydration and fatigue in a desert scenario.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the investigator misses the pushed swim roll?",
+      "answer": "The investigator is battered and half-drowned, taking 1D6 damage per round.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigator if the Keeper chooses to put their life on the line?",
+      "answer": "The investigator will continue to lose hit points each round until saved by another investigator or non-player character.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigator if they are washed up on some foreign shore?",
+      "answer": "The investigator has washed up on some foreign shore, bereft of all possessions and in a bad way.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator if no one else is around?",
+      "answer": "The Keeper could waive the drowning damage and instead have the unsuccessful pushed roll mean that the investigator has washed up on some foreign shore.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the Keeper chooses to put the investigator's life on the line?",
+      "answer": "The investigator will continue to lose hit points each round until saved by another investigator or non-player character.",
+      "rating": 9
+    },
+    {
+      "question": "What is the standard outcome if the attacker completes a Fighting Maneuver to seize the enemy in a stranglehold?",
+      "answer": "The attacker acts with one bonus die as a result of the successful fighting maneuver.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the attacker is successful in strangling the target?",
+      "answer": "Any damage is narrated as strangulation.",
+      "rating": 8
+    },
+    {
+      "question": "What is the alternative outcome if the Keeper chooses not to put the investigator's life on the line?",
+      "answer": "The unsuccessful push roll results in the investigator being pushed onto some foreign shore, bereft of all possessions and in a bad way.",
+      "rating": 8
+    },
+    {
+      "question": "What happens after a successful fighting maneuver?",
+      "answer": "The attacker can then strangle the target using the Fighting skill.",
+      "rating": 9
+    },
+    {
+      "question": "How many bonus dice does the attacker have after a successful fighting maneuver?",
+      "answer": "One bonus die.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary goal of creating a custom or house rule?",
+      "answer": "To add significantly to the game.",
+      "rating": 9
+    },
+    {
+      "question": "What is excluded from the game's rules?",
+      "answer": "Everything else, such as magic, luck, sanity, and physical harm.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the attacker after a successful fighting maneuver?",
+      "answer": "The attacker can now act with one bonus die as a result of the successful fight maneuver.",
+      "rating": 7
+    },
+    {
+      "question": "How should custom rules be applied?",
+      "answer": "Custom rules should be used for key elements in a scenario, and should focus on one skill or limited characteristics.",
+      "rating": 8
+    },
+    {
+      "question": "What is the general approach to creating custom rules?",
+      "answer": "Custom rules should be kept simple, with a focus on one skill or limited characteristics, and should build in meaningful decisions.",
+      "rating": 9
+    },
+    {
+      "question": "How are degrees of success tracked in custom rules?",
+      "answer": "A method of tracking degrees of success should be decided on when making a custom rule.",
+      "rating": 8
+    },
+    {
+      "question": "What is the key to creating a custom rule in Call of Cthulhu?",
+      "answer": "Keep it simple, focusing on one skill or limited skills and deciding on a method of tracking degrees of success.",
+      "rating": 9
+    },
+    {
+      "question": "How does Call of Cthulhu encourage its Keepers to approach rule creation?",
+      "answer": "By making the rules flexible and encouraging creative use of the core rule: the skill roll.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of attempting to list a specific rule for every eventuality?",
+      "answer": "A game in which the rules must constantly be referred to and everyone is restrained by a rule on every action.",
+      "rating": 7
+    },
+    {
+      "question": "What is the goal of creating a custom rule in Call of Cthulhu?",
+      "answer": "To build in meaningful decisions that can be taken by the players, altering the difficulty level or changing which skill is used.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of designing a custom rule for a scenario?",
+      "answer": "To emphasize the effects of deprivation and fatigue",
+      "rating": 8
+    },
+    {
+      "question": "What is the characteristic being used to track failure in this scenario?",
+      "answer": "CON (Constitution)",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a player fails the CON roll in this scenario?",
+      "answer": "Their investigator will take 1D3 damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of failing to make a CON roll for each day of game time that passes?",
+      "answer": "Death",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator misses the pushed swim roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator is battered and half-drowned, taking 1D6 damage per round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator if the Keeper chooses to put their life on the line?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator will continue to lose hit points each round until saved by another investigator or non-player character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator if they are washed up on some foreign shore?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator has washed up on some foreign shore, bereft of all possessions and in a bad way."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator if no one else is around?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper could waive the drowning damage and instead have the unsuccessful pushed roll mean that the investigator has washed up on some foreign shore."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Keeper chooses to put the investigator's life on the line?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator will continue to lose hit points each round until saved by another investigator or non-player character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard outcome if the attacker completes a Fighting Maneuver to seize the enemy in a stranglehold?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker acts with one bonus die as a result of the successful fighting maneuver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the attacker is successful in strangling the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any damage is narrated as strangulation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative outcome if the Keeper chooses not to put the investigator's life on the line?"
+      },
+      {
+        "role": "assistant",
+        "content": "The unsuccessful push roll results in the investigator being pushed onto some foreign shore, bereft of all possessions and in a bad way."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens after a successful fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker can then strangle the target using the Fighting skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many bonus dice does the attacker have after a successful fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "One bonus die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of creating a custom or house rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "To add significantly to the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is excluded from the game's rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Everything else, such as magic, luck, sanity, and physical harm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the attacker after a successful fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker can now act with one bonus die as a result of the successful fight maneuver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should custom rules be applied?"
+      },
+      {
+        "role": "assistant",
+        "content": "Custom rules should be used for key elements in a scenario, and should focus on one skill or limited characteristics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general approach to creating custom rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Custom rules should be kept simple, with a focus on one skill or limited characteristics, and should build in meaningful decisions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are degrees of success tracked in custom rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "A method of tracking degrees of success should be decided on when making a custom rule."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key to creating a custom rule in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keep it simple, focusing on one skill or limited skills and deciding on a method of tracking degrees of success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Call of Cthulhu encourage its Keepers to approach rule creation?"
+      },
+      {
+        "role": "assistant",
+        "content": "By making the rules flexible and encouraging creative use of the core rule: the skill roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of attempting to list a specific rule for every eventuality?"
+      },
+      {
+        "role": "assistant",
+        "content": "A game in which the rules must constantly be referred to and everyone is restrained by a rule on every action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of creating a custom rule in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "To build in meaningful decisions that can be taken by the players, altering the difficulty level or changing which skill is used."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of designing a custom rule for a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To emphasize the effects of deprivation and fatigue"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the characteristic being used to track failure in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "CON (Constitution)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a player fails the CON roll in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their investigator will take 1D3 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failing to make a CON roll for each day of game time that passes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

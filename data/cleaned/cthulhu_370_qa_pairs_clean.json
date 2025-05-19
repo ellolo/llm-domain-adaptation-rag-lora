@@ -1,0 +1,374 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nChaugnar Faugn is a monstrous deity worshipped by the subhuman Tcho-tcho people of the Tsang Plateau and scattered cults in central Asia. He is a grotesque, elephantine god with a disk-like snout that can drain blood from victims, causing them to lose health and sanity. Chaugnar Faugn is a powerful and malevolent entity that can attack and drain the life force of those who enter his precincts, and can also control the will of a human companion, inducing them to become his loyal servant. He is a formidable foe with high strength, power, and magic points, making him a formidable opponent in combat.",
+  "qa_pairs": [
+    {
+      "question": "What are the physical characteristics of Chaugnar Faugn?",
+      "answer": "Its ears were webbed and tentacled, the trunk terminated in a huge flaring disk at least a foot in diameter\u2026Its forelimbs were bent stiffly at the elbow, and its hands\u2014it had human hands\u2014rested palms upward on its lap. Its shoulders were broad and square and its breasts and enormous stomach sloped outward, cushioning the trunk.",
+      "rating": 8
+    },
+    {
+      "question": "What land is said to be Chaugnar Faugn's destination?",
+      "answer": "a new land",
+      "rating": 8
+    },
+    {
+      "question": "Who primarily worship Chaugnar Faugn?",
+      "answer": "the subhuman tcho-tcho people of the Tsang Plateau",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of Chaugnar Faugn's disk-like snout?",
+      "answer": "to drain blood from a victim",
+      "rating": 9
+    },
+    {
+      "question": "What damage does Chaugnar Faugn deal to a victim if not hungry?",
+      "answer": "1D6 hit points damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the function of the disk-like snout at the end of Chaugnar Faugn's trunk?",
+      "answer": "It is an organ that drains blood from a victim.",
+      "rating": 9
+    },
+    {
+      "question": "How much Sanity points does a human companion lose daily if they are not hungry?",
+      "answer": "1D10 Sanity points daily.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a human companion's nose and ears if Chaugnar Faugn lays his snout-disk on them at night?",
+      "answer": "They gradually grow into caricatures of Chaugnar Faugn.",
+      "rating": 9
+    },
+    {
+      "question": "How much CON does a human companion lose each time Chaugnar Faugn suckles from them?",
+      "answer": "5 CON each time.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a target's nose and ears if Chaugnar Faugn lays his snout-disk on his companion?",
+      "answer": "They gradually grow into caricatures of Chaugnar Faugn.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage does Chaugnar Faugn deal with his Damage Bonus?",
+      "answer": "+6D6",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a target if Chaugnar Faugn controls his will through psychic linking?",
+      "answer": "The target dreams of Chaugnar Faugn and his greatness.",
+      "rating": 9
+    },
+    {
+      "question": "What is the amount of damage Chaugnar Faugn deals to a target if he bites and holds them?",
+      "answer": "The target is drained of 5 CON each time.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the companion's CON each time the elephantine god suckles from them?",
+      "answer": "5 CON each time",
+      "rating": 7
+    },
+    {
+      "question": "What is the target's CON for Chaugnar Faugn, Horror from the Hills?",
+      "answer": "700",
+      "rating": 9
+    },
+    {
+      "question": "What happens if Chaugnar Faugn bites a target?",
+      "answer": "The target is held and drained of 1D6 hit points per round.",
+      "rating": 8
+    },
+    {
+      "question": "How much hit points does a target lose in a failure during a Heart Attack?",
+      "answer": "A failure means the target loses 2D6+1 damage.",
+      "rating": 9
+    },
+    {
+      "question": "What must a target do to ward off a Heart Attack?",
+      "answer": "Targets must roll under their CON; with success, the target loses only 1D6 hit points.",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks does Chaugnar Faugn make per round?",
+      "answer": "Chaugnar Faugn attacks per round: 2",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the physical characteristics of Chaugnar Faugn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its ears were webbed and tentacled, the trunk terminated in a huge flaring disk at least a foot in diameter\u2026Its forelimbs were bent stiffly at the elbow, and its hands\u2014it had human hands\u2014rested palms upward on its lap. Its shoulders were broad and square and its breasts and enormous stomach sloped outward, cushioning the trunk."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What land is said to be Chaugnar Faugn's destination?"
+      },
+      {
+        "role": "assistant",
+        "content": "a new land"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who primarily worship Chaugnar Faugn?"
+      },
+      {
+        "role": "assistant",
+        "content": "the subhuman tcho-tcho people of the Tsang Plateau"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Chaugnar Faugn's disk-like snout?"
+      },
+      {
+        "role": "assistant",
+        "content": "to drain blood from a victim"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What damage does Chaugnar Faugn deal to a victim if not hungry?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 hit points damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of the disk-like snout at the end of Chaugnar Faugn's trunk?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is an organ that drains blood from a victim."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points does a human companion lose daily if they are not hungry?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 Sanity points daily."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a human companion's nose and ears if Chaugnar Faugn lays his snout-disk on them at night?"
+      },
+      {
+        "role": "assistant",
+        "content": "They gradually grow into caricatures of Chaugnar Faugn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much CON does a human companion lose each time Chaugnar Faugn suckles from them?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 CON each time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target's nose and ears if Chaugnar Faugn lays his snout-disk on his companion?"
+      },
+      {
+        "role": "assistant",
+        "content": "They gradually grow into caricatures of Chaugnar Faugn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does Chaugnar Faugn deal with his Damage Bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+6D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target if Chaugnar Faugn controls his will through psychic linking?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target dreams of Chaugnar Faugn and his greatness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the amount of damage Chaugnar Faugn deals to a target if he bites and holds them?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is drained of 5 CON each time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the companion's CON each time the elephantine god suckles from them?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 CON each time"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target's CON for Chaugnar Faugn, Horror from the Hills?"
+      },
+      {
+        "role": "assistant",
+        "content": "700"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Chaugnar Faugn bites a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is held and drained of 1D6 hit points per round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much hit points does a target lose in a failure during a Heart Attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A failure means the target loses 2D6+1 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must a target do to ward off a Heart Attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Targets must roll under their CON; with success, the target loses only 1D6 hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does Chaugnar Faugn make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chaugnar Faugn attacks per round: 2"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 19,
+    "retention_rate": 0.73,
+    "avg_score": 8.4
+  }
+}

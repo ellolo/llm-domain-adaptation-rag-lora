@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the effects of damage on a character's health are outlined. Regular damage, which is less than half of the character's maximum hit points, has no significant effect on the character until their hit points reach zero, at which point they become unconscious. In contrast, major wounds, which are equal to or more than half of the character's maximum hit points, can be fatal and require immediate medical attention. The severity of damage also depends on the type of attack, with single punches likely to result in regular damage and single gunshots more likely to inflict major wounds.",
+  "qa_pairs": [
+    {
+      "question": "What determines if a punch results in regular damage?",
+      "answer": "Less than half the character\u2019s maximum hit points",
+      "rating": 8
+    },
+    {
+      "question": "What type of damage is equal to or more than half the character\u2019s maximum hit points?",
+      "answer": "Equal to or more than half the character\u2019s maximum hit points, it is a Major Wound.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of more than the character\u2019s maximum hit points?",
+      "answer": "More than the character\u2019s maximum hit points, the result is death.",
+      "rating": 10
+    },
+    {
+      "question": "What type of damage is more than the character\u2019s maximum hit points?",
+      "answer": "More than the character\u2019s maximum hit points, the result is death.",
+      "rating": 10
+    },
+    {
+      "question": "What is the minimum amount of damage required for regular damage?",
+      "answer": "Less than half the character\u2019s maximum hit points",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of a single attack that deals damage equal to or more than half the character\u2019s maximum hit points?",
+      "answer": "A Major Wound",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of a single attack that deals more than the character\u2019s maximum hit points?",
+      "answer": "Death",
+      "rating": 10
+    },
+    {
+      "question": "Can a character die as a result of regular damage?",
+      "answer": "No",
+      "rating": 7
+    },
+    {
+      "question": "What is the difference between regular damage and a major wound?",
+      "answer": "A punch is likely to result in regular damage, whereas a gunshot is more likely to inflict a major wound.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of regular damage on a character?",
+      "answer": "Regular damage has no significant effect on the character until current hit points are reduced to zero.",
+      "rating": 8
+    },
+    {
+      "question": "What is the definition of regular damage?",
+      "answer": "Regular damage is the result of any single attack that deals damage equal to less than half the character\u2019s maximum hit points in a single blow.",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of a major wound?",
+      "answer": "A Major Wound results when an attack delivers an amount of damage equal to or greater than half of the character\u2019s maximum hit points in a single attack.",
+      "rating": 9
+    },
+    {
+      "question": "What is a Major Wound in combat?",
+      "answer": "A Major Wound results when an attack delivers an amount of damage equal to or greater than half of the character's maximum hit points in a single attack.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a character that has received a Major Wound?",
+      "answer": "The character immediately falls prone and makes a successful CON roll to avoid falling unconscious.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for a character to die?",
+      "answer": "If current hit points fall to zero while the Major Wound box is ticked, the character is dying.",
+      "rating": 9
+    },
+    {
+      "question": "What damage will inflicts a Major Wound on Harvey?",
+      "answer": "Damage of 8 or more will inflict a Major Wound on Harvey.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when a character's current hit points fall to zero?",
+      "answer": "The character is unconscious.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of cumulative damage once a character's current hit points fall to zero?",
+      "answer": "Cumulative damage ceases to be tracked.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a character with zero hit points if further damage is attempted?",
+      "answer": "Any sincere attempt to kill the unconscious character should succeed.",
+      "rating": 9
+    },
+    {
+      "question": "What is one of the three conditions that zero hit points can indicate, similar to the triage model?",
+      "answer": "One of three conditions",
+      "rating": 7
+    },
+    {
+      "question": "What happens to cumulative damage tracking when a character's hit points fall to zero?",
+      "answer": "Cumulative damage ceases to be tracked once current hit points have fallen to zero.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of taking a wound equal to a character's maximum hit points, assuming the character is uninjured?",
+      "answer": "This would be a major wound.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an amount of damage greater than a character's maximum hit points is taken in one attack?",
+      "answer": "Death is inevitable.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect on a character if they have taken a Major Wound and are not receiving First Aid?",
+      "answer": "The character will soon die.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a character with zero hit points?",
+      "answer": "The character is unconscious.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of an uninjured character taking a wound equal to their maximum hit points?",
+      "answer": "The character will soon die unless First Aid is administered.",
+      "rating": 9
+    },
+    {
+      "question": "Under what conditions is death inevitable?",
+      "answer": "If an amount of damage greater than the character\u2019s maximum hit points is taken in one attack.",
+      "rating": 8
+    },
+    {
+      "question": "How long does First Aid need to be delivered to be effective?",
+      "answer": "Within one hour.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines if a punch results in regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Less than half the character\u2019s maximum hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage is equal to or more than half the character\u2019s maximum hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Equal to or more than half the character\u2019s maximum hit points, it is a Major Wound."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of more than the character\u2019s maximum hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than the character\u2019s maximum hit points, the result is death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage is more than the character\u2019s maximum hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than the character\u2019s maximum hit points, the result is death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum amount of damage required for regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Less than half the character\u2019s maximum hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a single attack that deals damage equal to or more than half the character\u2019s maximum hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Major Wound"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a single attack that deals more than the character\u2019s maximum hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character die as a result of regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between regular damage and a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "A punch is likely to result in regular damage, whereas a gunshot is more likely to inflict a major wound."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of regular damage on a character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular damage has no significant effect on the character until current hit points are reduced to zero."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular damage is the result of any single attack that deals damage equal to less than half the character\u2019s maximum hit points in a single blow."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Major Wound results when an attack delivers an amount of damage equal to or greater than half of the character\u2019s maximum hit points in a single attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Major Wound in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Major Wound results when an attack delivers an amount of damage equal to or greater than half of the character's maximum hit points in a single attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character that has received a Major Wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character immediately falls prone and makes a successful CON roll to avoid falling unconscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a character to die?"
+      },
+      {
+        "role": "assistant",
+        "content": "If current hit points fall to zero while the Major Wound box is ticked, the character is dying."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What damage will inflicts a Major Wound on Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage of 8 or more will inflict a Major Wound on Harvey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character's current hit points fall to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character is unconscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of cumulative damage once a character's current hit points fall to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cumulative damage ceases to be tracked."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character with zero hit points if further damage is attempted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any sincere attempt to kill the unconscious character should succeed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the three conditions that zero hit points can indicate, similar to the triage model?"
+      },
+      {
+        "role": "assistant",
+        "content": "One of three conditions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to cumulative damage tracking when a character's hit points fall to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cumulative damage ceases to be tracked once current hit points have fallen to zero."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of taking a wound equal to a character's maximum hit points, assuming the character is uninjured?"
+      },
+      {
+        "role": "assistant",
+        "content": "This would be a major wound."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an amount of damage greater than a character's maximum hit points is taken in one attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death is inevitable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect on a character if they have taken a Major Wound and are not receiving First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character will soon die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character with zero hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character is unconscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of an uninjured character taking a wound equal to their maximum hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character will soon die unless First Aid is administered."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions is death inevitable?"
+      },
+      {
+        "role": "assistant",
+        "content": "If an amount of damage greater than the character\u2019s maximum hit points is taken in one attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does First Aid need to be delivered to be effective?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within one hour."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.6
+  }
+}

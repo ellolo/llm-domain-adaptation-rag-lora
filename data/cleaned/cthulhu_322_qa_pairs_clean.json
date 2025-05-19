@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Cthulhu Mythos, monsters can pose a significant threat to investigators, requiring a thoughtful and strategic approach to combat. When fighting monsters, it's generally recommended to fight back rather than dodge, using the monster's basic Fighting skill. The Keeper should also consider the monster's POW and INT when determining its magical abilities, and should avoid simplistic death declarations, instead opting for more nuanced and descriptive descriptions of the monster's demise. Additionally, monsters may know spells, particularly those worshiping Outer Gods or Great Old Ones, and the Keeper should encourage creative and deep magic interpretations.",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum build required for a monster to damage a vehicle?",
+      "answer": "Build 3+",
+      "rating": 8
+    },
+    {
+      "question": "How would a large enough monster interact with a vehicle containing an investigator?",
+      "answer": "It might seize hold of the vehicle, much like an angry child throwing a cereal box.",
+      "rating": 9
+    },
+    {
+      "question": "What should you do in response to investigator attacks when a monster is not trying to escape or being crafty?",
+      "answer": "You should fight back",
+      "rating": 7
+    },
+    {
+      "question": "How many times can a monster fight back before its enemies are granted a bonus die to their attacks?",
+      "answer": "The number of times a monster can fight back before gaining a bonus die is equal to the number of its attacks",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a monster's enemies if it has more than one attack per round?",
+      "answer": "Its enemies are granted a bonus die for outnumbering it.",
+      "rating": 9
+    },
+    {
+      "question": "How can a monster's attackers determine if it is alive or dead?",
+      "answer": "With a successful First Aid or Medicine roll.",
+      "rating": 8
+    },
+    {
+      "question": "What determines if a monster is alive or dead?",
+      "answer": "Only a successful First Aid or Medicine roll will determine for sure whether a being is alive or dead.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the likelihood of a monster knowing spells?",
+      "answer": "The higher a monster\u2019s POW and INT, the more likely it is to know spells.",
+      "rating": 8
+    },
+    {
+      "question": "What is exempt from casting roll for monsters?",
+      "answer": "No casting roll is required for the initial casting of a spell by a monster.",
+      "rating": 9
+    },
+    {
+      "question": "What should be assumed about a Mythos monster's knowledge of magic?",
+      "answer": "In many cases, the Mythos monsters described here worship one or more of the Outer Gods or Great Old Ones, and it should be assumed that they would know at least one spell to contact, call, or summon their masters.",
+      "rating": 8
+    },
+    {
+      "question": "What is suggested for suitable spells for each monster?",
+      "answer": "Suitable spells for each monster are suggested.",
+      "rating": 7
+    },
+    {
+      "question": "What is the main aspect of the Mythos monsters described in the section?",
+      "answer": "The monsters described here are, in the main, repugnant to humanity in their visage and aspect.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main focus of Chapter 13?",
+      "answer": "Grimoire details many suitable spells, however Keepers are encouraged to adjust spells and use the deeper magic versions.",
+      "rating": 8
+    },
+    {
+      "question": "What can be considered as a threat to both an investigator's mind and body?",
+      "answer": "The monsters described here are, in the main, repugnant to humanity in their visage and aspect.",
+      "rating": 7
+    },
+    {
+      "question": "What is the main focus of the Mythos Monsters section?",
+      "answer": "This section details the abominations of the Cthulhu Mythos\u2014creatures of this world and from beyond.",
+      "rating": 9
+    },
+    {
+      "question": "Why should Keepers avoid illustrating only the visual aspect of a Mythos monster?",
+      "answer": "Because it should also include the otherworldly atmosphere created by such creatures, as well as the signifiers of smell and sound.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum build required for a monster to damage a vehicle?"
+      },
+      {
+        "role": "assistant",
+        "content": "Build 3+"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would a large enough monster interact with a vehicle containing an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It might seize hold of the vehicle, much like an angry child throwing a cereal box."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should you do in response to investigator attacks when a monster is not trying to escape or being crafty?"
+      },
+      {
+        "role": "assistant",
+        "content": "You should fight back"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many times can a monster fight back before its enemies are granted a bonus die to their attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The number of times a monster can fight back before gaining a bonus die is equal to the number of its attacks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a monster's enemies if it has more than one attack per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its enemies are granted a bonus die for outnumbering it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a monster's attackers determine if it is alive or dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "With a successful First Aid or Medicine roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines if a monster is alive or dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only a successful First Aid or Medicine roll will determine for sure whether a being is alive or dead."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the likelihood of a monster knowing spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "The higher a monster\u2019s POW and INT, the more likely it is to know spells."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is exempt from casting roll for monsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "No casting roll is required for the initial casting of a spell by a monster."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be assumed about a Mythos monster's knowledge of magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "In many cases, the Mythos monsters described here worship one or more of the Outer Gods or Great Old Ones, and it should be assumed that they would know at least one spell to contact, call, or summon their masters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is suggested for suitable spells for each monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Suitable spells for each monster are suggested."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main aspect of the Mythos monsters described in the section?"
+      },
+      {
+        "role": "assistant",
+        "content": "The monsters described here are, in the main, repugnant to humanity in their visage and aspect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of Chapter 13?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grimoire details many suitable spells, however Keepers are encouraged to adjust spells and use the deeper magic versions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be considered as a threat to both an investigator's mind and body?"
+      },
+      {
+        "role": "assistant",
+        "content": "The monsters described here are, in the main, repugnant to humanity in their visage and aspect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of the Mythos Monsters section?"
+      },
+      {
+        "role": "assistant",
+        "content": "This section details the abominations of the Cthulhu Mythos\u2014creatures of this world and from beyond."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should Keepers avoid illustrating only the visual aspect of a Mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it should also include the otherworldly atmosphere created by such creatures, as well as the signifiers of smell and sound."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 16,
+    "filtered": 16,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the 1920s, a group of servants of the Great Old One Gla'aki, led by Turner, have been searching for a shard of the crystal prison that was lost in the woods of Vermont. Recently, a team of surveyors and geologists, led by Lucas Strong, has been sent to the area to track down other deposits of the meteor's remains, which are believed to be toxic. However, a small-time crook named Sidney Harris has discovered the true purpose of the surveying team and has kidnapped Strong's daughter, Jane, in an attempt to extort money from Strong. As Harris and his men experience strange and terrifying dreams, they begin to succumb to the influence of Gla'aki, setting the stage for a violent confrontation with the authorities.",
+  "qa_pairs": [
+    {
+      "question": "Where did Turner and his gang flee after the war?",
+      "answer": "the Green Mountain National Forest",
+      "rating": 9
+    },
+    {
+      "question": "What was the name of the lake where Turner and his men set up camp?",
+      "answer": "a lake less than a mile from where one of the shards of the crystal prison had come to rest",
+      "rating": 8
+    },
+    {
+      "question": "What was the promise made to Turner and his men by Gla'aki?",
+      "answer": "eternal life",
+      "rating": 9
+    },
+    {
+      "question": "Where was Gla'aki's lair located?",
+      "answer": "in the middle of the virgin wilderness",
+      "rating": 8
+    },
+    {
+      "question": "What is Gla'aki's promise to Turner and his men?",
+      "answer": "Eternal life",
+      "rating": 9
+    },
+    {
+      "question": "How long have Turner and the other servants been digging for the crystal?",
+      "answer": "60 years",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of the crystal for Gla'aki?",
+      "answer": "To take one step closer to freedom",
+      "rating": 8
+    },
+    {
+      "question": "Who has taken Turner and his men as its undying servants?",
+      "answer": "Gla'aki",
+      "rating": 9
+    },
+    {
+      "question": "What year did the Somerset reservoir foundation work begin?",
+      "answer": "1925",
+      "rating": 8
+    },
+    {
+      "question": "Who is the head of the Vermont Water Board and former owner of a successful local logging firm?",
+      "answer": "Lucas Strong",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the Somerset reservoir?",
+      "answer": "The Somerset reservoir is named after the old village that is now a small logging community.",
+      "rating": 7
+    },
+    {
+      "question": "What is the main concern for Lucas Strong about the mineral deposits?",
+      "answer": "Lucas Strong is not prepared to take the risk of potentially toxic chemicals contaminating the water supply.",
+      "rating": 9
+    },
+    {
+      "question": "What has Lucas Strong decided to do about the mineral deposits?",
+      "answer": "Lucas Strong has decided to send a team of surveyors and geologists to track down and remove other deposits remaining in the area.",
+      "rating": 8
+    },
+    {
+      "question": "Why is Lucas Strong taking this action?",
+      "answer": "Lucas Strong is taking this action to ensure he has done everything possible to remove the threat of potential toxicity and scandal.",
+      "rating": 9
+    },
+    {
+      "question": "Who has decided to take steps to ensure removing the threat of potential toxicity?",
+      "answer": "Strong has decided to take steps to ensure removing the threat of potential toxicity.",
+      "rating": 6
+    },
+    {
+      "question": "What is one small snag for Strong after the surveyors were sent to the forest?",
+      "answer": "Strong became a target for extortion after the surveyors were sent to the forest.",
+      "rating": 8
+    },
+    {
+      "question": "Why has Strong sent a team of surveyors and geologists into the forest?",
+      "answer": "To track down other deposits remaining in the area of the drainage basin and remove them.",
+      "rating": 9
+    },
+    {
+      "question": "Who is the target for extortion after the surveyors were sent to the forest?",
+      "answer": "Sidney Harris, a small time crook.",
+      "rating": 8
+    },
+    {
+      "question": "Who sent a surveying team to look for precious metals in the forest?",
+      "answer": "Strong",
+      "rating": 7
+    },
+    {
+      "question": "Who kidnapped Strong's daughter, Jane, and held her captive in an old hunting lodge?",
+      "answer": "Sidney Harris and his gang",
+      "rating": 9
+    },
+    {
+      "question": "What triggered anxiety and paranoia in Harris and his men?",
+      "answer": "The dreams of Gla'aki calling to them to join in the lake",
+      "rating": 8
+    },
+    {
+      "question": "What was Harris' plan after the ransom money hand-over?",
+      "answer": "To head back to the cabin where Jane is being held and then make a run for the Canadian border with Dobbs",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where did Turner and his gang flee after the war?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Green Mountain National Forest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the name of the lake where Turner and his men set up camp?"
+      },
+      {
+        "role": "assistant",
+        "content": "a lake less than a mile from where one of the shards of the crystal prison had come to rest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the promise made to Turner and his men by Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "eternal life"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was Gla'aki's lair located?"
+      },
+      {
+        "role": "assistant",
+        "content": "in the middle of the virgin wilderness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Gla'aki's promise to Turner and his men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eternal life"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long have Turner and the other servants been digging for the crystal?"
+      },
+      {
+        "role": "assistant",
+        "content": "60 years"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the crystal for Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "To take one step closer to freedom"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has taken Turner and his men as its undying servants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gla'aki"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What year did the Somerset reservoir foundation work begin?"
+      },
+      {
+        "role": "assistant",
+        "content": "1925"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the head of the Vermont Water Board and former owner of a successful local logging firm?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucas Strong"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Somerset reservoir?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Somerset reservoir is named after the old village that is now a small logging community."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main concern for Lucas Strong about the mineral deposits?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucas Strong is not prepared to take the risk of potentially toxic chemicals contaminating the water supply."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has Lucas Strong decided to do about the mineral deposits?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucas Strong has decided to send a team of surveyors and geologists to track down and remove other deposits remaining in the area."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is Lucas Strong taking this action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucas Strong is taking this action to ensure he has done everything possible to remove the threat of potential toxicity and scandal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has decided to take steps to ensure removing the threat of potential toxicity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strong has decided to take steps to ensure removing the threat of potential toxicity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one small snag for Strong after the surveyors were sent to the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strong became a target for extortion after the surveyors were sent to the forest."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why has Strong sent a team of surveyors and geologists into the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "To track down other deposits remaining in the area of the drainage basin and remove them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the target for extortion after the surveyors were sent to the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sidney Harris, a small time crook."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who sent a surveying team to look for precious metals in the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strong"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who kidnapped Strong's daughter, Jane, and held her captive in an old hunting lodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sidney Harris and his gang"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What triggered anxiety and paranoia in Harris and his men?"
+      },
+      {
+        "role": "assistant",
+        "content": "The dreams of Gla'aki calling to them to join in the lake"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Harris' plan after the ransom money hand-over?"
+      },
+      {
+        "role": "assistant",
+        "content": "To head back to the cabin where Jane is being held and then make a run for the Canadian border with Dobbs"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

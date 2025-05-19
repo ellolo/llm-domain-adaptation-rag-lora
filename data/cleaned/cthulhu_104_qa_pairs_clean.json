@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this game system, establishing contacts with non-player characters (NPCs) can be crucial for investigators. Players can use various skills, such as Chemistry, Medicine, or Own Language, to establish contacts, with the Keeper adjusting the difficulty level based on location and other factors. A successful roll can lead to a contact who may be helpful or untrustworthy, depending on the outcome of a concealed dice roll. The Keeper can also use a pushed roll to determine the contact's disposition, potentially leading to an antagonistic or unreliable contact.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of Harvey's rolled 07 on his Credit Rating?",
+      "answer": "His Credit Rating drops from 41 to 34.",
+      "rating": 8
+    },
+    {
+      "question": "How much cash does Harvey receive for a Credit Rating of 34?",
+      "answer": "$68 cash.",
+      "rating": 9
+    },
+    {
+      "question": "What is the total amount of cash Harvey has after receiving the new cash?",
+      "answer": "$148.",
+      "rating": 8
+    },
+    {
+      "question": "How do investigators establish contacts for their investigators?",
+      "answer": "Using a dice roll, or by using a skill or characteristic such as Chemistry or Medicine.",
+      "rating": 7
+    },
+    {
+      "question": "What happens when establishing a contact with a non-player character?",
+      "answer": "A successful roll means the non-player character has heard of the investigator by reputation or has previously met the contact.",
+      "rating": 9
+    },
+    {
+      "question": "What factors affect the difficulty level of establishing a contact?",
+      "answer": "Location and proximity to home are big factors\u2014being far from home or in a sparsely populated area increases difficulty, while being home and trying to contact someone of the same profession lowers difficulty.",
+      "rating": 8
+    },
+    {
+      "question": "How do players determine the success of establishing a contact?",
+      "answer": "Players make a dice roll using the appropriate skill or characteristic, applying modifiers as necessary.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a successful roll when establishing a contact?",
+      "answer": "A successful roll means either the non-player character has heard of the investigator by reputation or has previously met the contact.",
+      "rating": 9
+    },
+    {
+      "question": "What are some factors that increase the difficulty level of a contact?",
+      "answer": "Location, being far from home or in a sparsely populated area",
+      "rating": 9
+    },
+    {
+      "question": "How should the difficulty level be adjusted if the investigator is on home ground?",
+      "answer": "The Keeper should lower the difficulty level",
+      "rating": 8
+    },
+    {
+      "question": "What does establishing a contact automatically mean?",
+      "answer": "Nothing, as the contact may not do as the investigator wishes",
+      "rating": 9
+    },
+    {
+      "question": "What should the investigator use if the contact refuses to comply?",
+      "answer": "Persuasion, fast talk, charm, or intimidation, which should be roleplayed",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper do when the investigator is on their home ground trying to contact someone of the same profession?",
+      "answer": "Lower the difficulty level",
+      "rating": 7
+    },
+    {
+      "question": "Why should the Keeper make the pushed roll out of the player's sight?",
+      "answer": "So the player does not know the outcome",
+      "rating": 9
+    },
+    {
+      "question": "What could happen to the investigator if they fail the pushed roll?",
+      "answer": "Allow the investigator to unwittingly meet an antagonistic or unreliable contact",
+      "rating": 9
+    },
+    {
+      "question": "Why is a concealed roll used when a contact's disposition is unknown?",
+      "answer": "To prevent the player from knowing the outcome of the dice roll",
+      "rating": 8
+    },
+    {
+      "question": "What happens when Harvey fails to establish a contact among the local press?",
+      "answer": "He can find no contacts.",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level raised to when Harvey is a long way from home?",
+      "answer": "Hard",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome when Martyn Lace contacts Harvey?",
+      "answer": "He appears helpful while trying to find out about Harvey's investigation for his own gain.",
+      "rating": 7
+    },
+    {
+      "question": "What might Martyn Lace do with the information about Harvey's investigation?",
+      "answer": "Publish the story himself, thus exposing Harvey's careful work.",
+      "rating": 8
+    },
+    {
+      "question": "Who contacts Martyn Lace about Harvey's reputation?",
+      "answer": "Harvey",
+      "rating": 6
+    },
+    {
+      "question": "What is Martyn Lace's motivation for helping Harvey?",
+      "answer": "Lace is curious about Harvey, and will appear helpful while trying to find out about Harvey\u2019s investigation for his own gain.",
+      "rating": 8
+    },
+    {
+      "question": "What may Lace do for a reward?",
+      "answer": "Lace may warn Harvey\u2019s enemies",
+      "rating": 7
+    },
+    {
+      "question": "What is the potential outcome of Lace publishing the story?",
+      "answer": "The story will expose Harvey\u2019s careful work",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Harvey's rolled 07 on his Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "His Credit Rating drops from 41 to 34."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much cash does Harvey receive for a Credit Rating of 34?"
+      },
+      {
+        "role": "assistant",
+        "content": "$68 cash."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total amount of cash Harvey has after receiving the new cash?"
+      },
+      {
+        "role": "assistant",
+        "content": "$148."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators establish contacts for their investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using a dice roll, or by using a skill or characteristic such as Chemistry or Medicine."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when establishing a contact with a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful roll means the non-player character has heard of the investigator by reputation or has previously met the contact."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors affect the difficulty level of establishing a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "Location and proximity to home are big factors\u2014being far from home or in a sparsely populated area increases difficulty, while being home and trying to contact someone of the same profession lowers difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do players determine the success of establishing a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players make a dice roll using the appropriate skill or characteristic, applying modifiers as necessary."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a successful roll when establishing a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful roll means either the non-player character has heard of the investigator by reputation or has previously met the contact."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some factors that increase the difficulty level of a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "Location, being far from home or in a sparsely populated area"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the difficulty level be adjusted if the investigator is on home ground?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should lower the difficulty level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does establishing a contact automatically mean?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing, as the contact may not do as the investigator wishes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the investigator use if the contact refuses to comply?"
+      },
+      {
+        "role": "assistant",
+        "content": "Persuasion, fast talk, charm, or intimidation, which should be roleplayed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do when the investigator is on their home ground trying to contact someone of the same profession?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lower the difficulty level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper make the pushed roll out of the player's sight?"
+      },
+      {
+        "role": "assistant",
+        "content": "So the player does not know the outcome"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could happen to the investigator if they fail the pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allow the investigator to unwittingly meet an antagonistic or unreliable contact"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is a concealed roll used when a contact's disposition is unknown?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prevent the player from knowing the outcome of the dice roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Harvey fails to establish a contact among the local press?"
+      },
+      {
+        "role": "assistant",
+        "content": "He can find no contacts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level raised to when Harvey is a long way from home?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when Martyn Lace contacts Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "He appears helpful while trying to find out about Harvey's investigation for his own gain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might Martyn Lace do with the information about Harvey's investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Publish the story himself, thus exposing Harvey's careful work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who contacts Martyn Lace about Harvey's reputation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Martyn Lace's motivation for helping Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lace is curious about Harvey, and will appear helpful while trying to find out about Harvey\u2019s investigation for his own gain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What may Lace do for a reward?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lace may warn Harvey\u2019s enemies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential outcome of Lace publishing the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "The story will expose Harvey\u2019s careful work"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

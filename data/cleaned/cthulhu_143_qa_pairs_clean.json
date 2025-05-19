@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, hazards can be used to add spice to a chase scene, slowing down characters and vehicles and potentially causing harm. The Keeper will present the hazard and allow each character to decide how to deal with it, using skills such as Climb, Swim, Dodge, STR, and Drive Auto to negotiate obstacles. If a character elects to take a cautious approach, they can spend movement actions to gain bonus dice on their skill roll, potentially avoiding damage or delay. A failed skill roll can result in damage or delay, and the Keeper will use tables to determine the extent of the damage.",
+  "qa_pairs": [
+    {
+      "question": "What can be used to negotiate a hazard in Call of Cthulhu?",
+      "answer": "A skill or choice of skills that can be used to negotiate a hazard, along with a difficulty level.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Keeper's role in determining acceptable skills for negotiation?",
+      "answer": "The Keeper is final arbiter of what skill is acceptable.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of an appropriate skill to climb over fences and walls?",
+      "answer": "Climb skill.",
+      "rating": 9
+    },
+    {
+      "question": "What skill allows investigators to run along the top of a wall without falling off?",
+      "answer": "DEX (Dexterity) skill.",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of the Keeper in negotiating hazards?",
+      "answer": "The Keeper will specify a skill or choice of skills that can be used to negotiate a hazard, along with a difficulty level.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of an appropriate skill for negotiating obstacles?",
+      "answer": "The Climb skill, such as to get over fences and walls, or to climb down from a high window.",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of skills that Harvey can use?",
+      "answer": "Climb skill, Swim skill, Dodge skill, STR skill, DEX skill, and Drive Auto.",
+      "rating": 8
+    },
+    {
+      "question": "Why is Harvey asked to make a DEX roll?",
+      "answer": "Because Harvey is trying to run along the top of a wall without falling off.",
+      "rating": 9
+    },
+    {
+      "question": "What does Harvey decide to do when he sees the muddy patch on the track?",
+      "answer": "He charges towards the muddy patch, taking big strides.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Harvey's DEX roll?",
+      "answer": "Harvey moves onto the next location, having used his one movement action for this round.",
+      "rating": 8
+    },
+    {
+      "question": "What happened to Harvey on his turn?",
+      "answer": "Harvey charges towards the muddy patch.",
+      "rating": 7
+    },
+    {
+      "question": "What happened to the farmer on his turn?",
+      "answer": "The farmer slips and falls after failing his DEX roll.",
+      "rating": 9
+    },
+    {
+      "question": "What type of damage the Keeper chooses for FarmerHarvey?",
+      "answer": "Moderate Injury",
+      "rating": 8
+    },
+    {
+      "question": "How many points of damage does the Keeper choose for FarmerHarvey?",
+      "answer": "2",
+      "rating": 9
+    },
+    {
+      "question": "What does the farmer must pay in addition to the damage?",
+      "answer": "1 additional movement action",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the farmer's movement actions because of the delay?",
+      "answer": "The delay will cost one of his two movement actions in the next round",
+      "rating": 9
+    },
+    {
+      "question": "What will be lost to FarmerHarvey after the delay?",
+      "answer": "One of his two movement actions",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of badly handled hazards on characters and vehicles?",
+      "answer": "They can cause harm",
+      "rating": 9
+    },
+    {
+      "question": "What is the Keeper's role in a chase scene?",
+      "answer": "To present the hazard and allow characters to decide how to deal with it",
+      "rating": 9
+    },
+    {
+      "question": "What might be the approach taken to break down a locked door or take corners at speed?",
+      "answer": "A reckless approach, using brute force and speed",
+      "rating": 8
+    },
+    {
+      "question": "What is the rule for gaining bonus dice on a skill roll to negotiate a hazard?",
+      "answer": "1 movement action buys 1 bonus die, or 2 movement actions buys 2 bonus dice.",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum number of bonus dice that can be rolled?",
+      "answer": "2 bonus dice",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the character or vehicle fails to negotiate a hazard?",
+      "answer": "The Keeper decides if damage is inflicted on the character or vehicle, and how much, using a guide.",
+      "rating": 9
+    },
+    {
+      "question": "What table should be used to determine damage to characters if the skill roll is failed?",
+      "answer": "Table III: Other Forms of Damage",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to negotiate a hazard in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skill or choice of skills that can be used to negotiate a hazard, along with a difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role in determining acceptable skills for negotiation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is final arbiter of what skill is acceptable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of an appropriate skill to climb over fences and walls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Climb skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill allows investigators to run along the top of a wall without falling off?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX (Dexterity) skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Keeper in negotiating hazards?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper will specify a skill or choice of skills that can be used to negotiate a hazard, along with a difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of an appropriate skill for negotiating obstacles?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Climb skill, such as to get over fences and walls, or to climb down from a high window."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of skills that Harvey can use?"
+      },
+      {
+        "role": "assistant",
+        "content": "Climb skill, Swim skill, Dodge skill, STR skill, DEX skill, and Drive Auto."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is Harvey asked to make a DEX roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because Harvey is trying to run along the top of a wall without falling off."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Harvey decide to do when he sees the muddy patch on the track?"
+      },
+      {
+        "role": "assistant",
+        "content": "He charges towards the muddy patch, taking big strides."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's DEX roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey moves onto the next location, having used his one movement action for this round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Harvey on his turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey charges towards the muddy patch."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the farmer on his turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "The farmer slips and falls after failing his DEX roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage the Keeper chooses for FarmerHarvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Moderate Injury"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points of damage does the Keeper choose for FarmerHarvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the farmer must pay in addition to the damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 additional movement action"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the farmer's movement actions because of the delay?"
+      },
+      {
+        "role": "assistant",
+        "content": "The delay will cost one of his two movement actions in the next round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will be lost to FarmerHarvey after the delay?"
+      },
+      {
+        "role": "assistant",
+        "content": "One of his two movement actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of badly handled hazards on characters and vehicles?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can cause harm"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role in a chase scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "To present the hazard and allow characters to decide how to deal with it"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might be the approach taken to break down a locked door or take corners at speed?"
+      },
+      {
+        "role": "assistant",
+        "content": "A reckless approach, using brute force and speed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for gaining bonus dice on a skill roll to negotiate a hazard?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 movement action buys 1 bonus die, or 2 movement actions buys 2 bonus dice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum number of bonus dice that can be rolled?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 bonus dice"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the character or vehicle fails to negotiate a hazard?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides if damage is inflicted on the character or vehicle, and how much, using a guide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What table should be used to determine damage to characters if the skill roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Table III: Other Forms of Damage"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

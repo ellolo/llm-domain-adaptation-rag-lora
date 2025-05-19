@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nYog-Sothoth is a powerful, otherworldly entity that holds the power to travel between planes and dimensions, allowing it to traverse time and space. In exchange for this power, Yog-Sothoth demands worship and allows its followers to command various monsters from distant worlds. Yog-Sothoth can also travel through the atmosphere at incredible speeds and has the ability to destroy objects and harm living beings with its slimy spheres and bolts of energy. Its powers are so great that it is often referred to as the \"Key\" and the \"Gate\" to all of time and space.",
+  "qa_pairs": [
+    {
+      "question": "What does Yog-Sothoth grant its slaves in return for their worship?",
+      "answer": "The ability to command various monsters from distant worlds.",
+      "rating": 9
+    },
+    {
+      "question": "What does Tawil at\u2019Umr allow its users to do?",
+      "answer": "Travel to distant times and places safely.",
+      "rating": 8
+    },
+    {
+      "question": "What is a risk of dealing with Tawil at\u2019Umr?",
+      "answer": "Tawil at\u2019Umr may remove its veil and cause utter madness and destruction.",
+      "rating": 7
+    },
+    {
+      "question": "What is the nature of the power granted by Yog-Sothoth?",
+      "answer": "The power to see into other planes or travel between planes via magic.",
+      "rating": 9
+    },
+    {
+      "question": "What is the nature of the power granted by Tawil at\u2019Umr?",
+      "answer": "The power to travel to distant times and places safely.",
+      "rating": 8
+    },
+    {
+      "question": "What is Yog-Sothoth's power to travel within the planes?",
+      "answer": "to reach any other time or space",
+      "rating": 9
+    },
+    {
+      "question": "What is Yog-Sothoth's other name, indicating its role as the Gate?",
+      "answer": "the Key",
+      "rating": 8
+    },
+    {
+      "question": "What is the correct Arabic form of 'Umr at'Taw-il, Yog-Sothoth's aspect as Opener of the Way?",
+      "answer": "Tawil at'Umr",
+      "rating": 9
+    },
+    {
+      "question": "What speeds can Yog-Sothoth fly through our atmosphere?",
+      "answer": "hundreds or thousands of miles per hour",
+      "rating": 9
+    },
+    {
+      "question": "What is Yog-Sothoth called?",
+      "answer": "the Key and the Gate",
+      "rating": 8
+    },
+    {
+      "question": "What is the correct Arabic form of 'Prolonged of Life'?",
+      "answer": "Tawil at'Umr",
+      "rating": 9
+    },
+    {
+      "question": "At what speeds can Yog-Sothoth fly through our atmosphere?",
+      "answer": "hundreds or thousands of miles per hour",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks does Yog-Sothoth have per round?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "What happens to a character touched by Yog-Sothoth's spheres?",
+      "answer": "they immediately lose 3D10 CON, with possible permanent damage",
+      "rating": 10
+    },
+    {
+      "question": "What happens to a body part touched by Yog-Sothoth?",
+      "answer": "It takes the form of corrosion, withering, or corruption of the body part touched.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of using Yog-Sothoth's bolts of silvery fluid or fire?",
+      "answer": "1D6 magic points",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Yog-Sothoth's energy sphere?",
+      "answer": "It covers an area about 5 yards across with its effect.",
+      "rating": 9
+    },
+    {
+      "question": "What damage does Yog-Sothoth's bolts cause?",
+      "answer": "Death in a 5-yard diameter",
+      "rating": 9
+    },
+    {
+      "question": "Can Yog-Sothoth be damaged with non-magical weapons?",
+      "answer": "No, only magical weapons may damage Yog-Sothoth.",
+      "rating": 8
+    },
+    {
+      "question": "What is the area affected by a gout of energy?",
+      "answer": "about 5 yards across",
+      "rating": 7
+    },
+    {
+      "question": "What happens to characters within a 5-yard diameter of a gout of energy?",
+      "answer": "they are damaged to death",
+      "rating": 9
+    },
+    {
+      "question": "What material can damage Zoth-Ommog?",
+      "answer": "magical weapons",
+      "rating": 8
+    },
+    {
+      "question": "How does Zoth-Ommog transport characters?",
+      "answer": "by touching them",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of seeing Zoth-Ommog in its Tawil at'Umr form?",
+      "answer": "no cost",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Yog-Sothoth grant its slaves in return for their worship?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability to command various monsters from distant worlds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Tawil at\u2019Umr allow its users to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Travel to distant times and places safely."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a risk of dealing with Tawil at\u2019Umr?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tawil at\u2019Umr may remove its veil and cause utter madness and destruction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the power granted by Yog-Sothoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The power to see into other planes or travel between planes via magic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the power granted by Tawil at\u2019Umr?"
+      },
+      {
+        "role": "assistant",
+        "content": "The power to travel to distant times and places safely."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yog-Sothoth's power to travel within the planes?"
+      },
+      {
+        "role": "assistant",
+        "content": "to reach any other time or space"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yog-Sothoth's other name, indicating its role as the Gate?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Key"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the correct Arabic form of 'Umr at'Taw-il, Yog-Sothoth's aspect as Opener of the Way?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tawil at'Umr"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What speeds can Yog-Sothoth fly through our atmosphere?"
+      },
+      {
+        "role": "assistant",
+        "content": "hundreds or thousands of miles per hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yog-Sothoth called?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Key and the Gate"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the correct Arabic form of 'Prolonged of Life'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tawil at'Umr"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what speeds can Yog-Sothoth fly through our atmosphere?"
+      },
+      {
+        "role": "assistant",
+        "content": "hundreds or thousands of miles per hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does Yog-Sothoth have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character touched by Yog-Sothoth's spheres?"
+      },
+      {
+        "role": "assistant",
+        "content": "they immediately lose 3D10 CON, with possible permanent damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a body part touched by Yog-Sothoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes the form of corrosion, withering, or corruption of the body part touched."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of using Yog-Sothoth's bolts of silvery fluid or fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Yog-Sothoth's energy sphere?"
+      },
+      {
+        "role": "assistant",
+        "content": "It covers an area about 5 yards across with its effect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What damage does Yog-Sothoth's bolts cause?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death in a 5-yard diameter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Yog-Sothoth be damaged with non-magical weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, only magical weapons may damage Yog-Sothoth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the area affected by a gout of energy?"
+      },
+      {
+        "role": "assistant",
+        "content": "about 5 yards across"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to characters within a 5-yard diameter of a gout of energy?"
+      },
+      {
+        "role": "assistant",
+        "content": "they are damaged to death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What material can damage Zoth-Ommog?"
+      },
+      {
+        "role": "assistant",
+        "content": "magical weapons"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Zoth-Ommog transport characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "by touching them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of seeing Zoth-Ommog in its Tawil at'Umr form?"
+      },
+      {
+        "role": "assistant",
+        "content": "no cost"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.1
+  }
+}

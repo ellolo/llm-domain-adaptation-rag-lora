@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Call of Cthulhu game system uses a skill-based system to resolve conflicts and challenges. To make a skill roll, a player must state a goal, determine the difficulty level, and roll dice, with the goal of achieving a critical success (01) or avoiding a fumble (96-100). The difficulty level is determined by the opposing skill or characteristic, with regular, hard, and extreme difficulties ranging from 50 to 90 and above, respectively. Opposed rolls are used when two players are opposing each other, with the winner determined by the best level of success.",
+  "qa_pairs": [
+    {
+      "question": "What is the base range for a Taser in Call of Cthulhu?",
+      "answer": "10+4; 50 yards",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the dice roll required for success is below 50?",
+      "answer": "A fumble occurs if 96\u2014100 is rolled",
+      "rating": 8
+    },
+    {
+      "question": "What is the lowest number required for a fumble?",
+      "answer": "100",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for a 'critical success'?",
+      "answer": "01",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for a 'hard difficulty level'?",
+      "answer": "Opposing skill/characteristic is equal to or above 50",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum roll required to succeed in a Hard Difficulty Level task?",
+      "answer": "equal to or below half his or her skill or characteristic",
+      "rating": 9
+    },
+    {
+      "question": "How does a Critical success compare to an Extreme success in a opposed roll?",
+      "answer": "A Critical success beats an Extreme success.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for succeeding in opposed rolls?",
+      "answer": "To succeed, the player needs to roll equal to or below a fifth of his or her skill or characteristic.",
+      "rating": 9
+    },
+    {
+      "question": "How are opposed rolls used?",
+      "answer": "Opposed rolls are used when two players are opposing one another, and both roll against agreed skill or characteristic.",
+      "rating": 9
+    },
+    {
+      "question": "What is the rule for resolving ties in a critical success vs extreme success roll?",
+      "answer": "The side with the higher skill (or characteristic) wins.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a tie still exists after a re-roll?",
+      "answer": "An impasse has been reached or both sides should re-roll.",
+      "rating": 7
+    },
+    {
+      "question": "What happens when both sides reach an impasse in a skill roll?",
+      "answer": "Either an impasse has been reached or both sides should re-roll.",
+      "rating": 7
+    },
+    {
+      "question": "How do you determine the effect of a penalty die in a skill roll?",
+      "answer": "By rolling an additional tens percentage die alongside the usual pair of percentage dice and using the tens dice that yields the worse (higher) result.",
+      "rating": 9
+    },
+    {
+      "question": "What is the upper limit of what can be opposed in a skill roll?",
+      "answer": "100 + the investigator's skill or characteristic.",
+      "rating": 8
+    },
+    {
+      "question": "What is the first step in the investigator development process?",
+      "answer": "Deduct each investigator\u2019s characteristic value in turn from the opposition\u2019s characteristic.",
+      "rating": 9
+    },
+    {
+      "question": "When is a skill roll required?",
+      "answer": "When an investigator\u2019s characteristic was not used to reduce the opposing factor.",
+      "rating": 8
+    },
+    {
+      "question": "What is required when a situation allows or demands the use of more than one skill?",
+      "answer": "Combined Skill Rolls",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the result of the combined skill roll if it is higher than the skill or over 95?",
+      "answer": "A success",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range for a Taser in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "10+4; 50 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the dice roll required for success is below 50?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fumble occurs if 96\u2014100 is rolled"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest number required for a fumble?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a 'critical success'?"
+      },
+      {
+        "role": "assistant",
+        "content": "01"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a 'hard difficulty level'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposing skill/characteristic is equal to or above 50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum roll required to succeed in a Hard Difficulty Level task?"
+      },
+      {
+        "role": "assistant",
+        "content": "equal to or below half his or her skill or characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a Critical success compare to an Extreme success in a opposed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Critical success beats an Extreme success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for succeeding in opposed rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "To succeed, the player needs to roll equal to or below a fifth of his or her skill or characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are opposed rolls used?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed rolls are used when two players are opposing one another, and both roll against agreed skill or characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for resolving ties in a critical success vs extreme success roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The side with the higher skill (or characteristic) wins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a tie still exists after a re-roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "An impasse has been reached or both sides should re-roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when both sides reach an impasse in a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either an impasse has been reached or both sides should re-roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you determine the effect of a penalty die in a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "By rolling an additional tens percentage die alongside the usual pair of percentage dice and using the tens dice that yields the worse (higher) result."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the upper limit of what can be opposed in a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 + the investigator's skill or characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step in the investigator development process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deduct each investigator\u2019s characteristic value in turn from the opposition\u2019s characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is a skill roll required?"
+      },
+      {
+        "role": "assistant",
+        "content": "When an investigator\u2019s characteristic was not used to reduce the opposing factor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required when a situation allows or demands the use of more than one skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Combined Skill Rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the result of the combined skill roll if it is higher than the skill or over 95?"
+      },
+      {
+        "role": "assistant",
+        "content": "A success"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 18,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

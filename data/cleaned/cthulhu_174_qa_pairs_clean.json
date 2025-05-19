@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Cthulhu Mythos, a character's sanity can be affected by various stimuli, including non-Mythos-related traumas, Mythos-induced events, and delusions. When a character experiences Mythos-related insanity, their Cthulhu Mythos skill increases, reflecting their growing knowledge of the Mythos. Conversely, delusions caused by Mythos entities can lead to Sanity point loss, which can be mitigated by successful reality checks. The severity of these effects depends on the character's Cthulhu Mythos skill and the nature of the stimulus.",
+  "qa_pairs": [
+    {
+      "question": "What are some common symptoms associated with arrulousness?",
+      "answer": "arrulousness, increased self-esteem to the point of delusion, decreased need for sleep, easily distracted, willingness for dangerous or imprudent activities",
+      "rating": 8
+    },
+    {
+      "question": "What is the nature of compulsions?",
+      "answer": "Compulsions tend to be ritual actions performed to affect the future, possibly to prevent some vague notion of im-pending doom",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary cause of amnesia in the Cthulhu Mythos?",
+      "answer": "A desire to avoid unpleasant memories.",
+      "rating": 7
+    },
+    {
+      "question": "What can the Keeper choose to reset to during the time of amnesia?",
+      "answer": "Cthulhu Mythos to 0 and maximum Sanity to 99",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the character's memories when they experience a similarly horrific situation?",
+      "answer": "The horror returns.",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the character's memories when they experience a similarly horrific situation, or when they experience a similar horrific situation again?",
+      "answer": "The horror returns when the character\u2019s memories do, or when they experience a similarly horrific situation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary cause of amnesia in the Cthulhu Mythos?",
+      "answer": "A desire to avoid unpleasant memories.",
+      "rating": 7
+    },
+    {
+      "question": "How does the Keeper choose to reset the Cthulhu Mythos in this scenario?",
+      "answer": "The Keeper resets Cthulhu Mythos to 0 and maximum Sanity to 99.",
+      "rating": 8
+    },
+    {
+      "question": "What is the narrator's attitude towards the horror and madness in the Cthulhu Mythos?",
+      "answer": "The narrator believes that the horror and madness will ultimately lead to suffocation.",
+      "rating": 8
+    },
+    {
+      "question": "How does the narrator describe their own mental state in this passage?",
+      "answer": "The narrator describes their own mental state as 'demoniac laughter' due to a weakening brain.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the Cthulhu Mythos skill when an investigator experiences Mythos-induced insanity?",
+      "answer": "The Cthulhu Mythos skill increases by 5 points for the first instance, and by 1 point for each subsequent episode.",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of temporary or indefinite Mythos-induced insanity on the Cthulhu Mythos skill?",
+      "answer": "Each episode, including temporary or indefinite ones, adds 1 point to the Cthulhu Mythos skill.",
+      "rating": 8
+    },
+    {
+      "question": "How does the Cthulhu Mythos skill change after the first instance of Mythos-related insanity?",
+      "answer": "The Cthulhu Mythos skill increases by 5 points for the first instance.",
+      "rating": 9
+    },
+    {
+      "question": "How much does the Cthulhu Mythos skill increase each time an investigator experiences Mythos-induced insanity after the first time?",
+      "answer": "Each subsequent episode, including temporary or indefinite ones, adds 1 point to the Cthulhu Mythos skill.",
+      "rating": 8
+    },
+    {
+      "question": "What does the first instance of Mythos-related insanity add to the Cthulhu Mythos skill?",
+      "answer": "5 points",
+      "rating": 9
+    },
+    {
+      "question": "How much does each episode of Mythos-induced insanity add to the Cthulhu Mythos skill?",
+      "answer": "1 point",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey's Sanity points when he goes insane?",
+      "answer": "They drop",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum number of Sanity points Harvey can have?",
+      "answer": "91",
+      "rating": 9
+    },
+    {
+      "question": "How much Harvey\u2019s Cthulhu Mythos skill increases?",
+      "answer": "8%",
+      "rating": 7
+    },
+    {
+      "question": "What is Harvey\u2019s maximum Sanity points after the increase?",
+      "answer": "91",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the insane investigator if they fail a reality check roll?",
+      "answer": "Loses Sanity points",
+      "rating": 6
+    },
+    {
+      "question": "Can the player choose to dispel the delusion of a sanity-threatening entity without making a Sanity roll?",
+      "answer": "Yes, by making a successful reality check roll",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some common symptoms associated with arrulousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "arrulousness, increased self-esteem to the point of delusion, decreased need for sleep, easily distracted, willingness for dangerous or imprudent activities"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of compulsions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Compulsions tend to be ritual actions performed to affect the future, possibly to prevent some vague notion of im-pending doom"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary cause of amnesia in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "A desire to avoid unpleasant memories."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the Keeper choose to reset to during the time of amnesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthulhu Mythos to 0 and maximum Sanity to 99"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the character's memories when they experience a similarly horrific situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The horror returns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the character's memories when they experience a similarly horrific situation, or when they experience a similar horrific situation again?"
+      },
+      {
+        "role": "assistant",
+        "content": "The horror returns when the character\u2019s memories do, or when they experience a similarly horrific situation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary cause of amnesia in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "A desire to avoid unpleasant memories."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper choose to reset the Cthulhu Mythos in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper resets Cthulhu Mythos to 0 and maximum Sanity to 99."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the narrator's attitude towards the horror and madness in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator believes that the horror and madness will ultimately lead to suffocation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the narrator describe their own mental state in this passage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator describes their own mental state as 'demoniac laughter' due to a weakening brain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Cthulhu Mythos skill when an investigator experiences Mythos-induced insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cthulhu Mythos skill increases by 5 points for the first instance, and by 1 point for each subsequent episode."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of temporary or indefinite Mythos-induced insanity on the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each episode, including temporary or indefinite ones, adds 1 point to the Cthulhu Mythos skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Cthulhu Mythos skill change after the first instance of Mythos-related insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cthulhu Mythos skill increases by 5 points for the first instance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the Cthulhu Mythos skill increase each time an investigator experiences Mythos-induced insanity after the first time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each subsequent episode, including temporary or indefinite ones, adds 1 point to the Cthulhu Mythos skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the first instance of Mythos-related insanity add to the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does each episode of Mythos-induced insanity add to the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Sanity points when he goes insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "They drop"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum number of Sanity points Harvey can have?"
+      },
+      {
+        "role": "assistant",
+        "content": "91"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Harvey\u2019s Cthulhu Mythos skill increases?"
+      },
+      {
+        "role": "assistant",
+        "content": "8%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey\u2019s maximum Sanity points after the increase?"
+      },
+      {
+        "role": "assistant",
+        "content": "91"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the insane investigator if they fail a reality check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Loses Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the player choose to dispel the delusion of a sanity-threatening entity without making a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, by making a successful reality check roll"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

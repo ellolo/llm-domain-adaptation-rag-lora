@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe scenario \"The Ticking Bomb\" involves a countdown to a catastrophic event, where a set of papers known as the Witch Trial Papers has unleashed a horror beyond human control. The investigators must navigate the complex web of characters and secrets surrounding the death of Charles Leiter, who was involved in the project to assay and collate the papers. The scenario's outcome is determined by the investigators' actions and decisions, and the Keeper can use a deadline to add an element of urgency. The key to solving the mystery lies in extracting information from non-player characters and employing communication skills such as Fast Talk, Persuade, Charm, Intimidate, and Psychology.",
+  "qa_pairs": [
+    {
+      "question": "Who is involved in the countdown?",
+      "answer": "The investigators",
+      "rating": 8
+    },
+    {
+      "question": "What will happen if the countdown reaches zero?",
+      "answer": "There will be blood",
+      "rating": 9
+    },
+    {
+      "question": "Where do the investigators start their investigation?",
+      "answer": "The course of this scenario is determined by the investigator's actions (and therefore the player's decisions).",
+      "rating": 7
+    },
+    {
+      "question": "What is the Keeper in charge of deciding?",
+      "answer": "That's for the Keeper to decide.",
+      "rating": 6
+    },
+    {
+      "question": "What is the significance of the tapestry of the investigators' discoveries in the scenario's outcome?",
+      "answer": "It is instead rather the tapestry of what the investigators do and what they discover that will lead to the scenario's conclusion for good or ill.",
+      "rating": 8
+    },
+    {
+      "question": "What has been unleashed from the Witch Trial Papers that threatens to cause havoc and murder?",
+      "answer": "the same thing that killed Leiter in his locked office at the Miskatonic University, a thing that now wishes to be free",
+      "rating": 9
+    },
+    {
+      "question": "What is the central idea of the scenario?",
+      "answer": "The central idea is that the outcome of the scenario depends on the tapestry of actions and discoveries of the investigators, rather than a single clue.",
+      "rating": 8
+    },
+    {
+      "question": "What is the optional factor that can be involved in the scenario?",
+      "answer": "A deadline involved, as something has been unleashed from the Witch Trial Papers.",
+      "rating": 7
+    },
+    {
+      "question": "Where are the key facts and secrets of the mystery to be found?",
+      "answer": "In the minds and desires of the people surrounding the death of Charles Leiter.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of the Keeper in this scenario?",
+      "answer": "To become familiar with the characters' secrets and motivations, and to decide who is the culprit.",
+      "rating": 8
+    },
+    {
+      "question": "What is the central mystery in the text?",
+      "answer": "The central mystery is the death of Charles Leiter and a supernatural entity that has been unleashed.",
+      "rating": 9
+    },
+    {
+      "question": "Where can investigators extract information from NPCs?",
+      "answer": "From non-player characters (NPCs)",
+      "rating": 7
+    },
+    {
+      "question": "What skills do investigators need to employ?",
+      "answer": "Communication skills including Fast Talk, Persuade, Charm, Intimidate, and Psychology",
+      "rating": 9
+    },
+    {
+      "question": "What document provides more details on the supernatural entity?",
+      "answer": "Manifestations of Horror, page 379",
+      "rating": 8
+    },
+    {
+      "question": "What is the main focus of this adventure?",
+      "answer": "a detailed dramatis personae\u2014a cast of characters",
+      "rating": 9
+    },
+    {
+      "question": "What skill should investigators use to extract information from NPCs?",
+      "answer": "communication skills such as Fast Talk, Persuade, Charm, Intimidate, and Psychology",
+      "rating": 8
+    },
+    {
+      "question": "What skill should Keepers revisit to help investigators?",
+      "answer": "Charm, Fast Talk, Intimidate, and Persuade skills",
+      "rating": 8
+    },
+    {
+      "question": "Where can the difficulty levels for Charm, Fast Talk, Intimidate, and Persuade skills be found?",
+      "answer": "page 93",
+      "rating": 9
+    },
+    {
+      "question": "In what month does Joshua Hobbhouse, the last of his line, die a recluse?",
+      "answer": "February",
+      "rating": 7
+    },
+    {
+      "question": "Who successfully lobbies for control of the Hobbhouse papers and library project?",
+      "answer": "Professor Charles Leiter",
+      "rating": 9
+    },
+    {
+      "question": "What institution is involved in the agreement with the Cobb family to assay and collate the Hobbhouse papers and library?",
+      "answer": "Miskatonic University",
+      "rating": 8
+    },
+    {
+      "question": "What is the reason for Professor Leiter needing money in late August?",
+      "answer": "A disastrous gambling trip",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is involved in the countdown?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen if the countdown reaches zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "There will be blood"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do the investigators start their investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The course of this scenario is determined by the investigator's actions (and therefore the player's decisions)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper in charge of deciding?"
+      },
+      {
+        "role": "assistant",
+        "content": "That's for the Keeper to decide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the tapestry of the investigators' discoveries in the scenario's outcome?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is instead rather the tapestry of what the investigators do and what they discover that will lead to the scenario's conclusion for good or ill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been unleashed from the Witch Trial Papers that threatens to cause havoc and murder?"
+      },
+      {
+        "role": "assistant",
+        "content": "the same thing that killed Leiter in his locked office at the Miskatonic University, a thing that now wishes to be free"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the central idea of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The central idea is that the outcome of the scenario depends on the tapestry of actions and discoveries of the investigators, rather than a single clue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional factor that can be involved in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A deadline involved, as something has been unleashed from the Witch Trial Papers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are the key facts and secrets of the mystery to be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the minds and desires of the people surrounding the death of Charles Leiter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of the Keeper in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To become familiar with the characters' secrets and motivations, and to decide who is the culprit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the central mystery in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The central mystery is the death of Charles Leiter and a supernatural entity that has been unleashed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators extract information from NPCs?"
+      },
+      {
+        "role": "assistant",
+        "content": "From non-player characters (NPCs)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills do investigators need to employ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Communication skills including Fast Talk, Persuade, Charm, Intimidate, and Psychology"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What document provides more details on the supernatural entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Manifestations of Horror, page 379"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of this adventure?"
+      },
+      {
+        "role": "assistant",
+        "content": "a detailed dramatis personae\u2014a cast of characters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill should investigators use to extract information from NPCs?"
+      },
+      {
+        "role": "assistant",
+        "content": "communication skills such as Fast Talk, Persuade, Charm, Intimidate, and Psychology"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill should Keepers revisit to help investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charm, Fast Talk, Intimidate, and Persuade skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can the difficulty levels for Charm, Fast Talk, Intimidate, and Persuade skills be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "page 93"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what month does Joshua Hobbhouse, the last of his line, die a recluse?"
+      },
+      {
+        "role": "assistant",
+        "content": "February"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who successfully lobbies for control of the Hobbhouse papers and library project?"
+      },
+      {
+        "role": "assistant",
+        "content": "Professor Charles Leiter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What institution is involved in the agreement with the Cobb family to assay and collate the Hobbhouse papers and library?"
+      },
+      {
+        "role": "assistant",
+        "content": "Miskatonic University"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for Professor Leiter needing money in late August?"
+      },
+      {
+        "role": "assistant",
+        "content": "A disastrous gambling trip"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

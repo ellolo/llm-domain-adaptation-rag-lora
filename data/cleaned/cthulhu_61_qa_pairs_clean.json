@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines two types of skills: Regular difficulty and Hard difficulty. Regular difficulty involves repairing or creating a standard electrical device, such as a computer, with the proper tools and parts. Hard difficulty, on the other hand, involves repairing or creating something that is badly damaged or working without proper tools, often with a higher risk of failure. The document also introduces the concept of \"Pushing\" examples, where investigators attempt to take shortcuts or risks to achieve their goals, which can lead to unpredictable consequences.",
+  "qa_pairs": [
+    {
+      "question": "What is the regular difficulty in repairing or creating a standard electrical device?",
+      "answer": "repairing or creating a standard electrical device",
+      "rating": 8
+    },
+    {
+      "question": "What is considered hard difficulty in repairing or creating a standard electrical device?",
+      "answer": "repairing something that is badly damaged; working without the proper tools",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of taking a risky short cut in repairing or creating a standard electrical device?",
+      "answer": "taking a risky short cut",
+      "rating": 7
+    },
+    {
+      "question": "What is a consequence of failing a pushed roll in repairing or creating a standard electrical device?",
+      "answer": "take damage from an electric shock; blow the fuses and plunge the building into darkness",
+      "rating": 10
+    },
+    {
+      "question": "What skill allows simple electronic devices to be made?",
+      "answer": "This skill allows simple electronic devices to be made.",
+      "rating": 6
+    },
+    {
+      "question": "Why can't parts needed for electronics work be jury-rigged?",
+      "answer": "Often without the right microchip or circuit board, the skill-user is out of luck unless they can contrive some form of workaround.",
+      "rating": 8
+    },
+    {
+      "question": "How does the difficulty level of the skill relate to time?",
+      "answer": "Time is a factor in fabrication or repair, and the difficulty level should be lowered if time is unlimited, especially if the character has access to manuals and parts.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level of repairing minor damage to a computer or electronic device?",
+      "answer": "Regular difficulty: repairing minor damage to a computer or electronic device \u2014 the kind of service one might expect under warranty.",
+      "rating": 8
+    },
+    {
+      "question": "What is a characteristic of parts needed for electronics work?",
+      "answer": "They are designed for precise jobs.",
+      "rating": 9
+    },
+    {
+      "question": "What should be done with difficulty level if time is unlimited?",
+      "answer": "The difficulty level should be lowered.",
+      "rating": 8
+    },
+    {
+      "question": "What should not require a skill roll if an investigator has the correct parts and instructions?",
+      "answer": "Putting together a standard computer.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of regular difficulty?",
+      "answer": "Repairing minor damage to a computer or electronic device.",
+      "rating": 8
+    },
+    {
+      "question": "What are some consequences of failing a Pushed roll in an insane investigator?",
+      "answer": "fry circuitry or other delicate parts; take damage from electric shock; create a device that does something other than what was intended.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to an insane investigator who fails a Pushed roll?",
+      "answer": "becomes paranoid, convinced that every item they come across contains electronic bugging devices.",
+      "rating": 9
+    },
+    {
+      "question": "What number corresponds to the sample consequences of failing a Pushed roll?",
+      "answer": "63",
+      "rating": 7
+    },
+    {
+      "question": "What does the text describe as an outcome of an investigator failing a Pushed roll?",
+      "answer": "paranoid, convinced that every item they come across contains electronic bugging devices",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary focus of the Fast Talk skill?",
+      "answer": "verbal trickery, deception, and misdirection",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of Fast Talk, and how long does it last?",
+      "answer": "the effect is always temporary, though it will last longer if a higher level of success is achieved",
+      "rating": 8
+    },
+    {
+      "question": "Can Fast Talk be used to haggle prices, and if so, how?",
+      "answer": "yes, it can be used to haggle the price of an item or service down",
+      "rating": 9
+    },
+    {
+      "question": "What is the seller's behavior if the buyer returns and attempts to purchase another item after a successful haggle?",
+      "answer": "the seller may refuse further haggling and even increase the price to re-coup what they lost",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Fast Talk?",
+      "answer": "The effect of Fast Talk is always temporary.",
+      "rating": 7
+    },
+    {
+      "question": "Why might a seller increase the price after successful haggling?",
+      "answer": "A seller might increase the price in order to re-coup what they lost on the previous sale!",
+      "rating": 9
+    },
+    {
+      "question": "What is a characteristic of successful Fast Talk?",
+      "answer": "If successful, the seller momentarily thinks that they have struck a good deal.",
+      "rating": 8
+    },
+    {
+      "question": "How might a seller increase their chances of success with Fast Talk?",
+      "answer": "By getting up close and personal to the target, talking outlandishly, and aiming to confuse the target.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty in repairing or creating a standard electrical device?"
+      },
+      {
+        "role": "assistant",
+        "content": "repairing or creating a standard electrical device"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is considered hard difficulty in repairing or creating a standard electrical device?"
+      },
+      {
+        "role": "assistant",
+        "content": "repairing something that is badly damaged; working without the proper tools"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of taking a risky short cut in repairing or creating a standard electrical device?"
+      },
+      {
+        "role": "assistant",
+        "content": "taking a risky short cut"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a consequence of failing a pushed roll in repairing or creating a standard electrical device?"
+      },
+      {
+        "role": "assistant",
+        "content": "take damage from an electric shock; blow the fuses and plunge the building into darkness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill allows simple electronic devices to be made?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill allows simple electronic devices to be made."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can't parts needed for electronics work be jury-rigged?"
+      },
+      {
+        "role": "assistant",
+        "content": "Often without the right microchip or circuit board, the skill-user is out of luck unless they can contrive some form of workaround."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level of the skill relate to time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Time is a factor in fabrication or repair, and the difficulty level should be lowered if time is unlimited, especially if the character has access to manuals and parts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of repairing minor damage to a computer or electronic device?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty: repairing minor damage to a computer or electronic device \u2014 the kind of service one might expect under warranty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of parts needed for electronics work?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are designed for precise jobs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be done with difficulty level if time is unlimited?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level should be lowered."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should not require a skill roll if an investigator has the correct parts and instructions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Putting together a standard computer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of regular difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Repairing minor damage to a computer or electronic device."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some consequences of failing a Pushed roll in an insane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "fry circuitry or other delicate parts; take damage from electric shock; create a device that does something other than what was intended."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an insane investigator who fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "becomes paranoid, convinced that every item they come across contains electronic bugging devices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What number corresponds to the sample consequences of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "63"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the text describe as an outcome of an investigator failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "paranoid, convinced that every item they come across contains electronic bugging devices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary focus of the Fast Talk skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "verbal trickery, deception, and misdirection"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Fast Talk, and how long does it last?"
+      },
+      {
+        "role": "assistant",
+        "content": "the effect is always temporary, though it will last longer if a higher level of success is achieved"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Fast Talk be used to haggle prices, and if so, how?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it can be used to haggle the price of an item or service down"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the seller's behavior if the buyer returns and attempts to purchase another item after a successful haggle?"
+      },
+      {
+        "role": "assistant",
+        "content": "the seller may refuse further haggling and even increase the price to re-coup what they lost"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Fast Talk?"
+      },
+      {
+        "role": "assistant",
+        "content": "The effect of Fast Talk is always temporary."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why might a seller increase the price after successful haggling?"
+      },
+      {
+        "role": "assistant",
+        "content": "A seller might increase the price in order to re-coup what they lost on the previous sale!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of successful Fast Talk?"
+      },
+      {
+        "role": "assistant",
+        "content": "If successful, the seller momentarily thinks that they have struck a good deal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might a seller increase their chances of success with Fast Talk?"
+      },
+      {
+        "role": "assistant",
+        "content": "By getting up close and personal to the target, talking outlandishly, and aiming to confuse the target."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

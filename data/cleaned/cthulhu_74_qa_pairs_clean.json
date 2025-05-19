@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses the concept of \"Pushing\" in a game or simulation, where the player must manipulate machinery or vehicles to achieve specific tasks, such as landing an aircraft or unearthing delicate objects. Pushing involves using reasoning, debate, and discussion to convince others of a particular idea or concept, and can be employed without reference to truth. The document also outlines the consequences of failing a Pushed roll, which can result in damage to the craft, injury, or even death. Additionally, it introduces the concept of Piloting, which involves understanding and navigating different types of aircraft, including aircraft, boats, and balloons.",
+  "qa_pairs": [
+    {
+      "question": "What is a pushed roll in the context of operating a crane or road digger?",
+      "answer": "A pushed roll involves going step-by-step with the operating manual, taking time to practice, and seeking a teacher.",
+      "rating": 8
+    },
+    {
+      "question": "What can happen if a person fails a pushed roll while operating a crane or road digger?",
+      "answer": "A person who fails a pushed roll may believe they are tasked with unearthing or building a temple to the old ones.",
+      "rating": 6
+    },
+    {
+      "question": "What is a hard difficulty in operating a crane or road digger?",
+      "answer": "A hard difficulty is manipulating the machinery to achieve delicate or specific tasks, such as unearthing dinosaur eggs without breaking them.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a hard difficulty in operating a crane or road digger?",
+      "answer": "An example of a hard difficulty is going step-by-step with the operating manual to achieve a delicate task, such as unearthing dinosaur eggs.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary purpose of the Persuade skill?",
+      "answer": "to convince a target about a particular idea, concept, or belief",
+      "rating": 7
+    },
+    {
+      "question": "How long does Persuade take to be successful?",
+      "answer": "at least half an hour",
+      "rating": 8
+    },
+    {
+      "question": "What should be used to persuade someone quickly?",
+      "answer": "Fast Talk",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of a Pushed roll?",
+      "answer": "To make a risky maneuver to lose a pursuer",
+      "rating": 8
+    },
+    {
+      "question": "When should Reserve burning be used?",
+      "answer": "When the pilot is insane, or when taking a crazy risk at high speed",
+      "rating": 7
+    },
+    {
+      "question": "What is Fast Talk?",
+      "answer": "a method to persuade someone quickly",
+      "rating": 9
+    },
+    {
+      "question": "What is a Pushed roll?",
+      "answer": "an action where the investigator pushes the limits",
+      "rating": 8
+    },
+    {
+      "question": "What are the consequences of failing a Pushed roll?",
+      "answer": "damaged craft, injured passengers, or emergency landing",
+      "rating": 9
+    },
+    {
+      "question": "What happens if an insane investigator fails a Pushed roll?",
+      "answer": "they will believe they are capable of death-defying stunts",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the plane is damaged and repairs cannot be made?",
+      "answer": "It can't be used again.",
+      "rating": 9
+    },
+    {
+      "question": "What is a good reason to reserve burning wrecks?",
+      "answer": "When the pilot is insane or taking a crazy risk at high speed.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an investigator who fails a pushed roll?",
+      "answer": "They will believe they are capable of death-defying stunts.",
+      "rating": 7
+    },
+    {
+      "question": "What is the recommended course of action for handling wrecks?",
+      "answer": "Reserving them for exceptional circumstances.",
+      "rating": 9
+    },
+    {
+      "question": "What is a consequence of failure in a skill roll to land in a flat, grassy field on a calm summer\u2019s day?",
+      "answer": "Failing to land in a flat, grassy field on a calm summer\u2019s day may simply indicate a bumpy landing, perhaps deterring more delicate passengers from flying again.",
+      "rating": 8
+    },
+    {
+      "question": "What is a possible outcome of failing a (Pushed) skill roll to land on icy tundra during a storm?",
+      "answer": "Failing a (Pushed) skill roll to land on icy tundra during a storm may well result in the destruction of the airplane and death or injury of all involved.",
+      "rating": 10
+    },
+    {
+      "question": "What is a common result of failure in a skill roll?",
+      "answer": "Failure commonly represents damage to the craft, which must be repaired before the next take-off.",
+      "rating": 8
+    },
+    {
+      "question": "What score represents a memorable disaster?",
+      "answer": "A result of 100 is a memorable disaster.",
+      "rating": 9
+    },
+    {
+      "question": "What is the consequence of failing a skill roll to land on icy tundra during a storm?",
+      "answer": "The destruction of the airplane and death or injury of all involved.",
+      "rating": 10
+    },
+    {
+      "question": "What is the range of skill levels for piloting aircraft in the 1920s?",
+      "answer": "Pilot Balloon/Dirigible/Civil Prop only.",
+      "rating": 8
+    },
+    {
+      "question": "How many classes of aircraft are currently counted as different skills?",
+      "answer": "7 classes: Pilot Civil Prop, Pilot Civil Jet, Pilot Airliner, Pilot Jet Fighter, Pilot Helicopter, Pilot Balloon/Dirigible/Civil Prop (1920s), and Pilot Boat.",
+      "rating": 9
+    },
+    {
+      "question": "What is the behavior of small motor and sailing craft in the Pilot Boat skill?",
+      "answer": "Understands the behavior of small motor and sailing craft in wind, storms, and tides.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a pushed roll in the context of operating a crane or road digger?"
+      },
+      {
+        "role": "assistant",
+        "content": "A pushed roll involves going step-by-step with the operating manual, taking time to practice, and seeking a teacher."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if a person fails a pushed roll while operating a crane or road digger?"
+      },
+      {
+        "role": "assistant",
+        "content": "A person who fails a pushed roll may believe they are tasked with unearthing or building a temple to the old ones."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a hard difficulty in operating a crane or road digger?"
+      },
+      {
+        "role": "assistant",
+        "content": "A hard difficulty is manipulating the machinery to achieve delicate or specific tasks, such as unearthing dinosaur eggs without breaking them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a hard difficulty in operating a crane or road digger?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of a hard difficulty is going step-by-step with the operating manual to achieve a delicate task, such as unearthing dinosaur eggs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of the Persuade skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "to convince a target about a particular idea, concept, or belief"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does Persuade take to be successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "at least half an hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be used to persuade someone quickly?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fast Talk"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make a risky maneuver to lose a pursuer"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When should Reserve burning be used?"
+      },
+      {
+        "role": "assistant",
+        "content": "When the pilot is insane, or when taking a crazy risk at high speed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fast Talk?"
+      },
+      {
+        "role": "assistant",
+        "content": "a method to persuade someone quickly"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "an action where the investigator pushes the limits"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "damaged craft, injured passengers, or emergency landing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "they will believe they are capable of death-defying stunts"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the plane is damaged and repairs cannot be made?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can't be used again."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a good reason to reserve burning wrecks?"
+      },
+      {
+        "role": "assistant",
+        "content": "When the pilot is insane or taking a crazy risk at high speed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator who fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will believe they are capable of death-defying stunts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended course of action for handling wrecks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reserving them for exceptional circumstances."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a consequence of failure in a skill roll to land in a flat, grassy field on a calm summer\u2019s day?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing to land in a flat, grassy field on a calm summer\u2019s day may simply indicate a bumpy landing, perhaps deterring more delicate passengers from flying again."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible outcome of failing a (Pushed) skill roll to land on icy tundra during a storm?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing a (Pushed) skill roll to land on icy tundra during a storm may well result in the destruction of the airplane and death or injury of all involved."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common result of failure in a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure commonly represents damage to the craft, which must be repaired before the next take-off."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What score represents a memorable disaster?"
+      },
+      {
+        "role": "assistant",
+        "content": "A result of 100 is a memorable disaster."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failing a skill roll to land on icy tundra during a storm?"
+      },
+      {
+        "role": "assistant",
+        "content": "The destruction of the airplane and death or injury of all involved."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of skill levels for piloting aircraft in the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pilot Balloon/Dirigible/Civil Prop only."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many classes of aircraft are currently counted as different skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "7 classes: Pilot Civil Prop, Pilot Civil Jet, Pilot Airliner, Pilot Jet Fighter, Pilot Helicopter, Pilot Balloon/Dirigible/Civil Prop (1920s), and Pilot Boat."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the behavior of small motor and sailing craft in the Pilot Boat skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Understands the behavior of small motor and sailing craft in wind, storms, and tides."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 25,
+    "retention_rate": 0.89,
+    "avg_score": 7.8
+  }
+}

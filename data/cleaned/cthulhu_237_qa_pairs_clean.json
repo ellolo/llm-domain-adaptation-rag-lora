@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn creating a Cthulhu Mythos game, the Keeper should aim to create a sense of atmosphere and transition for the investigators as they come to understand the true nature of the universe. This can involve shifting the tone from one of hope and optimism to one of dread and horror. The Keeper should also know when to end the game, using techniques such as cliffhangers, dramatic moments, or sudden changes in the scene to bring the story to a close. Additionally, the Keeper can use techniques like the \"Idea roll\" to determine the outcome of the final scene and create a sense of tension and uncertainty.",
+  "qa_pairs": [
+    {
+      "question": "What is the setting for the use of the spontaneous Cthulhu Mythos skill?",
+      "answer": "The setting of goals for the use of the spontaneous Cthulhu Mythos skill can be more generous if the goal is associated with the investigator\u2019s profession.",
+      "rating": 8
+    },
+    {
+      "question": "What is the goal of the Keeper in creating atmosphere?",
+      "answer": "The Keeper should play up the transition that the investigators go through when they come to realize the reality of the Mythos.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for someone to be a Herbert West-style character?",
+      "answer": "Someone with no Cthulhu Mythos skill points or who disbelieves in it.",
+      "rating": 7
+    },
+    {
+      "question": "What is the ultimate goal of the Keeper in creating atmosphere?",
+      "answer": "The Keeper should play up the transition that the investigators go through when they come to realize the reality of the Mythos.",
+      "rating": 9
+    },
+    {
+      "question": "What is the nature of the universe to someone who comprehends it?",
+      "answer": "The true nature of the universe.",
+      "rating": 10
+    },
+    {
+      "question": "What is the world like for someone with no Cthulhu Mythos skill points or who disbelieves in it?",
+      "answer": "a place of hope, a place where mankind has the potential to live in happiness, a place where the investigator can look forward to settling down, starting a family and enjoying a long and happy life.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the world when someone becomes a believer in the Cthulhu Mythos?",
+      "answer": "a threatening and unpleasant place\u2014people look strange and threatening, and the wind blows cold.",
+      "rating": 9
+    },
+    {
+      "question": "What is the fate of those with knowledge of the Cthulhu Mythos?",
+      "answer": "a worse fate than most, as their sanity is drained away, the nightmares increase, until they perceive the horror even with their waking mind.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when all sanity is gone for someone with knowledge of the Cthulhu Mythos?",
+      "answer": "they hear the dreadful Call of Cthulhu.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of losing sanity in the Mythos?",
+      "answer": "Their sanity is drained away, the nightmares increase, until they perceive the horror even with their waking mind.",
+      "rating": 9
+    },
+    {
+      "question": "How do some films end?",
+      "answer": "Some end with a bang (Star Wars), others end at a crucial point (The Italian Job) and some simply stop mid-flow (No Country for Old Men).",
+      "rating": 8
+    },
+    {
+      "question": "When should a Keeper decide the ending of a game?",
+      "answer": "As the story comes to an end, sometimes it is obvious and other times it is a matter of deciding when to say, \u201ccut\u201d.",
+      "rating": 7
+    },
+    {
+      "question": "How does a game ending in a battle against the big bad differ from other endings?",
+      "answer": "It clearly presents one way to end the game.",
+      "rating": 8
+    },
+    {
+      "question": "How can investigators end a game session in a battle?",
+      "answer": "By defeating the big bad in a battle.",
+      "rating": 8
+    },
+    {
+      "question": "What is an alternative way to end a game session?",
+      "answer": "Drawing the session to a close, such as asking players if they want to continue the story another day.",
+      "rating": 9
+    },
+    {
+      "question": "What can be useful in deciding whether investigators begin the final scene in an advantageous position?",
+      "answer": "An Idea roll (page 199).",
+      "rating": 7
+    },
+    {
+      "question": "How does the movie Planet Terror (a.k.a. Grindhouse) illustrate a game ending approach?",
+      "answer": "By simulating a missing reel of film and jumping to a later scene of carnage with the protagonists in the thick of the action.",
+      "rating": 8
+    },
+    {
+      "question": "What approach does the movie Planet Terror illustrate?",
+      "answer": "simulating the outdated problem of having a missing reel of film",
+      "rating": 9
+    },
+    {
+      "question": "What does the movie Planet Terror do when a missing reel of film is simulated?",
+      "answer": "jumps to a later scene of carnage",
+      "rating": 8
+    },
+    {
+      "question": "What problem does the movie Planet Terror simulate?",
+      "answer": "the outdated problem of having a missing reel of film",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the protagonists in the thick of the action in Planet Terror?",
+      "answer": "are in the thick of the action",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the setting for the use of the spontaneous Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The setting of goals for the use of the spontaneous Cthulhu Mythos skill can be more generous if the goal is associated with the investigator\u2019s profession."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Keeper in creating atmosphere?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should play up the transition that the investigators go through when they come to realize the reality of the Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for someone to be a Herbert West-style character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Someone with no Cthulhu Mythos skill points or who disbelieves in it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate goal of the Keeper in creating atmosphere?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should play up the transition that the investigators go through when they come to realize the reality of the Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the universe to someone who comprehends it?"
+      },
+      {
+        "role": "assistant",
+        "content": "The true nature of the universe."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the world like for someone with no Cthulhu Mythos skill points or who disbelieves in it?"
+      },
+      {
+        "role": "assistant",
+        "content": "a place of hope, a place where mankind has the potential to live in happiness, a place where the investigator can look forward to settling down, starting a family and enjoying a long and happy life."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the world when someone becomes a believer in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "a threatening and unpleasant place\u2014people look strange and threatening, and the wind blows cold."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fate of those with knowledge of the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "a worse fate than most, as their sanity is drained away, the nightmares increase, until they perceive the horror even with their waking mind."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when all sanity is gone for someone with knowledge of the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "they hear the dreadful Call of Cthulhu."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of losing sanity in the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their sanity is drained away, the nightmares increase, until they perceive the horror even with their waking mind."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do some films end?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some end with a bang (Star Wars), others end at a crucial point (The Italian Job) and some simply stop mid-flow (No Country for Old Men)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When should a Keeper decide the ending of a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "As the story comes to an end, sometimes it is obvious and other times it is a matter of deciding when to say, \u201ccut\u201d."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a game ending in a battle against the big bad differ from other endings?"
+      },
+      {
+        "role": "assistant",
+        "content": "It clearly presents one way to end the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can investigators end a game session in a battle?"
+      },
+      {
+        "role": "assistant",
+        "content": "By defeating the big bad in a battle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative way to end a game session?"
+      },
+      {
+        "role": "assistant",
+        "content": "Drawing the session to a close, such as asking players if they want to continue the story another day."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be useful in deciding whether investigators begin the final scene in an advantageous position?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Idea roll (page 199)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the movie Planet Terror (a.k.a. Grindhouse) illustrate a game ending approach?"
+      },
+      {
+        "role": "assistant",
+        "content": "By simulating a missing reel of film and jumping to a later scene of carnage with the protagonists in the thick of the action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What approach does the movie Planet Terror illustrate?"
+      },
+      {
+        "role": "assistant",
+        "content": "simulating the outdated problem of having a missing reel of film"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the movie Planet Terror do when a missing reel of film is simulated?"
+      },
+      {
+        "role": "assistant",
+        "content": "jumps to a later scene of carnage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What problem does the movie Planet Terror simulate?"
+      },
+      {
+        "role": "assistant",
+        "content": "the outdated problem of having a missing reel of film"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the protagonists in the thick of the action in Planet Terror?"
+      },
+      {
+        "role": "assistant",
+        "content": "are in the thick of the action"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 21,
+    "retention_rate": 0.88,
+    "avg_score": 7.4
+  }
+}

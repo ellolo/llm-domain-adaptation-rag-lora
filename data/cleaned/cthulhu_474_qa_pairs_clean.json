@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, investigators can lose sanity due to terrifying experiences, which can lead to temporary, indefinite, or permanent insanity. Sanity points, which start equal to the investigator's POW, can fluctuate and decline or increase, but do not regenerate. Investigators can use skills and characteristics to overcome challenges, with success determined by a 1D100 roll. The game also includes various mechanics, such as surprise attacks, unconsciousness, and the use of mythos tomes, which can be used to enhance gameplay.",
+  "qa_pairs": [
+    {
+      "question": "What is the starting sanity for every investigator?",
+      "answer": "sane",
+      "rating": 8
+    },
+    {
+      "question": "How do investigator's sanity points fluctuate?",
+      "answer": "They can decline or increase",
+      "rating": 6
+    },
+    {
+      "question": "What is the maximum possible number of sanity points?",
+      "answer": "99 minus percentiles of the Cthulhu Mythos skill",
+      "rating": 9
+    },
+    {
+      "question": "What type of roll determines sanity loss?",
+      "answer": "A 1D100 roll",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of a successful sanity roll?",
+      "answer": "Equal to or less than current Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "What determines Maximum Sanity points?",
+      "answer": "Maximum Sanity points equal 99 minus whatever percentiles of the Cthulhu Mythos skill the investigator has.",
+      "rating": 9
+    },
+    {
+      "question": "What is a Sanity Roll?",
+      "answer": "A Sanity Roll: A 1D100 roll. A success is equal to or less than current Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What is a Skill Roll?",
+      "answer": "A Skill Roll: A 1D100 roll. See Success.",
+      "rating": 8
+    },
+    {
+      "question": "What does SIZ represent?",
+      "answer": "STR: Strength, a Characteristic. See Characteristic.",
+      "rating": 9
+    },
+    {
+      "question": "What is the method for tracking skill improvement in the investigator development phase?",
+      "answer": "Tick by marking the box ('tick' or 'check') next to the skill on the investigator sheet",
+      "rating": 8
+    },
+    {
+      "question": "How do skills improve in the investigator development phase?",
+      "answer": "In 1D10-point increments",
+      "rating": 7
+    },
+    {
+      "question": "What can be ticked on the investigator sheet?",
+      "answer": "Skills",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a major wound on a character?",
+      "answer": "The character may fall unconscious",
+      "rating": 8
+    },
+    {
+      "question": "What skill roll can return a character to consciousness?",
+      "answer": "First Aid or Medicine",
+      "rating": 9
+    },
+    {
+      "question": "What can be ticked in a Rating?",
+      "answer": "Rating cannot be ticked",
+      "rating": 8
+    },
+    {
+      "question": "What is a Tome containing in the Cthulhu Mythos?",
+      "answer": "knowledge of the Cthulhu Mythos",
+      "rating": 9
+    },
+    {
+      "question": "What skill roll may return a character to consciousness?",
+      "answer": "First Aid or Medicine",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for a character to fall unconscious?",
+      "answer": "fail to roll equal to or under CON",
+      "rating": 9
+    },
+    {
+      "question": "Where can the duration of unconsciousness be decided?",
+      "answer": "at the Keeper's discretion",
+      "rating": 8
+    },
+    {
+      "question": "What edition of Call of Cthulhu these rules are intended for?",
+      "answer": "7th Edition",
+      "rating": 9
+    },
+    {
+      "question": "Why are the rules intended to be made compatible with 7th Edition?",
+      "answer": "To allow materials from all previous editions of Call of Cthulhu to be made compatible with 7th Edition using minimal effort",
+      "rating": 9
+    },
+    {
+      "question": "Why should players not be too concerned about converting existing investigators?",
+      "answer": "The average investigator has a limited life-expectancy",
+      "rating": 8
+    },
+    {
+      "question": "What changes have been made to unify characteristics and skills?",
+      "answer": "They are now on a comparable percentage scale",
+      "rating": 8
+    },
+    {
+      "question": "What is the intention behind making skills and characteristics comparable?",
+      "answer": "To make it easier to compare and make opposed rolls using a mixture of skills and characteristics",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting sanity for every investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "sane"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigator's sanity points fluctuate?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can decline or increase"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum possible number of sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "99 minus percentiles of the Cthulhu Mythos skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll determines sanity loss?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 1D100 roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a successful sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Equal to or less than current Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines Maximum Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maximum Sanity points equal 99 minus whatever percentiles of the Cthulhu Mythos skill the investigator has."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Sanity Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Sanity Roll: A 1D100 roll. A success is equal to or less than current Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Skill Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Skill Roll: A 1D100 roll. See Success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does SIZ represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR: Strength, a Characteristic. See Characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the method for tracking skill improvement in the investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tick by marking the box ('tick' or 'check') next to the skill on the investigator sheet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do skills improve in the investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "In 1D10-point increments"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be ticked on the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a major wound on a character?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character may fall unconscious"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill roll can return a character to consciousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "First Aid or Medicine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be ticked in a Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rating cannot be ticked"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Tome containing in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "knowledge of the Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill roll may return a character to consciousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "First Aid or Medicine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a character to fall unconscious?"
+      },
+      {
+        "role": "assistant",
+        "content": "fail to roll equal to or under CON"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can the duration of unconsciousness be decided?"
+      },
+      {
+        "role": "assistant",
+        "content": "at the Keeper's discretion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What edition of Call of Cthulhu these rules are intended for?"
+      },
+      {
+        "role": "assistant",
+        "content": "7th Edition"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are the rules intended to be made compatible with 7th Edition?"
+      },
+      {
+        "role": "assistant",
+        "content": "To allow materials from all previous editions of Call of Cthulhu to be made compatible with 7th Edition using minimal effort"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should players not be too concerned about converting existing investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average investigator has a limited life-expectancy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What changes have been made to unify characteristics and skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are now on a comparable percentage scale"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the intention behind making skills and characteristics comparable?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make it easier to compare and make opposed rolls using a mixture of skills and characteristics"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.2
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, vehicles can engage in combat using the regular combat rules, substituting the Drive Auto skill for both Fighting and Dodge skills. Vehicles can inflict damage on opponents, and the damage dealt is matched by the damage received by the vehicle, with the exception of a 1:1 ratio. Fighting maneuvers can be used to trip, push, or throw vehicles, and the success of these maneuvers can result in additional damage or movement action loss. The size difference between vehicles can affect the success of these maneuvers, with larger vehicles imposing greater penalties.",
+  "qa_pairs": [
+    {
+      "question": "What is the damage a vehicle inflicts when attacking?",
+      "answer": "1D10 damage per point of build.",
+      "rating": 9
+    },
+    {
+      "question": "How does a vehicle's build decrease after taking damage?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle\u2019s build by one point (round down).",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a vehicle's build when it deals full 10 hit points of damage?",
+      "answer": "A vehicle's build decreases by one point (round down).",
+      "rating": 8
+    },
+    {
+      "question": "How much damage does a vehicle suffer when it deals damage to a target?",
+      "answer": "Half (round down) of that which it delivers.",
+      "rating": 8
+    },
+    {
+      "question": "Can a vehicle suffer more damage than the target it hit originally possessed?",
+      "answer": "No, it cannot cause it to lose a greater amount of build points.",
+      "rating": 9
+    },
+    {
+      "question": "How does the damage to a car when it hits a light motorcycle work?",
+      "answer": "The car suffers 25 points of damage itself, but the damage to the car is limited to 1 build point.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage does a car do to a light motorcycle?",
+      "answer": "50 points of damage (50 or 5D10).",
+      "rating": 8
+    },
+    {
+      "question": "What is a fighting maneuver?",
+      "answer": "A fighting maneuver is a technique used to trip, push, or cause an opponent to lose control.",
+      "rating": 9
+    },
+    {
+      "question": "What happens as a result of a successful fighting maneuver?",
+      "answer": "A successful fighting maneuver causes the same outcome as failing a skill roll for a hazard.",
+      "rating": 8
+    },
+    {
+      "question": "What is lost when a fighting maneuver is successful?",
+      "answer": "1D3 movement actions are lost.",
+      "rating": 9
+    },
+    {
+      "question": "What is an alternative to losing movement actions when a fighting maneuver is successful?",
+      "answer": "An amount of damage is selected from Table III: Other Forms of Damage for characters, or Table VI: Vehicular Collisions for vehicles.",
+      "rating": 9
+    },
+    {
+      "question": "Can a character set a specific goal for a fighting maneuver?",
+      "answer": "Yes, a character can set a specific goal for a fighting maneuver, similar to regular combat.",
+      "rating": 8
+    },
+    {
+      "question": "What is the penalty for a vehicle that is 1 build point larger than the attacker?",
+      "answer": "1 penalty die is applied to the attack roll.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if the target vehicle is 3 build points larger than the attacker?",
+      "answer": "The maneuver is impossible.",
+      "rating": 9
+    },
+    {
+      "question": "How many penalty dice are applied if the target vehicle is 2 build points larger than the attacker?",
+      "answer": "2 penalty dice are applied.",
+      "rating": 9
+    },
+    {
+      "question": "What was Harvey trying to do at the start of his turn?",
+      "answer": "He was trying to climb a fence to escape.",
+      "rating": 6
+    },
+    {
+      "question": "What happened to Harvey's Climb roll?",
+      "answer": "Harvey fails his Climb roll.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey's Climb roll?",
+      "answer": "Harvey fails his Climb roll.",
+      "rating": 8
+    },
+    {
+      "question": "What does the Keeper decide to do instead of inflicting a negative outcome?",
+      "answer": "The Keeper decides that the farmer's attack will suffice.",
+      "rating": 9
+    },
+    {
+      "question": "What does Harvey attempt to do to the farmer?",
+      "answer": "Harvey attempts a fighting maneuver to throw the farmer over the fence.",
+      "rating": 9
+    },
+    {
+      "question": "What penalty does Harvey not take?",
+      "answer": "Harvey does not take any additional penalty dice.",
+      "rating": 8
+    },
+    {
+      "question": "What attribute is used to test if the farmer lands on his feet or his back?",
+      "answer": "DEX is the most appropriate attribute to test whether the farmer lands on his feet or his back.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage a vehicle inflicts when attacking?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 damage per point of build."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a vehicle's build decrease after taking damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full 10 hit points of damage decreases a vehicle\u2019s build by one point (round down)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle's build when it deals full 10 hit points of damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "A vehicle's build decreases by one point (round down)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a vehicle suffer when it deals damage to a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half (round down) of that which it delivers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a vehicle suffer more damage than the target it hit originally possessed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it cannot cause it to lose a greater amount of build points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the damage to a car when it hits a light motorcycle work?"
+      },
+      {
+        "role": "assistant",
+        "content": "The car suffers 25 points of damage itself, but the damage to the car is limited to 1 build point."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a car do to a light motorcycle?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 points of damage (50 or 5D10)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fighting maneuver is a technique used to trip, push, or cause an opponent to lose control."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens as a result of a successful fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful fighting maneuver causes the same outcome as failing a skill roll for a hazard."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is lost when a fighting maneuver is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 movement actions are lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative to losing movement actions when a fighting maneuver is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "An amount of damage is selected from Table III: Other Forms of Damage for characters, or Table VI: Vehicular Collisions for vehicles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character set a specific goal for a fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a character can set a specific goal for a fighting maneuver, similar to regular combat."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for a vehicle that is 1 build point larger than the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 penalty die is applied to the attack roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target vehicle is 3 build points larger than the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maneuver is impossible."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are applied if the target vehicle is 2 build points larger than the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 penalty dice are applied."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Harvey trying to do at the start of his turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was trying to climb a fence to escape."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Harvey's Climb roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey fails his Climb roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Climb roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey fails his Climb roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper decide to do instead of inflicting a negative outcome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides that the farmer's attack will suffice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Harvey attempt to do to the farmer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey attempts a fighting maneuver to throw the farmer over the fence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What penalty does Harvey not take?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey does not take any additional penalty dice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What attribute is used to test if the farmer lands on his feet or his back?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX is the most appropriate attribute to test whether the farmer lands on his feet or his back."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, two terrifying enemies are the Fire Vampire and the Flying Polyp. The Fire Vampire attacks by touching its victims, causing heat-shock damage and attempting to steal magic points, while the Flying Polyp is an alien entity that can control the winds and phase in and out of visibility, making it a formidable opponent. The Flying Polyp has special abilities, including invisibility and the power to cast spells, which can be used to evade attacks or target its victims. Both enemies have unique weaknesses and resistances, making them challenging to defeat.",
+  "qa_pairs": [
+    {
+      "question": "How do fire vampires attack?",
+      "answer": "They attack by touching their victims, and can set flammable objects alight by touch.",
+      "rating": 9
+    },
+    {
+      "question": "How do investigators mitigate fire vampire damage?",
+      "answer": "Investigators pass a CON roll, half of the damage inflicted.",
+      "rating": 8
+    },
+    {
+      "question": "How do vampires steal magic points from their targets?",
+      "answer": "They use an opposed POW roll; if they win, they steal 1D10 magic points from the victim.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to fire vampires if they lose a magic point-stealing roll?",
+      "answer": "They lose one of their own magic points.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the heat-shock for the vampire's attack?",
+      "answer": "To determine the heat-shock, roll 2D6 damage for the vampire's attack.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the investigator fails to pass a CON roll during the vampire's attack?",
+      "answer": "The full damage is inflicted.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the target wins the opposed POW roll during the vampire's attack?",
+      "answer": "The fire vampire loses one of its own magic points.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage can a typical handheld fire extinguisher inflict on a fire vampire?",
+      "answer": "1D6 hit points of damage to it.",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of sanity for seeing a fire vampire?",
+      "answer": "0/D6",
+      "rating": 9
+    },
+    {
+      "question": "What is a characteristic of the Flying Polyp entity?",
+      "answer": "They were only partly material",
+      "rating": 8
+    },
+    {
+      "question": "What is a notable feature associated with the Flying Polyp?",
+      "answer": "Colossal foot-prints made up of five circular toe marks",
+      "rating": 9
+    },
+    {
+      "question": "What is a notable sound associated with the Flying Polyp?",
+      "answer": "singular whistling noises",
+      "rating": 8
+    },
+    {
+      "question": "When did the unnamed species come to Earth?",
+      "answer": "seven hundred and fifty million years ago",
+      "rating": 9
+    },
+    {
+      "question": "What did the unnamed species do to the Great Race of Yith on Earth?",
+      "answer": "were finally defeated and forced underground",
+      "rating": 9
+    },
+    {
+      "question": "What still remains in the deep caverns of the unnamed species?",
+      "answer": "polyps",
+      "rating": 8
+    },
+    {
+      "question": "What are the entrances to their dwellings mostly hidden from?",
+      "answer": "the few beings who chance upon them",
+      "rating": 8
+    },
+    {
+      "question": "What era did the polyps rise up from their subterranean haunts in?",
+      "answer": "Cretaceous era",
+      "rating": 8
+    },
+    {
+      "question": "What can the ancient tales tell about the polyps' powers?",
+      "answer": "Controlling great winds and targeting individuals",
+      "rating": 9
+    },
+    {
+      "question": "What is the location of the polyps' entrances to their dwellings?",
+      "answer": "Deep within ancient ruins",
+      "rating": 8
+    },
+    {
+      "question": "What is inside the ancient wells sealed over with stone?",
+      "answer": "The polyps still, ferocious alien fighters",
+      "rating": 7
+    },
+    {
+      "question": "What are the entrances to the polyps' dwellings like?",
+      "answer": "The entrances to their dwellings are mostly deep within ancient ruins.",
+      "rating": 8
+    },
+    {
+      "question": "What is a unique characteristic of an invisible polyp?",
+      "answer": "Anyone trying to hit an invisible polyp must make a successful Listen roll to tell where it is.",
+      "rating": 9
+    },
+    {
+      "question": "How can a polyp's attacks be roughly located?",
+      "answer": "It still can be roughly located by the constant, nauseating piping sound that always accom- plices it.",
+      "rating": 8
+    },
+    {
+      "question": "How much magic point is spent per round to make a polyp invisible?",
+      "answer": "By spending 1 magic point per round, a polyp can turn totally invisible.",
+      "rating": 9
+    },
+    {
+      "question": "What is the required skill to hit a polyp?",
+      "answer": "Listen",
+      "rating": 8
+    },
+    {
+      "question": "What penalty die is added to attack rolls if a polyp is hit?",
+      "answer": "One penalty die",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a failed Luck roll when attacking a polyp?",
+      "answer": "The Polyp phases just at that moment",
+      "rating": 7
+    },
+    {
+      "question": "What can a polyp do when it is invisible?",
+      "answer": "Use one of the wind attacks or cast spells",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do fire vampires attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "They attack by touching their victims, and can set flammable objects alight by touch."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators mitigate fire vampire damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigators pass a CON roll, half of the damage inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do vampires steal magic points from their targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "They use an opposed POW roll; if they win, they steal 1D10 magic points from the victim."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to fire vampires if they lose a magic point-stealing roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose one of their own magic points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the heat-shock for the vampire's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine the heat-shock, roll 2D6 damage for the vampire's attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator fails to pass a CON roll during the vampire's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The full damage is inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target wins the opposed POW roll during the vampire's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The fire vampire loses one of its own magic points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a typical handheld fire extinguisher inflict on a fire vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 hit points of damage to it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of sanity for seeing a fire vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of the Flying Polyp entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were only partly material"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a notable feature associated with the Flying Polyp?"
+      },
+      {
+        "role": "assistant",
+        "content": "Colossal foot-prints made up of five circular toe marks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a notable sound associated with the Flying Polyp?"
+      },
+      {
+        "role": "assistant",
+        "content": "singular whistling noises"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the unnamed species come to Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "seven hundred and fifty million years ago"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did the unnamed species do to the Great Race of Yith on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "were finally defeated and forced underground"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What still remains in the deep caverns of the unnamed species?"
+      },
+      {
+        "role": "assistant",
+        "content": "polyps"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the entrances to their dwellings mostly hidden from?"
+      },
+      {
+        "role": "assistant",
+        "content": "the few beings who chance upon them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What era did the polyps rise up from their subterranean haunts in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cretaceous era"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the ancient tales tell about the polyps' powers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Controlling great winds and targeting individuals"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the location of the polyps' entrances to their dwellings?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep within ancient ruins"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is inside the ancient wells sealed over with stone?"
+      },
+      {
+        "role": "assistant",
+        "content": "The polyps still, ferocious alien fighters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the entrances to the polyps' dwellings like?"
+      },
+      {
+        "role": "assistant",
+        "content": "The entrances to their dwellings are mostly deep within ancient ruins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a unique characteristic of an invisible polyp?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anyone trying to hit an invisible polyp must make a successful Listen roll to tell where it is."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a polyp's attacks be roughly located?"
+      },
+      {
+        "role": "assistant",
+        "content": "It still can be roughly located by the constant, nauseating piping sound that always accom- plices it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much magic point is spent per round to make a polyp invisible?"
+      },
+      {
+        "role": "assistant",
+        "content": "By spending 1 magic point per round, a polyp can turn totally invisible."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required skill to hit a polyp?"
+      },
+      {
+        "role": "assistant",
+        "content": "Listen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What penalty die is added to attack rolls if a polyp is hit?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a failed Luck roll when attacking a polyp?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Polyp phases just at that moment"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a polyp do when it is invisible?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use one of the wind attacks or cast spells"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

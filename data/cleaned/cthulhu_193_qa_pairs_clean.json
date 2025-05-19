@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Cthulhu Mythos system allows characters to gain temporary increases in Power (POW) through various means, such as casting successful spells, exercising POW, or receiving gifts from Mythos deities. This increase in POW can be permanent if the character rolls a high percentile dice result. The system also introduces the concept of non-Mythos magic, which can be significant in the game but requires the Keeper's approval and may have different mechanics and procedures. Additionally, the system includes optional rules, such as the Spontaneous Use of the Cthulhu Mythos Skill, which allows characters to improvise magical effects.",
+  "qa_pairs": [
+    {
+      "question": "Where does the Power (POW) come from?",
+      "answer": "When a character successfully casts a spell requiring an opposed POW roll to affect the target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for POW to increase permanently?",
+      "answer": "If the result of a 1D100 roll is greater than the caster\u2019s POW (or the roll is 96 or greater).",
+      "rating": 8
+    },
+    {
+      "question": "How does POW increase in the case of a Luck roll result of 01?",
+      "answer": "POW can be said to have been exercised.",
+      "rating": 7
+    },
+    {
+      "question": "What is the specific condition for POW to increase by 1D10 points permanently in the case of a Luck roll result of 01?",
+      "answer": "Roll the percentile dice and if the roll is greater than the character\u2019s POW, or if the roll is 96 or greater.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the caster wins the opposed POW roll?",
+      "answer": "A subsequent roll to increase his or her POW may be attempted.",
+      "rating": 8
+    },
+    {
+      "question": "Under what condition can POW be said to have been exercised?",
+      "answer": "For any Luck roll result of 01.",
+      "rating": 9
+    },
+    {
+      "question": "What is the permanent increase in POW if the caster succeeds on a subsequent roll to increase POW?",
+      "answer": "1D10 points permanently.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for POW to be said to have been exercised if the roll is 96 or greater?",
+      "answer": "The character\u2019s POW increases by 1D10 points permanently.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for a character's POW to increase by 1D10 points?",
+      "answer": "The character's POW increases by 1D10 points if the roll is greater than the character\u2019s POW, or if the roll is 96 or greater.",
+      "rating": 8
+    },
+    {
+      "question": "Who can grant a character an increase in their POW?",
+      "answer": "A character may be able to arrange a gift or a trade for POW from some Mythos deity.",
+      "rating": 6
+    },
+    {
+      "question": "What effect does Ernest's reading have on his Sanity points?",
+      "answer": "Ernest loses no Sanity points as a result of his reading.",
+      "rating": 7
+    },
+    {
+      "question": "How many points of Cthulhu Mythos skill does Ernest receive after reading the Cultes des Goules?",
+      "answer": "Ernest receives +4 points of Cthulhu Mythos skill.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Ernest's Sanity points after reading the tome?",
+      "answer": "Ernest loses no Sanity points as a result of his reading.",
+      "rating": 7
+    },
+    {
+      "question": "What is Ernest required to lose Sanity points equal to after encountering the ghoul?",
+      "answer": "Ernest must also lose Sanity points equal to his present Cthulhu Mythos skill.",
+      "rating": 8
+    },
+    {
+      "question": "What is the total Sanity point loss Ernest suffers?",
+      "answer": "Ernest loses 6 Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Ernest after failing his Sanity roll and passing his Intelligence roll?",
+      "answer": "Ernest passes his Intelligence roll and goes temporarily insane.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Ernest's Sanity points as a result of reading the tome?",
+      "answer": "Ernest loses no Sanity points as a result of his reading.",
+      "rating": 10
+    },
+    {
+      "question": "How many Sanity points does Ernest lose in total?",
+      "answer": "Ernest loses 6 Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Ernest if he fails his Sanity roll after encountering a ghoul?",
+      "answer": "Ernest must also lose Sanity points equal to his present Cthulhu Mythos skill.",
+      "rating": 9
+    },
+    {
+      "question": "Does increasing Power affect Ernest's current Sanity points?",
+      "answer": "Increasing Power does not increase current Sanity points.",
+      "rating": 7
+    },
+    {
+      "question": "What determines the validity of earthly 'magick' in the game?",
+      "answer": "The Keeper, possibly in discussion with the player group.",
+      "rating": 8
+    },
+    {
+      "question": "How should mechanics and procedures for non-Mythos magic differ from those for Mythos magic?",
+      "answer": "The means and aims of earthly magic will greatly differ.",
+      "rating": 9
+    },
+    {
+      "question": "Is non-Mythos magic suggested to be tied to a specific skill?",
+      "answer": "The Occult skill.",
+      "rating": 8
+    },
+    {
+      "question": "What must be paid for horrific deeds in the game?",
+      "answer": "Sanity points.",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does the Power (POW) come from?"
+      },
+      {
+        "role": "assistant",
+        "content": "When a character successfully casts a spell requiring an opposed POW roll to affect the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for POW to increase permanently?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the result of a 1D100 roll is greater than the caster\u2019s POW (or the roll is 96 or greater)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does POW increase in the case of a Luck roll result of 01?"
+      },
+      {
+        "role": "assistant",
+        "content": "POW can be said to have been exercised."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the specific condition for POW to increase by 1D10 points permanently in the case of a Luck roll result of 01?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll the percentile dice and if the roll is greater than the character\u2019s POW, or if the roll is 96 or greater."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster wins the opposed POW roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A subsequent roll to increase his or her POW may be attempted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition can POW be said to have been exercised?"
+      },
+      {
+        "role": "assistant",
+        "content": "For any Luck roll result of 01."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the permanent increase in POW if the caster succeeds on a subsequent roll to increase POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 points permanently."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for POW to be said to have been exercised if the roll is 96 or greater?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character\u2019s POW increases by 1D10 points permanently."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a character's POW to increase by 1D10 points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character's POW increases by 1D10 points if the roll is greater than the character\u2019s POW, or if the roll is 96 or greater."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can grant a character an increase in their POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character may be able to arrange a gift or a trade for POW from some Mythos deity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does Ernest's reading have on his Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest loses no Sanity points as a result of his reading."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points of Cthulhu Mythos skill does Ernest receive after reading the Cultes des Goules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest receives +4 points of Cthulhu Mythos skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Ernest's Sanity points after reading the tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest loses no Sanity points as a result of his reading."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ernest required to lose Sanity points equal to after encountering the ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest must also lose Sanity points equal to his present Cthulhu Mythos skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total Sanity point loss Ernest suffers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest loses 6 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Ernest after failing his Sanity roll and passing his Intelligence roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest passes his Intelligence roll and goes temporarily insane."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Ernest's Sanity points as a result of reading the tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest loses no Sanity points as a result of his reading."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does Ernest lose in total?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest loses 6 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Ernest if he fails his Sanity roll after encountering a ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ernest must also lose Sanity points equal to his present Cthulhu Mythos skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does increasing Power affect Ernest's current Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increasing Power does not increase current Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the validity of earthly 'magick' in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper, possibly in discussion with the player group."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should mechanics and procedures for non-Mythos magic differ from those for Mythos magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "The means and aims of earthly magic will greatly differ."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is non-Mythos magic suggested to be tied to a specific skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Occult skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must be paid for horrific deeds in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity points."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

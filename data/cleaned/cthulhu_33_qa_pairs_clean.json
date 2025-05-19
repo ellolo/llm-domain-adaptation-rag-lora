@@ -1,0 +1,298 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document introduces a character named Harvey Walters, a potential investigator in a fictional setting, and provides his starting attributes and background information. Harvey's Intelligence, Power, and Education levels are set at 85, 50, and 70, respectively, indicating that he is a moderately skilled individual with a high school education. His backstory includes a personal description, ideology, significant people, meaningful location, treasured item, and traits, which provide context for his character. These attributes can be used to guide gameplay and decision-making in the story.",
+  "qa_pairs": [
+    {
+      "question": "What is the power level of a human with an average intellect and willpower?",
+      "answer": "50",
+      "rating": 6
+    },
+    {
+      "question": "What is the power level of a human with an iron will and strong connection to the spiritual realm?",
+      "answer": "100",
+      "rating": 7
+    },
+    {
+      "question": "What is the power level of a human with a monstrous intellect and power beyond human comprehension?",
+      "answer": "210+",
+      "rating": 8
+    },
+    {
+      "question": "What is the lowest magical potential for Great Cthulhu?",
+      "answer": "0: Enfeebled mind, no willpower, no magical potential.",
+      "rating": 8
+    },
+    {
+      "question": "What is the highest magical potential for a human?",
+      "answer": "99: Human maximum.",
+      "rating": 9
+    },
+    {
+      "question": "What is the level of magical potential for a college graduate?",
+      "answer": "70: College graduate (Bachelor degree).",
+      "rating": 7
+    },
+    {
+      "question": "What is the highest level of magical potential for Great Cthulhu?",
+      "answer": "210+: Monstrous magical potential and power beyond human comprehension (e.g. Great Cthulhu, see Chapter 14: Monsters, Beasts and Alien Gods).",
+      "rating": 10
+    },
+    {
+      "question": "How many points does Harvey Walters have for his Credit Rating skill?",
+      "answer": "41",
+      "rating": 6
+    },
+    {
+      "question": "What is Harvey Walters' personal interest skill point total?",
+      "answer": "170",
+      "rating": 8
+    },
+    {
+      "question": "What is the trait associated with Harvey?",
+      "answer": "Ladies' man",
+      "rating": 8
+    },
+    {
+      "question": "Where will Harvey study?",
+      "answer": "On the upper floor of home",
+      "rating": 9
+    },
+    {
+      "question": "Where does Harvey start his adventures?",
+      "answer": "Home, specifically the upper floor",
+      "rating": 9
+    },
+    {
+      "question": "What is the treasured item in Harvey's study?",
+      "answer": "Archaeological artifacts that belonged to his uncle",
+      "rating": 8
+    },
+    {
+      "question": "What is one of Harvey's starting gear?",
+      "answer": "A lucky penny",
+      "rating": 7
+    },
+    {
+      "question": "What would Harvey need to acquire in order to have a car among his starting gear?",
+      "answer": "His assets",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the power level of a human with an average intellect and willpower?"
+      },
+      {
+        "role": "assistant",
+        "content": "50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the power level of a human with an iron will and strong connection to the spiritual realm?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the power level of a human with a monstrous intellect and power beyond human comprehension?"
+      },
+      {
+        "role": "assistant",
+        "content": "210+"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest magical potential for Great Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "0: Enfeebled mind, no willpower, no magical potential."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest magical potential for a human?"
+      },
+      {
+        "role": "assistant",
+        "content": "99: Human maximum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the level of magical potential for a college graduate?"
+      },
+      {
+        "role": "assistant",
+        "content": "70: College graduate (Bachelor degree)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest level of magical potential for Great Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "210+: Monstrous magical potential and power beyond human comprehension (e.g. Great Cthulhu, see Chapter 14: Monsters, Beasts and Alien Gods)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points does Harvey Walters have for his Credit Rating skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "41"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey Walters' personal interest skill point total?"
+      },
+      {
+        "role": "assistant",
+        "content": "170"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the trait associated with Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ladies' man"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where will Harvey study?"
+      },
+      {
+        "role": "assistant",
+        "content": "On the upper floor of home"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Harvey start his adventures?"
+      },
+      {
+        "role": "assistant",
+        "content": "Home, specifically the upper floor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the treasured item in Harvey's study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Archaeological artifacts that belonged to his uncle"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of Harvey's starting gear?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lucky penny"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would Harvey need to acquire in order to have a car among his starting gear?"
+      },
+      {
+        "role": "assistant",
+        "content": "His assets"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 15,
+    "retention_rate": 0.68,
+    "avg_score": 6.5
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for identifying and using languages in a fictional setting, specifically in a game or simulation. To identify a language, investigators can use various skills, including a Know roll for unknown languages, an Archaelogy or History roll for extinct languages, and a Cthulhu Mythos or Occult roll for alien languages. The difficulty level of using a language can range from regular conversation to hard difficulty, with pushing examples that require more time and effort to complete. Failing to use a language correctly can have consequences, such as misinterpreting laws or breaking the law.",
+  "qa_pairs": [
+    {
+      "question": "What is the appropriate roll to use to identify a present-day human language?",
+      "answer": "A Know roll.",
+      "rating": 8
+    },
+    {
+      "question": "What is the appropriate roll to use to identify an extinct human language?",
+      "answer": "An Archaelogy or History roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the appropriate roll to use to identify an alien language?",
+      "answer": "A Cthulhu Mythos or possibly an Occult roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level of conversation when speaking to a fluent foreign speaker?",
+      "answer": "Regular difficulty.",
+      "rating": 7
+    },
+    {
+      "question": "What are some consequences of failing a Pushed roll?",
+      "answer": "exaggerated or loud discussions between investigators and third parties",
+      "rating": 8
+    },
+    {
+      "question": "What might happen if an insane investigator fails a Pushed roll?",
+      "answer": "begins to speak in tongues, or imagines that they are using the Enochian language",
+      "rating": 9
+    },
+    {
+      "question": "What might alert some enemy faction to the investigators' intentions?",
+      "answer": "exaggerated or loud discussions between investigators and third parties",
+      "rating": 8
+    },
+    {
+      "question": "What might happen if an enemy faction responds to the investigators' intentions?",
+      "answer": "they respond with their fists, or turn everyone in the neighborhood against you.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of EDU characteristic does the Own Language skill equal in infancy and early childhood?",
+      "answer": "The investigator\u2019s EDU characteristic",
+      "rating": 8
+    },
+    {
+      "question": "Is a skill roll necessary to use the Own Language skill in most cases?",
+      "answer": "Normally no skill roll is necessary",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a document is extremely difficult to read or in an archaic dialect?",
+      "answer": "The Keeper may require a roll",
+      "rating": 8
+    },
+    {
+      "question": "What is typically covered during a conversation between two parties sympathetic to each other?",
+      "answer": "Most things should be covered without a die roll",
+      "rating": 7
+    },
+    {
+      "question": "What determines the investigator's understanding of their Own Language?",
+      "answer": "The investigator's understanding of their Own Language is determined by their EDU characteristic, which starts as equal to the chosen tongue.",
+      "rating": 9
+    },
+    {
+      "question": "What is the normal skill roll requirement to use Own Language?",
+      "answer": "Normally, no skill roll is necessary to use Own Language, unless a document is extremely difficult to read or in an archaic dialect.",
+      "rating": 8
+    },
+    {
+      "question": "What is the chance of knowing pertinent law, precedent, legal maneuvers or court procedure?",
+      "answer": "Law represents the chance of knowing pertinent law, precedent, legal maneuvers or court procedure, with a 5% chance in the United States.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for a Keeper to require a skill roll when using Own Language?",
+      "answer": "A Keeper may require a skill roll when using Own Language if a document is extremely difficult to read or in an archaic dialect.",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical requirement for practicing law in the United States?",
+      "answer": "A high Credit Rating is usually crucial",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level of opposing a highly competent hostile witness?",
+      "answer": "Hard difficulty: remembering or understanding an obscure legal precedent",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of pushing the limits of an argument?",
+      "answer": "Bending the letter of the law to drive your argument",
+      "rating": 7
+    },
+    {
+      "question": "How would the difficulty level change for someone studying a foreign country's legal system?",
+      "answer": "Unless the character has spent many months studying that nation's legal system",
+      "rating": 6
+    },
+    {
+      "question": "In the United States, what is required for one to practice law?",
+      "answer": "The State Bar of a particular state must sanction one's practice of law.",
+      "rating": 8
+    },
+    {
+      "question": "How would a regular difficulty level be described?",
+      "answer": "Understanding and utilizing the details of a relevant law or legal procedure.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a pushed difficulty level?",
+      "answer": "Delaying to consider your argument; explaining in high detail the nuances of the case/situation.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the appropriate roll to use to identify a present-day human language?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Know roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the appropriate roll to use to identify an extinct human language?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Archaelogy or History roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the appropriate roll to use to identify an alien language?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Cthulhu Mythos or possibly an Occult roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of conversation when speaking to a fluent foreign speaker?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some consequences of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "exaggerated or loud discussions between investigators and third parties"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen if an insane investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "begins to speak in tongues, or imagines that they are using the Enochian language"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might alert some enemy faction to the investigators' intentions?"
+      },
+      {
+        "role": "assistant",
+        "content": "exaggerated or loud discussions between investigators and third parties"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen if an enemy faction responds to the investigators' intentions?"
+      },
+      {
+        "role": "assistant",
+        "content": "they respond with their fists, or turn everyone in the neighborhood against you."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of EDU characteristic does the Own Language skill equal in infancy and early childhood?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator\u2019s EDU characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is a skill roll necessary to use the Own Language skill in most cases?"
+      },
+      {
+        "role": "assistant",
+        "content": "Normally no skill roll is necessary"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a document is extremely difficult to read or in an archaic dialect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may require a roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is typically covered during a conversation between two parties sympathetic to each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "Most things should be covered without a die roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the investigator's understanding of their Own Language?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator's understanding of their Own Language is determined by their EDU characteristic, which starts as equal to the chosen tongue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the normal skill roll requirement to use Own Language?"
+      },
+      {
+        "role": "assistant",
+        "content": "Normally, no skill roll is necessary to use Own Language, unless a document is extremely difficult to read or in an archaic dialect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of knowing pertinent law, precedent, legal maneuvers or court procedure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Law represents the chance of knowing pertinent law, precedent, legal maneuvers or court procedure, with a 5% chance in the United States."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a Keeper to require a skill roll when using Own Language?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Keeper may require a skill roll when using Own Language if a document is extremely difficult to read or in an archaic dialect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical requirement for practicing law in the United States?"
+      },
+      {
+        "role": "assistant",
+        "content": "A high Credit Rating is usually crucial"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of opposing a highly competent hostile witness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty: remembering or understanding an obscure legal precedent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of pushing the limits of an argument?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bending the letter of the law to drive your argument"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would the difficulty level change for someone studying a foreign country's legal system?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unless the character has spent many months studying that nation's legal system"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In the United States, what is required for one to practice law?"
+      },
+      {
+        "role": "assistant",
+        "content": "The State Bar of a particular state must sanction one's practice of law."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would a regular difficulty level be described?"
+      },
+      {
+        "role": "assistant",
+        "content": "Understanding and utilizing the details of a relevant law or legal procedure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a pushed difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "Delaying to consider your argument; explaining in high detail the nuances of the case/situation."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

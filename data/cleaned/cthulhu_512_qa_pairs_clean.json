@@ -1,0 +1,431 @@
+{
+  "summary": "This document appears to be a table or chart listing various skills, rules, and concepts related to a game, likely a tabletop role-playing game. The main topic is \"Chase\" skills, which involve pursuing and catching targets, often with specific rules and options for gameplay. Key concepts include different types of chases, such as \"Chase, Monsters\" and \"Chase, Passengers,\" as well as optional rules for various skills, such as \"Armor\" and \"Art and Craft Skill.\" The document also covers other related topics, including \"Assets,\" \"Backstory,\" and \"Combat.\"",
+  "qa_pairs": [
+    {
+      "question": "What is the first number in the text?",
+      "answer": "31",
+      "rating": 8
+    },
+    {
+      "question": "What is the 'Appraise Skill' range?",
+      "answer": "57-58",
+      "rating": 9
+    },
+    {
+      "question": "What is the 'Chase, Monsters' skill?",
+      "answer": "144",
+      "rating": 8
+    },
+    {
+      "question": "What is the 'Archaeology Skill' range?",
+      "answer": "58",
+      "rating": 9
+    },
+    {
+      "question": "What is the 'Chase, MOV Rates' skill?",
+      "answer": "146",
+      "rating": 8
+    },
+    {
+      "question": "What is the 'Armor' range?",
+      "answer": "108, 112, 116",
+      "rating": 9
+    },
+    {
+      "question": "What is the 'Chase, Multiple Characters' skill?",
+      "answer": "147",
+      "rating": 8
+    },
+    {
+      "question": "What is the optional rule number for Chase?",
+      "answer": "142",
+      "rating": 8
+    },
+    {
+      "question": "What is the optional rule number for Asphyxiation?",
+      "answer": "124",
+      "rating": 9
+    },
+    {
+      "question": "What are the optional rule numbers for Chase, Round?",
+      "answer": "133-134",
+      "rating": 7
+    },
+    {
+      "question": "What are the optional rule numbers for Assets?",
+      "answer": "45, 46, 97",
+      "rating": 6
+    },
+    {
+      "question": "What is the optional rule number for Chase, Speed Roll?",
+      "answer": "132",
+      "rating": 8
+    },
+    {
+      "question": "What are the optional rule numbers for Automatic Fire?",
+      "answer": "114-116",
+      "rating": 9
+    },
+    {
+      "question": "What is the optional rule number for Chase, Switching Modes Of Movement?",
+      "answer": "143",
+      "rating": 8
+    },
+    {
+      "question": "What is the optional rule number for Chase, Vehicular Collision?",
+      "answer": "146",
+      "rating": 9
+    },
+    {
+      "question": "What is Combat?",
+      "answer": "text",
+      "rating": 8
+    },
+    {
+      "question": "Is Combat a type of sport?",
+      "answer": "no",
+      "rating": 6
+    },
+    {
+      "question": "Is Combat a formal sport?",
+      "answer": "no",
+      "rating": 6
+    },
+    {
+      "question": "Is Combat related to physical activity?",
+      "answer": "yes",
+      "rating": 9
+    },
+    {
+      "question": "Is Combat associated with violence?",
+      "answer": "yes",
+      "rating": 8
+    },
+    {
+      "question": "Is Combat a noun?",
+      "answer": "yes",
+      "rating": 7
+    },
+    {
+      "question": "Is Combat a verb?",
+      "answer": "yes",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first number in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "31"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Appraise Skill' range?"
+      },
+      {
+        "role": "assistant",
+        "content": "57-58"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Chase, Monsters' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "144"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Archaeology Skill' range?"
+      },
+      {
+        "role": "assistant",
+        "content": "58"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Chase, MOV Rates' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "146"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Armor' range?"
+      },
+      {
+        "role": "assistant",
+        "content": "108, 112, 116"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Chase, Multiple Characters' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "147"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "142"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Asphyxiation?"
+      },
+      {
+        "role": "assistant",
+        "content": "124"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the optional rule numbers for Chase, Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "133-134"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the optional rule numbers for Assets?"
+      },
+      {
+        "role": "assistant",
+        "content": "45, 46, 97"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase, Speed Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "132"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the optional rule numbers for Automatic Fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "114-116"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase, Switching Modes Of Movement?"
+      },
+      {
+        "role": "assistant",
+        "content": "143"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase, Vehicular Collision?"
+      },
+      {
+        "role": "assistant",
+        "content": "146"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "text"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a type of sport?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a formal sport?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat related to physical activity?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat associated with violence?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a noun?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a verb?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 22,
+    "retention_rate": 0.92,
+    "avg_score": 7.6
+  }
+}

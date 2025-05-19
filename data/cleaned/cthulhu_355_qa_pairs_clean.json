@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Sand-Dweller is a monstrous, otherworldly creature known to serve the Great Old Ones, with a distorted resemblance to a koala bear. It dwells in desert caves and roams at night, preying on humans. Sand-Dwellers possess magical abilities, with a 30% chance of knowing one spell, and have average stats of 50-65. They are also known to play music that drives humans mad, affecting their sanity. Additionally, they can aid in summoning dark entities or gods, which can be costly in terms of magic points.",
+  "qa_pairs": [
+    {
+      "question": "What is the cost of Sanity points to see a rat-thing?",
+      "answer": "1/1D8",
+      "rating": 9
+    },
+    {
+      "question": "What does a Sand-Dweller resemble facially?",
+      "answer": "The koala bear",
+      "rating": 8
+    },
+    {
+      "question": "Where do Sand-Dwellers typically dwell?",
+      "answer": "Caverns deep in desert areas",
+      "rating": 9
+    },
+    {
+      "question": "What regions are known to be inhabited by Sand-Dwellers?",
+      "answer": "The American South West, and other deserts worldwide",
+      "rating": 9
+    },
+    {
+      "question": "What is the chance of a Sand-Dweller knowing a spell?",
+      "answer": "30% chance of knowing 1D6 spells",
+      "rating": 8
+    },
+    {
+      "question": "What is the average number of Sanity points to see a Sand-Dweller?",
+      "answer": "50",
+      "rating": 7
+    },
+    {
+      "question": "Where do Sand-dwellers typically reside?",
+      "answer": "They dwell in caverns deep in desert areas",
+      "rating": 8
+    },
+    {
+      "question": "What is a common spell among serpent folk like the Sand-dwellers?",
+      "answer": "an illusion that transforms the caster\u2019s appearance into that of a normal human",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a Sand-dweller?",
+      "answer": "+1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is the average build for a Sand-dweller?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "How much magic points does the average Sand-dweller have?",
+      "answer": "10",
+      "rating": 9
+    },
+    {
+      "question": "What is the average movement speed for a Sand-dweller?",
+      "answer": "8",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a Sand-Dweller?",
+      "answer": "+1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is the average magic points for a Sand-Dweller?",
+      "answer": "10",
+      "rating": 8
+    },
+    {
+      "question": "What is the average build for a Sand-Dweller?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the chance of a Sand-Dweller knowing 1D6 spells?",
+      "answer": "30%",
+      "rating": 9
+    },
+    {
+      "question": "What is the average movement for a Sand-Dweller?",
+      "answer": "8",
+      "rating": 9
+    },
+    {
+      "question": "What is a common spell known by full serpent folk?",
+      "answer": "an illusion that transforms the caster\u2019s appearance into that of a normal human",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for SERPENT PEOPLE characters?",
+      "answer": "None.",
+      "rating": 7
+    },
+    {
+      "question": "What is the average build for SERPENT PEOPLE characters?",
+      "answer": "0.",
+      "rating": 6
+    },
+    {
+      "question": "How many magic points does summoning a god or entity cost for a SERPENT PEOPLE servitor?",
+      "answer": "1.",
+      "rating": 9
+    },
+    {
+      "question": "How many magic points does the summoned being remain for after the servitor's death?",
+      "answer": "2D6",
+      "rating": 8
+    },
+    {
+      "question": "How long does the summoned being remain after the servitor's death?",
+      "answer": "2D6 rounds",
+      "rating": 9
+    },
+    {
+      "question": "What is the average magic points for a SERPENT PEOPLE character?",
+      "answer": "13",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Sanity points to see a rat-thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a Sand-Dweller resemble facially?"
+      },
+      {
+        "role": "assistant",
+        "content": "The koala bear"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do Sand-Dwellers typically dwell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Caverns deep in desert areas"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What regions are known to be inhabited by Sand-Dwellers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The American South West, and other deserts worldwide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a Sand-Dweller knowing a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "30% chance of knowing 1D6 spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average number of Sanity points to see a Sand-Dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do Sand-dwellers typically reside?"
+      },
+      {
+        "role": "assistant",
+        "content": "They dwell in caverns deep in desert areas"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common spell among serpent folk like the Sand-dwellers?"
+      },
+      {
+        "role": "assistant",
+        "content": "an illusion that transforms the caster\u2019s appearance into that of a normal human"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Sand-dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for a Sand-dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much magic points does the average Sand-dweller have?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average movement speed for a Sand-dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Sand-Dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a Sand-Dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for a Sand-Dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a Sand-Dweller knowing 1D6 spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average movement for a Sand-Dweller?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common spell known by full serpent folk?"
+      },
+      {
+        "role": "assistant",
+        "content": "an illusion that transforms the caster\u2019s appearance into that of a normal human"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for SERPENT PEOPLE characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "None."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for SERPENT PEOPLE characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "0."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points does summoning a god or entity cost for a SERPENT PEOPLE servitor?"
+      },
+      {
+        "role": "assistant",
+        "content": "1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points does the summoned being remain for after the servitor's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the summoned being remain after the servitor's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a SERPENT PEOPLE character?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

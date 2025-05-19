@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes the transformation of hybrids, which are half-human, half-deep ones, into Deep Ones, monstrous creatures that inhabit the sea. This transformation can occur in remote coastal villages or other locations, and typically takes place over several stages. During this process, hybrids may be lured to Deep One lairs or places of safety, where they can be supervised and schooled in their shared heritage. Those who complete the transformation gain special powers, including the ability to breathe underwater and cast spells. However, not all hybrids undergo the transformation, and some may even manifest in future descendants.",
+  "qa_pairs": [
+    {
+      "question": "Where do hybrids typically inhabit?",
+      "answer": "remote coastal villages",
+      "rating": 8
+    },
+    {
+      "question": "What can happen to a hybrid during the final transformations?",
+      "answer": "either learns to embrace their monstrous heritage or goes mad",
+      "rating": 9
+    },
+    {
+      "question": "What are some attempts made by Deep Ones to interact with hybrids?",
+      "answer": "to lure hybrids to their lairs or places of safety",
+      "rating": 7
+    },
+    {
+      "question": "How many hybrids do not undergo the final metamorphosis?",
+      "answer": "about 10% of hybrids",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of Deep Ones supervising the final metamorphosis of a hybrid?",
+      "answer": "to ensure the hybrid is appropriately schooled in their shared heritage",
+      "rating": 9
+    },
+    {
+      "question": "Where do hybrids typically inhabit?",
+      "answer": "remote coastal villages",
+      "rating": 8
+    },
+    {
+      "question": "What happens to hybrids that do not complete the transformation?",
+      "answer": "they are doomed to spend the rest of their life as a half-human half-deep one",
+      "rating": 9
+    },
+    {
+      "question": "How many percent of hybrids do not complete the transformation?",
+      "answer": "about 10%",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a further 10% of hybrids that do not undergo the metamorphosis?",
+      "answer": "the deep one genes essentially missing a generation\u2014only to manifest in a future descendent",
+      "rating": 8
+    },
+    {
+      "question": "What happens to deep ones who supervise the final metamorphosis?",
+      "answer": "they can supervise the final metamorphosis and ensure the hybrid is appropriately schooled in their shared heritage",
+      "rating": 9
+    },
+    {
+      "question": "How long can hybrids stay underwater until they undergo the full change?",
+      "answer": "until they have undergone the full change into a deep one",
+      "rating": 7
+    },
+    {
+      "question": "What is the chance of older hybrids knowing spells?",
+      "answer": "10% chance of knowing 1D3 spells",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks per round can Deep One Hybrids make?",
+      "answer": "1",
+      "rating": 6
+    },
+    {
+      "question": "What is the starting HP of a Deep One Hybrid?",
+      "answer": "11",
+      "rating": 8
+    },
+    {
+      "question": "What is the Dodge value for the creature in the text?",
+      "answer": "30% (15/6)",
+      "rating": 9
+    },
+    {
+      "question": "What is the Armor value for the creature in the text?",
+      "answer": "None",
+      "rating": 8
+    },
+    {
+      "question": "What are the Skills for the creature in the text?",
+      "answer": "Jump 45%, Listen 50%, Stealth 46%, Swim 60%",
+      "rating": 9
+    },
+    {
+      "question": "How much Sanity points are lost to see a deep one hybrid?",
+      "answer": "0/1D4 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What are the characteristics of Dholes in the text?",
+      "answer": "Gigantic wormlike burrowing horrors, not native to Earth, dislike light, and have riddled and laid waste to several other worlds.",
+      "rating": 9
+    },
+    {
+      "question": "What are dholes rarely seen in?",
+      "answer": "daylight",
+      "rating": 7
+    },
+    {
+      "question": "In what planets are dholes seen in daylight?",
+      "answer": "planets that they have thoroughly conquered",
+      "rating": 8
+    },
+    {
+      "question": "Are there any unknown relations between dholes and other creatures?",
+      "answer": "yes, an unknown relation between dholes and chthonians may exist",
+      "rating": 8
+    },
+    {
+      "question": "What similar creatures exist in the Dreamlands?",
+      "answer": "bholes",
+      "rating": 9
+    },
+    {
+      "question": "What type of dice are used in the rolls?",
+      "answer": "various types of dice, including 10-sided, 1-sided, 4-sided, and 6-sided dice",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do hybrids typically inhabit?"
+      },
+      {
+        "role": "assistant",
+        "content": "remote coastal villages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to a hybrid during the final transformations?"
+      },
+      {
+        "role": "assistant",
+        "content": "either learns to embrace their monstrous heritage or goes mad"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some attempts made by Deep Ones to interact with hybrids?"
+      },
+      {
+        "role": "assistant",
+        "content": "to lure hybrids to their lairs or places of safety"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hybrids do not undergo the final metamorphosis?"
+      },
+      {
+        "role": "assistant",
+        "content": "about 10% of hybrids"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Deep Ones supervising the final metamorphosis of a hybrid?"
+      },
+      {
+        "role": "assistant",
+        "content": "to ensure the hybrid is appropriately schooled in their shared heritage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do hybrids typically inhabit?"
+      },
+      {
+        "role": "assistant",
+        "content": "remote coastal villages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to hybrids that do not complete the transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "they are doomed to spend the rest of their life as a half-human half-deep one"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many percent of hybrids do not complete the transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "about 10%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a further 10% of hybrids that do not undergo the metamorphosis?"
+      },
+      {
+        "role": "assistant",
+        "content": "the deep one genes essentially missing a generation\u2014only to manifest in a future descendent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to deep ones who supervise the final metamorphosis?"
+      },
+      {
+        "role": "assistant",
+        "content": "they can supervise the final metamorphosis and ensure the hybrid is appropriately schooled in their shared heritage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long can hybrids stay underwater until they undergo the full change?"
+      },
+      {
+        "role": "assistant",
+        "content": "until they have undergone the full change into a deep one"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of older hybrids knowing spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "10% chance of knowing 1D3 spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round can Deep One Hybrids make?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting HP of a Deep One Hybrid?"
+      },
+      {
+        "role": "assistant",
+        "content": "11"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge value for the creature in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "30% (15/6)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Armor value for the creature in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the Skills for the creature in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jump 45%, Listen 50%, Stealth 46%, Swim 60%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points are lost to see a deep one hybrid?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D4 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the characteristics of Dholes in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gigantic wormlike burrowing horrors, not native to Earth, dislike light, and have riddled and laid waste to several other worlds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are dholes rarely seen in?"
+      },
+      {
+        "role": "assistant",
+        "content": "daylight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what planets are dholes seen in daylight?"
+      },
+      {
+        "role": "assistant",
+        "content": "planets that they have thoroughly conquered"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are there any unknown relations between dholes and other creatures?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, an unknown relation between dholes and chthonians may exist"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What similar creatures exist in the Dreamlands?"
+      },
+      {
+        "role": "assistant",
+        "content": "bholes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of dice are used in the rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "various types of dice, including 10-sided, 1-sided, 4-sided, and 6-sided dice"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

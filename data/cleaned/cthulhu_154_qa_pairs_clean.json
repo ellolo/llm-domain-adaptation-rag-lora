@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop game, vehicle damage and movement are calculated using a combination of hit points and build ratings. Vehicles with higher build ratings are more resilient to damage, while those with lower build ratings are more susceptible. The movement rating (MOV) of a vehicle also affects its speed and maneuverability in chases. Vehicles that suffer significant damage may be impaired or completely wrecked, with occupants potentially dying. The Keeper has discretion to determine the outcome of such incidents, with luck rolls potentially influencing the survival of those involved.",
+  "qa_pairs": [
+    {
+      "question": "What is the standard build damage to a car in a moderate incident?",
+      "answer": "1D6 build damage",
+      "rating": 9
+    },
+    {
+      "question": "How much movement action does a vehicle lose after a collision?",
+      "answer": "1D3 movement actions",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor value for passengers on a car in economy trim?",
+      "answer": "4",
+      "rating": 7
+    },
+    {
+      "question": "What is the armor value for passengers on a motorcycle, light?",
+      "answer": "2",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum number of crew required for some vehicles to use the Pilot skill?",
+      "answer": "A substantial crew",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum number of crew required for some vehicles to use the Pilot skill?",
+      "answer": "A substantial crew",
+      "rating": 9
+    },
+    {
+      "question": "What is the armor value for passengers on deck?",
+      "answer": "The armor value",
+      "rating": 8
+    },
+    {
+      "question": "Which vehicles on the chart require specialist training to operate?",
+      "answer": "Heavy Vehicles",
+      "rating": 9
+    },
+    {
+      "question": "What skill is used by vehicles on the chart that use the Pilot skill?",
+      "answer": "Pilot skill",
+      "rating": 10
+    },
+    {
+      "question": "Which vehicles on the chart use the Ride skill?",
+      "answer": "Other forms of transport",
+      "rating": 10
+    },
+    {
+      "question": "What type of vehicles require specialist training to operate?",
+      "answer": "Heavy Vehicles",
+      "rating": 10
+    },
+    {
+      "question": "How many vehicles on the chart use the Ride skill?",
+      "answer": "Other forms of transport",
+      "rating": 10
+    },
+    {
+      "question": "What is the minimum number of people required to operate a Hovercraft?",
+      "answer": "1",
+      "rating": 10
+    },
+    {
+      "question": "What is the minimum number of people required to operate a Row boat?",
+      "answer": "0",
+      "rating": 10
+    },
+    {
+      "question": "What is the minimum number of people required to operate a Motorboat?",
+      "answer": "0",
+      "rating": 10
+    },
+    {
+      "question": "What does MOV represent in the text?",
+      "answer": "A rating of the vehicle\u2019s speed and maneuverability in chases",
+      "rating": 10
+    },
+    {
+      "question": "How does a vehicle's build decrease?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle\u2019s build by 1 point",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a vehicle's build when it reaches half of its starting value or lower?",
+      "answer": "It is impaired; one penalty die is applied to all Drive Auto (or appropriate skill) rolls",
+      "rating": 9
+    },
+    {
+      "question": "Is the MOV rating the same for all vehicles?",
+      "answer": "No, these ratings are for modern vehicles",
+      "rating": 8
+    },
+    {
+      "question": "Can vehicles from the 1920s exceed 100 MPH?",
+      "answer": "Yes, though there were cars in the 1920s that could exceed 100 MPH",
+      "rating": 8
+    },
+    {
+      "question": "What does a vehicle's build represent?",
+      "answer": "A rating of the strength and size of the vehicle",
+      "rating": 7
+    },
+    {
+      "question": "How does a vehicle's build decrease with damage?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle\u2019s build by 1 point (round down)",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a vehicle's build if it's reduced to half or lower?",
+      "answer": "One penalty die is applied to all Drive Auto (or appropriate skill) rolls",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a vehicle if it takes damage equal to its full build value?",
+      "answer": "The vehicle is completely wrecked in an impressive manner",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard build damage to a car in a moderate incident?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 build damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much movement action does a vehicle lose after a collision?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 movement actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor value for passengers on a car in economy trim?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor value for passengers on a motorcycle, light?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of crew required for some vehicles to use the Pilot skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A substantial crew"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of crew required for some vehicles to use the Pilot skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A substantial crew"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor value for passengers on deck?"
+      },
+      {
+        "role": "assistant",
+        "content": "The armor value"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which vehicles on the chart require specialist training to operate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heavy Vehicles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used by vehicles on the chart that use the Pilot skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pilot skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which vehicles on the chart use the Ride skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Other forms of transport"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of vehicles require specialist training to operate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heavy Vehicles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many vehicles on the chart use the Ride skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Other forms of transport"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of people required to operate a Hovercraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of people required to operate a Row boat?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of people required to operate a Motorboat?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does MOV represent in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rating of the vehicle\u2019s speed and maneuverability in chases"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a vehicle's build decrease?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full 10 hit points of damage decreases a vehicle\u2019s build by 1 point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle's build when it reaches half of its starting value or lower?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is impaired; one penalty die is applied to all Drive Auto (or appropriate skill) rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the MOV rating the same for all vehicles?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, these ratings are for modern vehicles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can vehicles from the 1920s exceed 100 MPH?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, though there were cars in the 1920s that could exceed 100 MPH"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a vehicle's build represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rating of the strength and size of the vehicle"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a vehicle's build decrease with damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full 10 hit points of damage decreases a vehicle\u2019s build by 1 point (round down)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle's build if it's reduced to half or lower?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die is applied to all Drive Auto (or appropriate skill) rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle if it takes damage equal to its full build value?"
+      },
+      {
+        "role": "assistant",
+        "content": "The vehicle is completely wrecked in an impressive manner"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.7
+  }
+}

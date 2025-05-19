@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Gnoph-keh is a powerful, time-traveling entity that can summon blizzards and intense cold around its body, affecting those within a certain radius. These attacks, which can be combined for increased effect, come at a cost to the Gnoph-keh's magic points. The entity also has physical attacks, such as its horn gore and claws, which can deal significant damage. Additionally, the Gnoph-keh has a unique appearance, consisting of an iridescent cone with various appendages and tentacles.",
+  "qa_pairs": [
+    {
+      "question": "How many magic points is it cost for a gnoph-keh to summon a blizzard?",
+      "answer": "1 magic point per hour",
+      "rating": 8
+    },
+    {
+      "question": "How many yards is the radius of a blizzard when a gnoph-keh summons it?",
+      "answer": "100 yards",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points can an investigator lose due to freezing damage?",
+      "answer": "1 hit point",
+      "rating": 8
+    },
+    {
+      "question": "How often does an investigator need to make a CON roll to avoid freezing damage?",
+      "answer": "Every 15 minutes",
+      "rating": 9
+    },
+    {
+      "question": "What happens to an investigator's hit points every 15 minutes in a blizzard?",
+      "answer": "They must make a CON roll or lose 1 hit point to freezing damage.",
+      "rating": 8
+    },
+    {
+      "question": "How much does the temperature drop for an hour in a 100-yard radius if a gnoph-keh expends 1 magic point?",
+      "answer": "20\u00b0F.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a gnoph-keh?",
+      "answer": "+3D6.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average number of magic points a gnoph-keh has?",
+      "answer": "21.",
+      "rating": 9
+    },
+    {
+      "question": "What is the temperature drop for an hour in a 100-yard radius when the Gnoph-Keh spends magic?",
+      "answer": "20\u00b0F",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for Gnoph-keh attacks?",
+      "answer": "+3D6",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks can a Gnoph-Keh make per round?",
+      "answer": "5",
+      "rating": 7
+    },
+    {
+      "question": "How many Horn Gore attacks can a Gnoph-Keh make per round?",
+      "answer": "1",
+      "rating": 6
+    },
+    {
+      "question": "What is the function of the four slender grey stalks?",
+      "answer": "four slender grey stalks bearing flowerlike appendages",
+      "rating": 8
+    },
+    {
+      "question": "What is the function of the eight greenish antennae or tentacles?",
+      "answer": "eight greenish antennae or tentacles",
+      "rating": 9
+    },
+    {
+      "question": "What were the stalks on the creature's head made of?",
+      "answer": "slender grey",
+      "rating": 8
+    },
+    {
+      "question": "How many antennae did the creature have on its nether side?",
+      "answer": "eight",
+      "rating": 9
+    },
+    {
+      "question": "What was the base of the central cone made of?",
+      "answer": "rubbery grey substance",
+      "rating": 7
+    },
+    {
+      "question": "What were the cone-shaped beings that the time-traveling entities took over?",
+      "answer": "the cone-shaped beings dwelling here",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points is it cost for a gnoph-keh to summon a blizzard?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point per hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many yards is the radius of a blizzard when a gnoph-keh summons it?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points can an investigator lose due to freezing damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hit point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often does an investigator need to make a CON roll to avoid freezing damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every 15 minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's hit points every 15 minutes in a blizzard?"
+      },
+      {
+        "role": "assistant",
+        "content": "They must make a CON roll or lose 1 hit point to freezing damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the temperature drop for an hour in a 100-yard radius if a gnoph-keh expends 1 magic point?"
+      },
+      {
+        "role": "assistant",
+        "content": "20\u00b0F."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a gnoph-keh?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average number of magic points a gnoph-keh has?"
+      },
+      {
+        "role": "assistant",
+        "content": "21."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the temperature drop for an hour in a 100-yard radius when the Gnoph-Keh spends magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "20\u00b0F"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for Gnoph-keh attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a Gnoph-Keh make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Horn Gore attacks can a Gnoph-Keh make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of the four slender grey stalks?"
+      },
+      {
+        "role": "assistant",
+        "content": "four slender grey stalks bearing flowerlike appendages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of the eight greenish antennae or tentacles?"
+      },
+      {
+        "role": "assistant",
+        "content": "eight greenish antennae or tentacles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the stalks on the creature's head made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "slender grey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many antennae did the creature have on its nether side?"
+      },
+      {
+        "role": "assistant",
+        "content": "eight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the base of the central cone made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "rubbery grey substance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the cone-shaped beings that the time-traveling entities took over?"
+      },
+      {
+        "role": "assistant",
+        "content": "the cone-shaped beings dwelling here"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 18,
+    "retention_rate": 0.9,
+    "avg_score": 7.7
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, characters can switch between different modes of movement, such as flying, swimming, or driving, which affects their Movement (MOV) rate. When a character joins a chase, their MOV rate must be at least equal to the slowest fleeing character to be considered. If a character joins a chase as a fleeing character, their MOV rate must exceed the slowest member of the chase, requiring adjustments to movement actions. Additionally, characters can create hazards or barriers through their actions, which may require movement actions, skill rolls, or both.",
+  "qa_pairs": [
+    {
+      "question": "What is the requirement for a character joining a chase as a pursuer?",
+      "answer": "A character who joins a chase as a pursuer needs a MOV rate that is at least equal to the slowest fleeing character.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a character joining a chase as a fleeing character has a slower MOV rate than the previously slowest member?",
+      "answer": "Some adjustment is required: the number of movement actions that everyone in the chase has should be recalculated.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when a character leaves a chase?",
+      "answer": "There is no need to recalculate speeds or movement actions.",
+      "rating": 9
+    },
+    {
+      "question": "What is the default movement action for each character in a chase?",
+      "answer": "Every character gets one movement action by default",
+      "rating": 8
+    },
+    {
+      "question": "How do characters move in the game?",
+      "answer": "Every character gets one movement action by default, plus one movement action for each point by which their MOV rate exceeds that of the new slowest participant in the chase.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when a character leaves a chase in the game?",
+      "answer": "There is no need to recalculate speeds or movement actions when a character leaves a chase.",
+      "rating": 9
+    },
+    {
+      "question": "How does the Keeper determine a character's movement in a different mode?",
+      "answer": "If no alternate MOV rating is listed, the Keeper may allow the character to use half of their standard MOV, providing the mode of movement is one that the character can perform.",
+      "rating": 8
+    },
+    {
+      "question": "What is the standard movement rating for a human in the game?",
+      "answer": "The standard movement rating for a human is 8.",
+      "rating": 7
+    },
+    {
+      "question": "What is the rule for MOV rating when changing modes of movement?",
+      "answer": "The Keeper may allow the character to use half of their standard MOV if no alternate MOV rating is listed.",
+      "rating": 9
+    },
+    {
+      "question": "How does a character's MOV change when swimming?",
+      "answer": "A human with MOV 8 would have MOV 4 when swimming.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a character's speed roll when they switch from on foot to driving a car?",
+      "answer": "A character should make a fresh speed roll using Drive Auto skill.",
+      "rating": 9
+    },
+    {
+      "question": "How does a character's speed roll change when they become a pedestrian?",
+      "answer": "A character should make a fresh speed roll using CON.",
+      "rating": 8
+    },
+    {
+      "question": "What determines a character's speed roll?",
+      "answer": "Their speed roll depends on whether they achieved an Extreme success on or failed their speed roll (CON) at the start of the chase.",
+      "rating": 9
+    },
+    {
+      "question": "How does a character's speed roll work when switching modes?",
+      "answer": "A character should make a fresh speed roll using Drive Auto skill when switching from being on foot to driving a car, and using CON when becoming a pedestrian.",
+      "rating": 9
+    },
+    {
+      "question": "How does a character's speed roll affect their number of movement actions?",
+      "answer": "The character's speed (MOV) is changed, which alters their number of movement actions.",
+      "rating": 8
+    },
+    {
+      "question": "How many movement actions does a character have after a speed change?",
+      "answer": "Refer to Characters Joining a Chase in Progress (see page 142) for the specific number of movement actions.",
+      "rating": 7
+    },
+    {
+      "question": "What action should a character take when changing their speed?",
+      "answer": "Make a fresh speed roll using CON.",
+      "rating": 9
+    },
+    {
+      "question": "What should happen to a character's number of movement actions when their speed is changed?",
+      "answer": "Their number of movement actions should be altered.",
+      "rating": 8
+    },
+    {
+      "question": "What is usually required to create a hazard or barrier through a character's actions during play?",
+      "answer": "The expenditure of a movement action (for the time required), a skill roll (to achieve it) or both.",
+      "rating": 9
+    },
+    {
+      "question": "What action might require a STR roll and a movement action?",
+      "answer": "Moving a heavy wardrobe against a door.",
+      "rating": 8
+    },
+    {
+      "question": "What is required to create hazards or barriers through actions during play?",
+      "answer": "a movement action (for the time required), a skill roll (to achieve it) or both",
+      "rating": 9
+    },
+    {
+      "question": "How much movement action is required to pause a door with a bolt or key?",
+      "answer": "1 movement action",
+      "rating": 7
+    },
+    {
+      "question": "What happens if Harvey fails his DEX roll to weave through the crowd?",
+      "answer": "He will be slowed for 1D3 movement actions.",
+      "rating": 9
+    },
+    {
+      "question": "What skill is required for Harvey to get bystanders to assist him in chasing a thief?",
+      "answer": "It would call for a Fast Talk or Intimidate skill roll.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of successfully using a gun to cause a crowd to panic?",
+      "answer": "The crowd presents a hazard for those following.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if Harvey successfully uses a gun to cause a crowd to panic?",
+      "answer": "Nothing is mentioned, but it is stated that if he fails, the action causes more trouble than it is worth.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a character joining a chase as a pursuer?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character who joins a chase as a pursuer needs a MOV rate that is at least equal to the slowest fleeing character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character joining a chase as a fleeing character has a slower MOV rate than the previously slowest member?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some adjustment is required: the number of movement actions that everyone in the chase has should be recalculated."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character leaves a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no need to recalculate speeds or movement actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the default movement action for each character in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every character gets one movement action by default"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do characters move in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every character gets one movement action by default, plus one movement action for each point by which their MOV rate exceeds that of the new slowest participant in the chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character leaves a chase in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no need to recalculate speeds or movement actions when a character leaves a chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine a character's movement in a different mode?"
+      },
+      {
+        "role": "assistant",
+        "content": "If no alternate MOV rating is listed, the Keeper may allow the character to use half of their standard MOV, providing the mode of movement is one that the character can perform."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard movement rating for a human in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The standard movement rating for a human is 8."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for MOV rating when changing modes of movement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may allow the character to use half of their standard MOV if no alternate MOV rating is listed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's MOV change when swimming?"
+      },
+      {
+        "role": "assistant",
+        "content": "A human with MOV 8 would have MOV 4 when swimming."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's speed roll when they switch from on foot to driving a car?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character should make a fresh speed roll using Drive Auto skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's speed roll change when they become a pedestrian?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character should make a fresh speed roll using CON."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines a character's speed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their speed roll depends on whether they achieved an Extreme success on or failed their speed roll (CON) at the start of the chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's speed roll work when switching modes?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character should make a fresh speed roll using Drive Auto skill when switching from being on foot to driving a car, and using CON when becoming a pedestrian."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's speed roll affect their number of movement actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character's speed (MOV) is changed, which alters their number of movement actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does a character have after a speed change?"
+      },
+      {
+        "role": "assistant",
+        "content": "Refer to Characters Joining a Chase in Progress (see page 142) for the specific number of movement actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action should a character take when changing their speed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a fresh speed roll using CON."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should happen to a character's number of movement actions when their speed is changed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their number of movement actions should be altered."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is usually required to create a hazard or barrier through a character's actions during play?"
+      },
+      {
+        "role": "assistant",
+        "content": "The expenditure of a movement action (for the time required), a skill roll (to achieve it) or both."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action might require a STR roll and a movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Moving a heavy wardrobe against a door."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to create hazards or barriers through actions during play?"
+      },
+      {
+        "role": "assistant",
+        "content": "a movement action (for the time required), a skill roll (to achieve it) or both"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much movement action is required to pause a door with a bolt or key?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 movement action"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey fails his DEX roll to weave through the crowd?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will be slowed for 1D3 movement actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is required for Harvey to get bystanders to assist him in chasing a thief?"
+      },
+      {
+        "role": "assistant",
+        "content": "It would call for a Fast Talk or Intimidate skill roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of successfully using a gun to cause a crowd to panic?"
+      },
+      {
+        "role": "assistant",
+        "content": "The crowd presents a hazard for those following."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey successfully uses a gun to cause a crowd to panic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing is mentioned, but it is stated that if he fails, the action causes more trouble than it is worth."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

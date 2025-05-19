@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document provides a step-by-step guide to creating an investigator in a tabletop role-playing game. The guide begins by determining the investigator's move rate, personal interest skills, and combat values, followed by allocating skill points to various skills and attributes. The document also provides tables and guidelines for determining finances, creating a backstory, and listing equipment and fellow investigators. The goal is to create a well-rounded and balanced investigator, with a focus on allocating skill points and attributes to create a unique and effective character.",
+  "qa_pairs": [
+    {
+      "question": "What is the age range used to deduct from Move Rate?",
+      "answer": "40s, 50s, 60s, 70s, 80s",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for both DEX and STR to be greater than SIZ?",
+      "answer": "MOV 9",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for STR or DEX to be equal to or greater than SIZ?",
+      "answer": "MOV 7",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for all DEX, STR, and SIZ to be equal?",
+      "answer": "MOV 8",
+      "rating": 9
+    },
+    {
+      "question": "How much is deducted from Move Rate if the age is in the 40s?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "How much is deducted from Move Rate if the age is in the 80s?",
+      "answer": "5",
+      "rating": 9
+    },
+    {
+      "question": "What is the formula to calculate personal interest points?",
+      "answer": "Calculate personal interest points by multiplying INT by 2.",
+      "rating": 7
+    },
+    {
+      "question": "How to determine Damage Bonus & Build?",
+      "answer": "STR+SIZ and looking up the result",
+      "rating": 9
+    },
+    {
+      "question": "Where to find the Credit Rating to determine Spending Level, Cash on Hand, and Assets?",
+      "answer": "Table II: Cash and Assets (page 57)",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of creating a Backstory?",
+      "answer": "To make the investigator come to life",
+      "rating": 9
+    },
+    {
+      "question": "How to determine Finances?",
+      "answer": "Determine Finances by looking up your investigator\u2019s Credit Rating",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of the Dodge box?",
+      "answer": "To store all combat skills in one place for handy reference",
+      "rating": 8
+    },
+    {
+      "question": "Where can investigators find equipment lists?",
+      "answer": "page 238",
+      "rating": 6
+    },
+    {
+      "question": "Where can investigators find weapon lists?",
+      "answer": "page 250",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of the 'Fellow Investigators' section?",
+      "answer": "as a handy reminder of who\u2019s who",
+      "rating": 8
+    },
+    {
+      "question": "How should occupation skills be allocated?",
+      "answer": "as percentage points among those skills listed for the occupation",
+      "rating": 9
+    },
+    {
+      "question": "What happens if points are left undistributed?",
+      "answer": "points are lost",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the base chance of success in a skill?",
+      "answer": "the base chance of success in that skill",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of allocating points to Credit Rating?",
+      "answer": "Points should also be allocated to Credit Rating within the range indicated for the occupation.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if points are not allocated to a skill?",
+      "answer": "However, points left undistributed are lost.",
+      "rating": 9
+    },
+    {
+      "question": "What does the number in brackets next to a skill represent?",
+      "answer": "Each skill has a number in brackets next to it on the investigator sheet: this is the base chance of success in that skill, and any points allocated to that skill are added to this base number.",
+      "rating": 9
+    },
+    {
+      "question": "What is the total value obtained for each skill?",
+      "answer": "Write down the total points for each skill on the investigator sheet (the points you\u2019ve allocated plus the base chance printed on the investigator sheet).",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the space on the investigator sheet?",
+      "answer": "The sheet also has space",
+      "rating": 7
+    },
+    {
+      "question": "What is the significance of the base chance of success in a skill?",
+      "answer": "this is the base chance of success in that skill",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the age range used to deduct from Move Rate?"
+      },
+      {
+        "role": "assistant",
+        "content": "40s, 50s, 60s, 70s, 80s"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for both DEX and STR to be greater than SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOV 9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for STR or DEX to be equal to or greater than SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOV 7"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for all DEX, STR, and SIZ to be equal?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOV 8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is deducted from Move Rate if the age is in the 40s?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is deducted from Move Rate if the age is in the 80s?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the formula to calculate personal interest points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Calculate personal interest points by multiplying INT by 2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to determine Damage Bonus & Build?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR+SIZ and looking up the result"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where to find the Credit Rating to determine Spending Level, Cash on Hand, and Assets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Table II: Cash and Assets (page 57)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of creating a Backstory?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make the investigator come to life"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to determine Finances?"
+      },
+      {
+        "role": "assistant",
+        "content": "Determine Finances by looking up your investigator\u2019s Credit Rating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Dodge box?"
+      },
+      {
+        "role": "assistant",
+        "content": "To store all combat skills in one place for handy reference"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators find equipment lists?"
+      },
+      {
+        "role": "assistant",
+        "content": "page 238"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators find weapon lists?"
+      },
+      {
+        "role": "assistant",
+        "content": "page 250"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the 'Fellow Investigators' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "as a handy reminder of who\u2019s who"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should occupation skills be allocated?"
+      },
+      {
+        "role": "assistant",
+        "content": "as percentage points among those skills listed for the occupation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if points are left undistributed?"
+      },
+      {
+        "role": "assistant",
+        "content": "points are lost"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the base chance of success in a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "the base chance of success in that skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of allocating points to Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Points should also be allocated to Credit Rating within the range indicated for the occupation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if points are not allocated to a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "However, points left undistributed are lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the number in brackets next to a skill represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each skill has a number in brackets next to it on the investigator sheet: this is the base chance of success in that skill, and any points allocated to that skill are added to this base number."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total value obtained for each skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Write down the total points for each skill on the investigator sheet (the points you\u2019ve allocated plus the base chance printed on the investigator sheet)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the space on the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sheet also has space"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the base chance of success in a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "this is the base chance of success in that skill"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

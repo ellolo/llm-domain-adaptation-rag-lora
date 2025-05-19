@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Deep Ones are a mythological species from H.P. Lovecraft's works, described as gilled, fish-like humanoids with scaly backs and bulging eyes. They are said to inhabit underwater cities and are often associated with strange jewelry and mermaids. Deep One hybrids, the offspring of human and Deep One mating, exhibit physical changes and undergo a transformation into Deep Ones, often retiring to coastal villages and eventually embracing their aquatic lifestyle. These hybrids typically display gross deformities and experience strange sensations, dreams, and longings. They are often seen as a threat to human society, with some regions even rumored to be home to immortal Deep One communities.",
+  "qa_pairs": [
+    {
+      "question": "What is the average damage bonus of Deep Ones?",
+      "answer": "1D4",
+      "rating": 9
+    },
+    {
+      "question": "What is the average build of Deep Ones?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the average magic points of Deep Ones?",
+      "answer": "10",
+      "rating": 9
+    },
+    {
+      "question": "What is the average HP of Deep Ones?",
+      "answer": "13",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for Deep Ones?",
+      "answer": "1D4",
+      "rating": 9
+    },
+    {
+      "question": "What is the average magic points for Deep Ones?",
+      "answer": "10",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Deep Ones have the fighting skill?",
+      "answer": "45%",
+      "rating": 7
+    },
+    {
+      "question": "How many Deep Ones have the fighting skill?",
+      "answer": "22/9",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of damage is dealt by a Deep One in combat?",
+      "answer": "45%",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of damage a Deep One can dodge?",
+      "answer": "25%",
+      "rating": 8
+    },
+    {
+      "question": "What is the material used for armor in Deep Ones?",
+      "answer": "skin and scales",
+      "rating": 7
+    },
+    {
+      "question": "How many Sanity points can a Deep One drain from a human?",
+      "answer": "0-1D6",
+      "rating": 9
+    },
+    {
+      "question": "How much damage can a deep one deal in a single attack?",
+      "answer": "1D8 + damage bonus",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor of a deep one?",
+      "answer": "1-point skin and scales.",
+      "rating": 6
+    },
+    {
+      "question": "What is the potential penalty for seeing a deep one?",
+      "answer": "0/1D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What are the names of some deep one communities mentioned in the text?",
+      "answer": "Ahu-Y\u2019hloa, Y\u2019ha-nth-lei, and G\u2019ll-oo",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical appearance of a Deep One Hybrid?",
+      "answer": "A Deep One Hybrid typically has bulging, watery blue eyes, a flat nose, a receding forehead and chin, and singularly underdeveloped ears.",
+      "rating": 9
+    },
+    {
+      "question": "What physical changes occur in Deep One Hybrids in late teens?",
+      "answer": "In late teens, Deep One Hybrids commonly exhibit the 'Innsmouth Look', which includes changes in appearance and physiology.",
+      "rating": 8
+    },
+    {
+      "question": "What is the ultimate fate of a Deep One Hybrid?",
+      "answer": "By middle age, most Deep One Hybrids display some form of gross deformity, and they typically undergo a final transformation into a Deep One and embark on a new life in the sea.",
+      "rating": 9
+    },
+    {
+      "question": "How do Deep One Hybrids typically live their lives?",
+      "answer": "Deep One Hybrids typically retire to the privacy of their close-shuttered homes, often due to the societal stigma of their deformities.",
+      "rating": 7
+    },
+    {
+      "question": "What are deep one hybrids?",
+      "answer": "The progeny of deep one and human mating",
+      "rating": 6
+    },
+    {
+      "question": "What is the 'Innsmouth Look'?",
+      "answer": "Changes in appearance and physiology that occur in late teens",
+      "rating": 8
+    },
+    {
+      "question": "At what stage do deep one hybrids undergo the final transformation?",
+      "answer": "By middle age",
+      "rating": 9
+    },
+    {
+      "question": "What physical changes do deep one hybrids experience?",
+      "answer": "Gross deformity and an awakening of new senses",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of Deep Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of Deep Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points of Deep Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average HP of Deep Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for Deep Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for Deep Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Deep Ones have the fighting skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "45%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Deep Ones have the fighting skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "22/9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage is dealt by a Deep One in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "45%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage a Deep One can dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the material used for armor in Deep Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "skin and scales"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points can a Deep One drain from a human?"
+      },
+      {
+        "role": "assistant",
+        "content": "0-1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a deep one deal in a single attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor of a deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "1-point skin and scales."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential penalty for seeing a deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the names of some deep one communities mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ahu-Y\u2019hloa, Y\u2019ha-nth-lei, and G\u2019ll-oo"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical appearance of a Deep One Hybrid?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Deep One Hybrid typically has bulging, watery blue eyes, a flat nose, a receding forehead and chin, and singularly underdeveloped ears."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What physical changes occur in Deep One Hybrids in late teens?"
+      },
+      {
+        "role": "assistant",
+        "content": "In late teens, Deep One Hybrids commonly exhibit the 'Innsmouth Look', which includes changes in appearance and physiology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate fate of a Deep One Hybrid?"
+      },
+      {
+        "role": "assistant",
+        "content": "By middle age, most Deep One Hybrids display some form of gross deformity, and they typically undergo a final transformation into a Deep One and embark on a new life in the sea."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Deep One Hybrids typically live their lives?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep One Hybrids typically retire to the privacy of their close-shuttered homes, often due to the societal stigma of their deformities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are deep one hybrids?"
+      },
+      {
+        "role": "assistant",
+        "content": "The progeny of deep one and human mating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Innsmouth Look'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Changes in appearance and physiology that occur in late teens"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what stage do deep one hybrids undergo the final transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "By middle age"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What physical changes do deep one hybrids experience?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gross deformity and an awakening of new senses"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

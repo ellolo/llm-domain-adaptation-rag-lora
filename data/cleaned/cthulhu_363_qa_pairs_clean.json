@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Star Vampire and Tcho-Tcho are two supernatural entities from the Cthulhu Mythos. The Star Vampire is a creature that remains visible for six rounds after feeding, allowing it to attack at a normal chance to hit. It has a range of abilities, including talon attacks, bite attacks, and spells, which can drain the life force of its victims. In contrast, the Tcho-Tcho is a hybrid race of humans and amphibians, cursed with half-normal sanity at birth, and are known for their cruelty and worship of dark gods. Both entities are formidable opponents, with the Star Vampire's ability to drain life force and the Tcho-Tcho's savage nature and access to dark magic.",
+  "qa_pairs": [
+    {
+      "question": "What percentage of star vampires know 1D3 spells?",
+      "answer": "30%",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a star vampire?",
+      "answer": "+2D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the number of attacks a star vampire can make per round?",
+      "answer": "3",
+      "rating": 8
+    },
+    {
+      "question": "What is the move speed of a star vampire when flying?",
+      "answer": "9",
+      "rating": 7
+    },
+    {
+      "question": "What is the initial HP of a star vampire?",
+      "answer": "19",
+      "rating": 8
+    },
+    {
+      "question": "What is the average number of magic points for a star vampire?",
+      "answer": "15",
+      "rating": 7
+    },
+    {
+      "question": "What happens to a living victim who is bitten by a star vampire?",
+      "answer": "The victim loses 3D10 STR per round, as blood loss.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage to the extra-terrestrial integument of the star vampire's victims when hit with bullets?",
+      "answer": "Bullets do only half damage.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by a star vampire's attack?",
+      "answer": "3D10 STR blood drain per round",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor rating of the star vampire?",
+      "answer": "4-point hide.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt by the star vampire's sword?",
+      "answer": "1D6 + damage bonus",
+      "rating": 7
+    },
+    {
+      "question": "What happens if the attackers are seized by the star vampire?",
+      "answer": "The attackers can be bitten in the following round.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage done to a star vampire if it's hit by bullets?",
+      "answer": "Half damage",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage done to a target bitten by a star vampire?",
+      "answer": "3D10 STR blood drain",
+      "rating": 9
+    },
+    {
+      "question": "What is the dodge chance for a star vampire's attack?",
+      "answer": "23%",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor of a star vampire?",
+      "answer": "4-point hide",
+      "rating": 9
+    },
+    {
+      "question": "How much sanity points are lost to see a star vampire or experience its attack?",
+      "answer": "1/1D10 Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "What is the origin of the tcho-tcho race?",
+      "answer": "Hybrid race formed from humans intermingled with the horrible Miri",
+      "rating": 8
+    },
+    {
+      "question": "What is the origin of the tcho-tchos according to the text?",
+      "answer": "The tcho-tchos are said to come from humans who intermingled with the horrible Miri, forming a hybrid race of evil intent.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the sanity of tcho-tchos at birth?",
+      "answer": "The taint of the Miri curses all tcho-tchos with Half-normal sanity at birth.",
+      "rating": 9
+    },
+    {
+      "question": "How quickly does the remaining sanity of tcho-tchos erode?",
+      "answer": "The remaining sanity of the tcho-tchos is rapidly eroded in a few years by participation in unspeakable ceremonies and horrific deeds.",
+      "rating": 9
+    },
+    {
+      "question": "What is a common characteristic of tcho-tcho tribes?",
+      "answer": "Differing tcho-tcho tribes worship a variety of Great Old Ones, not just Chaugnar Faugn.",
+      "rating": 8
+    },
+    {
+      "question": "What is a typical spell known by a Tcho-Tcho priest or acolyte?",
+      "answer": "A Tcho-Tcho priest or acolyte knows at least three spells, usually including a Contact Deity spell and the Voor-ish Sign.",
+      "rating": 8
+    },
+    {
+      "question": "What is a characteristic of tcho-tcho worship?",
+      "answer": "Tcho-tcho worship is characterized as cruel, savage, and dark god-worshiping.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of star vampires know 1D3 spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of attacks a star vampire can make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the move speed of a star vampire when flying?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial HP of a star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "19"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average number of magic points for a star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a living victim who is bitten by a star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim loses 3D10 STR per round, as blood loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage to the extra-terrestrial integument of the star vampire's victims when hit with bullets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bullets do only half damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a star vampire's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10 STR blood drain per round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor rating of the star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "4-point hide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the star vampire's sword?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the attackers are seized by the star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attackers can be bitten in the following round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage done to a star vampire if it's hit by bullets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage done to a target bitten by a star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10 STR blood drain"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the dodge chance for a star vampire's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "23%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor of a star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "4-point hide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much sanity points are lost to see a star vampire or experience its attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D10 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the tcho-tcho race?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hybrid race formed from humans intermingled with the horrible Miri"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the tcho-tchos according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The tcho-tchos are said to come from humans who intermingled with the horrible Miri, forming a hybrid race of evil intent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the sanity of tcho-tchos at birth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The taint of the Miri curses all tcho-tchos with Half-normal sanity at birth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How quickly does the remaining sanity of tcho-tchos erode?"
+      },
+      {
+        "role": "assistant",
+        "content": "The remaining sanity of the tcho-tchos is rapidly eroded in a few years by participation in unspeakable ceremonies and horrific deeds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common characteristic of tcho-tcho tribes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Differing tcho-tcho tribes worship a variety of Great Old Ones, not just Chaugnar Faugn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a typical spell known by a Tcho-Tcho priest or acolyte?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Tcho-Tcho priest or acolyte knows at least three spells, usually including a Contact Deity spell and the Voor-ish Sign."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of tcho-tcho worship?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tcho-tcho worship is characterized as cruel, savage, and dark god-worshiping."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

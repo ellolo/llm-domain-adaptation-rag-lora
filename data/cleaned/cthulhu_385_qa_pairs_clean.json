@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nNyarlathotep is a deity in the Cthulhu Mythos, often worshiped through various cults worldwide. He is typically associated with chaos, madness, and destruction, and is said to bring turmoil and terror to those who worship him. Nyarlathotep is known to grant rewards to loyal followers, but these gifts often come with negative consequences, such as suffering, knowledge of destructive spells, or servitor monsters. He is also feared by other Mythos species and is often summoned by his masters to carry out tasks. Overall, Nyarlathotep is a malevolent figure who seeks to undermine human civilization.",
+  "qa_pairs": [
+    {
+      "question": "What is the typical form of Nyarlathotep worship?",
+      "answer": "Nyarlathotep is typically worshiped",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the enormous monster with a blood-red tentacle?",
+      "answer": "The Haunter of the Dark",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the giant woman whose body convulses with numerous tentacles?",
+      "answer": "The Bloated Woman",
+      "rating": 7
+    },
+    {
+      "question": "What is the form that the Black Man is often associated with in European witch ceremonies?",
+      "answer": "Nyarlathotep",
+      "rating": 9
+    },
+    {
+      "question": "Where is Nyarlathotep typically worshiped?",
+      "answer": "one of his forms, or 'masks'",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary goal of those worshiping the gods?",
+      "answer": "gathering Nyarlathotep's favor",
+      "rating": 6
+    },
+    {
+      "question": "What is the name of a cult centered in Cairo with a powerful branch in London?",
+      "answer": "Brotherhood of the Black Pharaoh",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of a cult in Australia that worships the Haunter of the Dark?",
+      "answer": "Cult of the Starry Wisdom of Providence",
+      "rating": 8
+    },
+    {
+      "question": "Which gods are worshiped by the Cult of Providence and the Cult of the Sand Bat?",
+      "answer": "The Haunter of the Dark",
+      "rating": 9
+    },
+    {
+      "question": "What is the motivation for many cults that worship Nyarlathotep?",
+      "answer": "To gather Nyarlathotep's favor",
+      "rating": 8
+    },
+    {
+      "question": "How do Nyarlathotep's gifts typically affect a recipient?",
+      "answer": "They provoke turmoil, suffering, and terror",
+      "rating": 9
+    },
+    {
+      "question": "What is often granted to worshipers of Nyarlathotep as a reward?",
+      "answer": "Knowledge of a spell or a servitor monster",
+      "rating": 8
+    },
+    {
+      "question": "What is a common source of rewards for loyal slaves in the context of Nyarlathotep?",
+      "answer": "The Crawling Chaos",
+      "rating": 7
+    },
+    {
+      "question": "What type of creatures can Nyarlathotep gift to worshipers?",
+      "answer": "Any type of creature, including monsters",
+      "rating": 9
+    },
+    {
+      "question": "What does the permanent donation of a characteristic to Nyarlathotep and other gods involve?",
+      "answer": "At least the permanent donation of POW or other characteristic",
+      "rating": 8
+    },
+    {
+      "question": "How do Nyarlathotep's gifts typically affect a gift's recipient?",
+      "answer": "They provoke turmoil among humanity, bringing suffering and terror",
+      "rating": 9
+    },
+    {
+      "question": "What is a characteristic of Nyarlathotep's gifts?",
+      "answer": "Nyarlathotep's gifts are likely to bring suffering and terror to a gift's recipient.",
+      "rating": 9
+    },
+    {
+      "question": "What must be involved in a gift to Nyarlathotep?",
+      "answer": "The permanent donation of POW or other characteristic to Nyarlathotep and other gods.",
+      "rating": 8
+    },
+    {
+      "question": "Who does Nyarlathotep enact the will of?",
+      "answer": "The Azathoth and other gods, whom he is accurately referred to as their soul.",
+      "rating": 9
+    },
+    {
+      "question": "According to prophecies, what might Nyarlathotep destroy?",
+      "answer": "Humanity and possibly the entire planet.",
+      "rating": 8
+    },
+    {
+      "question": "What is the permanent donation of POW or other characteristic to Nyarlathotep and other gods?",
+      "answer": "at least the permanent donation of POW or other characteristic to Nyarlathotep and other gods",
+      "rating": 7
+    },
+    {
+      "question": "Who is accurately referred to as the soul of the Azathoth and other gods?",
+      "answer": "Nyarlathotep",
+      "rating": 9
+    },
+    {
+      "question": "What prophecy seems to state that Nyarlathotep himself will destroy humanity and possibly the entire planet?",
+      "answer": "The Crawling Chaos, Nyarlathotep, and the poem The Fungi from Yuggoth",
+      "rating": 8
+    },
+    {
+      "question": "What is known about Nyarlathotep's relationship with his masters?",
+      "answer": "He is a mocking figure, evidently contemptuous of his masters",
+      "rating": 8
+    },
+    {
+      "question": "What prophecy, along with others, seems to state that Nyarlathotep will destroy humanity and possibly the entire planet?",
+      "answer": "The Crawling Chaos, Nyarlathotep, and the poem The Fungi from Yuggoth",
+      "rating": 8
+    },
+    {
+      "question": "Why does Nyarlathotep usually react to challenges by summoning beings to carry off or dispose of foes?",
+      "answer": "To carry off or otherwise dispose of foes",
+      "rating": 9
+    },
+    {
+      "question": "What is Nyarlathotep known and feared by, according to the text?",
+      "answer": "All Mythos species",
+      "rating": 7
+    },
+    {
+      "question": "How does Nyarlathotep sometimes try to deal with his foes in human form?",
+      "answer": "By appearing as a friend, and is generally reluctant to reveal his supernatural powers unless pressed",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical form of Nyarlathotep worship?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nyarlathotep is typically worshiped"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the enormous monster with a blood-red tentacle?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Haunter of the Dark"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the giant woman whose body convulses with numerous tentacles?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Bloated Woman"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the form that the Black Man is often associated with in European witch ceremonies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nyarlathotep"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Nyarlathotep typically worshiped?"
+      },
+      {
+        "role": "assistant",
+        "content": "one of his forms, or 'masks'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of those worshiping the gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "gathering Nyarlathotep's favor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of a cult centered in Cairo with a powerful branch in London?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brotherhood of the Black Pharaoh"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of a cult in Australia that worships the Haunter of the Dark?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cult of the Starry Wisdom of Providence"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which gods are worshiped by the Cult of Providence and the Cult of the Sand Bat?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Haunter of the Dark"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the motivation for many cults that worship Nyarlathotep?"
+      },
+      {
+        "role": "assistant",
+        "content": "To gather Nyarlathotep's favor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Nyarlathotep's gifts typically affect a recipient?"
+      },
+      {
+        "role": "assistant",
+        "content": "They provoke turmoil, suffering, and terror"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is often granted to worshipers of Nyarlathotep as a reward?"
+      },
+      {
+        "role": "assistant",
+        "content": "Knowledge of a spell or a servitor monster"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common source of rewards for loyal slaves in the context of Nyarlathotep?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Crawling Chaos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of creatures can Nyarlathotep gift to worshipers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any type of creature, including monsters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the permanent donation of a characteristic to Nyarlathotep and other gods involve?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least the permanent donation of POW or other characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Nyarlathotep's gifts typically affect a gift's recipient?"
+      },
+      {
+        "role": "assistant",
+        "content": "They provoke turmoil among humanity, bringing suffering and terror"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of Nyarlathotep's gifts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nyarlathotep's gifts are likely to bring suffering and terror to a gift's recipient."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must be involved in a gift to Nyarlathotep?"
+      },
+      {
+        "role": "assistant",
+        "content": "The permanent donation of POW or other characteristic to Nyarlathotep and other gods."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who does Nyarlathotep enact the will of?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Azathoth and other gods, whom he is accurately referred to as their soul."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to prophecies, what might Nyarlathotep destroy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Humanity and possibly the entire planet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the permanent donation of POW or other characteristic to Nyarlathotep and other gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "at least the permanent donation of POW or other characteristic to Nyarlathotep and other gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is accurately referred to as the soul of the Azathoth and other gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nyarlathotep"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What prophecy seems to state that Nyarlathotep himself will destroy humanity and possibly the entire planet?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Crawling Chaos, Nyarlathotep, and the poem The Fungi from Yuggoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is known about Nyarlathotep's relationship with his masters?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is a mocking figure, evidently contemptuous of his masters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What prophecy, along with others, seems to state that Nyarlathotep will destroy humanity and possibly the entire planet?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Crawling Chaos, Nyarlathotep, and the poem The Fungi from Yuggoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does Nyarlathotep usually react to challenges by summoning beings to carry off or dispose of foes?"
+      },
+      {
+        "role": "assistant",
+        "content": "To carry off or otherwise dispose of foes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Nyarlathotep known and feared by, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "All Mythos species"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Nyarlathotep sometimes try to deal with his foes in human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "By appearing as a friend, and is generally reluctant to reveal his supernatural powers unless pressed"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

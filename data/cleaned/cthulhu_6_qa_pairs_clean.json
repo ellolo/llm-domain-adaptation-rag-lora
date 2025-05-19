@@ -1,0 +1,526 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Call of Cthulhu role-playing game is a cooperative game where players work together to achieve a common goal, often thwarting a nefarious plot by a dark cult or secret society. The game's outcome depends on the investigators' success in achieving their goal, with failure resulting in loss and potential death. Players can gain power and advancement as they progress through the game, with the ultimate goal of repelling the cosmic horrors of the universe. The game is typically led by a Keeper, who controls non-player characters and monsters, and the players' investigators can suffer injuries, sanity-shattering experiences, or death.",
+  "qa_pairs": [
+    {
+      "question": "What is the main goal of participants in the game?",
+      "answer": "to discover and foil some nefarious plot",
+      "rating": 8
+    },
+    {
+      "question": "What controls the alien or hostile situation in the game?",
+      "answer": "an impartial Keeper",
+      "rating": 9
+    },
+    {
+      "question": "What can happen to investigators during the game?",
+      "answer": "they may become injured, suffer sanity-shattering experiences, or die",
+      "rating": 8
+    },
+    {
+      "question": "What is the significance of a single investigator's death?",
+      "answer": "it means repulsing Cthulhu\u2019s master plan to enslave the Earth",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome of failing to achieve the investigators' goal?",
+      "answer": "Losing, they may be able to try again later.",
+      "rating": 7
+    },
+    {
+      "question": "What can happen to the investigators during the game?",
+      "answer": "They may become injured, suffer sanity-shattering experiences, or even die!",
+      "rating": 8
+    },
+    {
+      "question": "What does the survival of the investigators allow them to gain?",
+      "answer": "Power from arcane volumes of forgotten lore, knowledge of horrendous monsters, and advancement in their skills.",
+      "rating": 9
+    },
+    {
+      "question": "What is the ultimate goal of the investigators?",
+      "answer": "To repulsing Cthulhu's master plan to enslave the Earth!",
+      "rating": 9
+    },
+    {
+      "question": "What happens to investigators if they fail to achieve their goal?",
+      "answer": "Losing is what happens if they fail to achieve their goal.",
+      "rating": 8
+    },
+    {
+      "question": "What can investigators gain from surviving the game?",
+      "answer": "Investigators who survive will gain power from arcane volumes of forgotten lore, knowledge of horrendous monsters, and advancement in their skills.",
+      "rating": 9
+    },
+    {
+      "question": "What is the ultimate goal of investigators in the game?",
+      "answer": "Someone has to make a stand against the cosmic horrors of the universe and the death of a single investigator matters little if it means repulsing Cthulhu\u2019s master plan to enslave the Earth!",
+      "rating": 10
+    },
+    {
+      "question": "What happens to investigators as they progress in the game?",
+      "answer": "Thus the players\u2019 investigators will continue to progress, until their demise or retirement\u2014whichever comes first.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the players' investigators in a roleplaying game?",
+      "answer": "Their demise or retirement, whichever comes first.",
+      "rating": 6
+    },
+    {
+      "question": "What is the setting of the example game in the provided text?",
+      "answer": "The classic 1920s setting.",
+      "rating": 8
+    },
+    {
+      "question": "What is the goal of the investigators in the example game?",
+      "answer": "To find out why Boss Morgan, a notorious gangland figure, has vanished.",
+      "rating": 9
+    },
+    {
+      "question": "What type of setting does the example game use?",
+      "answer": "The classic 1920s setting.",
+      "rating": 9
+    },
+    {
+      "question": "Who is the notorious gangland figure that has vanished?",
+      "answer": "Boss Morgan.",
+      "rating": 8
+    },
+    {
+      "question": "What is Garrie's role in the game?",
+      "answer": "Keeper and is running the game.",
+      "rating": 9
+    },
+    {
+      "question": "What is Paula's plan to find clues?",
+      "answer": "Sneak around Boss Morgan's house.",
+      "rating": 8
+    },
+    {
+      "question": "Who is the Keeper in the game?",
+      "answer": "Garrie",
+      "rating": 9
+    },
+    {
+      "question": "Who will pick the lock on the back door?",
+      "answer": "Jake",
+      "rating": 8
+    },
+    {
+      "question": "What time is the group leaving to approach Morgan's house?",
+      "answer": "Midnight",
+      "rating": 9
+    },
+    {
+      "question": "What condition is the street under when the group arrives at Morgan's house?",
+      "answer": "It is pretty dark with two streetlights not working and no one in sight",
+      "rating": 9
+    },
+    {
+      "question": "Who can pick the lock on the back door?",
+      "answer": "Cathy's private eye Jake",
+      "rating": 9
+    },
+    {
+      "question": "What did Cathy hear?",
+      "answer": "A creak of wood; sounds like the house's front door quietly opening",
+      "rating": 8
+    },
+    {
+      "question": "Who made a successful Listen roll?",
+      "answer": "Cathy",
+      "rating": 9
+    },
+    {
+      "question": "Who failed the Listen roll?",
+      "answer": "Joe",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main goal of participants in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "to discover and foil some nefarious plot"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What controls the alien or hostile situation in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "an impartial Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to investigators during the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "they may become injured, suffer sanity-shattering experiences, or die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of a single investigator's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "it means repulsing Cthulhu\u2019s master plan to enslave the Earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of failing to achieve the investigators' goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Losing, they may be able to try again later."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to the investigators during the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may become injured, suffer sanity-shattering experiences, or even die!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the survival of the investigators allow them to gain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Power from arcane volumes of forgotten lore, knowledge of horrendous monsters, and advancement in their skills."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate goal of the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "To repulsing Cthulhu's master plan to enslave the Earth!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators if they fail to achieve their goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Losing is what happens if they fail to achieve their goal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can investigators gain from surviving the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigators who survive will gain power from arcane volumes of forgotten lore, knowledge of horrendous monsters, and advancement in their skills."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate goal of investigators in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Someone has to make a stand against the cosmic horrors of the universe and the death of a single investigator matters little if it means repulsing Cthulhu\u2019s master plan to enslave the Earth!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators as they progress in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thus the players\u2019 investigators will continue to progress, until their demise or retirement\u2014whichever comes first."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the players' investigators in a roleplaying game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their demise or retirement, whichever comes first."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the setting of the example game in the provided text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The classic 1920s setting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the investigators in the example game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To find out why Boss Morgan, a notorious gangland figure, has vanished."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of setting does the example game use?"
+      },
+      {
+        "role": "assistant",
+        "content": "The classic 1920s setting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the notorious gangland figure that has vanished?"
+      },
+      {
+        "role": "assistant",
+        "content": "Boss Morgan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Garrie's role in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keeper and is running the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Paula's plan to find clues?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sneak around Boss Morgan's house."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the Keeper in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Garrie"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who will pick the lock on the back door?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jake"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What time is the group leaving to approach Morgan's house?"
+      },
+      {
+        "role": "assistant",
+        "content": "Midnight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What condition is the street under when the group arrives at Morgan's house?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is pretty dark with two streetlights not working and no one in sight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can pick the lock on the back door?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cathy's private eye Jake"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did Cathy hear?"
+      },
+      {
+        "role": "assistant",
+        "content": "A creak of wood; sounds like the house's front door quietly opening"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who made a successful Listen roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cathy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who failed the Listen roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Joe"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 27,
+    "retention_rate": 0.96,
+    "avg_score": 8.2
+  }
+}

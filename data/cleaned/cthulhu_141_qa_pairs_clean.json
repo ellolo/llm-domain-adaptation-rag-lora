@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a chase scene, the Keeper should divide the chase into narrative chunks, or \"locations,\" which can be separated by physical barriers or obstacles, rather than being a set physical distance. The Keeper should track the movement of characters, with faster characters moving more locations per round, and use a system to keep track of the chase, such as a grid of dots or miniatures. The order of movement is determined by the characters' DEX scores, with the highest DEX character going first. Each character has a limited number of movement actions per round, which they can use to move from one location to the next.",
+  "qa_pairs": [
+    {
+      "question": "What is the term used to denote a position in the chase?",
+      "answer": "Location",
+      "rating": 9
+    },
+    {
+      "question": "How do the locations in the chase divide the chase into narrative chunks?",
+      "answer": "They divide the chase into narrative chunks, rather than being a set physical distance",
+      "rating": 9
+    },
+    {
+      "question": "Why can the locations in the chase not be equally spaced?",
+      "answer": "They do not need to be equally spaced; a locked door or a flight of stairs might separate two locations",
+      "rating": 9
+    },
+    {
+      "question": "What might separate two locations in the same location, like a hotel?",
+      "answer": "A point on a stretch of open road, or a locked door, or a flight of stairs, or multiple other features",
+      "rating": 8
+    },
+    {
+      "question": "What determines the locations in a chase?",
+      "answer": "Locations do not have to be equally spaced.",
+      "rating": 8
+    },
+    {
+      "question": "Can locations be separated by obstacles like stairs or locked doors?",
+      "answer": "Yes, a locked door or a flight of stairs might separate two locations.",
+      "rating": 8
+    },
+    {
+      "question": "How does the Keeper ensure the distance between locations is not excessive?",
+      "answer": "The Keeper should ensure that the distance between locations is not excessive.",
+      "rating": 7
+    },
+    {
+      "question": "What might happen if the distance between locations is excessive?",
+      "answer": "You may end up with one group of characters running the length of a city block in the time it takes another investigator to smash a chair over a cultist\u2019s head.",
+      "rating": 6
+    },
+    {
+      "question": "What is a chase made up of?",
+      "answer": "A string of locations",
+      "rating": 8
+    },
+    {
+      "question": "How do characters move in the chase?",
+      "answer": "1 or more locations each round",
+      "rating": 9
+    },
+    {
+      "question": "What is the action that the Keeper chooses to start the chase with?",
+      "answer": "The farmer is 2 locations behind Harvey.",
+      "rating": 8
+    },
+    {
+      "question": "How do characters act in a chase round?",
+      "answer": "Characters act in DEX order.",
+      "rating": 9
+    },
+    {
+      "question": "What makes a combat round and a chase round interchangeable?",
+      "answer": "A combat round and a chase round are interchangeable.",
+      "rating": 7
+    },
+    {
+      "question": "What is the order of movement in a chase round?",
+      "answer": "Characters act in DEX order.",
+      "rating": 9
+    },
+    {
+      "question": "Who determines the order of movement in a chase?",
+      "answer": "The characters' DEX rankings",
+      "rating": 8
+    },
+    {
+      "question": "How do you determine a draw in DEX rankings for movement order?",
+      "answer": "An opposed DEX roll",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the DEX rankings are the same?",
+      "answer": "An opposed DEX roll to decide who goes first",
+      "rating": 9
+    },
+    {
+      "question": "What can be used to track a chase?",
+      "answer": "Miniatures, model cars, or markers/dots on a piece of paper",
+      "rating": 8
+    },
+    {
+      "question": "What is the method to determine the order of characters in a chase?",
+      "answer": "Use markers or dots on a piece of paper to denote the range increments and rank the characters' DEX from highest to lowest.",
+      "rating": 9
+    },
+    {
+      "question": "How do characters with the same DEX rank determine who goes first?",
+      "answer": "Use an opposed DEX roll to decide who goes first.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of movement actions in a chase?",
+      "answer": "To move from one location to the next.",
+      "rating": 7
+    },
+    {
+      "question": "How does the movement capability of characters affect their movement actions per round?",
+      "answer": "Faster characters get more movement actions each round than slower characters.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the term used to denote a position in the chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Location"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the locations in the chase divide the chase into narrative chunks?"
+      },
+      {
+        "role": "assistant",
+        "content": "They divide the chase into narrative chunks, rather than being a set physical distance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can the locations in the chase not be equally spaced?"
+      },
+      {
+        "role": "assistant",
+        "content": "They do not need to be equally spaced; a locked door or a flight of stairs might separate two locations"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might separate two locations in the same location, like a hotel?"
+      },
+      {
+        "role": "assistant",
+        "content": "A point on a stretch of open road, or a locked door, or a flight of stairs, or multiple other features"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the locations in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Locations do not have to be equally spaced."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can locations be separated by obstacles like stairs or locked doors?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a locked door or a flight of stairs might separate two locations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper ensure the distance between locations is not excessive?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should ensure that the distance between locations is not excessive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen if the distance between locations is excessive?"
+      },
+      {
+        "role": "assistant",
+        "content": "You may end up with one group of characters running the length of a city block in the time it takes another investigator to smash a chair over a cultist\u2019s head."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a chase made up of?"
+      },
+      {
+        "role": "assistant",
+        "content": "A string of locations"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do characters move in the chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 or more locations each round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the action that the Keeper chooses to start the chase with?"
+      },
+      {
+        "role": "assistant",
+        "content": "The farmer is 2 locations behind Harvey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do characters act in a chase round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters act in DEX order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What makes a combat round and a chase round interchangeable?"
+      },
+      {
+        "role": "assistant",
+        "content": "A combat round and a chase round are interchangeable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the order of movement in a chase round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters act in DEX order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who determines the order of movement in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "The characters' DEX rankings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you determine a draw in DEX rankings for movement order?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed DEX roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the DEX rankings are the same?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed DEX roll to decide who goes first"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to track a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Miniatures, model cars, or markers/dots on a piece of paper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the method to determine the order of characters in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use markers or dots on a piece of paper to denote the range increments and rank the characters' DEX from highest to lowest."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do characters with the same DEX rank determine who goes first?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use an opposed DEX roll to decide who goes first."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of movement actions in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "To move from one location to the next."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the movement capability of characters affect their movement actions per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Faster characters get more movement actions each round than slower characters."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

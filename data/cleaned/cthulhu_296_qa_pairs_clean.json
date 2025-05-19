@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes two spells in the Call of Cthulhu role-playing game: Fist of Yog-Sothoth and Green Decay. Fist of Yog-Sothoth is a powerful spell that deals massive damage to a target, while Green Decay is a curse that slowly turns a victim into a green mold over the course of seven days. Both spells require significant magical energy and have specific requirements for casting, including the use of magic points, POW, and Sanity points. The spells are considered to be of dark and malevolent nature, fitting for the Lovecraftian horror theme of the game.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of the Optional Luck Rule on character rolls?",
+      "answer": "The victim must apply one penalty die to all character-istic rolls.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the chances for Summon/Bind spells when the Optional Luck Rule is used?",
+      "answer": "The chances for Summon/Bind spells are halved.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the caster's distance from the target on the Fist of Yog-Sothoth spell?",
+      "answer": "For every 30 feet of distance that the caster stands from the target (after the first thirty feet), the caster must spend an additional magic point.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the Fist of Yog-Sothoth spell on the target?",
+      "answer": "The caster causes a massive, invisible force to hit a single target.",
+      "rating": 8
+    },
+    {
+      "question": "How long does the effect of the spell last?",
+      "answer": "Until the next sunrise, until the caster removes the spell, until the caster is found and blooded, or until the victim dies.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of casting the spell in terms of magic points?",
+      "answer": "Variable magic points",
+      "rating": 7
+    },
+    {
+      "question": "What is the casting time of the spell?",
+      "answer": "Instantaneous",
+      "rating": 9
+    },
+    {
+      "question": "What type of roll must be made when the target is struck?",
+      "answer": "An opposed roll using the spell's STR versus the target's CON",
+      "rating": 8
+    },
+    {
+      "question": "How often does a caster spend an additional magic point?",
+      "answer": "For every 30 feet of distance that the caster stands from the target",
+      "rating": 8
+    },
+    {
+      "question": "What must be opposed in a roll when the target is struck?",
+      "answer": "The spell\u2019s STR versus the target\u2019s CON",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a living target if the roll is successful?",
+      "answer": "The target is knocked unconscious",
+      "rating": 8
+    },
+    {
+      "question": "What can a spell be used against besides living targets?",
+      "answer": "The STR of inanimate objects such as doors or walls",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target after a successful cast?",
+      "answer": "The target is knocked unconscious.",
+      "rating": 7
+    },
+    {
+      "question": "How far is the target pushed away from the caster after a successful cast?",
+      "answer": "A distance equal to the STR of the blow minus the target's SIZ.",
+      "rating": 9
+    },
+    {
+      "question": "Can the spell be used against inanimate objects?",
+      "answer": "Yes, the spell can be used against the STR of inanimate objects such as doors or walls.",
+      "rating": 9
+    },
+    {
+      "question": "How many magic points are spent on the range for a 50-foot hit?",
+      "answer": "1 magic point is spent on the range.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the investigator fails a Hard CON roll for the Green Decay spell?",
+      "answer": "The investigator is knocked unconscious.",
+      "rating": 9
+    },
+    {
+      "question": "How far is the investigator bowled back by the impact of the spell?",
+      "answer": "12 feet",
+      "rating": 8
+    },
+    {
+      "question": "What must be done in addition to casting the Green Decay spell?",
+      "answer": "The caster must personally give a green leaf to the target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the casting time for the Green Decay spell?",
+      "answer": "1 day",
+      "rating": 7
+    },
+    {
+      "question": "What must the caster do with a green leaf in the next 24 hours?",
+      "answer": "The caster must personally give a green leaf to the target.",
+      "rating": 9
+    },
+    {
+      "question": "When does the spell take effect?",
+      "answer": "At dawn on the following day, for the spell to take effect.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the victim's skin and organs over seven days?",
+      "answer": "The victim's skin grows green and the skin rots, and the victim's organs also rot.",
+      "rating": 9
+    },
+    {
+      "question": "What is the known cure for the spell's effects?",
+      "answer": "To find and kill the caster, which reverses the spell's effects.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Optional Luck Rule on character rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim must apply one penalty die to all character-istic rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the chances for Summon/Bind spells when the Optional Luck Rule is used?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chances for Summon/Bind spells are halved."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the caster's distance from the target on the Fist of Yog-Sothoth spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "For every 30 feet of distance that the caster stands from the target (after the first thirty feet), the caster must spend an additional magic point."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Fist of Yog-Sothoth spell on the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster causes a massive, invisible force to hit a single target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the effect of the spell last?"
+      },
+      {
+        "role": "assistant",
+        "content": "Until the next sunrise, until the caster removes the spell, until the caster is found and blooded, or until the victim dies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the spell in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Variable magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Instantaneous"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll must be made when the target is struck?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed roll using the spell's STR versus the target's CON"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often does a caster spend an additional magic point?"
+      },
+      {
+        "role": "assistant",
+        "content": "For every 30 feet of distance that the caster stands from the target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must be opposed in a roll when the target is struck?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell\u2019s STR versus the target\u2019s CON"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a living target if the roll is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is knocked unconscious"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a spell be used against besides living targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "The STR of inanimate objects such as doors or walls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target after a successful cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is knocked unconscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far is the target pushed away from the caster after a successful cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "A distance equal to the STR of the blow minus the target's SIZ."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the spell be used against inanimate objects?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the spell can be used against the STR of inanimate objects such as doors or walls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points are spent on the range for a 50-foot hit?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point is spent on the range."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the investigator fails a Hard CON roll for the Green Decay spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator is knocked unconscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far is the investigator bowled back by the impact of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "12 feet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must be done in addition to casting the Green Decay spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must personally give a green leaf to the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time for the Green Decay spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the caster do with a green leaf in the next 24 hours?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must personally give a green leaf to the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When does the spell take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "At dawn on the following day, for the spell to take effect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's skin and organs over seven days?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim's skin grows green and the skin rots, and the victim's organs also rot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the known cure for the spell's effects?"
+      },
+      {
+        "role": "assistant",
+        "content": "To find and kill the caster, which reverses the spell's effects."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

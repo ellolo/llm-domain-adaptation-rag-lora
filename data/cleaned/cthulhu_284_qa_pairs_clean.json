@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu role-playing game, Contact spells allow cultists to establish communication with Mythos creatures and deities, but do not grant the caster control over the contacted entity. These spells require specific conditions to be met, such as proximity to certain locations or species, and involve a random member of the species appearing at the caster's location. The caster must be prepared to negotiate and potentially make a bargain, as the contacted entity's motivations are independent and unpredictable. Each version of the Contact spell has its own unique requirements and costs, ranging from 3 to 5 magic points.",
+  "qa_pairs": [
+    {
+      "question": "What are contact spells divided into?",
+      "answer": "two separate groups: spells concerned with contacting Mythos creatures and monsters, and spells for contacting Mythos deities",
+      "rating": 8
+    },
+    {
+      "question": "What does contact spell allow a caster to do?",
+      "answer": "establish contact",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of a caster when using a contact spell?",
+      "answer": "to have a definite goal in mind",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of contact spells on the caster?",
+      "answer": "no upper hand, the spell is merely a method of establishing contact",
+      "rating": 7
+    },
+    {
+      "question": "What does the Contact spell do?",
+      "answer": "It is a method of establishing contact with independent and intelligent beings.",
+      "rating": 9
+    },
+    {
+      "question": "Is the Contact spell under the caster's control?",
+      "answer": "No, the caster makes contact at their peril.",
+      "rating": 8
+    },
+    {
+      "question": "How does a Contact spell work?",
+      "answer": "It always works when cast properly, unless there are no such things living within a convenient distance.",
+      "rating": 9
+    },
+    {
+      "question": "Can the same Contact spell be cast in different ways?",
+      "answer": "Yes, many versions of Contact spells exist.",
+      "rating": 8
+    },
+    {
+      "question": "How many rounds does a Contact spell take to cast?",
+      "answer": "five to ten rounds",
+      "rating": 8
+    },
+    {
+      "question": "What determines the time it takes for the thing to appear?",
+      "answer": "game hour, game day, or more",
+      "rating": 7
+    },
+    {
+      "question": "How do entities living nearby react to a Contact spell?",
+      "answer": "walk, swim, dig, or fly to the spell point",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the trip is too long for the thing called by the spell?",
+      "answer": "the thing never shows up",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the trip is too long?",
+      "answer": "The thing called by the spell never shows up.",
+      "rating": 9
+    },
+    {
+      "question": "What can make the chances for an extended meeting improve?",
+      "answer": "If the caster has something to offer the contacted thing.",
+      "rating": 8
+    },
+    {
+      "question": "How many representatives may arrive if the contacted species is large?",
+      "answer": "Only one.",
+      "rating": 7
+    },
+    {
+      "question": "What motivates a contacted entity?",
+      "answer": "An alien motivation.",
+      "rating": 6
+    },
+    {
+      "question": "What determines the number of contacted entities?",
+      "answer": "The number of contacted entities depends on the size of the contacted species.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if there are no chthonians nearby during a Contact Chthonian spell?",
+      "answer": "The spell succeeds automatically.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the Contact Chthonian spell?",
+      "answer": "The cost is 5 magic points.",
+      "rating": 7
+    },
+    {
+      "question": "What conditions must be in place for a Contact Chthonian spell to work?",
+      "answer": "There must be no chthonians nearby and the spell must be cast at a location with known recent earthquakes or hot spots.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for the Contact Chthonian spell to succeed automatically?",
+      "answer": "Unless there are no chthonians nearby, the spell succeeds automatically.",
+      "rating": 9
+    },
+    {
+      "question": "Where should the Contact Deep One spell be cast to succeed automatically?",
+      "answer": "The chanting succeeds automatically. This spell should be cast at the edge of a saltwater ocean or sea.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of casting the Contact Chthonian spell?",
+      "answer": "The spell must be cast at a location that has known recent earthquakes or where hot spots and volcanoes offer relatively quick transport from the deep interior of the planet to the outer edge of the geologic crust.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of casting the Contact Deep One spell?",
+      "answer": "The chanting succeeds automatically. This spell should be cast at the edge of a saltwater ocean or sea.",
+      "rating": 9
+    },
+    {
+      "question": "Where should the spell be cast?",
+      "answer": "at the edge of a saltwater ocean or sea",
+      "rating": 9
+    },
+    {
+      "question": "What locations are most likely to have elder things nearby?",
+      "answer": "along the southern part of the Mid-Atlantic Ridge",
+      "rating": 8
+    },
+    {
+      "question": "What part of the ritual consists of throwing stones into the water?",
+      "answer": "throwing specially inscribed stones into the water",
+      "rating": 7
+    },
+    {
+      "question": "What is required for the chanting to succeed automatically?",
+      "answer": "there are no elder things nearby",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are contact spells divided into?"
+      },
+      {
+        "role": "assistant",
+        "content": "two separate groups: spells concerned with contacting Mythos creatures and monsters, and spells for contacting Mythos deities"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does contact spell allow a caster to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "establish contact"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of a caster when using a contact spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to have a definite goal in mind"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of contact spells on the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "no upper hand, the spell is merely a method of establishing contact"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Contact spell do?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is a method of establishing contact with independent and intelligent beings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the Contact spell under the caster's control?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the caster makes contact at their peril."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a Contact spell work?"
+      },
+      {
+        "role": "assistant",
+        "content": "It always works when cast properly, unless there are no such things living within a convenient distance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the same Contact spell be cast in different ways?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, many versions of Contact spells exist."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds does a Contact spell take to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "five to ten rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the time it takes for the thing to appear?"
+      },
+      {
+        "role": "assistant",
+        "content": "game hour, game day, or more"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do entities living nearby react to a Contact spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "walk, swim, dig, or fly to the spell point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the trip is too long for the thing called by the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "the thing never shows up"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the trip is too long?"
+      },
+      {
+        "role": "assistant",
+        "content": "The thing called by the spell never shows up."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can make the chances for an extended meeting improve?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the caster has something to offer the contacted thing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many representatives may arrive if the contacted species is large?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What motivates a contacted entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "An alien motivation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the number of contacted entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "The number of contacted entities depends on the size of the contacted species."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if there are no chthonians nearby during a Contact Chthonian spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell succeeds automatically."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Contact Chthonian spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost is 5 magic points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What conditions must be in place for a Contact Chthonian spell to work?"
+      },
+      {
+        "role": "assistant",
+        "content": "There must be no chthonians nearby and the spell must be cast at a location with known recent earthquakes or hot spots."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the Contact Chthonian spell to succeed automatically?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unless there are no chthonians nearby, the spell succeeds automatically."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where should the Contact Deep One spell be cast to succeed automatically?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chanting succeeds automatically. This spell should be cast at the edge of a saltwater ocean or sea."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Contact Chthonian spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell must be cast at a location that has known recent earthquakes or where hot spots and volcanoes offer relatively quick transport from the deep interior of the planet to the outer edge of the geologic crust."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Contact Deep One spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chanting succeeds automatically. This spell should be cast at the edge of a saltwater ocean or sea."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where should the spell be cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "at the edge of a saltwater ocean or sea"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What locations are most likely to have elder things nearby?"
+      },
+      {
+        "role": "assistant",
+        "content": "along the southern part of the Mid-Atlantic Ridge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What part of the ritual consists of throwing stones into the water?"
+      },
+      {
+        "role": "assistant",
+        "content": "throwing specially inscribed stones into the water"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the chanting to succeed automatically?"
+      },
+      {
+        "role": "assistant",
+        "content": "there are no elder things nearby"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, creating an investigator involves choosing an occupation that ties together a cluster of skills, such as Antiquarian, which encompasses skills like Appraise, Art/Craft, History, and Library Use. The occupation's professional skills are noted on the investigator sheet, and points are allocated to these skills based on the characteristics specified by the occupation. The investigator's characteristics, such as attributes, sanity points, and luck, are also determined through a series of rolls and calculations.",
+  "qa_pairs": [
+    {
+      "question": "What are some typical occupations found in a Lovecraft story?",
+      "answer": "Antiquarian, Author, Dilettante, Doctor of Medicine, Journalist, Police Detective, and Professor.",
+      "rating": 8
+    },
+    {
+      "question": "How do occupations tie together in a Lovecraft story?",
+      "answer": "A cluster of skills",
+      "rating": 6
+    },
+    {
+      "question": "What is an example of an occupation that includes a range of skills?",
+      "answer": "Antiquarian, which includes Appraise, Art/Craft, History, Library Use, Other Language, one interpersonal skill, Spot Hidden, and one other skill of the player's choice.",
+      "rating": 9
+    },
+    {
+      "question": "How many free skill choices are typically available for an occupation?",
+      "answer": "One",
+      "rating": 7
+    },
+    {
+      "question": "What is the number on the page where sample occupations can be found?",
+      "answer": "33",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of the game mentioned in the text?",
+      "answer": "Call of Cthulhu",
+      "rating": 10
+    },
+    {
+      "question": "What are other occupations besides those you'd normally find in a Lovecraft story?",
+      "answer": "They may interest particular players and be fun to play in a Call of Cthulhu game.",
+      "rating": 8
+    },
+    {
+      "question": "What ties together a cluster of skills?",
+      "answer": "An occupation.",
+      "rating": 9
+    },
+    {
+      "question": "What are some skills that might be included in an occupation?",
+      "answer": "Appraise, Art/Craft, History, Library Use, Other Language, Charm, Fast Talk, Intimidate, Persuade, Spot Hidden.",
+      "rating": 9
+    },
+    {
+      "question": "How many free choices might some occupations have?",
+      "answer": "One.",
+      "rating": 7
+    },
+    {
+      "question": "How many free choices might some occupations have?",
+      "answer": "Two or more.",
+      "rating": 8
+    },
+    {
+      "question": "Where can you find sample occupations?",
+      "answer": "On page 40.",
+      "rating": 6
+    },
+    {
+      "question": "What is the chapter title for this section of the game?",
+      "answer": "CHAPTER 3: CREATING INVESTIGATORS",
+      "rating": 10
+    },
+    {
+      "question": "What is the page number where sample occupations can be found?",
+      "answer": "40.",
+      "rating": 10
+    },
+    {
+      "question": "What is the topic of this section of the game?",
+      "answer": "Investigator Generation",
+      "rating": 8
+    },
+    {
+      "question": "How are Sanity Points calculated?",
+      "answer": "Sanity Points equal the POW characteristic.",
+      "rating": 9
+    },
+    {
+      "question": "How are Hit Points calculated?",
+      "answer": "Hit Points equal SIZ + CON divided by 10 (round down).",
+      "rating": 9
+    },
+    {
+      "question": "How are Luck points calculated?",
+      "answer": "Luck points equal one fifth of POW, rolled 3D6 multiplied by 5.",
+      "rating": 8
+    },
+    {
+      "question": "How are Roll for Characteristics determined?",
+      "answer": "Roll 3D6 multiplied by 5 for the characteristics STR, CON, DEX, APP, and POW.",
+      "rating": 9
+    },
+    {
+      "question": "How are Roll for Skills determined?",
+      "answer": "Roll 2D6+6 multiplied by 5 for the characteristics SIZ, INT, and EDU.",
+      "rating": 8
+    },
+    {
+      "question": "How do investigators' ages affect their characteristics?",
+      "answer": "AGEMODIFIERS affect investigators' characteristics.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to STR or SIZ when an investigator is 15-19 years old?",
+      "answer": "Deduct 5 points from STR or SIZ.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to APP when an investigator is 40 years old?",
+      "answer": "Reduce APP by 5 points.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some typical occupations found in a Lovecraft story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Antiquarian, Author, Dilettante, Doctor of Medicine, Journalist, Police Detective, and Professor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do occupations tie together in a Lovecraft story?"
+      },
+      {
+        "role": "assistant",
+        "content": "A cluster of skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of an occupation that includes a range of skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "Antiquarian, which includes Appraise, Art/Craft, History, Library Use, Other Language, one interpersonal skill, Spot Hidden, and one other skill of the player's choice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many free skill choices are typically available for an occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "One"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number on the page where sample occupations can be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "33"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the game mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are other occupations besides those you'd normally find in a Lovecraft story?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may interest particular players and be fun to play in a Call of Cthulhu game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What ties together a cluster of skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occupation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some skills that might be included in an occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appraise, Art/Craft, History, Library Use, Other Language, Charm, Fast Talk, Intimidate, Persuade, Spot Hidden."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many free choices might some occupations have?"
+      },
+      {
+        "role": "assistant",
+        "content": "One."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many free choices might some occupations have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two or more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find sample occupations?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 40."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chapter title for this section of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "CHAPTER 3: CREATING INVESTIGATORS"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number where sample occupations can be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "40."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of this section of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigator Generation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Sanity Points calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity Points equal the POW characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Hit Points calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hit Points equal SIZ + CON divided by 10 (round down)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Luck points calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Luck points equal one fifth of POW, rolled 3D6 multiplied by 5."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Roll for Characteristics determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll 3D6 multiplied by 5 for the characteristics STR, CON, DEX, APP, and POW."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Roll for Skills determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll 2D6+6 multiplied by 5 for the characteristics SIZ, INT, and EDU."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators' ages affect their characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "AGEMODIFIERS affect investigators' characteristics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to STR or SIZ when an investigator is 15-19 years old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deduct 5 points from STR or SIZ."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to APP when an investigator is 40 years old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reduce APP by 5 points."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 23,
+    "retention_rate": 0.88,
+    "avg_score": 7.8
+  }
+}

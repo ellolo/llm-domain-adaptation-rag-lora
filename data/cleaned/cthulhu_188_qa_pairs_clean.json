@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this game, Magic points are a vital resource for casting spells, energizing artifacts, and powering magical gates. Investigators start with a limited pool of Magic points, which can be depleted, resulting in physical damage or other effects. Magic points can be replenished naturally over time, but excess points cannot be regenerated. To learn a spell from a Mythos book, investigators must make an initial reading and then attempt a Hard INT roll, which can take hours, days, or months to complete.",
+  "qa_pairs": [
+    {
+      "question": "How are Magic points replenished?",
+      "answer": "One-fifth of the investigator's POW",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a spell caster's hit points when they spend Magic points?",
+      "answer": "They are deducted directly from hit points",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a spell caster's hit points when they run out of Magic points?",
+      "answer": "They are deducted directly from hit points",
+      "rating": 9
+    },
+    {
+      "question": "How do spell casters spend Magic points?",
+      "answer": "With the will of the owner",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the body if hit points are lost?",
+      "answer": "physical damage in a form chosen by the Keeper",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the spell caster when they sacrifice Magic points?",
+      "answer": "may leave sensations of pleasure mingled with regret, a numbness of the soul",
+      "rating": 10
+    },
+    {
+      "question": "How is the loss of Magic points compared to the loss of POW?",
+      "answer": "Involuntary loss of 10 POW would be a stronger sensation than losing the same amount of Magic points",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Magic points when they reach zero?",
+      "answer": "the investigator deducts further Magic point loss from hit points",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the spell caster's energy if Magic points reach zero?",
+      "answer": "The investigator deducts further Magic point loss from hit points.",
+      "rating": 9
+    },
+    {
+      "question": "How do Magic points regenerate?",
+      "answer": "Magic points return at one Magic point per hour (two Magic points per hour for those with POW over 100, etc.).",
+      "rating": 8
+    },
+    {
+      "question": "How is the loss of Magic points compared to POW loss?",
+      "answer": "Involuntary loss of 10 POW would be a stronger sensation than that of losing the same amount of Magic points.",
+      "rating": 9
+    },
+    {
+      "question": "Can Magic points regenerate to a value above one-fifth of the character\u2019s POW?",
+      "answer": "No, the number of Magic points cannot regenerate to a value above one-fifth of the character\u2019s POW.",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum amount of Magic points that can regenerate?",
+      "answer": "one-fifth of the character\u2019s POW",
+      "rating": 7
+    },
+    {
+      "question": "Can Magic points regenerate to a value above one-fifth of the character\u2019s POW?",
+      "answer": "No, cannot regenerate to a value above one-fifth of the character\u2019s POW",
+      "rating": 8
+    },
+    {
+      "question": "How are Magic points lost, in relation to hit points?",
+      "answer": "as hit points are healed",
+      "rating": 9
+    },
+    {
+      "question": "Can healing of hit points and regeneration of Magic points occur at the same time?",
+      "answer": "Yes, can occur concurrently",
+      "rating": 8
+    },
+    {
+      "question": "What should a Keeper do after an investigator conducts an initial reading of a book?",
+      "answer": "The Keeper will indicate the presence and summarize each of the spells in a sentence or two, assuming the book contains spells.",
+      "rating": 9
+    },
+    {
+      "question": "What should a Keeper avoid doing when indicating a spell's presence?",
+      "answer": "The Keeper should not use the rulebook name of a spell.",
+      "rating": 8
+    },
+    {
+      "question": "What might a Keeper offer instead of a rulebook name for a spell like 'Summon Byakhee'?",
+      "answer": "A description like 'broughte forth a Great Winged Beast from ye void which did sore crowde my place of busyness'.",
+      "rating": 9
+    },
+    {
+      "question": "Where can a Keeper find suggestions for alternative names for spells?",
+      "answer": "Chapter 12: The Grimoire.",
+      "rating": 8
+    },
+    {
+      "question": "What is not recommended to use when referring to a spell?",
+      "answer": "The name of a spell.",
+      "rating": 7
+    },
+    {
+      "question": "What is usually required for an investigator to learn a spell?",
+      "answer": "At least an initial reading of the book.",
+      "rating": 8
+    },
+    {
+      "question": "How long does learning a spell typically take?",
+      "answer": "2D6 weeks, but at the Keeper's discretion.",
+      "rating": 9
+    },
+    {
+      "question": "Can a roll be called for when learning a spell?",
+      "answer": "Yes, but the Keeper may choose to grant automatic success, depending on the scenario.",
+      "rating": 8
+    },
+    {
+      "question": "How long can it take to learn a Mythos spell?",
+      "answer": "hours, days, weeks, or months",
+      "rating": 9
+    },
+    {
+      "question": "Who determines the length of time to learn a Mythos spell?",
+      "answer": "The Keeper at the Keeper\u2019s discretion",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Magic points replenished?"
+      },
+      {
+        "role": "assistant",
+        "content": "One-fifth of the investigator's POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a spell caster's hit points when they spend Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are deducted directly from hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a spell caster's hit points when they run out of Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are deducted directly from hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do spell casters spend Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "With the will of the owner"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the body if hit points are lost?"
+      },
+      {
+        "role": "assistant",
+        "content": "physical damage in a form chosen by the Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the spell caster when they sacrifice Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "may leave sensations of pleasure mingled with regret, a numbness of the soul"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the loss of Magic points compared to the loss of POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "Involuntary loss of 10 POW would be a stronger sensation than losing the same amount of Magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Magic points when they reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "the investigator deducts further Magic point loss from hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the spell caster's energy if Magic points reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator deducts further Magic point loss from hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Magic points regenerate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magic points return at one Magic point per hour (two Magic points per hour for those with POW over 100, etc.)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the loss of Magic points compared to POW loss?"
+      },
+      {
+        "role": "assistant",
+        "content": "Involuntary loss of 10 POW would be a stronger sensation than that of losing the same amount of Magic points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Magic points regenerate to a value above one-fifth of the character\u2019s POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the number of Magic points cannot regenerate to a value above one-fifth of the character\u2019s POW."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum amount of Magic points that can regenerate?"
+      },
+      {
+        "role": "assistant",
+        "content": "one-fifth of the character\u2019s POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Magic points regenerate to a value above one-fifth of the character\u2019s POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, cannot regenerate to a value above one-fifth of the character\u2019s POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Magic points lost, in relation to hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "as hit points are healed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can healing of hit points and regeneration of Magic points occur at the same time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, can occur concurrently"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a Keeper do after an investigator conducts an initial reading of a book?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper will indicate the presence and summarize each of the spells in a sentence or two, assuming the book contains spells."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a Keeper avoid doing when indicating a spell's presence?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should not use the rulebook name of a spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might a Keeper offer instead of a rulebook name for a spell like 'Summon Byakhee'?"
+      },
+      {
+        "role": "assistant",
+        "content": "A description like 'broughte forth a Great Winged Beast from ye void which did sore crowde my place of busyness'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can a Keeper find suggestions for alternative names for spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chapter 12: The Grimoire."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is not recommended to use when referring to a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The name of a spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is usually required for an investigator to learn a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least an initial reading of the book."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does learning a spell typically take?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 weeks, but at the Keeper's discretion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a roll be called for when learning a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but the Keeper may choose to grant automatic success, depending on the scenario."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long can it take to learn a Mythos spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "hours, days, weeks, or months"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who determines the length of time to learn a Mythos spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper at the Keeper\u2019s discretion"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

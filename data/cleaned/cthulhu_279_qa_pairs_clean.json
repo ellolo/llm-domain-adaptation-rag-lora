@@ -1,0 +1,526 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"Space-Mead\" spell allows a traveler to journey through space, requiring a specific amount of magic points and Sanity points to be expended. The spell's effectiveness depends on the distance traveled, with more points required for longer journeys. The spell also involves a risk of summoning a Mythos deity, which can be beneficial or detrimental, depending on the deity's motivations and the traveler's preparedness. The spell's success is determined by a combination of magic points, chanting time, and the caster's Sanity points.",
+  "qa_pairs": [
+    {
+      "question": "What is the requirement for a spell to take effect?",
+      "answer": "The caster must win an opposed POW roll with the target.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the target if the caster wins the opposed POW roll?",
+      "answer": "The target begins to drown, falls to the floor, and takes 1D8 damage each round.",
+      "rating": 9
+    },
+    {
+      "question": "What must the target do to stop the effects of the spell?",
+      "answer": "The target should make an Extreme CON roll (equal to or below one-fifth CON) after taking damage each round.",
+      "rating": 8
+    },
+    {
+      "question": "What is an alternative name for the 'Currency of the Blue Sea' spell?",
+      "answer": "The Sailor's Curse",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the target if the caster wins the target?",
+      "answer": "The target falls to the floor, choking on seawater and taking 1D8 damage each round.",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum magic point limit for a spell according to Table XII?",
+      "answer": "100,000",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for the target to succeed in making an Extreme CON roll?",
+      "answer": "The target should make an Extreme CON roll equal to or below one-fifth CON after taking damage each round.",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum number of magic points that can theoretically reach any point in the universe?",
+      "answer": "1,000,000",
+      "rating": 9
+    },
+    {
+      "question": "What is the requirement for the target in the spell?",
+      "answer": "The target should make an Extreme CON roll (equal to or below one-fifth CON) after taking damage each round.",
+      "rating": 9
+    },
+    {
+      "question": "What is an alternative name for the spell 'The Sailor\u2019s Curse'?",
+      "answer": "Currency of the Blue Sea",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points are theoretically enough to reach any point in the universe?",
+      "answer": "10 magic points",
+      "rating": 7
+    },
+    {
+      "question": "What must the traveler do after the space-mead has been enchanted?",
+      "answer": "Find a means of transportation\u2014usually a mount\u2014and drink a dose of space-mead",
+      "rating": 9
+    },
+    {
+      "question": "What is a means of transportation the traveler must find in space?",
+      "answer": "a mount",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the traveler while in space?",
+      "answer": "they are in mental and physical stasis",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the spell that provides an interstellar steed?",
+      "answer": "Summon Byakhee",
+      "rating": 9
+    },
+    {
+      "question": "What is the process of the traveler drinking a dose?",
+      "answer": "The traveler drinks a dose, presumably bringing a return dose along, and then climbs on to command the mount, starting the journey.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the travelers while in space?",
+      "answer": "The travelers are in mental and physical stasis, nearly insensible to their surroundings, during their journey.",
+      "rating": 9
+    },
+    {
+      "question": "What are the costs for the Call Deity spell?",
+      "answer": "The costs for the Call Deity spell are 1+ magic points per person and 1D10 Sanity points, cast only.",
+      "rating": 7
+    },
+    {
+      "question": "Who should cast the Call Deity spell?",
+      "answer": "Only cult priests or desperate people should choose to cast the Call Deity spell, as it is perilous even for cultists.",
+      "rating": 8
+    },
+    {
+      "question": "What type of people should not call a Mythos deity?",
+      "answer": "Only cult priests or desperate people",
+      "rating": 6
+    },
+    {
+      "question": "How does the caster of a Call spell act in a group?",
+      "answer": "As the focus for the group",
+      "rating": 9
+    },
+    {
+      "question": "What happens when a group sacrifices all magic points in a Call spell?",
+      "answer": "The spell will always fail",
+      "rating": 8
+    },
+    {
+      "question": "How long can a group chant for in a Call spell?",
+      "answer": "Never for more than 100 minutes",
+      "rating": 7
+    },
+    {
+      "question": "What determines the percentage chance that a spell works?",
+      "answer": "The total of the magic points spent.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the caster rolls a 100 on a spell attempt?",
+      "answer": "The spell will always fail with all magic points sacrificed in the spell lost.",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points does the caster lose when casting the spell?",
+      "answer": "1D10 Sanity points.",
+      "rating": 7
+    },
+    {
+      "question": "What is usually the motivation for a Mythos deity when it arrives on Earth?",
+      "answer": "It wants to stay and is usually hungry.",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must win an opposed POW roll with the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target if the caster wins the opposed POW roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target begins to drown, falls to the floor, and takes 1D8 damage each round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the target do to stop the effects of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target should make an Extreme CON roll (equal to or below one-fifth CON) after taking damage each round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative name for the 'Currency of the Blue Sea' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Sailor's Curse"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target if the caster wins the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target falls to the floor, choking on seawater and taking 1D8 damage each round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum magic point limit for a spell according to Table XII?"
+      },
+      {
+        "role": "assistant",
+        "content": "100,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the target to succeed in making an Extreme CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target should make an Extreme CON roll equal to or below one-fifth CON after taking damage each round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum number of magic points that can theoretically reach any point in the universe?"
+      },
+      {
+        "role": "assistant",
+        "content": "1,000,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for the target in the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target should make an Extreme CON roll (equal to or below one-fifth CON) after taking damage each round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative name for the spell 'The Sailor\u2019s Curse'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Currency of the Blue Sea"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points are theoretically enough to reach any point in the universe?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the traveler do after the space-mead has been enchanted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Find a means of transportation\u2014usually a mount\u2014and drink a dose of space-mead"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a means of transportation the traveler must find in space?"
+      },
+      {
+        "role": "assistant",
+        "content": "a mount"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the traveler while in space?"
+      },
+      {
+        "role": "assistant",
+        "content": "they are in mental and physical stasis"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the spell that provides an interstellar steed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Summon Byakhee"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the process of the traveler drinking a dose?"
+      },
+      {
+        "role": "assistant",
+        "content": "The traveler drinks a dose, presumably bringing a return dose along, and then climbs on to command the mount, starting the journey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the travelers while in space?"
+      },
+      {
+        "role": "assistant",
+        "content": "The travelers are in mental and physical stasis, nearly insensible to their surroundings, during their journey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the costs for the Call Deity spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The costs for the Call Deity spell are 1+ magic points per person and 1D10 Sanity points, cast only."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who should cast the Call Deity spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only cult priests or desperate people should choose to cast the Call Deity spell, as it is perilous even for cultists."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of people should not call a Mythos deity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only cult priests or desperate people"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the caster of a Call spell act in a group?"
+      },
+      {
+        "role": "assistant",
+        "content": "As the focus for the group"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a group sacrifices all magic points in a Call spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell will always fail"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long can a group chant for in a Call spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Never for more than 100 minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the percentage chance that a spell works?"
+      },
+      {
+        "role": "assistant",
+        "content": "The total of the magic points spent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster rolls a 100 on a spell attempt?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell will always fail with all magic points sacrificed in the spell lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does the caster lose when casting the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is usually the motivation for a Mythos deity when it arrives on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "It wants to stay and is usually hungry."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 27,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

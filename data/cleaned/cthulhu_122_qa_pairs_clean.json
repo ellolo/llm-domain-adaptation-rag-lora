@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this Call of Cthulhu scenario, Harvey investigates the disappearance of his friend Nott and encounters a strange, dog-like creature in an upstairs room. Harvey uses his .38 revolver to attack the creature, rolling a Regular success on his attack roll and dealing 5 points of damage. The creature retaliates with a clawed attack, but Harvey dodges it successfully. Harvey then fires multiple shots at the creature, scoring an Extreme success and impaling it, killing it.",
+  "qa_pairs": [
+    {
+      "question": "What type of roll is applied at the beginning of a combat in Call of Cthulhu?",
+      "answer": "roll (set difficulty by range and then apply any modifiers)",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey using to defend himself against the monster in the upstairs room?",
+      "answer": ".38 revolver",
+      "rating": 9
+    },
+    {
+      "question": "What does Harvey do when he hears the strange sound coming from the upstairs room?",
+      "answer": "He pulls out his gun (.38 revolver) and cautiously opens the door",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of Harvey's DEX score in the provided text?",
+      "answer": "55",
+      "rating": 7
+    },
+    {
+      "question": "What is Harvey's current DEX value?",
+      "answer": "105",
+      "rating": 9
+    },
+    {
+      "question": "What is the DEX value of the monster?",
+      "answer": "60",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's DEX score?",
+      "answer": "55",
+      "rating": 7
+    },
+    {
+      "question": "What is the monster's DEX score?",
+      "answer": "60",
+      "rating": 8
+    },
+    {
+      "question": "How many shots can Harvey's handgun fire in a round?",
+      "answer": "three",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by Harvey's revolver shot?",
+      "answer": "5 points of damage",
+      "rating": 9
+    },
+    {
+      "question": "What is the bonus die Harvey gets due to the attack being at point-blank range?",
+      "answer": "A bonus die",
+      "rating": 8
+    },
+    {
+      "question": "What type of success Harvey rolls on his attack roll with his Handgun skill?",
+      "answer": "A Regular success",
+      "rating": 7
+    },
+    {
+      "question": "How much damage the revolver does to the creature?",
+      "answer": "5 points of damage",
+      "rating": 9
+    },
+    {
+      "question": "What type of attack the creature uses with its clawed forelimbs?",
+      "answer": "Clawed forelimbs",
+      "rating": 8
+    },
+    {
+      "question": "What skill does the Keeper use to roll for the creature\u2019s attack?",
+      "answer": "Fighting",
+      "rating": 7
+    },
+    {
+      "question": "What is the result of Harvey's dodge roll?",
+      "answer": "A Hard success",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage caused by the first shot?",
+      "answer": "1D10 + 10",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition of the monster after the first shot?",
+      "answer": "It is dead or dying and can take no action.",
+      "rating": 9
+    },
+    {
+      "question": "How many targets does Harvey see in the shadows?",
+      "answer": "Two",
+      "rating": 7
+    },
+    {
+      "question": "What action does Harvey take before firing again?",
+      "answer": "He lifts his gun to fire again",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is applied at the beginning of a combat in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "roll (set difficulty by range and then apply any modifiers)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey using to defend himself against the monster in the upstairs room?"
+      },
+      {
+        "role": "assistant",
+        "content": ".38 revolver"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Harvey do when he hears the strange sound coming from the upstairs room?"
+      },
+      {
+        "role": "assistant",
+        "content": "He pulls out his gun (.38 revolver) and cautiously opens the door"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's DEX score in the provided text?"
+      },
+      {
+        "role": "assistant",
+        "content": "55"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's current DEX value?"
+      },
+      {
+        "role": "assistant",
+        "content": "105"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX value of the monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's DEX score?"
+      },
+      {
+        "role": "assistant",
+        "content": "55"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the monster's DEX score?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many shots can Harvey's handgun fire in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by Harvey's revolver shot?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus die Harvey gets due to the attack being at point-blank range?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bonus die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of success Harvey rolls on his attack roll with his Handgun skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Regular success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage the revolver does to the creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of attack the creature uses with its clawed forelimbs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Clawed forelimbs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill does the Keeper use to roll for the creature\u2019s attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's dodge roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Hard success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage caused by the first shot?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 + 10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the monster after the first shot?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is dead or dying and can take no action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many targets does Harvey see in the shadows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action does Harvey take before firing again?"
+      },
+      {
+        "role": "assistant",
+        "content": "He lifts his gun to fire again"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

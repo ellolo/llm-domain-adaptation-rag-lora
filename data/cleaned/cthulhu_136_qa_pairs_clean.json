@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines rules for movement and combat in a fictional setting, specifically addressing the use of mounted weapons, movement distances, and shooting through cover. The rules provide guidelines for calculating movement distances, determining when attacks can be made, and applying penalties for shooting through cover or using mounted weapons. The document also introduces a system for determining the effectiveness of shooting through cover, taking into account the size of the hiding space and the type of cover. Additionally, it revises the point-blank bonus die rule to exclude long or cumbersome weapons.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of a mounted weapon on the base range of a weapon?",
+      "answer": "The weapon's base range is effectively doubled.",
+      "rating": 9
+    },
+    {
+      "question": "How is the distance between combatants in a fight typically described?",
+      "answer": "In approximate and subjective terms, such as 'arm\u2019s reach' or 'across the room'.",
+      "rating": 8
+    },
+    {
+      "question": "How is a character's movement in one combat round calculated?",
+      "answer": "It is equal to their MOV rating multiplied by 5, in yards.",
+      "rating": 9
+    },
+    {
+      "question": "What can a character do if they move up to their MOV rating multiplied by 5?",
+      "answer": "They can make one melee attack at the end of the round.",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum distance a character can move in one combat round?",
+      "answer": "The maximum distance a character can move in one combat round is equal to their MOV rating multiplied by 5, in yards.",
+      "rating": 9
+    },
+    {
+      "question": "How does a character make a melee attack?",
+      "answer": "In the case of melee attacks, the attacker must get into melee range before attacking.",
+      "rating": 8
+    },
+    {
+      "question": "Can a character take a shot with a firearm while moving?",
+      "answer": "In the case of firearms, shots can be taken by a moving character at any time in the round.",
+      "rating": 9
+    },
+    {
+      "question": "What advantage does using a readied firearm provide?",
+      "answer": "To take advantage of the +50 DEX for using a readied firearm, the firearm must be used before any movement is made.",
+      "rating": 8
+    },
+    {
+      "question": "What is the requirement for a character to make a melee attack?",
+      "answer": "The attacker must get into melee range before attacking.",
+      "rating": 8
+    },
+    {
+      "question": "Can a character take a shot with a firearm while moving?",
+      "answer": "Yes, shots can be taken by a moving character at any time in the round.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a character moves their MOV rate multiplied by 5 in yards?",
+      "answer": "The attacker must fire while running and lack sufficient time to take a steady firing position.",
+      "rating": 8
+    },
+    {
+      "question": "Can a character use a firearm before making any movement to take advantage of the +50 DEX bonus?",
+      "answer": "Yes, the firearm must be used before any movement is made.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for making a melee attack at the end of the round?",
+      "answer": "If the attacker moves up to their MOV rate multiplied by 5.",
+      "rating": 8
+    },
+    {
+      "question": "Can shots be taken by a moving character at any time in the round?",
+      "answer": "Yes, they can be taken by a moving character at any time in the round.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for a character to take advantage of the +50 DEX for using a readied firearm?",
+      "answer": "The firearm must be used before any movement is made.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a character moving their MOV rate multiplied by 5 in yards?",
+      "answer": "The character must fire while running and lacks sufficient time to take a steady firing position, taking a penalty die to their attack roll(s).",
+      "rating": 9
+    },
+    {
+      "question": "What determines the chance of hitting the target?",
+      "answer": "The size of the area in which the target is taking cover",
+      "rating": 8
+    },
+    {
+      "question": "How does the Keeper respond to a small hiding space?",
+      "answer": "Raising the difficulty level by only one step",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum roll for a hit?",
+      "answer": "20",
+      "rating": 7
+    },
+    {
+      "question": "What locations are listed for a hit in Table IV?",
+      "answer": "Right leg, Left leg, Abdomen, Chest, Right arm, Left arm, Head",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the attacker shoots through a low brick wall?",
+      "answer": "The attacker adds one penalty die and applies the armor rating of the wall.",
+      "rating": 9
+    },
+    {
+      "question": "What armor rating does a thin wooden fence provide?",
+      "answer": "A thin wooden fence might only give 1 point of protection.",
+      "rating": 8
+    },
+    {
+      "question": "What effect does shooting through a high brick wall have on the difficulty level?",
+      "answer": "It raises the difficulty level by two steps.",
+      "rating": 9
+    },
+    {
+      "question": "Which type of weapon does the point-blank bonus die not apply to?",
+      "answer": "Long or cumbersome weapons such as rifles and full-length shotguns.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a mounted weapon on the base range of a weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The weapon's base range is effectively doubled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the distance between combatants in a fight typically described?"
+      },
+      {
+        "role": "assistant",
+        "content": "In approximate and subjective terms, such as 'arm\u2019s reach' or 'across the room'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is a character's movement in one combat round calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is equal to their MOV rating multiplied by 5, in yards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a character do if they move up to their MOV rating multiplied by 5?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can make one melee attack at the end of the round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum distance a character can move in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maximum distance a character can move in one combat round is equal to their MOV rating multiplied by 5, in yards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character make a melee attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the case of melee attacks, the attacker must get into melee range before attacking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character take a shot with a firearm while moving?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the case of firearms, shots can be taken by a moving character at any time in the round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What advantage does using a readied firearm provide?"
+      },
+      {
+        "role": "assistant",
+        "content": "To take advantage of the +50 DEX for using a readied firearm, the firearm must be used before any movement is made."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a character to make a melee attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker must get into melee range before attacking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character take a shot with a firearm while moving?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, shots can be taken by a moving character at any time in the round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character moves their MOV rate multiplied by 5 in yards?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker must fire while running and lack sufficient time to take a steady firing position."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character use a firearm before making any movement to take advantage of the +50 DEX bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the firearm must be used before any movement is made."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for making a melee attack at the end of the round?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the attacker moves up to their MOV rate multiplied by 5."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can shots be taken by a moving character at any time in the round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can be taken by a moving character at any time in the round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a character to take advantage of the +50 DEX for using a readied firearm?"
+      },
+      {
+        "role": "assistant",
+        "content": "The firearm must be used before any movement is made."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a character moving their MOV rate multiplied by 5 in yards?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character must fire while running and lacks sufficient time to take a steady firing position, taking a penalty die to their attack roll(s)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the chance of hitting the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The size of the area in which the target is taking cover"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper respond to a small hiding space?"
+      },
+      {
+        "role": "assistant",
+        "content": "Raising the difficulty level by only one step"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum roll for a hit?"
+      },
+      {
+        "role": "assistant",
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What locations are listed for a hit in Table IV?"
+      },
+      {
+        "role": "assistant",
+        "content": "Right leg, Left leg, Abdomen, Chest, Right arm, Left arm, Head"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the attacker shoots through a low brick wall?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker adds one penalty die and applies the armor rating of the wall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What armor rating does a thin wooden fence provide?"
+      },
+      {
+        "role": "assistant",
+        "content": "A thin wooden fence might only give 1 point of protection."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does shooting through a high brick wall have on the difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "It raises the difficulty level by two steps."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which type of weapon does the point-blank bonus die not apply to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Long or cumbersome weapons such as rifles and full-length shotguns."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

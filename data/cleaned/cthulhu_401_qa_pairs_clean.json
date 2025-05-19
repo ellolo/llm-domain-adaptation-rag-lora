@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes the rules for animated skeletons and vampires in a fantasy setting. Animated skeletons are weak and fragile, but can be equipped with weapons to deal damage. Vampires, on the other hand, are powerful and have special abilities such as the ability to drain blood from victims, hypnotize them with a gaze, and transform into smoke or mist when their hit points reach zero. Vampires also have unique abilities and powers, such as the third bite causing a character to die and become a vampire, and the ability to regenerate hit points.",
+  "qa_pairs": [
+    {
+      "question": "What happens to a vampire when its hit points reach zero?",
+      "answer": "It turns into smoke or mist at the end of the round.",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome if a stake is driven through a vampire's heart when its hit points reach zero?",
+      "answer": "It is killed and reduced to ashes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus of a vampire?",
+      "answer": "+1D4",
+      "rating": 7
+    },
+    {
+      "question": "What is the average damage dealt by a vampire's rolls?",
+      "answer": "(3D6 \u00d710) or (2D6+6 \u00d75)",
+      "rating": 8
+    },
+    {
+      "question": "How is a vampire killed?",
+      "answer": "A vampire is killed if a stake is driven through its heart when at zero hit points.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for vampires?",
+      "answer": "Vampires have an Average Damage Bonus of +1D4.",
+      "rating": 8
+    },
+    {
+      "question": "What is the vampire's average strength?",
+      "answer": "Vampires have an average strength of 65.",
+      "rating": 9
+    },
+    {
+      "question": "What is the vampire's speed?",
+      "answer": "Vampires have a species rate of MOV 10.",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks does a vampire make per round?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "How much damage does a vampire drain from its victim each round?",
+      "answer": "2D10 STR (blood)",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for vampires?",
+      "answer": "1D4",
+      "rating": 7
+    },
+    {
+      "question": "What is the average build of a vampire?",
+      "answer": "1",
+      "rating": 6
+    },
+    {
+      "question": "What is the average damage of a vampire's fighting attack?",
+      "answer": "1D4 + 1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage of a vampire's bite attack?",
+      "answer": "1D4 + special damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the number of attacks a vampire can make per round?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage chance of a vampire's dodge?",
+      "answer": "25% (12/5)",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vampire when its hit points reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "It turns into smoke or mist at the end of the round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if a stake is driven through a vampire's heart when its hit points reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is killed and reduced to ashes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of a vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage dealt by a vampire's rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "(3D6 \u00d710) or (2D6+6 \u00d75)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is a vampire killed?"
+      },
+      {
+        "role": "assistant",
+        "content": "A vampire is killed if a stake is driven through its heart when at zero hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for vampires?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires have an Average Damage Bonus of +1D4."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the vampire's average strength?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires have an average strength of 65."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the vampire's speed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires have a species rate of MOV 10."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does a vampire make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a vampire drain from its victim each round?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D10 STR (blood)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for vampires?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of a vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage of a vampire's fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 + 1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage of a vampire's bite attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 + special damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of attacks a vampire can make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage chance of a vampire's dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "25% (12/5)"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 16,
+    "retention_rate": 0.67,
+    "avg_score": 5.7
+  }
+}

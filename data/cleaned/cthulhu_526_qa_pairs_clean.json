@@ -1,0 +1,469 @@
+{
+  "summary": "This document appears to be a comprehensive guide for a tabletop role-playing game, likely a horror-themed game set in a fictional world inspired by the works of H.P. Lovecraft. The main topic is the game's mechanics, including character creation, combat, and sanity systems. Key concepts include the \"Mythos Tomes,\" which are ancient tomes containing forbidden knowledge, and the \"Gate Creation and Travel Cost\" system, which governs the creation and use of magical gates. The guide also provides summaries of various game mechanics, including firearms combat, melee combat, and the \"Five Steps to Setting Up a Chase\" system.",
+  "qa_pairs": [
+    {
+      "question": "What is the title of Table VIII?",
+      "answer": "Bouts of Madness-Real Time",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of Table XII?",
+      "answer": "Space-Mead Effectiveness",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of Table XVII?",
+      "answer": "Weapon Lists",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of Table XIV?",
+      "answer": "Gate Locations and Distances",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of Table XIII?",
+      "answer": "Gate Creation and Travel Cost",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of Table XVI?",
+      "answer": "EDU Conversion",
+      "rating": 7
+    },
+    {
+      "question": "What is the title of Table XV?",
+      "answer": "Comparative Builds",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of Table X?",
+      "answer": "Sample Manias",
+      "rating": 6
+    },
+    {
+      "question": "What is the Skill List number?",
+      "answer": "56",
+      "rating": 8
+    },
+    {
+      "question": "What is the Summary of Damage number?",
+      "answer": "411, 413",
+      "rating": 9
+    },
+    {
+      "question": "What is the Summary of Firearms Combat number?",
+      "answer": "409-410",
+      "rating": 8
+    },
+    {
+      "question": "What is the Summary of Five Steps to Setting Up a Chase number?",
+      "answer": "136",
+      "rating": 7
+    },
+    {
+      "question": "What is the Summary of Game System number?",
+      "answer": "407",
+      "rating": 9
+    },
+    {
+      "question": "What is the Summary of Magic number?",
+      "answer": "419",
+      "rating": 8
+    },
+    {
+      "question": "What is the Summary of Melee Combat number?",
+      "answer": "408-409, 412",
+      "rating": 9
+    },
+    {
+      "question": "What is the Summary of Sanity number?",
+      "answer": "417-418",
+      "rating": 8
+    },
+    {
+      "question": "What are the names of the book fragments?",
+      "answer": "Livre D'Ivon, Celaeno Fragments, Confessions of the Mad Monk Clithanus, Cthaat Aquadingen (Latin)",
+      "rating": 9
+    },
+    {
+      "question": "How many pages are the book fragments?",
+      "answer": "226 pages",
+      "rating": 8
+    },
+    {
+      "question": "How many pages is the first book fragment?",
+      "answer": "226 pages",
+      "rating": 8
+    },
+    {
+      "question": "How many pages is the second book fragment?",
+      "answer": "226 pages",
+      "rating": 8
+    },
+    {
+      "question": "How many pages is the third book fragment?",
+      "answer": "227 pages",
+      "rating": 9
+    },
+    {
+      "question": "What is the language of the fourth book fragment?",
+      "answer": "Latin",
+      "rating": 8
+    },
+    {
+      "question": "How many book fragments are there?",
+      "answer": "4",
+      "rating": 7
+    },
+    {
+      "question": "What are the four book fragments called?",
+      "answer": "Livre D'Ivon, Celaeno Fragments, Confessions of the Mad Monk Clithanus, Cthaat Aquadingen",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table VIII?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bouts of Madness-Real Time"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table XII?"
+      },
+      {
+        "role": "assistant",
+        "content": "Space-Mead Effectiveness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table XVII?"
+      },
+      {
+        "role": "assistant",
+        "content": "Weapon Lists"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table XIV?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gate Locations and Distances"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table XIII?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gate Creation and Travel Cost"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table XVI?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU Conversion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table XV?"
+      },
+      {
+        "role": "assistant",
+        "content": "Comparative Builds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Table X?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sample Manias"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Skill List number?"
+      },
+      {
+        "role": "assistant",
+        "content": "56"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Summary of Damage number?"
+      },
+      {
+        "role": "assistant",
+        "content": "411, 413"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Summary of Firearms Combat number?"
+      },
+      {
+        "role": "assistant",
+        "content": "409-410"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Summary of Five Steps to Setting Up a Chase number?"
+      },
+      {
+        "role": "assistant",
+        "content": "136"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Summary of Game System number?"
+      },
+      {
+        "role": "assistant",
+        "content": "407"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Summary of Magic number?"
+      },
+      {
+        "role": "assistant",
+        "content": "419"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Summary of Melee Combat number?"
+      },
+      {
+        "role": "assistant",
+        "content": "408-409, 412"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Summary of Sanity number?"
+      },
+      {
+        "role": "assistant",
+        "content": "417-418"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the names of the book fragments?"
+      },
+      {
+        "role": "assistant",
+        "content": "Livre D'Ivon, Celaeno Fragments, Confessions of the Mad Monk Clithanus, Cthaat Aquadingen (Latin)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many pages are the book fragments?"
+      },
+      {
+        "role": "assistant",
+        "content": "226 pages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many pages is the first book fragment?"
+      },
+      {
+        "role": "assistant",
+        "content": "226 pages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many pages is the second book fragment?"
+      },
+      {
+        "role": "assistant",
+        "content": "226 pages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many pages is the third book fragment?"
+      },
+      {
+        "role": "assistant",
+        "content": "227 pages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the language of the fourth book fragment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Latin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many book fragments are there?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the four book fragments called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Livre D'Ivon, Celaeno Fragments, Confessions of the Mad Monk Clithanus, Cthaat Aquadingen"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines a rating system for the severity of insanity, ranging from 3-100 points, with 50 being the average. Investigators who are committed to an asylum or sanitarium for treatment must undergo psychiatric observation and evaluation, and the asylum's report will determine their fate. Treatment within an institution can be successful, with a roll of 01-50* resulting in a success, but can also be unsuccessful, leading to further treatment or rebellion. The document also provides guidelines for the treatment process, including the use of psychiatric medications, therapy, and electroconvulsive treatment.",
+  "qa_pairs": [
+    {
+      "question": "What type of shock can lead to uncontrollable physical reactions?",
+      "answer": "A major shock leading to uncontrollable physical reactions",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of 50 points on the scale?",
+      "answer": "An average rating, and the person will never be the same again",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected outcome for someone who goes insane?",
+      "answer": "The mind is broken and will take a long time to return to sanity, and even if a way can be found, the person will never be the same again.",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition for a private institution to accept someone without symptoms?",
+      "answer": "They can pay for the care.",
+      "rating": 6
+    },
+    {
+      "question": "How long can an investigator hold a patient for psychiatric observation?",
+      "answer": "Up to 72 hours.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if evidence of serious disorder is gathered?",
+      "answer": "the patient may be placed in an asylum for a longer period, for purposes of observation and evaluation as spelled out by law",
+      "rating": 9
+    },
+    {
+      "question": "What is a common treatment available in institutions?",
+      "answer": "Supervised activity, manual therapy, psychiatric medications, and hydrotherapy",
+      "rating": 8
+    },
+    {
+      "question": "What is a possible negative outcome of an institution's atmosphere?",
+      "answer": "A sense of anger and loss, and likely to be distrustful of outpatient support",
+      "rating": 9
+    },
+    {
+      "question": "What treatments are available in the institution?",
+      "answer": "Supervised activity, manual therapy, psychiatric medications, and hydrotherapy are frequent.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if the Sanity roll is successful?",
+      "answer": "The investigator is cured of their insanity.",
+      "rating": 9
+    },
+    {
+      "question": "In what situation is a Sanity roll usually made?",
+      "answer": "After a successful Sanity roll, the investigator is cured of their insanity",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the result of the roll is 51-95?",
+      "answer": "No progress has been made",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of shock can lead to uncontrollable physical reactions?"
+      },
+      {
+        "role": "assistant",
+        "content": "A major shock leading to uncontrollable physical reactions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of 50 points on the scale?"
+      },
+      {
+        "role": "assistant",
+        "content": "An average rating, and the person will never be the same again"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected outcome for someone who goes insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mind is broken and will take a long time to return to sanity, and even if a way can be found, the person will never be the same again."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a private institution to accept someone without symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can pay for the care."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long can an investigator hold a patient for psychiatric observation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 72 hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if evidence of serious disorder is gathered?"
+      },
+      {
+        "role": "assistant",
+        "content": "the patient may be placed in an asylum for a longer period, for purposes of observation and evaluation as spelled out by law"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common treatment available in institutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Supervised activity, manual therapy, psychiatric medications, and hydrotherapy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible negative outcome of an institution's atmosphere?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sense of anger and loss, and likely to be distrustful of outpatient support"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What treatments are available in the institution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Supervised activity, manual therapy, psychiatric medications, and hydrotherapy are frequent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Sanity roll is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator is cured of their insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what situation is a Sanity roll usually made?"
+      },
+      {
+        "role": "assistant",
+        "content": "After a successful Sanity roll, the investigator is cured of their insanity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the result of the roll is 51-95?"
+      },
+      {
+        "role": "assistant",
+        "content": "No progress has been made"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 14,
+    "filtered": 12,
+    "retention_rate": 0.86,
+    "avg_score": 7.1
+  }
+}

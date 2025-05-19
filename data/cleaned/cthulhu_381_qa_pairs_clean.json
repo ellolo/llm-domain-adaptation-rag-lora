@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu mythos, Hastur and Ithaqua are two of the most feared deities. Hastur, known as \"He Who Is Not to Be Named,\" is a malevolent being who can only be summoned at night and is known for his brutal attacks on those within 20 yards of him. Ithaqua, on the other hand, is a monstrous entity from the far north, known for stalking and devouring travelers, and is often worshiped in the distant world of Borea. Both deities are formidable and feared by many, with Hastur's cult being particularly loathsome.",
+  "qa_pairs": [
+    {
+      "question": "What is Hastur's title?",
+      "answer": "The Unspeakable",
+      "rating": 8
+    },
+    {
+      "question": "How many individuals must successfully Dodge or be grasped by Hastur within 20 yards of the horror?",
+      "answer": "Three",
+      "rating": 9
+    },
+    {
+      "question": "How often does Hastur normally attack?",
+      "answer": "Never",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition that Hastur must always leave?",
+      "answer": "The Earth where Aldebaran is below the horizon",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Hastur being present in a game of CON 1000?",
+      "answer": "Each round three individuals within 20 yards of the horror must successfully Dodge or be grasped by Hastur and destroyed on the following round.",
+      "rating": 9
+    },
+    {
+      "question": "What does Hastur normally not attack?",
+      "answer": "Friends or worshipers.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for Hastur to leave the Earth where Aldebaran is below the horizon?",
+      "answer": "He must always leave that portion of the Earth where Aldebaran is below the horizon.",
+      "rating": 8
+    },
+    {
+      "question": "What is Hastur's Armor rating?",
+      "answer": "30-point thick, scaly, rubbery and baggy hide.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for Hastur to not attack friends or worshipers?",
+      "answer": "Hastur must always leave the portion of the Earth where Aldebaran is below the horizon.",
+      "rating": 8
+    },
+    {
+      "question": "What is Hastur's fighting attack damage bonus?",
+      "answer": "+13D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the armor type of Hastur?",
+      "answer": "30-point thick, scaly, rubbery and baggy hide.",
+      "rating": 8
+    },
+    {
+      "question": "How does Hastur deal with his enemies?",
+      "answer": "Fighting 100% (50/20), damage is instantaneous death",
+      "rating": 9
+    },
+    {
+      "question": "Where is Aldebaran in relation to Hastur?",
+      "answer": "Below the horizon",
+      "rating": 7
+    },
+    {
+      "question": "What happens to Hastur's attacks on a target?",
+      "answer": "Instantaneous death",
+      "rating": 9
+    },
+    {
+      "question": "How much armor does Hastur have?",
+      "answer": "30-point thick, scaly, rubbery, and baggy hide",
+      "rating": 8
+    },
+    {
+      "question": "How does Hastur affect a target's sanity?",
+      "answer": "1D10/1D100 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "Where is Ithaqua reported to be found?",
+      "answer": "The Arctic and sub-Arctic regions.",
+      "rating": 9
+    },
+    {
+      "question": "What is Ithaqua known to do to hapless travelers?",
+      "answer": "Stalk them and carry them off.",
+      "rating": 8
+    },
+    {
+      "question": "Where is Ithaqua's cult minimal?",
+      "answer": "In the far north, in Siberia and Alaska.",
+      "rating": 9
+    },
+    {
+      "question": "What is Ithaqua's damage bonus?",
+      "answer": "+8D6.",
+      "rating": 7
+    },
+    {
+      "question": "What is often the fate of Ithaqua's victims?",
+      "answer": "They are often found dead weeks or months later, buried partway as if dropped from a height.",
+      "rating": 9
+    },
+    {
+      "question": "Where is organized worship of Ithaqua rare?",
+      "answer": "In Siberia and Alaska, organized worship seems to be rare.",
+      "rating": 8
+    },
+    {
+      "question": "Where is Ithaqua more widely worshiped?",
+      "answer": "On the faraway world of Borea.",
+      "rating": 9
+    },
+    {
+      "question": "What is Ithaqua's damage bonus?",
+      "answer": "+8D6",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Hastur's title?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Unspeakable"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many individuals must successfully Dodge or be grasped by Hastur within 20 yards of the horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often does Hastur normally attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Never"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that Hastur must always leave?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Earth where Aldebaran is below the horizon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Hastur being present in a game of CON 1000?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each round three individuals within 20 yards of the horror must successfully Dodge or be grasped by Hastur and destroyed on the following round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Hastur normally not attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Friends or worshipers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for Hastur to leave the Earth where Aldebaran is below the horizon?"
+      },
+      {
+        "role": "assistant",
+        "content": "He must always leave that portion of the Earth where Aldebaran is below the horizon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Hastur's Armor rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "30-point thick, scaly, rubbery and baggy hide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for Hastur to not attack friends or worshipers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hastur must always leave the portion of the Earth where Aldebaran is below the horizon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Hastur's fighting attack damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+13D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor type of Hastur?"
+      },
+      {
+        "role": "assistant",
+        "content": "30-point thick, scaly, rubbery and baggy hide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Hastur deal with his enemies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting 100% (50/20), damage is instantaneous death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Aldebaran in relation to Hastur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Below the horizon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Hastur's attacks on a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "Instantaneous death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much armor does Hastur have?"
+      },
+      {
+        "role": "assistant",
+        "content": "30-point thick, scaly, rubbery, and baggy hide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Hastur affect a target's sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10/1D100 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Ithaqua reported to be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Arctic and sub-Arctic regions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ithaqua known to do to hapless travelers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stalk them and carry them off."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Ithaqua's cult minimal?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the far north, in Siberia and Alaska."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ithaqua's damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+8D6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is often the fate of Ithaqua's victims?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are often found dead weeks or months later, buried partway as if dropped from a height."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is organized worship of Ithaqua rare?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Siberia and Alaska, organized worship seems to be rare."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Ithaqua more widely worshiped?"
+      },
+      {
+        "role": "assistant",
+        "content": "On the faraway world of Borea."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ithaqua's damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+8D6"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

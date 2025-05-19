@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop game, combat is resolved through a combination of skill rolls, dice rolls, and the attacker's and defender's abilities. Ranged and thrown attacks are treated similarly to firearms, with the attacker needing to be within a certain distance of the defender to engage. Armor can reduce damage inflicted, but not magical attacks, and surprise attacks can automatically hit or gain a bonus die. Additionally, when a character is outnumbered, they gain a bonus die on subsequent attacks, and characters can dodge or fight back multiple times before the bonus die is applied.",
+  "qa_pairs": [
+    {
+      "question": "What type of attacks are treated like firearms?",
+      "answer": "Ranged missile attacks",
+      "rating": 9
+    },
+    {
+      "question": "What skill is used to oppose thrown weapons?",
+      "answer": "Dodge skill",
+      "rating": 8
+    },
+    {
+      "question": "Under what condition can a character fight back against a thrown or missile attack?",
+      "answer": "Within one-fifth of the attacker's DEX in feet",
+      "rating": 9
+    },
+    {
+      "question": "Do half of the attacker's damage bonus apply to crossbows?",
+      "answer": "No, crossbows are not affected",
+      "rating": 7
+    },
+    {
+      "question": "Can a character flee melee combat?",
+      "answer": "Yes, a character can use their action to flee melee combat on their turn in the order of combat, as long as they have an escape route and are not physically restrained.",
+      "rating": 8
+    },
+    {
+      "question": "How does armor affect damage received?",
+      "answer": "Armor reduces damage received, deducting the number of armor points from damage inflicted by attacks passing through the armor.",
+      "rating": 9
+    },
+    {
+      "question": "What type of attacks are not reduced by armor?",
+      "answer": "Magical attacks, poison, drowning, etc. are not reduced by armor.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a character hits someone on the head from the rear?",
+      "answer": "Hitting someone on the head from the rear would automatically succeed, unless fumbled.",
+      "rating": 8
+    },
+    {
+      "question": "What does armor reduce?",
+      "answer": "damage received",
+      "rating": 10
+    },
+    {
+      "question": "What types of attacks are not reduced by armor?",
+      "answer": "magical attacks",
+      "rating": 9
+    },
+    {
+      "question": "What happens when attacking someone on the head from the rear?",
+      "answer": "automatically succeeds",
+      "rating": 8
+    },
+    {
+      "question": "Who decides when dice rolls are called for?",
+      "answer": "the Keeper",
+      "rating": 7
+    },
+    {
+      "question": "What happens if a character attacks an unseen target from the rear?",
+      "answer": "The attack would automatically succeed, unless fumbled.",
+      "rating": 6
+    },
+    {
+      "question": "How does a character's number of opponents affect combat attacks?",
+      "answer": "A character is at a disadvantage if outnumbered by the opposition.",
+      "rating": 9
+    },
+    {
+      "question": "What applies to attacks made using firearms in combat?",
+      "answer": "No bonus die applies to attacks made using firearms.",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper do after a surprise attack has been resolved?",
+      "answer": "Switch to combat rounds as detailed below.",
+      "rating": 7
+    },
+    {
+      "question": "What is the requirement for a character to be at a disadvantage in combat?",
+      "answer": "a character is outnumbered by the opposition",
+      "rating": 8
+    },
+    {
+      "question": "Can characters use firearms in situations where they are outnumbered?",
+      "answer": "No, this does not apply to attacks made using firearms.",
+      "rating": 9
+    },
+    {
+      "question": "Can characters with multiple attacks per round dodge or fight back that number of times before gaining a bonus die?",
+      "answer": "Yes, characters and monsters that have more than one attack per round may also dodge or fight back that number of times",
+      "rating": 8
+    },
+    {
+      "question": "Can investigators outnumber certain Mythos entities?",
+      "answer": "Note that some Mythos entities can never be outnumbered by investigators",
+      "rating": 7
+    },
+    {
+      "question": "What is the rule for characters and monsters with more than one attack per round?",
+      "answer": "They can dodge or fight back that number of times before the bonus die is applied.",
+      "rating": 9
+    },
+    {
+      "question": "What is the rule for investigators when facing Mythos entities that can never be outnumbered?",
+      "answer": "It is not specified in the text.",
+      "rating": 6
+    },
+    {
+      "question": "What is the order of attack in combat, according to the text?",
+      "answer": "Highest DEX goes first.",
+      "rating": 8
+    },
+    {
+      "question": "What is the rule for resolving combat when a defender chooses to dodge?",
+      "answer": "The combat is resolved in DEX order.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the attacker has a higher level of success?",
+      "answer": "Attacker wins",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome when both the attacker and defender fail?",
+      "answer": "No damage inflicted.",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome when the draw occurs?",
+      "answer": "Defender wins.",
+      "rating": 7
+    },
+    {
+      "question": "What happens when the attacker or defender wins?",
+      "answer": "Attacker wins or defender wins, respectively.",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of attacks are treated like firearms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ranged missile attacks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to oppose thrown weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dodge skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition can a character fight back against a thrown or missile attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within one-fifth of the attacker's DEX in feet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do half of the attacker's damage bonus apply to crossbows?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, crossbows are not affected"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character flee melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a character can use their action to flee melee combat on their turn in the order of combat, as long as they have an escape route and are not physically restrained."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does armor affect damage received?"
+      },
+      {
+        "role": "assistant",
+        "content": "Armor reduces damage received, deducting the number of armor points from damage inflicted by attacks passing through the armor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of attacks are not reduced by armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magical attacks, poison, drowning, etc. are not reduced by armor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character hits someone on the head from the rear?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hitting someone on the head from the rear would automatically succeed, unless fumbled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does armor reduce?"
+      },
+      {
+        "role": "assistant",
+        "content": "damage received"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of attacks are not reduced by armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "magical attacks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when attacking someone on the head from the rear?"
+      },
+      {
+        "role": "assistant",
+        "content": "automatically succeeds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who decides when dice rolls are called for?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character attacks an unseen target from the rear?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attack would automatically succeed, unless fumbled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's number of opponents affect combat attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character is at a disadvantage if outnumbered by the opposition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What applies to attacks made using firearms in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "No bonus die applies to attacks made using firearms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do after a surprise attack has been resolved?"
+      },
+      {
+        "role": "assistant",
+        "content": "Switch to combat rounds as detailed below."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a character to be at a disadvantage in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "a character is outnumbered by the opposition"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can characters use firearms in situations where they are outnumbered?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, this does not apply to attacks made using firearms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can characters with multiple attacks per round dodge or fight back that number of times before gaining a bonus die?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, characters and monsters that have more than one attack per round may also dodge or fight back that number of times"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators outnumber certain Mythos entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Note that some Mythos entities can never be outnumbered by investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for characters and monsters with more than one attack per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can dodge or fight back that number of times before the bonus die is applied."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for investigators when facing Mythos entities that can never be outnumbered?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is not specified in the text."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the order of attack in combat, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Highest DEX goes first."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for resolving combat when a defender chooses to dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "The combat is resolved in DEX order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the attacker has a higher level of success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacker wins"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when both the attacker and defender fail?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when the draw occurs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Defender wins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the attacker or defender wins?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacker wins or defender wins, respectively."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

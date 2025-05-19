@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Shoggoth Lord is a monstrous creature from the Cthulhu Mythos, characterized by its ability to change shape and its insatiable hunger for human prey. In its human form, the Shoggoth Lord is a relatively weak and unassuming individual, but when transformed into its Shoggoth form, it becomes a formidable and terrifying creature with enhanced strength and regenerative abilities. The Shoggoth Lord's attacks involve engulfing its victims, digesting them, and inflicting damage through acid and pseudopod fists. Its abilities and weaknesses are outlined in the provided statistics, which include its combat capabilities, damage resistance, and regeneration.",
+  "qa_pairs": [
+    {
+      "question": "What is a characteristic of Shoggoth Lords in their natural state?",
+      "answer": "They are not social, they do not die natural deaths, nor do they breed.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average Strength score for a Shoggoth Lord in their human form?",
+      "answer": "65",
+      "rating": 8
+    },
+    {
+      "question": "What is a special ability of a Shoggoth Lord as a spellcaster?",
+      "answer": "Knows 1D3 spells as the Keeper desires.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average Intelligence score for a Shoggoth Lord in their human form?",
+      "answer": "65",
+      "rating": 8
+    },
+    {
+      "question": "What is a characteristic of the Shoggoth Lord's human form compared to its natural state?",
+      "answer": "Its human form averages lower values in all stats.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical method used to determine a Shoggoth Lord's strength and constitution?",
+      "answer": "Rolls such as (2D6+8 \u00d75), (2D6+6 \u00d75), (3D6+3 \u00d75), (3D6 \u00d75), (2D6+6 \u00d75), (3D6+3 \u00d75), (1D6+3 \u00d75), and (3D6 \u00d75)",
+      "rating": 9
+    },
+    {
+      "question": "What is a characteristic of the Shoggoth Lord's ability to cast spells?",
+      "answer": "They know 1D3 spells as the Keeper desires.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average score of the Shoggoth Lord on the 'POW' stat?",
+      "answer": "65",
+      "rating": 8
+    },
+    {
+      "question": "What is the Shoggoth's human form HP?",
+      "answer": "13",
+      "rating": 8
+    },
+    {
+      "question": "What is the Shoggoth's average damage bonus in its human form?",
+      "answer": "1D4",
+      "rating": 9
+    },
+    {
+      "question": "What is the number of attacks per round for a shoggoth lord?",
+      "answer": "2",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt to a victim being digested by a shoggoth lord?",
+      "answer": "1D6 hit points damage each round",
+      "rating": 9
+    },
+    {
+      "question": "How much damage a shoggoth lord deals with its crush attack?",
+      "answer": "Not specified, but it mentions the damage for fighting and engulfing a target.",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage reduction for fire and electrical attacks against a shoggoth lord?",
+      "answer": "Half damage.",
+      "rating": 8
+    },
+    {
+      "question": "How much damage a shoggoth lord deals per round when engulfing a target?",
+      "answer": "1D6 per round (acid damage).",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage reduction for physical attacks such as firearms and knives against a shoggoth lord?",
+      "answer": "Only 1 point of damage per hit.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Sanity loss to see a shoggoth lord?",
+      "answer": "1D6/1D20",
+      "rating": 8
+    },
+    {
+      "question": "What is the additional Sanity point loss for keepers?",
+      "answer": "1/1D3",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of Shoggoth Lords in their natural state?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are not social, they do not die natural deaths, nor do they breed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average Strength score for a Shoggoth Lord in their human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a special ability of a Shoggoth Lord as a spellcaster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Knows 1D3 spells as the Keeper desires."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average Intelligence score for a Shoggoth Lord in their human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of the Shoggoth Lord's human form compared to its natural state?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its human form averages lower values in all stats."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical method used to determine a Shoggoth Lord's strength and constitution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rolls such as (2D6+8 \u00d75), (2D6+6 \u00d75), (3D6+3 \u00d75), (3D6 \u00d75), (2D6+6 \u00d75), (3D6+3 \u00d75), (1D6+3 \u00d75), and (3D6 \u00d75)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of the Shoggoth Lord's ability to cast spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "They know 1D3 spells as the Keeper desires."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average score of the Shoggoth Lord on the 'POW' stat?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Shoggoth's human form HP?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Shoggoth's average damage bonus in its human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of attacks per round for a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt to a victim being digested by a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 hit points damage each round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage a shoggoth lord deals with its crush attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified, but it mentions the damage for fighting and engulfing a target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage reduction for fire and electrical attacks against a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage a shoggoth lord deals per round when engulfing a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 per round (acid damage)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage reduction for physical attacks such as firearms and knives against a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only 1 point of damage per hit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity loss to see a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6/1D20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the additional Sanity point loss for keepers?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D3"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 18,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

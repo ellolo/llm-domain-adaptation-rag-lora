@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game system, the age of an investigator affects their characteristics and skills. The Keeper determines the modifications to the investigator's characteristics based on their age, with different age ranges resulting in varying deductions and improvements. For example, younger investigators (15-19 years old) may have reduced physical attributes, while older investigators (60+ years old) may have reduced physical attributes and increased mental attributes. The game also uses a system of \"half\" and \"fifth\" values, which are calculated based on the investigator's characteristic values, to determine skill and attribute levels.",
+  "qa_pairs": [
+    {
+      "question": "What is the rule for creating an investigator's Luck score?",
+      "answer": "3D6 and multiply by 5 for a Luck score.",
+      "rating": 9
+    },
+    {
+      "question": "What age range is recommended for an investigator?",
+      "answer": "Between 15 and 90 years old.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to EDU when an investigator is between 20 and 39 years old?",
+      "answer": "Make an improvement check for EDU.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to APP when an investigator is between 40 and 49 years old?",
+      "answer": "Reduce APP by 5.",
+      "rating": 7
+    },
+    {
+      "question": "What is the age range for deducting 5 points among STR and SIZ and deducting 5 points from EDU?",
+      "answer": "G 15 to 19 years old",
+      "rating": 6
+    },
+    {
+      "question": "At what age do you make an improvement check for EDU, and what age range do you also make an improvement check for EDU?",
+      "answer": "G 20 to 39 years old, G 60 to 69 years old",
+      "rating": 9
+    },
+    {
+      "question": "At what age do you make 3 improvement checks for EDU and deduct 10 points among STR, CON, or DEX, and reduce APP by 10?",
+      "answer": "G 50 to 59 years old",
+      "rating": 8
+    },
+    {
+      "question": "At what age do you make 4 improvement checks for EDU, deduct 20 points among STR, CON, or DEX, and reduce APP by 15?",
+      "answer": "G 70 to 79 years old",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum possible EDU value?",
+      "answer": "99",
+      "rating": 10
+    },
+    {
+      "question": "How do you enter half values on the investigator sheet?",
+      "answer": "Divide the percentage value by two, rounding down, and enter after the 'half' percentage value.",
+      "rating": 10
+    },
+    {
+      "question": "What should you do with the result of the EDU improvement check?",
+      "answer": "Add 1D10 percentage points to your EDU characteristic if the result is greater than your present EDU.",
+      "rating": 10
+    },
+    {
+      "question": "What happens to EDU if the result is greater than your present EDU?",
+      "answer": "Add 1D10 percentage points to your EDU characteristic.",
+      "rating": 10
+    },
+    {
+      "question": "How do you determine the half value for a characteristic?",
+      "answer": "Divide the percentage value by two and round down.",
+      "rating": 10
+    },
+    {
+      "question": "What is the purpose of using half and fifth values?",
+      "answer": "To represent fractions in relation to characteristics and skills in the game.",
+      "rating": 10
+    },
+    {
+      "question": "Where can a Quick Reference Chart for Half and Fifth Values be found?",
+      "answer": "On page 49.",
+      "rating": 10
+    },
+    {
+      "question": "What happens to the percentage value when dividing it by two and rounding down?",
+      "answer": "Enter the result after the 'half' percentage value.",
+      "rating": 10
+    },
+    {
+      "question": "What is the term for the highest number in a characteristic value?",
+      "answer": "The full value, also known as the 'characteristic value'.",
+      "rating": 10
+    },
+    {
+      "question": "What are the fractions used in relation to characteristics and skills in the game?",
+      "answer": "Half and fifth.",
+      "rating": 8
+    },
+    {
+      "question": "Where can a Quick Reference Chart for Half and Fifth Values be found?",
+      "answer": "On page 49 of the game.",
+      "rating": 9
+    },
+    {
+      "question": "What are 'Damage Bonus' and 'Build'?",
+      "answer": "Attributes known as \"Damage Bonus\" (DB) and Build",
+      "rating": 7
+    },
+    {
+      "question": "Who can determine their damage bonus?",
+      "answer": "All investigators, Keeper-controlled characters and monsters",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of adding STR and SIZ?",
+      "answer": "To determine damage bonus",
+      "rating": 8
+    },
+    {
+      "question": "What table is used to look up the total damage bonus?",
+      "answer": "Table 1: Damage Bonus and Build",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for creating an investigator's Luck score?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D6 and multiply by 5 for a Luck score."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What age range is recommended for an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 15 and 90 years old."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to EDU when an investigator is between 20 and 39 years old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make an improvement check for EDU."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to APP when an investigator is between 40 and 49 years old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reduce APP by 5."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the age range for deducting 5 points among STR and SIZ and deducting 5 points from EDU?"
+      },
+      {
+        "role": "assistant",
+        "content": "G 15 to 19 years old"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what age do you make an improvement check for EDU, and what age range do you also make an improvement check for EDU?"
+      },
+      {
+        "role": "assistant",
+        "content": "G 20 to 39 years old, G 60 to 69 years old"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what age do you make 3 improvement checks for EDU and deduct 10 points among STR, CON, or DEX, and reduce APP by 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "G 50 to 59 years old"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what age do you make 4 improvement checks for EDU, deduct 20 points among STR, CON, or DEX, and reduce APP by 15?"
+      },
+      {
+        "role": "assistant",
+        "content": "G 70 to 79 years old"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum possible EDU value?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you enter half values on the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Divide the percentage value by two, rounding down, and enter after the 'half' percentage value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should you do with the result of the EDU improvement check?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add 1D10 percentage points to your EDU characteristic if the result is greater than your present EDU."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to EDU if the result is greater than your present EDU?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add 1D10 percentage points to your EDU characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you determine the half value for a characteristic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Divide the percentage value by two and round down."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of using half and fifth values?"
+      },
+      {
+        "role": "assistant",
+        "content": "To represent fractions in relation to characteristics and skills in the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can a Quick Reference Chart for Half and Fifth Values be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 49."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the percentage value when dividing it by two and rounding down?"
+      },
+      {
+        "role": "assistant",
+        "content": "Enter the result after the 'half' percentage value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the term for the highest number in a characteristic value?"
+      },
+      {
+        "role": "assistant",
+        "content": "The full value, also known as the 'characteristic value'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the fractions used in relation to characteristics and skills in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half and fifth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can a Quick Reference Chart for Half and Fifth Values be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 49 of the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are 'Damage Bonus' and 'Build'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attributes known as \"Damage Bonus\" (DB) and Build"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can determine their damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "All investigators, Keeper-controlled characters and monsters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of adding STR and SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What table is used to look up the total damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Table 1: Damage Bonus and Build"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 23,
+    "filtered": 23,
+    "retention_rate": 1.0,
+    "avg_score": 8.9
+  }
+}

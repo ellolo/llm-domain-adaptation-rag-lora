@@ -1,0 +1,336 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nGla'aki, a powerful and malevolent deity, is described as a servant of the alien god Hastur. Gla'aki's powers involve injecting a fluid into a victim's spine, which can either kill them, turn them into an undead slave, or leave them unharmed. The victim's fate depends on the damage caused by the spine and whether the fluid is injected before the spine is broken off. Gla'aki is also connected to Hastur and is said to be served by the byakhee, an interstellar flying race.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of the spine damage on the victim?",
+      "answer": "The victim dies anyway.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the spine is broken off before the fluid is injected?",
+      "answer": "The victim can remain a normal human being.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect on the victim if the spine does not cause enough damage to kill the victim?",
+      "answer": "The victim can remain a normal human being.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition of Gla'aki's undead slaves?",
+      "answer": "They are subject to the will of Gla'aki.",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition that allows the victim to survive?",
+      "answer": "Breaking off the spine before fluid injection.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition that prevents the victim from breaking off the spine?",
+      "answer": "Being held tightly by Gla'aki's undead slaves.",
+      "rating": 6
+    },
+    {
+      "question": "What type of damage does Gla'aki deal with its spines?",
+      "answer": "3D10 damage.",
+      "rating": 9
+    },
+    {
+      "question": "What is the armor value of each of Gla'aki's spines?",
+      "answer": "4 points of armor.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary damage dealt by Gla'aki's fighting attacks?",
+      "answer": "3D10",
+      "rating": 9
+    },
+    {
+      "question": "What is the armor value for each of Gla'aki's spines?",
+      "answer": "4 points",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor value of Gla'aki's integument?",
+      "answer": "40-point",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for Gla'aki's attacks?",
+      "answer": "+7D6",
+      "rating": 9
+    },
+    {
+      "question": "What is Gla'aki's SIZ value?",
+      "answer": "450",
+      "rating": 8
+    },
+    {
+      "question": "What is Gla'aki's Damage Bonus?",
+      "answer": "+7D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the Armor value of Gla'aki's spines?",
+      "answer": "4 points",
+      "rating": 8
+    },
+    {
+      "question": "What is the Sanity Loss when seeing Gla'aki?",
+      "answer": "1D20",
+      "rating": 9
+    },
+    {
+      "question": "What is Hastur's connection to the Lake of Hali?",
+      "answer": "Hastur is connected to the mystic Lake of Hali, as well as other things.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the spine damage on the victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim dies anyway."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the spine is broken off before the fluid is injected?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim can remain a normal human being."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect on the victim if the spine does not cause enough damage to kill the victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim can remain a normal human being."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of Gla'aki's undead slaves?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are subject to the will of Gla'aki."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that allows the victim to survive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Breaking off the spine before fluid injection."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that prevents the victim from breaking off the spine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Being held tightly by Gla'aki's undead slaves."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage does Gla'aki deal with its spines?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor value of each of Gla'aki's spines?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 points of armor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary damage dealt by Gla'aki's fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor value for each of Gla'aki's spines?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor value of Gla'aki's integument?"
+      },
+      {
+        "role": "assistant",
+        "content": "40-point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Gla'aki's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+7D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Gla'aki's SIZ value?"
+      },
+      {
+        "role": "assistant",
+        "content": "450"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Gla'aki's Damage Bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+7D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Armor value of Gla'aki's spines?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity Loss when seeing Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Hastur's connection to the Lake of Hali?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hastur is connected to the mystic Lake of Hali, as well as other things."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 17,
+    "retention_rate": 0.71,
+    "avg_score": 8.3
+  }
+}

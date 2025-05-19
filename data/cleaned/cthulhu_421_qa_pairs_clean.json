@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe investigators are tasked with tracking down a pair of hunters, Alistair Lawson and his son George, who are unaware of a manhunt and have been spotted carrying rifles and packs. If the investigators spot them, they can attempt to contact them by waving or crying out, or make a group Luck roll to avoid being mistaken for a wild animal. However, if the hunters are spotted before the investigators, they may fire at them, causing minor damage. The hunters are also aware of the disappearance of Brian Hall and his son Arthur, and are seeking information about them.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the hunters aren\u2019t seen or heard?",
+      "answer": "Their presence will become known when the investigators hear gunshots ahead.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigators if they are wearing brightly colored clothing?",
+      "answer": "There are no gunshots, as they are not mistaken for potential game.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if hunters spot the investigators before shots are taken?",
+      "answer": "Contact can be made by waving or crying a 'hello'.",
+      "rating": 7
+    },
+    {
+      "question": "What is the result of a failed group Luck roll?",
+      "answer": "A random investigator has been mistaken for a wild animal and shot at by the hunters for 1D3 damage.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigators if they are wearing brightly colored clothing?",
+      "answer": "There are no gunshots, as they are not mistaken for potential game.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when a group Luck roll fails?",
+      "answer": "A random investigator has been mistaken for a wild animal and shot at by the hunters for 1D3 damage.",
+      "rating": 9
+    },
+    {
+      "question": "What type of damage is inflicted by the hunters?",
+      "answer": "The damage manifests as a flesh wound.",
+      "rating": 8
+    },
+    {
+      "question": "Who are the members of the hunting party?",
+      "answer": "Alistair Lawson, George Lawson, Brian Hall, and Arthur Hall.",
+      "rating": 9
+    },
+    {
+      "question": "How old are George and Arthur?",
+      "answer": "George is 14 years old and Arthur is 12 years old.",
+      "rating": 8
+    },
+    {
+      "question": "Who are the members of the hunting party?",
+      "answer": "Alistair Lawson, George Lawson, Brian Hall, and Arthur Hall.",
+      "rating": 9
+    },
+    {
+      "question": "Why did the Lawsons pull back from the forest?",
+      "answer": "George was getting scared at night.",
+      "rating": 7
+    },
+    {
+      "question": "When were Brian and Arthur Hall last seen?",
+      "answer": "They haven't been seen since a couple of days back.",
+      "rating": 6
+    },
+    {
+      "question": "What was George afraid of at night?",
+      "answer": "George was getting scared at night.",
+      "rating": 8
+    },
+    {
+      "question": "What were George and his dad having in their bad dreams?",
+      "answer": "They were having bad dreams, but they don't remember what they were about.",
+      "rating": 9
+    },
+    {
+      "question": "What was Alistair dreaming about?",
+      "answer": "He was dreaming that he was drowning.",
+      "rating": 8
+    },
+    {
+      "question": "What is the direction given to the investigators from the briefing?",
+      "answer": "Northeast",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the hunters aren\u2019t seen or heard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their presence will become known when the investigators hear gunshots ahead."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigators if they are wearing brightly colored clothing?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are no gunshots, as they are not mistaken for potential game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if hunters spot the investigators before shots are taken?"
+      },
+      {
+        "role": "assistant",
+        "content": "Contact can be made by waving or crying a 'hello'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a failed group Luck roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A random investigator has been mistaken for a wild animal and shot at by the hunters for 1D3 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigators if they are wearing brightly colored clothing?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are no gunshots, as they are not mistaken for potential game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a group Luck roll fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "A random investigator has been mistaken for a wild animal and shot at by the hunters for 1D3 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage is inflicted by the hunters?"
+      },
+      {
+        "role": "assistant",
+        "content": "The damage manifests as a flesh wound."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the members of the hunting party?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alistair Lawson, George Lawson, Brian Hall, and Arthur Hall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How old are George and Arthur?"
+      },
+      {
+        "role": "assistant",
+        "content": "George is 14 years old and Arthur is 12 years old."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the members of the hunting party?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alistair Lawson, George Lawson, Brian Hall, and Arthur Hall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did the Lawsons pull back from the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "George was getting scared at night."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When were Brian and Arthur Hall last seen?"
+      },
+      {
+        "role": "assistant",
+        "content": "They haven't been seen since a couple of days back."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was George afraid of at night?"
+      },
+      {
+        "role": "assistant",
+        "content": "George was getting scared at night."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were George and his dad having in their bad dreams?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were having bad dreams, but they don't remember what they were about."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Alistair dreaming about?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was dreaming that he was drowning."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the direction given to the investigators from the briefing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Northeast"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 17,
+    "filtered": 16,
+    "retention_rate": 0.94,
+    "avg_score": 8.1
+  }
+}

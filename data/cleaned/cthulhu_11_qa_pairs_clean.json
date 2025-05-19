@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document is an introduction to the Call of Cthulhu role-playing game, which is set in the Cthulhu Mythos created by H.P. Lovecraft. The game allows players to explore various settings, including the 1920s Classic Era and modern-day, and can be adapted to different historical periods. The game's mechanics and themes are rooted in Lovecraft's works, which provide a foundation for understanding the horror elements used in the game. The document also provides guidance for game masters (Keepers) on how to run the game, including advice on using previously published material.",
+  "qa_pairs": [
+    {
+      "question": "What happens when Paula rolls a 04 with her investigator?",
+      "answer": "Her investigator faints.",
+      "rating": 8
+    },
+    {
+      "question": "What is the only way outside from the room, according to the professor?",
+      "answer": "Past the Thing.",
+      "rating": 9
+    },
+    {
+      "question": "What are the barred windows made of?",
+      "answer": "iron gratings",
+      "rating": 7
+    },
+    {
+      "question": "What seems to be the only way outside?",
+      "answer": "past the Thing",
+      "rating": 8
+    },
+    {
+      "question": "Who originated the Cthulhu Mythos?",
+      "answer": "H.P. Lovecraft",
+      "rating": 9
+    },
+    {
+      "question": "What is the setting for most Lovecraft's tales in the Call of Cthulhu scenarios?",
+      "answer": "The 1920s in the United States",
+      "rating": 8
+    },
+    {
+      "question": "What is the time period referred to as in the Call of Cthulhu scenarios?",
+      "answer": "The Classic Era in the United States",
+      "rating": 8
+    },
+    {
+      "question": "Why do the 1920s represent modern-day to Lovecraft?",
+      "answer": "Because they were modern to Lovecraft",
+      "rating": 6
+    },
+    {
+      "question": "When was the original Call of Cthulhu published?",
+      "answer": "1981",
+      "rating": 8
+    },
+    {
+      "question": "How many editions of Call of Cthulhu have been published?",
+      "answer": "Seven",
+      "rating": 9
+    },
+    {
+      "question": "Who has been supporting the Call of Cthulhu since its publication?",
+      "answer": "Chaosium",
+      "rating": 8
+    },
+    {
+      "question": "Where can the Old Ones' machinations spill into?",
+      "answer": "Any conceivable setting or historical period",
+      "rating": 9
+    },
+    {
+      "question": "When was the New Edition of Call of Cthulhu originally published?",
+      "answer": "1981",
+      "rating": 8
+    },
+    {
+      "question": "What is the current edition of Call of Cthulhu and the changes it sees?",
+      "answer": "The seventh edition, which has been fully revised and sees some significant changes",
+      "rating": 9
+    },
+    {
+      "question": "Where can you find advice for using previously published material in the 7th edition?",
+      "answer": "In the section 'Converting to 7th Edition' on page 390",
+      "rating": 8
+    },
+    {
+      "question": "What is recommended for anyone hoping to run a game of Call of Cthulhu?",
+      "answer": "Becoming familiar with the works of H.P. Lovecraft",
+      "rating": 9
+    },
+    {
+      "question": "Which works are considered the heart of the Cthulhu Mythos?",
+      "answer": "The Lurking Fear, The Horror at Red Hook, The Colour Out of Space, The Dunwich Horror, The Shadow Over Innsmouth, and The Dreams",
+      "rating": 9
+    },
+    {
+      "question": "What can be learned from reading Lovecraft's stories?",
+      "answer": "A lot about the Cthulhu Mythos and some key horror themes",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Paula rolls a 04 with her investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Her investigator faints."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the only way outside from the room, according to the professor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Past the Thing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the barred windows made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "iron gratings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What seems to be the only way outside?"
+      },
+      {
+        "role": "assistant",
+        "content": "past the Thing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who originated the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "H.P. Lovecraft"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the setting for most Lovecraft's tales in the Call of Cthulhu scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 1920s in the United States"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the time period referred to as in the Call of Cthulhu scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Classic Era in the United States"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do the 1920s represent modern-day to Lovecraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because they were modern to Lovecraft"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the original Call of Cthulhu published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1981"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many editions of Call of Cthulhu have been published?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seven"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has been supporting the Call of Cthulhu since its publication?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chaosium"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can the Old Ones' machinations spill into?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any conceivable setting or historical period"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the New Edition of Call of Cthulhu originally published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1981"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current edition of Call of Cthulhu and the changes it sees?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seventh edition, which has been fully revised and sees some significant changes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find advice for using previously published material in the 7th edition?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the section 'Converting to 7th Edition' on page 390"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is recommended for anyone hoping to run a game of Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Becoming familiar with the works of H.P. Lovecraft"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which works are considered the heart of the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Lurking Fear, The Horror at Red Hook, The Colour Out of Space, The Dunwich Horror, The Shadow Over Innsmouth, and The Dreams"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be learned from reading Lovecraft's stories?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lot about the Cthulhu Mythos and some key horror themes"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 18,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

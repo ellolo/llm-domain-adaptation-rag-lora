@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, cultists who achieve a paradigm shift and transcend insanity can access deeper levels of magic, known as \"deeper magic,\" which can be discovered through spellcasting. When an investigator casts a spell and is insane, they can roll a 1D100 and compare the result to their Cthulhu Mythos skill to determine if they have successfully plumbed the deeper magic. Deeper magic can be used by all Mythos entities and cultists with zero Sanity points, and can be altered by the Keeper to create new and exciting effects. The Keeper should plan ahead when introducing spells that might fall into the hands of investigators, and consider the potential deeper magical effects.",
+  "qa_pairs": [
+    {
+      "question": "What is the condition for a deeper version of a spell to be available?",
+      "answer": "If the roll is equal to or below the investigator\u2019s skill",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the deeper version of a spell once it is discovered?",
+      "answer": "It remains available thereafter",
+      "rating": 7
+    },
+    {
+      "question": "Can there be further deeper levels of a spell to be discovered in the future?",
+      "answer": "This is a matter for the Keeper to decide",
+      "rating": 9
+    },
+    {
+      "question": "Is it recommended for Keepers to discover deeper versions of spells on the fly?",
+      "answer": "No, it is advised to plan ahead",
+      "rating": 6
+    },
+    {
+      "question": "What is the role of the Keeper in determining deeper versions of spells?",
+      "answer": "The Keeper decides",
+      "rating": 8
+    },
+    {
+      "question": "Can all Mythos entities and cultists know deeper versions of spells?",
+      "answer": "No, they only know them if they have zero Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "How should the Keeper determine if other enemies know deeper versions of spells?",
+      "answer": "At the Keeper's discretion",
+      "rating": 8
+    },
+    {
+      "question": "Should the Keeper roll to determine if other enemies learn deeper versions of spells?",
+      "answer": "No, they should not feel obliged to roll",
+      "rating": 7
+    },
+    {
+      "question": "What should Keepers plan ahead when introducing spells?",
+      "answer": "spells that might fall into the hands of investigators",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Mythos entities and cultists with zero Sanity points who know a certain spell?",
+      "answer": "they also know the deeper versions as listed in the Grimoire",
+      "rating": 9
+    },
+    {
+      "question": "How should the Keeper decide if an enemy learns a deeper version of a spell?",
+      "answer": "at the Keeper's discretion",
+      "rating": 7
+    },
+    {
+      "question": "What should the deeper version of a spell be compared to?",
+      "answer": "a mundane mechanical benefit such as the spell costing fewer magic points",
+      "rating": 6
+    },
+    {
+      "question": "What is the purpose of altering a spell in a horror game?",
+      "answer": "Essentially the deeper version should be an exciting (and more horrific) development of the spell rather than a mundane mechanical benefit.",
+      "rating": 9
+    },
+    {
+      "question": "What can be expected from spell variations in the game?",
+      "answer": "There is no such thing as a definitive spell.",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of the Keeper in relation to spell variations?",
+      "answer": "Part of the Keeper\u2019s job is to act as intermediary between this Grimoire and the players.",
+      "rating": 8
+    },
+    {
+      "question": "What is the general expectation for characters gaining spells in the game?",
+      "answer": "The players should be aware that any spells their investigators gain may vary from the ones listed in this book.",
+      "rating": 7
+    },
+    {
+      "question": "What is the role of the Keeper in this game?",
+      "answer": "The Keeper acts as intermediary between the Grimoire and the players.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three parts of a spell in this game?",
+      "answer": "A spell is made up of a cost, a description, and an effect.",
+      "rating": 9
+    },
+    {
+      "question": "How can the cost of a spell be altered?",
+      "answer": "The cost of a spell can be altered, although careful consideration is required.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of a spell's description?",
+      "answer": "The description is simply dramatic color and can be changed with relative ease.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a deeper version of a spell to be available?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the roll is equal to or below the investigator\u2019s skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the deeper version of a spell once it is discovered?"
+      },
+      {
+        "role": "assistant",
+        "content": "It remains available thereafter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can there be further deeper levels of a spell to be discovered in the future?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is a matter for the Keeper to decide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is it recommended for Keepers to discover deeper versions of spells on the fly?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it is advised to plan ahead"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Keeper in determining deeper versions of spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can all Mythos entities and cultists know deeper versions of spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they only know them if they have zero Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the Keeper determine if other enemies know deeper versions of spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the Keeper's discretion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Should the Keeper roll to determine if other enemies learn deeper versions of spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they should not feel obliged to roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Keepers plan ahead when introducing spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "spells that might fall into the hands of investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Mythos entities and cultists with zero Sanity points who know a certain spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "they also know the deeper versions as listed in the Grimoire"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the Keeper decide if an enemy learns a deeper version of a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "at the Keeper's discretion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the deeper version of a spell be compared to?"
+      },
+      {
+        "role": "assistant",
+        "content": "a mundane mechanical benefit such as the spell costing fewer magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of altering a spell in a horror game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Essentially the deeper version should be an exciting (and more horrific) development of the spell rather than a mundane mechanical benefit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be expected from spell variations in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no such thing as a definitive spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Keeper in relation to spell variations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Part of the Keeper\u2019s job is to act as intermediary between this Grimoire and the players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general expectation for characters gaining spells in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players should be aware that any spells their investigators gain may vary from the ones listed in this book."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Keeper in this game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper acts as intermediary between the Grimoire and the players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three parts of a spell in this game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A spell is made up of a cost, a description, and an effect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the cost of a spell be altered?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost of a spell can be altered, although careful consideration is required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a spell's description?"
+      },
+      {
+        "role": "assistant",
+        "content": "The description is simply dramatic color and can be changed with relative ease."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 20,
+    "retention_rate": 0.71,
+    "avg_score": 5.9
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document provides a guide to creating werewolves and zombies in a horror-themed game. The guide outlines the characteristics, abilities, and weaknesses of both creatures, including their attacks, defenses, and damage bonuses. Werewolves are more powerful and agile, while zombies are slower and more vulnerable to damage. The guide also notes that zombies can be deactivated by feeding them salt or using other magical or scientific means. Additionally, the document provides a brief overview of other beasts that can be used as foes or mounts in the game.",
+  "qa_pairs": [
+    {
+      "question": "What is the average damage bonus for werewolves?",
+      "answer": "+1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor for werewolves while in wolf or man-beast form?",
+      "answer": "1-point hide plus regeneration of 1 hit point per round.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage for fighting attacks in werewolves?",
+      "answer": "1D8 + damage bonus",
+      "rating": 7
+    },
+    {
+      "question": "How many sanity points are needed to see a werewolf?",
+      "answer": "0/1D8",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a target's skin if it's broken by a Bite?",
+      "answer": "The victim transforms into a werewolf at the next full moon.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage can a zombie deal to a target?",
+      "answer": "Fighting 50% (25/10), damage 1D8 + damage bonus",
+      "rating": 8
+    },
+    {
+      "question": "How much damage can a zombie do to see a change in its form?",
+      "answer": "0/1D3 to see one change shape.",
+      "rating": 7
+    },
+    {
+      "question": "What can deactive a zombie according to voodoo tradition?",
+      "answer": "Zombies could be destroyed by feeding them salt;",
+      "rating": 6
+    },
+    {
+      "question": "What do zombies have no will of their own?",
+      "answer": "Their makers, according to voodoo tradition.",
+      "rating": 8
+    },
+    {
+      "question": "Can zombies be destroyed by feeding them?",
+      "answer": "Yes, according to voodoo tradition, by feeding them salt.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for zombies?",
+      "answer": "1D4.",
+      "rating": 7
+    },
+    {
+      "question": "What is the average build for zombies?",
+      "answer": "1.",
+      "rating": 6
+    },
+    {
+      "question": "What can destroy zombies according to voodoo tradition?",
+      "answer": "Salt",
+      "rating": 8
+    },
+    {
+      "question": "What happens to zombies if they are hit in the head?",
+      "answer": "They lose a limb",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for zombies?",
+      "answer": "1D4",
+      "rating": 7
+    },
+    {
+      "question": "How many attacks can zombies make per round?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a zombie?",
+      "answer": "1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage dealt by a zombie's attacks?",
+      "answer": "1D3 (or weapon damage) + damage bonus",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks per round can a zombie make?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "How much damage is dealt to the head of a zombie?",
+      "answer": "One penalty die on rolls to target the head",
+      "rating": 8
+    },
+    {
+      "question": "What is the main focus of the 'Beasts' section in the book?",
+      "answer": "A comprehensive guide to all the varieties of animals in the world",
+      "rating": 9
+    },
+    {
+      "question": "What genre often features the animals listed in the 'Beasts' section?",
+      "answer": "The horror genre",
+      "rating": 8
+    },
+    {
+      "question": "What type of animals are listed as potential mounts for investigators?",
+      "answer": "Horses",
+      "rating": 7
+    },
+    {
+      "question": "What is notable about the 'Bat, Large' mentioned in the section?",
+      "answer": "It is a giant fruit",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for werewolves?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor for werewolves while in wolf or man-beast form?"
+      },
+      {
+        "role": "assistant",
+        "content": "1-point hide plus regeneration of 1 hit point per round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage for fighting attacks in werewolves?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many sanity points are needed to see a werewolf?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target's skin if it's broken by a Bite?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim transforms into a werewolf at the next full moon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a zombie deal to a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting 50% (25/10), damage 1D8 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a zombie do to see a change in its form?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D3 to see one change shape."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can deactive a zombie according to voodoo tradition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Zombies could be destroyed by feeding them salt;"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do zombies have no will of their own?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their makers, according to voodoo tradition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can zombies be destroyed by feeding them?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, according to voodoo tradition, by feeding them salt."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for zombies?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for zombies?"
+      },
+      {
+        "role": "assistant",
+        "content": "1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can destroy zombies according to voodoo tradition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Salt"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to zombies if they are hit in the head?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose a limb"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for zombies?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can zombies make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a zombie?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage dealt by a zombie's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 (or weapon damage) + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round can a zombie make?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt to the head of a zombie?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die on rolls to target the head"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of the 'Beasts' section in the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "A comprehensive guide to all the varieties of animals in the world"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What genre often features the animals listed in the 'Beasts' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "The horror genre"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of animals are listed as potential mounts for investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Horses"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is notable about the 'Bat, Large' mentioned in the section?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is a giant fruit"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 7.8
+  }
+}

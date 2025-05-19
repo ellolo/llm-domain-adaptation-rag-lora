@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes various magical artifacts and devices from the Cthulhu Mythos, including the Crystal of the Elder Things, the Crystallizer of Dreams, the Domination Serum, the Earthquake Mining Machine, and the Electric Gun. These artifacts are used by various alien species, including Elder Things, serpent people, and Mi-go, and often come with unique abilities and risks. The artifacts are often tied to specific rituals or requirements, such as attuning to the crystal's vibrations or making a POW roll to access its magic points. The Mi-go, in particular, are known for their advanced technology, including the Earthquake Mining Machine, which can cause significant damage to the environment.",
+  "qa_pairs": [
+    {
+      "question": "What is the maximum number of magic points a crystal of the Elder Things can store?",
+      "answer": "100",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points can the smallest shard of a crystal of the Elder Things store?",
+      "answer": "5",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for a crystal of the Elder Things to be room temperature?",
+      "answer": "When it is empty.",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition for a crystal of the Elder Things to become colder?",
+      "answer": "As more magic points are stored in it.",
+      "rating": 8
+    },
+    {
+      "question": "How many rounds must a user spend attuning to a crystal of the Elder Things?",
+      "answer": "1D6",
+      "rating": 6
+    },
+    {
+      "question": "What is required for a user to draw upon magic points from the Crystal of the Elder Things?",
+      "answer": "A POW roll must be made with success.",
+      "rating": 9
+    },
+    {
+      "question": "Who is said to have the ability to invest crystals with further magic points?",
+      "answer": "Only elder things.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purported function of the Crystallizer of Dreams?",
+      "answer": "The ability to view places faraway (distant lands, planets, and perhaps dimensions) in dreams.",
+      "rating": 9
+    },
+    {
+      "question": "What is said to be able to bring items (or creatures) back with the user from the Dreamlands, using the Crystallizer of Dreams?",
+      "answer": "Its user must have the item or creature in physical contact with them.",
+      "rating": 9
+    },
+    {
+      "question": "What is said to be a servant of Hypnos that appears to the user of the Crystallizer of Dreams?",
+      "answer": "A translucent jellyfish.",
+      "rating": 8
+    },
+    {
+      "question": "What has the ability and understanding to invest crystals with further magic points?",
+      "answer": "Elder things",
+      "rating": 9
+    },
+    {
+      "question": "What is the purported second function of the Crystallizer of Dreams?",
+      "answer": "The ability to bring items (or even creatures) back with the user from the Dreamlands",
+      "rating": 8
+    },
+    {
+      "question": "What is the color of the Domination Serum?",
+      "answer": "Colorless",
+      "rating": 7
+    },
+    {
+      "question": "Who is susceptible to the Domination Serum?",
+      "answer": "Serpent people",
+      "rating": 8
+    },
+    {
+      "question": "How much of the Domination Serum is required for full effect?",
+      "answer": "Ten drops",
+      "rating": 9
+    },
+    {
+      "question": "What is the key to the sug-gessibility of the Mi-go?",
+      "answer": "Something in their peculiar smell or the specific intonation of their voices",
+      "rating": 9
+    },
+    {
+      "question": "How long does the serum take to metabolize in a victim?",
+      "answer": "1D10+10 days",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Earthquake Mining Machine?",
+      "answer": "To pull a deeply buried stratum up through intervening layers of rock",
+      "rating": 9
+    },
+    {
+      "question": "What is the distance the Earthquake Mining Machine can reach?",
+      "answer": "Four to five miles",
+      "rating": 7
+    },
+    {
+      "question": "What is the side effect of using the Earthquake Mining Machine?",
+      "answer": "Causing earthquakes",
+      "rating": 6
+    },
+    {
+      "question": "What can be adjusted to pull a deeply buried stratum up through intervening layers of rock?",
+      "answer": "The machine",
+      "rating": 8
+    },
+    {
+      "question": "How deep can the machine reach down?",
+      "answer": "Four to five miles",
+      "rating": 7
+    },
+    {
+      "question": "What is the magnitude of the earthquake directly correlated to?",
+      "answer": "The size and depth of the area affected",
+      "rating": 9
+    },
+    {
+      "question": "What is used by the Mi-go to fire the Electric Gun?",
+      "answer": "The Electric Gun itself",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum number of magic points a crystal of the Elder Things can store?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points can the smallest shard of a crystal of the Elder Things store?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a crystal of the Elder Things to be room temperature?"
+      },
+      {
+        "role": "assistant",
+        "content": "When it is empty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a crystal of the Elder Things to become colder?"
+      },
+      {
+        "role": "assistant",
+        "content": "As more magic points are stored in it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds must a user spend attuning to a crystal of the Elder Things?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a user to draw upon magic points from the Crystal of the Elder Things?"
+      },
+      {
+        "role": "assistant",
+        "content": "A POW roll must be made with success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is said to have the ability to invest crystals with further magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only elder things."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purported function of the Crystallizer of Dreams?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability to view places faraway (distant lands, planets, and perhaps dimensions) in dreams."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is said to be able to bring items (or creatures) back with the user from the Dreamlands, using the Crystallizer of Dreams?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its user must have the item or creature in physical contact with them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is said to be a servant of Hypnos that appears to the user of the Crystallizer of Dreams?"
+      },
+      {
+        "role": "assistant",
+        "content": "A translucent jellyfish."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has the ability and understanding to invest crystals with further magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elder things"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purported second function of the Crystallizer of Dreams?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability to bring items (or even creatures) back with the user from the Dreamlands"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the color of the Domination Serum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Colorless"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is susceptible to the Domination Serum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Serpent people"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much of the Domination Serum is required for full effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ten drops"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key to the sug-gessibility of the Mi-go?"
+      },
+      {
+        "role": "assistant",
+        "content": "Something in their peculiar smell or the specific intonation of their voices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the serum take to metabolize in a victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10+10 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Earthquake Mining Machine?"
+      },
+      {
+        "role": "assistant",
+        "content": "To pull a deeply buried stratum up through intervening layers of rock"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the distance the Earthquake Mining Machine can reach?"
+      },
+      {
+        "role": "assistant",
+        "content": "Four to five miles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the side effect of using the Earthquake Mining Machine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causing earthquakes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be adjusted to pull a deeply buried stratum up through intervening layers of rock?"
+      },
+      {
+        "role": "assistant",
+        "content": "The machine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How deep can the machine reach down?"
+      },
+      {
+        "role": "assistant",
+        "content": "Four to five miles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the magnitude of the earthquake directly correlated to?"
+      },
+      {
+        "role": "assistant",
+        "content": "The size and depth of the area affected"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is used by the Mi-go to fire the Electric Gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Electric Gun itself"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

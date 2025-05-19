@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Call of Cthulhu game mechanics are outlined, including the calculation of damage and damage bonus, the resolution of combat and chase rounds, and the rules for character death and injury. Key concepts such as DEX (dexterity), DEX order, and skill checks (including Dodge, First Aid, and Fighting Maneuver) are also introduced. Additionally, the game mechanics cover topics such as damage, injury, and death, including the consequences of failing to heal or stabilize a character. The document also touches on more advanced concepts, such as Deeper Magic and Deeper Version, and the use of dice rolls to determine outcomes.",
+  "qa_pairs": [
+    {
+      "question": "How are Damage Bonus and Damage calculated?",
+      "answer": "Damage Bonus is derived by adding STR and SIZ together and referencing the total on Table 1: Damage Bonus (see page 33). Damage is calculated by subtracting hit points from the character's maximum hit points (see page 119).",
+      "rating": 8
+    },
+    {
+      "question": "How are characters' actions resolved in a round?",
+      "answer": "Characters' actions in a round are resolved in DEX rank order, from highest to lowest (see page 138).",
+      "rating": 9
+    },
+    {
+      "question": "What determines when death occurs?",
+      "answer": "Death occurs when First Aid (and Medicine) has failed to keep alive a character who has sustained a major wound and whose hit points are at zero, or if an amount of damage greater than the character's maximum hit points is taken in one attack (see page 123).",
+      "rating": 9
+    },
+    {
+      "question": "What is a more effective variant of a spell?",
+      "answer": "Deeper Magic, Deeper Version is a more effective variant of a spell (see page 242).",
+      "rating": 7
+    },
+    {
+      "question": "What determines the order in which characters' actions are resolved in a Combat/Chase Round?",
+      "answer": "DEX rank order",
+      "rating": 8
+    },
+    {
+      "question": "Under what conditions is death inevitable?",
+      "answer": "When an amount of damage is greater than the character's maximum hit points",
+      "rating": 9
+    },
+    {
+      "question": "What can cause a player to be presented with false information by the Keeper during a Delusion?",
+      "answer": "The player being subject to hallucinations or misperceiving the situation",
+      "rating": 8
+    },
+    {
+      "question": "Where can the player test the situation with a Reality Check to verify the accuracy of information during a Delusion?",
+      "answer": "Page 162",
+      "rating": 6
+    },
+    {
+      "question": "How are Characters' actions resolved in a round?",
+      "answer": "in DEX rank order, from highest to lowest",
+      "rating": 9
+    },
+    {
+      "question": "What happens when a character's hit points are at zero?",
+      "answer": "Death occurs",
+      "rating": 8
+    },
+    {
+      "question": "What is inevitable if an amount of damage greater than the character's maximum hit points is taken in one attack?",
+      "answer": "death is inevitable",
+      "rating": 9
+    },
+    {
+      "question": "What can a player test to determine if they are being presented with false information?",
+      "answer": "a Reality Check",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a character takes an amount of damage greater than their maximum hit in one attack?",
+      "answer": "Death is inevitable",
+      "rating": 8
+    },
+    {
+      "question": "What is the DEX order used for in the game?",
+      "answer": "Characters act on their turn in the DEX order (highest to lowest)",
+      "rating": 9
+    },
+    {
+      "question": "What type of spell is Deeper Magic, Deeper Version?",
+      "answer": "A more effective variant of a spell",
+      "rating": 8
+    },
+    {
+      "question": "What are the three difficulty levels in the game?",
+      "answer": "Regular, Hard, and Extreme",
+      "rating": 9
+    },
+    {
+      "question": "What is the order of DEX in the game?",
+      "answer": "Used in combat and chases, Characters act on their turn in the DEX order (highest to lowest)",
+      "rating": 9
+    },
+    {
+      "question": "What skill is used to avoid hand-to-hand and firearms attacks?",
+      "answer": "A Dodge skill roll is made when a target is aware of being fired upon",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for a character to be dying?",
+      "answer": "A character is dying when their hit points are reduced to zero and they have sustained a Major Wound",
+      "rating": 9
+    },
+    {
+      "question": "What are the three difficulty levels in the game?",
+      "answer": "There are three difficulty levels: Regular, Hard, and Extreme",
+      "rating": 7
+    },
+    {
+      "question": "What is the main aim of Fighting Maneuver?",
+      "answer": "Any use of Fighting skill with an aim other than simply inflicting harm",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a character if they fail a Fumble?",
+      "answer": "They fail the roll",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of a character's Fumble result if they need a roll above 50 to pass?",
+      "answer": "A result of 100",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a character's Fumble result if they need a roll below 50 to pass?",
+      "answer": "A result of 96\u2013100",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Damage Bonus and Damage calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage Bonus is derived by adding STR and SIZ together and referencing the total on Table 1: Damage Bonus (see page 33). Damage is calculated by subtracting hit points from the character's maximum hit points (see page 119)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are characters' actions resolved in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters' actions in a round are resolved in DEX rank order, from highest to lowest (see page 138)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines when death occurs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death occurs when First Aid (and Medicine) has failed to keep alive a character who has sustained a major wound and whose hit points are at zero, or if an amount of damage greater than the character's maximum hit points is taken in one attack (see page 123)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a more effective variant of a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deeper Magic, Deeper Version is a more effective variant of a spell (see page 242)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the order in which characters' actions are resolved in a Combat/Chase Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX rank order"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions is death inevitable?"
+      },
+      {
+        "role": "assistant",
+        "content": "When an amount of damage is greater than the character's maximum hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can cause a player to be presented with false information by the Keeper during a Delusion?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player being subject to hallucinations or misperceiving the situation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can the player test the situation with a Reality Check to verify the accuracy of information during a Delusion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Page 162"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Characters' actions resolved in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "in DEX rank order, from highest to lowest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character's hit points are at zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death occurs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is inevitable if an amount of damage greater than the character's maximum hit points is taken in one attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "death is inevitable"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a player test to determine if they are being presented with false information?"
+      },
+      {
+        "role": "assistant",
+        "content": "a Reality Check"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character takes an amount of damage greater than their maximum hit in one attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death is inevitable"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX order used for in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters act on their turn in the DEX order (highest to lowest)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of spell is Deeper Magic, Deeper Version?"
+      },
+      {
+        "role": "assistant",
+        "content": "A more effective variant of a spell"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three difficulty levels in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular, Hard, and Extreme"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the order of DEX in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Used in combat and chases, Characters act on their turn in the DEX order (highest to lowest)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to avoid hand-to-hand and firearms attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Dodge skill roll is made when a target is aware of being fired upon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a character to be dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character is dying when their hit points are reduced to zero and they have sustained a Major Wound"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three difficulty levels in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are three difficulty levels: Regular, Hard, and Extreme"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main aim of Fighting Maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any use of Fighting skill with an aim other than simply inflicting harm"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character if they fail a Fumble?"
+      },
+      {
+        "role": "assistant",
+        "content": "They fail the roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a character's Fumble result if they need a roll above 50 to pass?"
+      },
+      {
+        "role": "assistant",
+        "content": "A result of 100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a character's Fumble result if they need a roll below 50 to pass?"
+      },
+      {
+        "role": "assistant",
+        "content": "A result of 96\u2013100"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes the \"Crawling Ones,\" a type of monstrous, otherworldly creature in the Call of Cthulhu tabletop role-playing game. These creatures are characterized by their ability to dodge attacks and inflict minimal damage on normal weapons, but can cause significant damage with their powerful attacks. The document also introduces the \"Dagon & Hydra,\" two massive, ancient beings that serve as the rulers of the Crawling Ones and are worshiped by various cults throughout history. These beings possess immense strength, size, and magical abilities, making them formidable opponents for investigators.",
+  "qa_pairs": [
+    {
+      "question": "How many Sanity points to see a crawling one?",
+      "answer": "2D6",
+      "rating": 8
+    },
+    {
+      "question": "How much damage does Dagon & Hydra deal?",
+      "answer": "1D3",
+      "rating": 7
+    },
+    {
+      "question": "What is the typical damage bonus for Dagon & Hydra?",
+      "answer": "Average Damage Bonus: +1D4",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical move speed for Dagon & Hydra?",
+      "answer": "Move: 10/15 swimming",
+      "rating": 8
+    },
+    {
+      "question": "What are the typical strength and size of Dagon & Hydra?",
+      "answer": "STR 260, SIZ 300",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks do Dagon & Hydra make per round?",
+      "answer": "Attacks per round: 1",
+      "rating": 6
+    },
+    {
+      "question": "What are the typical magic points of Dagon & Hydra?",
+      "answer": "Average Magic Points: 30",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus of Dagon and Hydra?",
+      "answer": "+1D4",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks can Dagon and Hydra make per round?",
+      "answer": "1",
+      "rating": 9
+    },
+    {
+      "question": "What is the average build of Dagon and Hydra?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "How many attacks can Dagon and Hydra make per round when fighting investigators?",
+      "answer": "2",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary damage for fighting Dagon?",
+      "answer": "1D6 + damage bonus",
+      "rating": 9
+    },
+    {
+      "question": "What is the dodge percentage for Dagon?",
+      "answer": "50%",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor type for Dagon?",
+      "answer": "6-point skin",
+      "rating": 9
+    },
+    {
+      "question": "What is the penalty for seeing Dagon or Hydra?",
+      "answer": "1/1D10 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "Which ancient civilizations appear to have revered a fertility god named Dagon?",
+      "answer": "Phoenicians, Sumerians, Cannanites, and Philistines",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points to see a crawling one?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does Dagon & Hydra deal?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical damage bonus for Dagon & Hydra?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Damage Bonus: +1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical move speed for Dagon & Hydra?"
+      },
+      {
+        "role": "assistant",
+        "content": "Move: 10/15 swimming"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the typical strength and size of Dagon & Hydra?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR 260, SIZ 300"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks do Dagon & Hydra make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks per round: 1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the typical magic points of Dagon & Hydra?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Magic Points: 30"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of Dagon and Hydra?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can Dagon and Hydra make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of Dagon and Hydra?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can Dagon and Hydra make per round when fighting investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary damage for fighting Dagon?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the dodge percentage for Dagon?"
+      },
+      {
+        "role": "assistant",
+        "content": "50%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor type for Dagon?"
+      },
+      {
+        "role": "assistant",
+        "content": "6-point skin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for seeing Dagon or Hydra?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D10 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which ancient civilizations appear to have revered a fertility god named Dagon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Phoenicians, Sumerians, Cannanites, and Philistines"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 16,
+    "retention_rate": 0.64,
+    "avg_score": 7.9
+  }
+}

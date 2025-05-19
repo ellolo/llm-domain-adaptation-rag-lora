@@ -1,0 +1,488 @@
+{
+  "summary": "This document appears to be a skill list from a tabletop role-playing game, likely a horror-themed game such as Call of Cthulhu. The main topic is the various skills and abilities that characters can possess, including psychology, pushing, navigation, and occult skills. Key concepts include the different types of skills, such as natural world skills, non-mythos magic, and non-player character interactions, as well as the mechanics for resolving conflicts and challenges, including dice rolls and opposed rolls.",
+  "qa_pairs": [
+    {
+      "question": "What is the range of the Psychology Skill?",
+      "answer": "72-73",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of the Natural World Skill?",
+      "answer": "69-70",
+      "rating": 7
+    },
+    {
+      "question": "What is the range of the Pushing, Dice Rolls?",
+      "answer": "84-86, 90, 104, 134, 178, 196-197, 203",
+      "rating": 9
+    },
+    {
+      "question": "What is the range of the Skill Roll?",
+      "answer": "82-84, 90, 92, 135, 136",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of the Skill Roll, More Than One Player Rolling?",
+      "answer": "86-87",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of the Navigate Skill?",
+      "answer": "70",
+      "rating": 6
+    },
+    {
+      "question": "What is the range of the Non-Impaling Weapon?",
+      "answer": "103-104",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of the Non-Mythos Magic?",
+      "answer": "180",
+      "rating": 9
+    },
+    {
+      "question": "What is the range of the Non-Player Characters?",
+      "answer": "189-193, 206",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of the Obscure Clues?",
+      "answer": "203",
+      "rating": 9
+    },
+    {
+      "question": "What is the range of the Pushing, Skills?",
+      "answer": "55",
+      "rating": 7
+    },
+    {
+      "question": "What is the range of the Necronomicon, History?",
+      "answer": "231-232",
+      "rating": 8
+    },
+    {
+      "question": "What is the year range for Obvious Clues?",
+      "answer": "202-203",
+      "rating": 9
+    },
+    {
+      "question": "What is the year range for Occult Books?",
+      "answer": "175",
+      "rating": 8
+    },
+    {
+      "question": "What is the year range for Occult Skill?",
+      "answer": "70",
+      "rating": 7
+    },
+    {
+      "question": "What are the year ranges for Occupation Skills?",
+      "answer": "32, 36",
+      "rating": 9
+    },
+    {
+      "question": "What are the year ranges for Occupations?",
+      "answer": "33, 40-41, 189",
+      "rating": 8
+    },
+    {
+      "question": "What is the year range for Operate Heavy Machinery Skill?",
+      "answer": "71",
+      "rating": 9
+    },
+    {
+      "question": "What are the year ranges for Opposed Roll?",
+      "answer": "82-83, 90-91, 92, 179-180, 243",
+      "rating": 9
+    },
+    {
+      "question": "What is the year range for Opposing Skill?",
+      "answer": "54",
+      "rating": 8
+    },
+    {
+      "question": "What are the year ranges for Other Forms Of Damage?",
+      "answer": "123",
+      "rating": 7
+    },
+    {
+      "question": "What are the year ranges for Outnumbered?",
+      "answer": "108",
+      "rating": 8
+    },
+    {
+      "question": "What is the year range for Pacing?",
+      "answer": "198-199",
+      "rating": 9
+    },
+    {
+      "question": "What are the year ranges for Passengers, Chase, Optional Rule?",
+      "answer": "142",
+      "rating": 8
+    },
+    {
+      "question": "What are the year ranges for Pedal To The Metal, Chase, Optional Rule?",
+      "answer": "139-141",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Psychology Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "72-73"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Natural World Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "69-70"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Pushing, Dice Rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "84-86, 90, 104, 134, 178, 196-197, 203"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Skill Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "82-84, 90, 92, 135, 136"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Skill Roll, More Than One Player Rolling?"
+      },
+      {
+        "role": "assistant",
+        "content": "86-87"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Navigate Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "70"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Non-Impaling Weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "103-104"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Non-Mythos Magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "180"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Non-Player Characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "189-193, 206"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Obscure Clues?"
+      },
+      {
+        "role": "assistant",
+        "content": "203"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Pushing, Skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "55"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Necronomicon, History?"
+      },
+      {
+        "role": "assistant",
+        "content": "231-232"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the year range for Obvious Clues?"
+      },
+      {
+        "role": "assistant",
+        "content": "202-203"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the year range for Occult Books?"
+      },
+      {
+        "role": "assistant",
+        "content": "175"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the year range for Occult Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "70"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the year ranges for Occupation Skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "32, 36"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the year ranges for Occupations?"
+      },
+      {
+        "role": "assistant",
+        "content": "33, 40-41, 189"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the year range for Operate Heavy Machinery Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "71"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the year ranges for Opposed Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "82-83, 90-91, 92, 179-180, 243"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the year range for Opposing Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "54"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the year ranges for Other Forms Of Damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "123"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the year ranges for Outnumbered?"
+      },
+      {
+        "role": "assistant",
+        "content": "108"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the year range for Pacing?"
+      },
+      {
+        "role": "assistant",
+        "content": "198-199"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the year ranges for Passengers, Chase, Optional Rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "142"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the year ranges for Pedal To The Metal, Chase, Optional Rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "139-141"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

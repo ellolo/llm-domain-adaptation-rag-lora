@@ -1,0 +1,241 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses the concept of \"spells\" in a fantasy setting, specifically how to create variations of a spell, such as the \"Create Zombie\" spell. The idea is to make the spellcasting process more nuanced and unpredictable, similar to a cooking recipe, with different ingredients, methods, and effects. The document provides examples of different versions of the Create Zombie spell, including a \"Grey Binding\" version that is faster and cheaper to cast, and an \"Improved\" version that is more effective but more expensive and time-consuming to cast. These variations allow game masters to tailor the spell to fit their game's needs and create a more immersive experience for players.",
+  "qa_pairs": [
+    {
+      "question": "What can be described in a spell?",
+      "answer": "strange smells, disorienting visions, curious sounds, and disturbing sensations",
+      "rating": 8
+    },
+    {
+      "question": "Can a spell be compared to a recipe?",
+      "answer": "yes, it can be compared to a cooking recipe",
+      "rating": 9
+    },
+    {
+      "question": "How many differing recipes for bread are there in ten cookbooks?",
+      "answer": "many differing recipes",
+      "rating": 7
+    },
+    {
+      "question": "What is the same for spells and tomes?",
+      "answer": "many differing names",
+      "rating": 8
+    },
+    {
+      "question": "What are the resulting breads like?",
+      "answer": "The resulting breads come in all shapes, sizes, and flavors.",
+      "rating": 9
+    },
+    {
+      "question": "How similar are the specific spells in tomes?",
+      "answer": "There is a world of difference between all those bread recipes\u2013there is a world of difference between German black bread and focaccia.",
+      "rating": 9
+    },
+    {
+      "question": "What is the magic point cost for the Create Zombie spell?",
+      "answer": "The magic point cost is high (16 points)",
+      "rating": 8
+    },
+    {
+      "question": "What is the Sanity loss for the Create Zombie spell?",
+      "answer": "The Sanity loss is 243",
+      "rating": 9
+    },
+    {
+      "question": "What is the new casting time for the Grey Binding spell?",
+      "answer": "1 hour",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of the Grey Binding spell in magic points?",
+      "answer": "8 magic points",
+      "rating": 9
+    },
+    {
+      "question": "What is the alternative name for this version of the spell?",
+      "answer": "Grey Binding",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of the spell in magic points?",
+      "answer": "8",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be described in a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "strange smells, disorienting visions, curious sounds, and disturbing sensations"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a spell be compared to a recipe?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it can be compared to a cooking recipe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many differing recipes for bread are there in ten cookbooks?"
+      },
+      {
+        "role": "assistant",
+        "content": "many differing recipes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the same for spells and tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "many differing names"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the resulting breads like?"
+      },
+      {
+        "role": "assistant",
+        "content": "The resulting breads come in all shapes, sizes, and flavors."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How similar are the specific spells in tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is a world of difference between all those bread recipes\u2013there is a world of difference between German black bread and focaccia."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the magic point cost for the Create Zombie spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The magic point cost is high (16 points)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity loss for the Create Zombie spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Sanity loss is 243"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the new casting time for the Grey Binding spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Grey Binding spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for this version of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grey Binding"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 12,
+    "retention_rate": 0.6,
+    "avg_score": 5.3
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for firearms attacks in a game, including difficulty levels, modifiers, and resolution procedures. The difficulty level of a firearms attack is determined by the range, with extreme difficulty occurring at very long range. Modifiers include bonus and penalty dice, which can be applied to the difficulty level or attack rolls, and specific conditions such as aiming, point-blank range, and fast-moving targets. The document also provides rules for full auto and burst fire, including the number of bullets fired and the difficulty level of the attack.",
+  "qa_pairs": [
+    {
+      "question": "What is the basic difficulty level for a firearms skill roll within the base range?",
+      "answer": "Regular difficulty level",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for a firearms attack at long range (up to twice base range)?",
+      "answer": "Hard difficulty level",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for a firearms attack at very long range (up to four times base range)?",
+      "answer": "Extreme difficulty level",
+      "rating": 9
+    },
+    {
+      "question": "How many penalty dice are added if the target is diving for cover?",
+      "answer": "one penalty die",
+      "rating": 7
+    },
+    {
+      "question": "How many penalty dice are added if the target is partially concealed?",
+      "answer": "one penalty die",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of aiming into melee combat?",
+      "answer": "A fumble indicates an ally has been hit. If multiple allies are in the line of fire, the one with the lowest Luck score is hit.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of aiming on the character's turn in the order of combat?",
+      "answer": "The shot is taken on the same turn in the order of combat on the following round.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for gaining a bonus die?",
+      "answer": "The target is large (Build 4+): one bonus die.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of taking damage or moving while aiming?",
+      "answer": "The advantage of aiming is lost.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of firing into melee combat with multiple allies?",
+      "answer": "If multiple allies are in the line of fire, the one with the lowest Luck score is hit.",
+      "rating": 9
+    },
+    {
+      "question": "What is the advantage of aiming lost when the aiming character takes damage or moves?",
+      "answer": "The advantage of aiming is lost",
+      "rating": 10
+    },
+    {
+      "question": "How many bullets are in a volley for full auto fire, regardless of skill?",
+      "answer": "At least 3 bullets",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for burst fire?",
+      "answer": "A single skill roll",
+      "rating": 9
+    },
+    {
+      "question": "How many rounds does it take to load two shells into any handgun, rifle, or shotgun?",
+      "answer": "One combat round",
+      "rating": 8
+    },
+    {
+      "question": "How many allies can be hit in a single line of fire in melee combat?",
+      "answer": "Multiple allies, the one with the lowest Luck score is hit",
+      "rating": 9
+    },
+    {
+      "question": "How many bullets are in a volley when the firer's skill is divided by 10?",
+      "answer": "3",
+      "rating": 7
+    },
+    {
+      "question": "When moving between targets, how much ammunition is expended?",
+      "answer": "One bullet per meter/yard",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the penalty die when the number of attack rolls reaches three?",
+      "answer": "Stick with two penalty dice and raise the difficulty level by one step",
+      "rating": 8
+    },
+    {
+      "question": "How does the bonus die and penalty die change with the difficulty level?",
+      "answer": "Difficulty level affects the bonus and penalty dice, with regular being normal range, hard being long range, point blank, and extreme being very long range",
+      "rating": 9
+    },
+    {
+      "question": "How many attack rolls do attackers need to make for burst fire?",
+      "answer": "A single attack roll",
+      "rating": 8
+    },
+    {
+      "question": "What is the action required for the attacker after each volley of shots or selecting a new target?",
+      "answer": "The attacker must make a fresh attack roll",
+      "rating": 9
+    },
+    {
+      "question": "How does burst fire affect the number of attack rolls needed?",
+      "answer": "Burst fire is a single skill roll (a single volley)",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the penalty die count when it would incur three penalty dice?",
+      "answer": "If this would incur three penalty dice, stick with two penalty dice and raise the difficulty level by one step",
+      "rating": 9
+    },
+    {
+      "question": "How does the difficulty level change based on the range?",
+      "answer": "Set difficulty by range and then apply any modifiers",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the penalty die count when the attacker has multiple additional attack rolls?",
+      "answer": "Add one penalty die (or remove a bonus die) for each additional attack roll",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the basic difficulty level for a firearms skill roll within the base range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a firearms attack at long range (up to twice base range)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a firearms attack at very long range (up to four times base range)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme difficulty level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are added if the target is diving for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "one penalty die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are added if the target is partially concealed?"
+      },
+      {
+        "role": "assistant",
+        "content": "one penalty die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of aiming into melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fumble indicates an ally has been hit. If multiple allies are in the line of fire, the one with the lowest Luck score is hit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of aiming on the character's turn in the order of combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shot is taken on the same turn in the order of combat on the following round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for gaining a bonus die?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is large (Build 4+): one bonus die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of taking damage or moving while aiming?"
+      },
+      {
+        "role": "assistant",
+        "content": "The advantage of aiming is lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of firing into melee combat with multiple allies?"
+      },
+      {
+        "role": "assistant",
+        "content": "If multiple allies are in the line of fire, the one with the lowest Luck score is hit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the advantage of aiming lost when the aiming character takes damage or moves?"
+      },
+      {
+        "role": "assistant",
+        "content": "The advantage of aiming is lost"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many bullets are in a volley for full auto fire, regardless of skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least 3 bullets"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for burst fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "A single skill roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds does it take to load two shells into any handgun, rifle, or shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "One combat round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many allies can be hit in a single line of fire in melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Multiple allies, the one with the lowest Luck score is hit"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many bullets are in a volley when the firer's skill is divided by 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When moving between targets, how much ammunition is expended?"
+      },
+      {
+        "role": "assistant",
+        "content": "One bullet per meter/yard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the penalty die when the number of attack rolls reaches three?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stick with two penalty dice and raise the difficulty level by one step"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the bonus die and penalty die change with the difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "Difficulty level affects the bonus and penalty dice, with regular being normal range, hard being long range, point blank, and extreme being very long range"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attack rolls do attackers need to make for burst fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "A single attack roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the action required for the attacker after each volley of shots or selecting a new target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker must make a fresh attack roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does burst fire affect the number of attack rolls needed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Burst fire is a single skill roll (a single volley)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the penalty die count when it would incur three penalty dice?"
+      },
+      {
+        "role": "assistant",
+        "content": "If this would incur three penalty dice, stick with two penalty dice and raise the difficulty level by one step"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level change based on the range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Set difficulty by range and then apply any modifiers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the penalty die count when the attacker has multiple additional attack rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add one penalty die (or remove a bonus die) for each additional attack roll"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

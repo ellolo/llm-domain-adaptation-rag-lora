@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the context of the Mythos, a person's \"Build\" refers to their physical strength and capabilities, which can be compared to that of other creatures. The table \"Comparative Builds\" provides a guide to estimate the relative capability of a monster to lift and throw objects, with a target being 2 builds smaller being easily thrown, 1 build smaller being easily lifted, and 1 build larger being barely lifted. This guide can help investigators and game masters determine the feasibility of combat and other interactions with monsters. Additionally, the document highlights the intelligence and motivations of monsters, which can range from simple animals to highly intelligent and malevolent beings.",
+  "qa_pairs": [
+    {
+      "question": "What is the maximum a person of Build 0 might do to a person of Build 2?",
+      "answer": "Unbalance them or disarm them.",
+      "rating": 8
+    },
+    {
+      "question": "How would you determine if a monster is large enough to throw a car?",
+      "answer": "By comparing its relative capability to lift and throw things.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relative capability of a monster compared to a child, a child compared to a fire vampire, and so on?",
+      "answer": "Relative capability to lift and throw things.",
+      "rating": 7
+    },
+    {
+      "question": "What is the typical Build comparison for a light motorcycle?",
+      "answer": "Black bear, gorilla.",
+      "rating": 6
+    },
+    {
+      "question": "What can be thrown if a target is 2 builds smaller?",
+      "answer": "It can be thrown.",
+      "rating": 8
+    },
+    {
+      "question": "What can be carried for a short time if a target is of equal build?",
+      "answer": "It can be carried for a short time.",
+      "rating": 7
+    },
+    {
+      "question": "What can barely be lifted if a target is 1 build larger?",
+      "answer": "It can barely be lifted.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a target if it is 2 builds larger and cannot be lifted?",
+      "answer": "It cannot be lifted, but might be unbalanced or disarmed.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Outer Gods or Great Old Ones if their hit points reach 0 or negative?",
+      "answer": "They are dispelled or forced back from whence they came.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Outer Gods or Great Old Ones if their hit points reach 0 or negative?",
+      "answer": "They are dispelled or forced back from whence they came.",
+      "rating": 9
+    },
+    {
+      "question": "How do monsters typically interact with investigators?",
+      "answer": "They may not automatically seek combat and may take the investigators captive instead.",
+      "rating": 7
+    },
+    {
+      "question": "What can intelligent monsters do with captured investigators?",
+      "answer": "They can use them as slaves, sacrifices, or for experimental purposes.",
+      "rating": 8
+    },
+    {
+      "question": "What is a wise option for monsters in an encounter?",
+      "answer": "Hiding or fleeing may be the wisest option.",
+      "rating": 6
+    },
+    {
+      "question": "How do intelligent monsters interact with the investigators if they do seek combat?",
+      "answer": "They will not necessarily seek to kill the investigators.",
+      "rating": 8
+    },
+    {
+      "question": "What is the general behavior of intelligent monsters in combat?",
+      "answer": "They may take the investigators captive, use them as slaves or sacrifices, or use them for experimental purposes.",
+      "rating": 9
+    },
+    {
+      "question": "What should a monster do when its objective is to kill an investigator?",
+      "answer": "It should fight back rather than dodge.",
+      "rating": 9
+    },
+    {
+      "question": "Can monsters use spells, and if so, how?",
+      "answer": "Yes, monsters can use spells, casting them as any other spell caster would.",
+      "rating": 8
+    },
+    {
+      "question": "How might a monster's spell be portrayed?",
+      "answer": "A monster's spell may be portrayed as a manifestation of that monster's innate power.",
+      "rating": 7
+    },
+    {
+      "question": "What skills are commonly possessed by monsters?",
+      "answer": "Monsters may have a few skills, such as Listen, Stealth, or Spot.",
+      "rating": 6
+    },
+    {
+      "question": "What is a monster that investigators may need to flee from?",
+      "answer": "a dimensional shambler",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum a person of Build 0 might do to a person of Build 2?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unbalance them or disarm them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would you determine if a monster is large enough to throw a car?"
+      },
+      {
+        "role": "assistant",
+        "content": "By comparing its relative capability to lift and throw things."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relative capability of a monster compared to a child, a child compared to a fire vampire, and so on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Relative capability to lift and throw things."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical Build comparison for a light motorcycle?"
+      },
+      {
+        "role": "assistant",
+        "content": "Black bear, gorilla."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be thrown if a target is 2 builds smaller?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can be thrown."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be carried for a short time if a target is of equal build?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can be carried for a short time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can barely be lifted if a target is 1 build larger?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can barely be lifted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target if it is 2 builds larger and cannot be lifted?"
+      },
+      {
+        "role": "assistant",
+        "content": "It cannot be lifted, but might be unbalanced or disarmed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Outer Gods or Great Old Ones if their hit points reach 0 or negative?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are dispelled or forced back from whence they came."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Outer Gods or Great Old Ones if their hit points reach 0 or negative?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are dispelled or forced back from whence they came."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do monsters typically interact with investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may not automatically seek combat and may take the investigators captive instead."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can intelligent monsters do with captured investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can use them as slaves, sacrifices, or for experimental purposes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a wise option for monsters in an encounter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hiding or fleeing may be the wisest option."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do intelligent monsters interact with the investigators if they do seek combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will not necessarily seek to kill the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general behavior of intelligent monsters in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may take the investigators captive, use them as slaves or sacrifices, or use them for experimental purposes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a monster do when its objective is to kill an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It should fight back rather than dodge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can monsters use spells, and if so, how?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, monsters can use spells, casting them as any other spell caster would."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might a monster's spell be portrayed?"
+      },
+      {
+        "role": "assistant",
+        "content": "A monster's spell may be portrayed as a manifestation of that monster's innate power."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills are commonly possessed by monsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Monsters may have a few skills, such as Listen, Stealth, or Spot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a monster that investigators may need to flee from?"
+      },
+      {
+        "role": "assistant",
+        "content": "a dimensional shambler"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 20,
+    "retention_rate": 0.8,
+    "avg_score": 7.0
+  }
+}

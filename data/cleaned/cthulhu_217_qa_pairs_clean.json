@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nAs a Keeper in a Call of Cthulhu game, your role is to manage the game and its multiple players, rather than focusing solely on individual players. To achieve this, you must be able to handle conflicts, manage investigator locations, and balance the flow of the game with the needs of all players. Effective communication and attention to detail are crucial, as you must direct the spotlight to different players and ensure that all players are engaged and active throughout the game. By taking control of the game's narrative and structure, you can create a cohesive and engaging experience for all players.",
+  "qa_pairs": [
+    {
+      "question": "What is the Keeper's responsibility?",
+      "answer": "As Keeper, you are responsible for more of the game than an individual player.",
+      "rating": 8
+    },
+    {
+      "question": "Who is primarily responsible for a game's outcome?",
+      "answer": "Whether a game goes well or not is due to your whole gaming group, not just you.",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper do if problems arise?",
+      "answer": "If problems arise then be ready to stop and talk to your players if you feel the need to do so.",
+      "rating": 7
+    },
+    {
+      "question": "How should the Keeper address dominating players?",
+      "answer": "Encourage the quieter players to participate.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main reason a game goes well or not?",
+      "answer": "your whole gaming group",
+      "rating": 9
+    },
+    {
+      "question": "How to handle a player dominating the game?",
+      "answer": "encourage the quieter players to participate",
+      "rating": 8
+    },
+    {
+      "question": "Can one investigator be present in more than one place?",
+      "answer": "no",
+      "rating": 6
+    },
+    {
+      "question": "What can be used to clearly illustrate investigator location?",
+      "answer": "a map and counters",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of the investigator in the game?",
+      "answer": "An investigator can\u2019t be present in more than one place at one time.",
+      "rating": 8
+    },
+    {
+      "question": "How to handle a group of people in the game?",
+      "answer": "Focus is the answer. Focus your attention on only the players who are in the present scene.",
+      "rating": 9
+    },
+    {
+      "question": "How to deal with multiple investigators in the game?",
+      "answer": "If one player\u2019s counter is in the kitchen and another is in the attic, then when dealing with the investigator in the attic you shine the spotlight on and speak to that player only.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal for the Keeper to learn in handling a group of people?",
+      "answer": "Handling a group of people is an important skill for a Keeper to learn.",
+      "rating": 7
+    },
+    {
+      "question": "What is the key to controlling a scene in Call of Cthulhu?",
+      "answer": "Focus your attention on only the players who are in the present scene",
+      "rating": 8
+    },
+    {
+      "question": "What should you do if investigators have split up?",
+      "answer": "Be clear about which investigators are at the present scene and resolve the scene or bring it to an interesting point",
+      "rating": 8
+    },
+    {
+      "question": "How should you structure your scenes?",
+      "answer": "Consider the structure of television drama and place yourself in the role of director",
+      "rating": 9
+    },
+    {
+      "question": "Why is it important to cut to other investigators?",
+      "answer": "Don\u2019t leave any single player inactive for too long",
+      "rating": 8
+    },
+    {
+      "question": "What should a player do if another player states that their investigator is doing something?",
+      "answer": "Turn to the player of that other investigator and ask them what they are doing.",
+      "rating": 9
+    },
+    {
+      "question": "What can a player do if they want to interfere in the activity of another investigator?",
+      "answer": "They can do it through the actions of their own investigator.",
+      "rating": 8
+    },
+    {
+      "question": "Who gets to decide the actions of another player's investigator?",
+      "answer": "The player of the investigator who is actually performing the action.",
+      "rating": 9
+    },
+    {
+      "question": "Why can't a single player dictate the actions of another player's investigator?",
+      "answer": "Because it can lead to inconsistencies and inaccuracies in the game.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a player's investigator is holding a grenade and another player states they're pulling the pin?",
+      "answer": "The pin is pulled regardless of what the other players might say.",
+      "rating": 8
+    },
+    {
+      "question": "Can one player declare the actions of another player's investigator?",
+      "answer": "No, one player cannot declare the actions of another player's investigator.",
+      "rating": 9
+    },
+    {
+      "question": "What is a potential source of anxiety among Keepers and players when creating a mystery game?",
+      "answer": "The fear that the game may stall due to a lack of crucial information for the players.",
+      "rating": 8
+    },
+    {
+      "question": "What can happen if a dice roll to gain a clue fails?",
+      "answer": "The Keeper may need to ask the players to make another roll until they succeed.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's responsibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "As Keeper, you are responsible for more of the game than an individual player."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is primarily responsible for a game's outcome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whether a game goes well or not is due to your whole gaming group, not just you."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do if problems arise?"
+      },
+      {
+        "role": "assistant",
+        "content": "If problems arise then be ready to stop and talk to your players if you feel the need to do so."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should the Keeper address dominating players?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encourage the quieter players to participate."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main reason a game goes well or not?"
+      },
+      {
+        "role": "assistant",
+        "content": "your whole gaming group"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to handle a player dominating the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "encourage the quieter players to participate"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can one investigator be present in more than one place?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to clearly illustrate investigator location?"
+      },
+      {
+        "role": "assistant",
+        "content": "a map and counters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the investigator in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator can\u2019t be present in more than one place at one time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to handle a group of people in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Focus is the answer. Focus your attention on only the players who are in the present scene."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to deal with multiple investigators in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "If one player\u2019s counter is in the kitchen and another is in the attic, then when dealing with the investigator in the attic you shine the spotlight on and speak to that player only."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal for the Keeper to learn in handling a group of people?"
+      },
+      {
+        "role": "assistant",
+        "content": "Handling a group of people is an important skill for a Keeper to learn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key to controlling a scene in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Focus your attention on only the players who are in the present scene"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should you do if investigators have split up?"
+      },
+      {
+        "role": "assistant",
+        "content": "Be clear about which investigators are at the present scene and resolve the scene or bring it to an interesting point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should you structure your scenes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consider the structure of television drama and place yourself in the role of director"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it important to cut to other investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Don\u2019t leave any single player inactive for too long"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a player do if another player states that their investigator is doing something?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turn to the player of that other investigator and ask them what they are doing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a player do if they want to interfere in the activity of another investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can do it through the actions of their own investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who gets to decide the actions of another player's investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player of the investigator who is actually performing the action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can't a single player dictate the actions of another player's investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it can lead to inconsistencies and inaccuracies in the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a player's investigator is holding a grenade and another player states they're pulling the pin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The pin is pulled regardless of what the other players might say."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can one player declare the actions of another player's investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, one player cannot declare the actions of another player's investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a potential source of anxiety among Keepers and players when creating a mystery game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The fear that the game may stall due to a lack of crucial information for the players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if a dice roll to gain a clue fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may need to ask the players to make another roll until they succeed."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

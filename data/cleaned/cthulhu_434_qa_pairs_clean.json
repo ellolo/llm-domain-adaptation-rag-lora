@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this Call of Cthulhu scenario, investigators must prevent Gla'aki, a malevolent deity, from collecting its undead servants and draining the power from a crystal. To achieve this, the investigators can either free the prisoners, destroy the pulley and/or crystal, or kill the undead workers. The outcome of the scenario can have significant consequences, including the investigators' sanity and reputation, as well as the fate of the prisoners and the progress of Gla'aki's plans for freedom. The scenario is designed to be relatively low-lethality, but can be escalated by introducing Civil War-era weaponry for the undead servants.",
+  "qa_pairs": [
+    {
+      "question": "What is Gla'aki's goal?",
+      "answer": "to convert prisoners and join them in the depths of the black waters",
+      "rating": 8
+    },
+    {
+      "question": "What can the investigators use to destroy the pulley and/or smash the crystal?",
+      "answer": "dynamite",
+      "rating": 9
+    },
+    {
+      "question": "What would killing the undead workers do?",
+      "answer": "it would undermine Gla'aki's ability to act",
+      "rating": 8
+    },
+    {
+      "question": "Can the crystal be destroyed?",
+      "answer": "no, it can be reduced to smaller pieces",
+      "rating": 7
+    },
+    {
+      "question": "What would happen if the investigators destroy the pulley and/or smash the crystal?",
+      "answer": "They would also prevent or delay Gla'aki\u2019s attempts to retrieve it and drain the power from it.",
+      "rating": 9
+    },
+    {
+      "question": "What would happen to the site if the investigators leave to seek help?",
+      "answer": "The whole site would be blown apart by the remainder of the dynamite, with the huts burnt down and the lake still.",
+      "rating": 9
+    },
+    {
+      "question": "What would be the consequence of Gla'aki's undead servants being successful?",
+      "answer": "Gla'aki would have taken one small step towards freedom.",
+      "rating": 8
+    },
+    {
+      "question": "How many crystal shards are left around the world for Gla'aki to drain?",
+      "answer": "Many crystal shards are left around the world for it to drain before it can finally be free again.",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition of the lake after the event?",
+      "answer": "The lake is still.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to investigators if they are aware that the prisoners were held on the site but cannot be saved?",
+      "answer": "Each investigator suffers 1/1D6 Sanity loss.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to investigators if Jane Strong is rescued and Gla'aki is thwarted?",
+      "answer": "Each investigator that fulfills his or her motivation receives a 1D6 SAN reward.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to investigators if the prisoners are saved?",
+      "answer": "The investigators gain 1D6 Sanity points, in addition to the reward money, and become local celebrities.",
+      "rating": 10
+    },
+    {
+      "question": "What happens if investigators are aware that prisoners are being held on the site but cannot save them?",
+      "answer": "Each investigator suffers 1/1D6 Sanity loss.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if Jane Strong is rescued and Gla'aki is thwarted, and motivation handouts were given out at the start of the game?",
+      "answer": "Each investigator that fulfills his or her motivation receives a 1D6 SAN reward.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the prisoners are saved?",
+      "answer": "The investigators gain 1D6 Sanity points, in addition to the reward money.",
+      "rating": 8
+    },
+    {
+      "question": "What is the intended level of lethality for this scenario?",
+      "answer": "The lethality is relatively low.",
+      "rating": 6
+    },
+    {
+      "question": "What is the purpose of the scenario?",
+      "answer": "It is designed for a group of investigators new to Call of Cthulhu.",
+      "rating": 9
+    },
+    {
+      "question": "Can the Keeper increase the lethality of the scenario?",
+      "answer": "Yes, by giving the servants of Gla'aki Civil War period weaponry.",
+      "rating": 8
+    },
+    {
+      "question": "What is the background of the servants of Gla'aki?",
+      "answer": "They deserted from the Union army.",
+      "rating": 7
+    },
+    {
+      "question": "Can the Keeper vary the statistics for non-player characters?",
+      "answer": "Yes, but the same values may be used for each of them.",
+      "rating": 8
+    },
+    {
+      "question": "When did Joseph Turner and his gang arrive?",
+      "answer": "1865",
+      "rating": 9
+    },
+    {
+      "question": "What is the weakness of Turner and his gang if exposed to sunlight?",
+      "answer": "One penalty applied to all their actions per hour of exposure",
+      "rating": 8
+    },
+    {
+      "question": "What is the relationship between Turner's gang and the Union army?",
+      "answer": "They avoided conscription into the Union army",
+      "rating": 8
+    },
+    {
+      "question": "How many members are in Turner's gang besides Turner?",
+      "answer": "Four others; August, Jacob, Vincent and Louis",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Gla'aki's goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "to convert prisoners and join them in the depths of the black waters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the investigators use to destroy the pulley and/or smash the crystal?"
+      },
+      {
+        "role": "assistant",
+        "content": "dynamite"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would killing the undead workers do?"
+      },
+      {
+        "role": "assistant",
+        "content": "it would undermine Gla'aki's ability to act"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the crystal be destroyed?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, it can be reduced to smaller pieces"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen if the investigators destroy the pulley and/or smash the crystal?"
+      },
+      {
+        "role": "assistant",
+        "content": "They would also prevent or delay Gla'aki\u2019s attempts to retrieve it and drain the power from it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen to the site if the investigators leave to seek help?"
+      },
+      {
+        "role": "assistant",
+        "content": "The whole site would be blown apart by the remainder of the dynamite, with the huts burnt down and the lake still."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would be the consequence of Gla'aki's undead servants being successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gla'aki would have taken one small step towards freedom."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many crystal shards are left around the world for Gla'aki to drain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many crystal shards are left around the world for it to drain before it can finally be free again."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the lake after the event?"
+      },
+      {
+        "role": "assistant",
+        "content": "The lake is still."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators if they are aware that the prisoners were held on the site but cannot be saved?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each investigator suffers 1/1D6 Sanity loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators if Jane Strong is rescued and Gla'aki is thwarted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each investigator that fulfills his or her motivation receives a 1D6 SAN reward."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators if the prisoners are saved?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators gain 1D6 Sanity points, in addition to the reward money, and become local celebrities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if investigators are aware that prisoners are being held on the site but cannot save them?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each investigator suffers 1/1D6 Sanity loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Jane Strong is rescued and Gla'aki is thwarted, and motivation handouts were given out at the start of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each investigator that fulfills his or her motivation receives a 1D6 SAN reward."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the prisoners are saved?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators gain 1D6 Sanity points, in addition to the reward money."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the intended level of lethality for this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The lethality is relatively low."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is designed for a group of investigators new to Call of Cthulhu."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper increase the lethality of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, by giving the servants of Gla'aki Civil War period weaponry."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the background of the servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "They deserted from the Union army."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper vary the statistics for non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but the same values may be used for each of them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did Joseph Turner and his gang arrive?"
+      },
+      {
+        "role": "assistant",
+        "content": "1865"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the weakness of Turner and his gang if exposed to sunlight?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty applied to all their actions per hour of exposure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between Turner's gang and the Union army?"
+      },
+      {
+        "role": "assistant",
+        "content": "They avoided conscription into the Union army"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many members are in Turner's gang besides Turner?"
+      },
+      {
+        "role": "assistant",
+        "content": "Four others; August, Jacob, Vincent and Louis"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

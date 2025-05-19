@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines various occupation skill points and credit ratings for different professions in a Lovecraftian setting. Each occupation has a unique set of skills, including Art/Craft, History, Library Use, Interpersonal Skills, and Specialisms, which determine their credit rating and occupation skill points. The credit rating ranges from 0-99, with higher ratings indicating greater expertise or prestige in the profession. Occupation skill points are calculated based on Education (EDU) and other factors, such as Physical Attributes (DEX or STR).",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum credit rating for an Antiquarian?",
+      "answer": "30",
+      "rating": 8
+    },
+    {
+      "question": "What is the occupation skill point formula for an Antiquarian?",
+      "answer": "EDU \u00d7 4",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum credit rating for an Antiquarian?",
+      "answer": "70",
+      "rating": 8
+    },
+    {
+      "question": "What is the occupation skill point formula for an Antiquarian with a higher education?",
+      "answer": "EDU \u00d7 4",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum credit rating for an Artist?",
+      "answer": "9",
+      "rating": 9
+    },
+    {
+      "question": "What is the occupation skill point formula for an Artist with a higher education?",
+      "answer": "EDU \u00d7 2 + either POW \u00d7 2 or DEX \u00d7 2",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum credit rating for an Athlete?",
+      "answer": "9",
+      "rating": 9
+    },
+    {
+      "question": "What is the occupation skill point formula for an Athlete with a higher education?",
+      "answer": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum Credit Rating for a CLERGY?",
+      "answer": "9",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum Credit Rating for a CLERGY?",
+      "answer": "60",
+      "rating": 9
+    },
+    {
+      "question": "What is the Occupation Skill Points formula for CLERGY?",
+      "answer": "EDU \u00d7 4",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum Occupation Skill Points for a CRIMINAL?",
+      "answer": "EDU \u00d7 2",
+      "rating": 7
+    },
+    {
+      "question": "What are the Occupation Skill Points formula for a CRIMINAL?",
+      "answer": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum Occupation Skill Points for a DILETTANTE?",
+      "answer": "EDU \u00d7 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum Credit Rating for a DILETTANTE?",
+      "answer": "65",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum Credit Rating for a CRIMINAL?",
+      "answer": "5",
+      "rating": 6
+    },
+    {
+      "question": "What is the credit rating range for a Doctor of Medicine occupation?",
+      "answer": "30\u201380",
+      "rating": 8
+    },
+    {
+      "question": "What are the occupation skill points for a Doctor of Medicine occupation?",
+      "answer": "EDU \u00d7 2 + APP \u00d7 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the credit rating range for a Drifter occupation?",
+      "answer": "0\u20135",
+      "rating": 7
+    },
+    {
+      "question": "What are the occupation skill points for a Drifter occupation?",
+      "answer": "EDU \u00d7 2 + either APP \u00d7 2, DEX \u00d7 2 or STR \u00d7 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the credit rating range for a Drifter occupation?",
+      "answer": "0\u20135",
+      "rating": 7
+    },
+    {
+      "question": "What are the occupation skill points for a Drifter occupation?",
+      "answer": "EDU \u00d7 2 + either APP \u00d7 2, DEX \u00d7 2 or STR \u00d7 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the credit rating range for an Engineer occupation?",
+      "answer": "30\u201380",
+      "rating": 8
+    },
+    {
+      "question": "What are the occupation skill points for an Engineer occupation?",
+      "answer": "EDU \u00d7 4",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum credit rating for an Antiquarian?"
+      },
+      {
+        "role": "assistant",
+        "content": "30"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Antiquarian?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum credit rating for an Antiquarian?"
+      },
+      {
+        "role": "assistant",
+        "content": "70"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Antiquarian with a higher education?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum credit rating for an Artist?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Artist with a higher education?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either POW \u00d7 2 or DEX \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum credit rating for an Athlete?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Athlete with a higher education?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Credit Rating for a CLERGY?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum Credit Rating for a CLERGY?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Occupation Skill Points formula for CLERGY?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Occupation Skill Points for a CRIMINAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the Occupation Skill Points formula for a CRIMINAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Occupation Skill Points for a DILETTANTE?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum Credit Rating for a DILETTANTE?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Credit Rating for a CRIMINAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for a Doctor of Medicine occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "30\u201380"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for a Doctor of Medicine occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + APP \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "0\u20135"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either APP \u00d7 2, DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "0\u20135"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either APP \u00d7 2, DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for an Engineer occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "30\u201380"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for an Engineer occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

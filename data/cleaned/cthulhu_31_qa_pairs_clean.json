@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for assigning skill points to investigators are outlined. Investigators start with a base chance of success in each skill, which can be modified by allocating points to that skill. Personal interests and occupation skills can also be used to boost skills, with the option to add additional points to occupation skills. When choosing an occupation, players should consider the skills associated with it and how they will balance with other players' skills in the game. The goal is to create a well-rounded and enjoyable character that fits the scenario and style of play.",
+  "qa_pairs": [
+    {
+      "question": "What is the total points calculation for each skill?",
+      "answer": "The total points for each skill are the points allocated plus the base chance.",
+      "rating": 9
+    },
+    {
+      "question": "Where can you find the half and fifth values for each skill?",
+      "answer": "A Quick Reference Chart for half and fifth values can be found on page 49.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the half and fifth values on the sheet?",
+      "answer": "to write in the half and fifth values for each skill, allowing you to reference them quickly in the middle of a game",
+      "rating": 9
+    },
+    {
+      "question": "Where can a Quick Reference Chart for half and fifth values be found?",
+      "answer": "on page 49",
+      "rating": 7
+    },
+    {
+      "question": "What should investigators do before writing in the half and fifth values?",
+      "answer": "Allocate occupation skill points and then personal interest skill points.",
+      "rating": 8
+    },
+    {
+      "question": "Where can investigators find the half and fifth values for each skill?",
+      "answer": "On the investigator sheet, which also has space to write in the half and fifth values.",
+      "rating": 8
+    },
+    {
+      "question": "What skill allows an investigator to use weapons?",
+      "answer": "Fighting and Firearms skills",
+      "rating": 9
+    },
+    {
+      "question": "Where can a Quick Reference Chart for half and fifth values be found?",
+      "answer": "On page 49",
+      "rating": 7
+    },
+    {
+      "question": "What are some ways an investigator can use weapons?",
+      "answer": "Fighting and Firearms skills, and their various specializations",
+      "rating": 8
+    },
+    {
+      "question": "What should a player do when an occupation includes the skill of Fighting or Firearms, but no specialization is specified?",
+      "answer": "Choose one or more specializations of that skill",
+      "rating": 9
+    },
+    {
+      "question": "What is the main focus of building an investigator?",
+      "answer": "building up a story of who you want to play in the game",
+      "rating": 7
+    },
+    {
+      "question": "What factors contribute to establishing a fully rounded investigator?",
+      "answer": "characteristics, occupation, sex, and age",
+      "rating": 8
+    },
+    {
+      "question": "What skills should an investigator have to be effective?",
+      "answer": "Skills like Fighting, Climb, and Throw, or Library Use, Spot Hidden, and Psychology.",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper consider when creating a group of investigators?",
+      "answer": "The occupations and skill sets of the other players and the style of game and scenario they will be playing.",
+      "rating": 9
+    },
+    {
+      "question": "What type of occupations do the Keeper and other players discuss for the investigators in a game?",
+      "answer": "The Keeper and other players discuss certain occupations in mind for the investigators to play.",
+      "rating": 8
+    },
+    {
+      "question": "What is important for the investigators in a game?",
+      "answer": "How you decide to \u2017play\u2019 your character that is really important",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total points calculation for each skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The total points for each skill are the points allocated plus the base chance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find the half and fifth values for each skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Quick Reference Chart for half and fifth values can be found on page 49."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the half and fifth values on the sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "to write in the half and fifth values for each skill, allowing you to reference them quickly in the middle of a game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can a Quick Reference Chart for half and fifth values be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "on page 49"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should investigators do before writing in the half and fifth values?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allocate occupation skill points and then personal interest skill points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators find the half and fifth values for each skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "On the investigator sheet, which also has space to write in the half and fifth values."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill allows an investigator to use weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting and Firearms skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can a Quick Reference Chart for half and fifth values be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 49"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some ways an investigator can use weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting and Firearms skills, and their various specializations"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a player do when an occupation includes the skill of Fighting or Firearms, but no specialization is specified?"
+      },
+      {
+        "role": "assistant",
+        "content": "Choose one or more specializations of that skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of building an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "building up a story of who you want to play in the game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors contribute to establishing a fully rounded investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "characteristics, occupation, sex, and age"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills should an investigator have to be effective?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skills like Fighting, Climb, and Throw, or Library Use, Spot Hidden, and Psychology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper consider when creating a group of investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The occupations and skill sets of the other players and the style of game and scenario they will be playing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of occupations do the Keeper and other players discuss for the investigators in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper and other players discuss certain occupations in mind for the investigators to play."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is important for the investigators in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "How you decide to \u2017play\u2019 your character that is really important"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 16,
+    "filtered": 16,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

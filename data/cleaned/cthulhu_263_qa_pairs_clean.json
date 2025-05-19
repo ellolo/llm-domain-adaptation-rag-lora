@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a catalog of ancient, forbidden texts related to the Cthulhu Mythos, a shared universe of horror fiction created by H.P. Lovecraft. The texts include \"The Revelations of Gla'aki\", \"The R'lyeh Text\", and \"The Seven Cryptical Books of Hsan\", which are said to contain secrets and knowledge about the Deep Ones, Dagon, and other eldritch beings. Each text is associated with a specific cult or entity and is said to hold significant power and knowledge, but also poses a risk to the sanity of those who study them. The texts are often associated with rituals, spells, and incantations that can be used to summon or contact these entities.",
+  "qa_pairs": [
+    {
+      "question": "What is the name of the book mentioned in the text?",
+      "answer": "Revelations Of Gla'aki",
+      "rating": 9
+    },
+    {
+      "question": "How many volumes of the book were initially published?",
+      "answer": "Nine",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated time frame for studying Gla'aki?",
+      "answer": "10 weeks",
+      "rating": 7
+    },
+    {
+      "question": "How many volumes of the book are said to have been privately circulated?",
+      "answer": "Three",
+      "rating": 8
+    },
+    {
+      "question": "What is the alleged origin of The Revelations of Gla'aki?",
+      "answer": "The Severn River Valley, England.",
+      "rating": 9
+    },
+    {
+      "question": "How many volumes of The Revelations of Gla'aki are known to exist?",
+      "answer": "Nine volumes.",
+      "rating": 8
+    },
+    {
+      "question": "How many additional volume sets are rumored to exist?",
+      "answer": "Twelve volume sets.",
+      "rating": 7
+    },
+    {
+      "question": "What is the Mythos Rating of The Revelations of Gla'aki?",
+      "answer": "45.",
+      "rating": 9
+    },
+    {
+      "question": "What is the alleged origin of the Revelations of Gla'aki?",
+      "answer": "the Severn River Valley, England",
+      "rating": 8
+    },
+    {
+      "question": "What is the total Mythos Rating for the Revelations of Gla'aki?",
+      "answer": "45",
+      "rating": 9
+    },
+    {
+      "question": "How many weeks of study is suggested for the Revelations of Gla'aki?",
+      "answer": "32 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What ancient text is supposed to concern Dagon, Hydra, star-spawn, Zoth-Ommog, Ghatanothoa, and Cthulhu?",
+      "answer": "R\u2019lyeh Text",
+      "rating": 9
+    },
+    {
+      "question": "How many volumes of the R'lyeh Text are known to exist?",
+      "answer": "nine",
+      "rating": 8
+    },
+    {
+      "question": "How many weeks is the Study required for the Cthulhu Mythos?",
+      "answer": "54",
+      "rating": 9
+    },
+    {
+      "question": "What is the Mythos Rating for the Call/Dismiss Daoloth spell?",
+      "answer": "45",
+      "rating": 9
+    },
+    {
+      "question": "What is the suggested Study period for the Cthulhu Mythos?",
+      "answer": "54 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What year did the federal investigation of Innsmouth take place?",
+      "answer": "1927-8",
+      "rating": 8
+    },
+    {
+      "question": "What was the R\u2019lyeh Text considered by the inhabitants of Innsmouth to be?",
+      "answer": "an important holy text",
+      "rating": 9
+    },
+    {
+      "question": "What was the slim book considered to be by the inhabitants of Innsmouth?",
+      "answer": "an important holy text",
+      "rating": 9
+    },
+    {
+      "question": "What was the name of the ancient Chinese text?",
+      "answer": "Seven Cryptical Books of Hsan",
+      "rating": 8
+    },
+    {
+      "question": "What is said to exist for the Chinese text?",
+      "answer": "Seven Cryptical Books of Earth",
+      "rating": 7
+    },
+    {
+      "question": "Who wrote the Seven Cryptical Books of Hsan?",
+      "answer": "Hsan the Greater",
+      "rating": 9
+    },
+    {
+      "question": "What is the English translation called?",
+      "answer": "Seven Cryptical Books of Earth",
+      "rating": 8
+    },
+    {
+      "question": "How long does the Study take?",
+      "answer": "40 weeks",
+      "rating": 6
+    },
+    {
+      "question": "What is the Mythos Rating?",
+      "answer": "24",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Sanity Loss?",
+      "answer": "1D8",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the book mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Revelations Of Gla'aki"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many volumes of the book were initially published?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated time frame for studying Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many volumes of the book are said to have been privately circulated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alleged origin of The Revelations of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Severn River Valley, England."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many volumes of The Revelations of Gla'aki are known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nine volumes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many additional volume sets are rumored to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twelve volume sets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating of The Revelations of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "45."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alleged origin of the Revelations of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Severn River Valley, England"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total Mythos Rating for the Revelations of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks of study is suggested for the Revelations of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "32 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What ancient text is supposed to concern Dagon, Hydra, star-spawn, Zoth-Ommog, Ghatanothoa, and Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "R\u2019lyeh Text"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many volumes of the R'lyeh Text are known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "nine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks is the Study required for the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "54"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating for the Call/Dismiss Daoloth spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested Study period for the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "54 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What year did the federal investigation of Innsmouth take place?"
+      },
+      {
+        "role": "assistant",
+        "content": "1927-8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the R\u2019lyeh Text considered by the inhabitants of Innsmouth to be?"
+      },
+      {
+        "role": "assistant",
+        "content": "an important holy text"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the slim book considered to be by the inhabitants of Innsmouth?"
+      },
+      {
+        "role": "assistant",
+        "content": "an important holy text"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the name of the ancient Chinese text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seven Cryptical Books of Hsan"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is said to exist for the Chinese text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seven Cryptical Books of Earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the Seven Cryptical Books of Hsan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hsan the Greater"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the English translation called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seven Cryptical Books of Earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the Study take?"
+      },
+      {
+        "role": "assistant",
+        "content": "40 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "24"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Sanity Loss?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

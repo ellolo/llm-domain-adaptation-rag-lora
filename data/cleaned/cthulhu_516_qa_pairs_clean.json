@@ -1,0 +1,507 @@
+{
+  "summary": "This document appears to be an index or table of contents for a tabletop role-playing game, likely a fantasy or horror-themed game. The entries cover various skills, abilities, and rules related to combat, firearms, and character development. Key concepts include \"Fighting Skill\", \"Firearms Skill\", and \"Hit Points\", which suggest that the game involves tactical combat and character health management. The inclusion of specific names, such as Harvey Walters and Howard Philips Lovecraft, also suggests a connection to the game's setting or theme.",
+  "qa_pairs": [
+    {
+      "question": "What is the first character in the text?",
+      "answer": "F",
+      "rating": 10
+    },
+    {
+      "question": "What is the second character in the text?",
+      "answer": "-",
+      "rating": 10
+    },
+    {
+      "question": "What is the third character in the text?",
+      "answer": "A",
+      "rating": 10
+    },
+    {
+      "question": "What is the fourth character in the text?",
+      "answer": "s",
+      "rating": 10
+    },
+    {
+      "question": "What are the numbers 91 and 121 in the text?",
+      "answer": "Failure",
+      "rating": 10
+    },
+    {
+      "question": "What are the numbers 84 and 91 in the text?",
+      "answer": "Failure",
+      "rating": 10
+    },
+    {
+      "question": "What is the code 'FF' in the text?",
+      "answer": "Failure",
+      "rating": 10
+    },
+    {
+      "question": "What is the code 'FT' in the text?",
+      "answer": "Failure",
+      "rating": 10
+    },
+    {
+      "question": "What is the code 'FT' in the text?",
+      "answer": "Failure",
+      "rating": 9
+    },
+    {
+      "question": "What are the numbers 32 and 49 in the text?",
+      "answer": "Fifth Characteristics",
+      "rating": 8
+    },
+    {
+      "question": "What are the numbers 103 and 106 in the text?",
+      "answer": "Fighting Back",
+      "rating": 9
+    },
+    {
+      "question": "What are the numbers 105-108 in the text?",
+      "answer": "Fighting Maneuver",
+      "rating": 9
+    },
+    {
+      "question": "What are the numbers 281-282 in the text?",
+      "answer": "Fighting Maneuver",
+      "rating": 9
+    },
+    {
+      "question": "What are the numbers 64 in the text?",
+      "answer": "Fast Talk Skill",
+      "rating": 8
+    },
+    {
+      "question": "Who is the author of the provided text?",
+      "answer": "Howard Philips Lovecraft",
+      "rating": 9
+    },
+    {
+      "question": "What is the first number mentioned in the list of page numbers at the beginning of the text?",
+      "answer": "38",
+      "rating": 7
+    },
+    {
+      "question": "What is the last number mentioned in the list of page numbers at the beginning of the text?",
+      "answer": "202",
+      "rating": 8
+    },
+    {
+      "question": "What is the page number range for the 'Hazard, Random, Optional Rule'?",
+      "answer": "139, 143-144",
+      "rating": 9
+    },
+    {
+      "question": "What is the page number range for the 'Hazards, Chase' section?",
+      "answer": "134-136",
+      "rating": 8
+    },
+    {
+      "question": "What is the page number range for the 'Hiding, Chase, Optional Rule'?",
+      "answer": "141",
+      "rating": 7
+    },
+    {
+      "question": "What is the page number for the 'History Skill' section?",
+      "answer": "65",
+      "rating": 9
+    },
+    {
+      "question": "What is the page number range for the 'Hit Locations, Optional Rule'?",
+      "answer": "126",
+      "rating": 8
+    },
+    {
+      "question": "What are the initial hit points mentioned in the text?",
+      "answer": "33, 119, 120, 206",
+      "rating": 9
+    },
+    {
+      "question": "What is the page number for the 'Hit Points, Barrier' section?",
+      "answer": "138",
+      "rating": 8
+    },
+    {
+      "question": "What is the page number for the 'House Rules' section?",
+      "answer": "205",
+      "rating": 10
+    },
+    {
+      "question": "What is the page number range for the 'How Sorcerers Get That Way' section?",
+      "answer": "179-180",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first character in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "F"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the second character in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the third character in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fourth character in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "s"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the numbers 91 and 121 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the numbers 84 and 91 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code 'FF' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code 'FT' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the code 'FT' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the numbers 32 and 49 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fifth Characteristics"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the numbers 103 and 106 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting Back"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the numbers 105-108 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting Maneuver"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the numbers 281-282 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting Maneuver"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the numbers 64 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fast Talk Skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the author of the provided text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Howard Philips Lovecraft"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first number mentioned in the list of page numbers at the beginning of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "38"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the last number mentioned in the list of page numbers at the beginning of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "202"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number range for the 'Hazard, Random, Optional Rule'?"
+      },
+      {
+        "role": "assistant",
+        "content": "139, 143-144"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number range for the 'Hazards, Chase' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "134-136"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number range for the 'Hiding, Chase, Optional Rule'?"
+      },
+      {
+        "role": "assistant",
+        "content": "141"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for the 'History Skill' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number range for the 'Hit Locations, Optional Rule'?"
+      },
+      {
+        "role": "assistant",
+        "content": "126"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the initial hit points mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "33, 119, 120, 206"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for the 'Hit Points, Barrier' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "138"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for the 'House Rules' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "205"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number range for the 'How Sorcerers Get That Way' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "179-180"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.9
+  }
+}

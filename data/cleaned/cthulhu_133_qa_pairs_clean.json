@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIncorporating a movie-style knock-out rule into a game can be achieved by using blunt attacks to render an opponent unconscious, dealing only 1 hit point of damage. This rule can be applied to any opponent with a vulnerable spot, such as a human, deep one, ghoul, or shoggoth, but not a shoggoth. The Keeper can automatically declare a successful knock-out if the attacker sneaks up on the opponent or uses a surprise attack, as seen in the example of Harvey knocking out a security guard at the British Museum. Additionally, the game can include rules for spending Luck points to remain conscious, and for avoiding nothing happening when both sides fail their Fighting skill rolls.",
+  "qa_pairs": [
+    {
+      "question": "What is the consequence of a successful 'knock-out' attack on an opponent?",
+      "answer": "The opponent is rendered unconscious and suffers only 1 hit point of damage.",
+      "rating": 10
+    },
+    {
+      "question": "What type of attacks can be used for a 'knock-out' maneuver?",
+      "answer": "Blunt attacks (punch, club, rifle-butt, etc.).",
+      "rating": 8
+    },
+    {
+      "question": "Who cannot be targeted with a 'knock-out' attack?",
+      "answer": "A shoggoth.",
+      "rating": 9
+    },
+    {
+      "question": "What is the specific vulnerable spot that can be targeted for a 'knock-out' attack?",
+      "answer": "A skull or similar spot (e.g., humans, deep ones, ghouls, etc.).",
+      "rating": 10
+    },
+    {
+      "question": "What is the target of Harvey's attack in the British Museum?",
+      "answer": "The security guard",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the guard if Harvey successfully knocks him out?",
+      "answer": "He is knocked out cold",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Harvey's Stealth roll?",
+      "answer": "A Regular success",
+      "rating": 6
+    },
+    {
+      "question": "What is the result of Harvey's fighting maneuver if he succeeds?",
+      "answer": "The guard is rendered unconscious",
+      "rating": 8
+    },
+    {
+      "question": "What is the result when Harvey rolls a Regular success in the maneuver?",
+      "answer": "Harvey succeeds in the maneuver.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the guard after Harvey succeeds in the maneuver?",
+      "answer": "The guard is rendered unconscious.",
+      "rating": 9
+    },
+    {
+      "question": "How many Luck points are spent at the start of each round?",
+      "answer": "1, 2, 4, 8",
+      "rating": 8
+    },
+    {
+      "question": "After how many Luck points have Harvey reached safety?",
+      "answer": "7",
+      "rating": 9
+    },
+    {
+      "question": "At the start of the third round, Harvey spends 4 Luck points.",
+      "answer": "4 Luck points",
+      "rating": 8
+    },
+    {
+      "question": "At the start of the fourth round, Harvey doesn't spend Luck points.",
+      "answer": "None",
+      "rating": 9
+    },
+    {
+      "question": "What is an alternative point of view on failing a Fighting skill roll?",
+      "answer": "You have failed to protect yourself during the combat.",
+      "rating": 9
+    },
+    {
+      "question": "Why does failing a Fighting skill roll mean you have failed to protect yourself?",
+      "answer": "Because your opponent's fist is only one of many ways to get hurt during combat.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if you fail a Fighting skill roll in the latter approach?",
+      "answer": "You have failed to protect yourself during the combat.",
+      "rating": 8
+    },
+    {
+      "question": "What are some ways to get hurt during combat, aside from an opponent's fist?",
+      "answer": "There are many ways to get hurt during combat; your opponent's fist is only one of them.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three solutions available for failing a Fighting skill roll?",
+      "answer": "There are three solutions available",
+      "rating": 7
+    },
+    {
+      "question": "What is the narrative consequence of failing to protect oneself during combat?",
+      "answer": "Narratively you may have missed your target and punched a wall or moved the wrong way and into your opponent\u2019s blow.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of a successful 'knock-out' attack on an opponent?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opponent is rendered unconscious and suffers only 1 hit point of damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of attacks can be used for a 'knock-out' maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Blunt attacks (punch, club, rifle-butt, etc.)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who cannot be targeted with a 'knock-out' attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A shoggoth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the specific vulnerable spot that can be targeted for a 'knock-out' attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skull or similar spot (e.g., humans, deep ones, ghouls, etc.)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target of Harvey's attack in the British Museum?"
+      },
+      {
+        "role": "assistant",
+        "content": "The security guard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the guard if Harvey successfully knocks him out?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is knocked out cold"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's Stealth roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Regular success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's fighting maneuver if he succeeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "The guard is rendered unconscious"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result when Harvey rolls a Regular success in the maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey succeeds in the maneuver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the guard after Harvey succeeds in the maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "The guard is rendered unconscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Luck points are spent at the start of each round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1, 2, 4, 8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "After how many Luck points have Harvey reached safety?"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At the start of the third round, Harvey spends 4 Luck points."
+      },
+      {
+        "role": "assistant",
+        "content": "4 Luck points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At the start of the fourth round, Harvey doesn't spend Luck points."
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative point of view on failing a Fighting skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "You have failed to protect yourself during the combat."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does failing a Fighting skill roll mean you have failed to protect yourself?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because your opponent's fist is only one of many ways to get hurt during combat."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if you fail a Fighting skill roll in the latter approach?"
+      },
+      {
+        "role": "assistant",
+        "content": "You have failed to protect yourself during the combat."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some ways to get hurt during combat, aside from an opponent's fist?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are many ways to get hurt during combat; your opponent's fist is only one of them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three solutions available for failing a Fighting skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are three solutions available"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the narrative consequence of failing to protect oneself during combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Narratively you may have missed your target and punched a wall or moved the wrong way and into your opponent\u2019s blow."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game system, investigators have a spending limit that they can exceed, but must then reduce their cash by the full amount spent. This system is intended to minimize bookkeeping, but can lead to uncertainty and requires the Keeper's intervention when necessary. The Keeper can also adjust the spending limit based on the investigator's assets and the cost of living in the location they are in. This allows for more flexibility in managing the investigator's finances, especially when traveling to areas with lower costs of living. The system also provides a way for investigators to access loans or convert assets into cash to cover expenses.",
+  "qa_pairs": [
+    {
+      "question": "What is the maximum amount of money a character can spend on any given day?",
+      "answer": "up to his or her Spending Level",
+      "rating": 8
+    },
+    {
+      "question": "When is money likely to become an issue for a character?",
+      "answer": "when large amounts are being spent",
+      "rating": 9
+    },
+    {
+      "question": "Why was the spending system created?",
+      "answer": "to minimize bookkeeping",
+      "rating": 7
+    },
+    {
+      "question": "Who determines what is within an individual's spending level?",
+      "answer": "the Keeper",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper's role in the system?",
+      "answer": "the arbiter of such matters",
+      "rating": 9
+    },
+    {
+      "question": "What is Harvey's starting credit rating?",
+      "answer": "41 (Average)",
+      "rating": 6
+    },
+    {
+      "question": "What is the maximum daily spending limit for Harvey?",
+      "answer": "$10",
+      "rating": 8
+    },
+    {
+      "question": "What type of hotels can Harvey stay in?",
+      "answer": "moderately priced hotels",
+      "rating": 7
+    },
+    {
+      "question": "What is the average living standard for Harvey?",
+      "answer": "This affords him an average living standard",
+      "rating": 8
+    },
+    {
+      "question": "How much can Harvey spend per day?",
+      "answer": "he may spend up to $10 per day",
+      "rating": 9
+    },
+    {
+      "question": "What activities does Harvey engage in during his investigation?",
+      "answer": "he spends a couple of sessions of play carrying out investigations",
+      "rating": 7
+    },
+    {
+      "question": "What expenses does Harvey needs to keep track of?",
+      "answer": "None of this requires any bookkeeping on the player\u2019s part",
+      "rating": 6
+    },
+    {
+      "question": "What is the requirement for investigators when they spend money beyond their limit?",
+      "answer": "The player must reduce their cash by the full amount spent.",
+      "rating": 8
+    },
+    {
+      "question": "Can investigators use their assets to cover expenses beyond their spending limit?",
+      "answer": "Yes, but this takes time, which is up to the Keeper's discretion.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the investigator's cash is insufficient to cover expenses beyond their spending limit?",
+      "answer": "The investigator may seek to use their assets, such as mortgaging properties or gaining loans.",
+      "rating": 9
+    },
+    {
+      "question": "How long does converting assets into cash take?",
+      "answer": "This is up to the Keeper's discretion.",
+      "rating": 8
+    },
+    {
+      "question": "How long it takes for the Keeper to convert assets into cash?",
+      "answer": "time",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the investigator makes multiple purchases on the same day?",
+      "answer": "The Keeper may insist on combining the total purchases for comparison with the investigator's spending level",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take to get a loan from the bank?",
+      "answer": "A week",
+      "rating": 7
+    },
+    {
+      "question": "How much does Harvey spend on a 12-gauge shotgun?",
+      "answer": "$40",
+      "rating": 6
+    },
+    {
+      "question": "How much money does the character have after buying a ticket?",
+      "answer": "$125",
+      "rating": 8
+    },
+    {
+      "question": "How much cash does the character have in total after adding $125 to his remaining cash?",
+      "answer": "$167",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum amount of money a character can spend on any given day?"
+      },
+      {
+        "role": "assistant",
+        "content": "up to his or her Spending Level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is money likely to become an issue for a character?"
+      },
+      {
+        "role": "assistant",
+        "content": "when large amounts are being spent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why was the spending system created?"
+      },
+      {
+        "role": "assistant",
+        "content": "to minimize bookkeeping"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who determines what is within an individual's spending level?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role in the system?"
+      },
+      {
+        "role": "assistant",
+        "content": "the arbiter of such matters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's starting credit rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "41 (Average)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum daily spending limit for Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "$10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of hotels can Harvey stay in?"
+      },
+      {
+        "role": "assistant",
+        "content": "moderately priced hotels"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average living standard for Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "This affords him an average living standard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much can Harvey spend per day?"
+      },
+      {
+        "role": "assistant",
+        "content": "he may spend up to $10 per day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What activities does Harvey engage in during his investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "he spends a couple of sessions of play carrying out investigations"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What expenses does Harvey needs to keep track of?"
+      },
+      {
+        "role": "assistant",
+        "content": "None of this requires any bookkeeping on the player\u2019s part"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for investigators when they spend money beyond their limit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player must reduce their cash by the full amount spent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators use their assets to cover expenses beyond their spending limit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but this takes time, which is up to the Keeper's discretion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator's cash is insufficient to cover expenses beyond their spending limit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator may seek to use their assets, such as mortgaging properties or gaining loans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does converting assets into cash take?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is up to the Keeper's discretion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long it takes for the Keeper to convert assets into cash?"
+      },
+      {
+        "role": "assistant",
+        "content": "time"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator makes multiple purchases on the same day?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may insist on combining the total purchases for comparison with the investigator's spending level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to get a loan from the bank?"
+      },
+      {
+        "role": "assistant",
+        "content": "A week"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does Harvey spend on a 12-gauge shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "$40"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much money does the character have after buying a ticket?"
+      },
+      {
+        "role": "assistant",
+        "content": "$125"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much cash does the character have in total after adding $125 to his remaining cash?"
+      },
+      {
+        "role": "assistant",
+        "content": "$167"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 7.9
+  }
+}

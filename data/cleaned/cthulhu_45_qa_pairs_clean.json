@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nWhen creating investigators in a game, the key is to generate a set of characteristics that fit within the appropriate range of values. The method used to create these characteristics is secondary, and different groups may agree on different methods. The document provides a table for determining credit ratings, cash, and assets, which can be used to create investigators with varying levels of wealth and spending power. The Keeper can choose from alternative methods, such as starting over or modifying low rolls, to create investigators that fit their group's preferences.",
+  "qa_pairs": [
+    {
+      "question": "What do investigators normally get skill points for, aside from their occupation?",
+      "answer": "Fighting and Firearms",
+      "rating": 8
+    },
+    {
+      "question": "Where can you find information about Equipment lists and Weapons?",
+      "answer": "Pages 396-400 and pages 401-405 respectively",
+      "rating": 9
+    },
+    {
+      "question": "What is the main goal when creating an investigator?",
+      "answer": "To generate a set of characteristics that fit within the appropriate range of values",
+      "rating": 8
+    },
+    {
+      "question": "How do some groups prefer to create investigators?",
+      "answer": "With a random approach",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of varying degrees of freedom when creating investigators?",
+      "answer": "To exchange or modify the values, perhaps to fit their perception of game balance",
+      "rating": 9
+    },
+    {
+      "question": "What is the credit rating of a penniless individual in the 1920s?",
+      "answer": "CR 0 or less",
+      "rating": 8
+    },
+    {
+      "question": "How much cash does a penniless individual have in the 1920s?",
+      "answer": "$0.50",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary factor in determining a character's credit rating?",
+      "answer": "Credit Rating",
+      "rating": 6
+    },
+    {
+      "question": "What is the lowest amount of cash a character can have?",
+      "answer": "$0.50",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of cash values for a 'Poor' character?",
+      "answer": "CR x 1 ($1 - $9)",
+      "rating": 9
+    },
+    {
+      "question": "How is the cash value of a 'Poor' character determined?",
+      "answer": "Credit Rating x 1",
+      "rating": 8
+    },
+    {
+      "question": "What is the highest cash value for a 'Spending Level' of $50?",
+      "answer": "$250",
+      "rating": 9
+    },
+    {
+      "question": "What is the highest cash value for a 'Super Rich' character?",
+      "answer": "$50,000",
+      "rating": 9
+    },
+    {
+      "question": "What is the lowest possible credit rating?",
+      "answer": "0 or less",
+      "rating": 8
+    },
+    {
+      "question": "What is the lowest spending level?",
+      "answer": "$10",
+      "rating": 8
+    },
+    {
+      "question": "What is the lowest average spending level?",
+      "answer": "10-49",
+      "rating": 7
+    },
+    {
+      "question": "What is the lowest spending level for the 'Rich' category?",
+      "answer": "$1,000",
+      "rating": 8
+    },
+    {
+      "question": "What is the highest average spending level?",
+      "answer": "50-89",
+      "rating": 9
+    },
+    {
+      "question": "What is the highest credit rating?",
+      "answer": "99",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a player rolls three or more characteristics that begin below 50?",
+      "answer": "You can scrap your dice rolls and start again.",
+      "rating": 9
+    },
+    {
+      "question": "What method is used if there are too many low rolls (three or more under 10)?",
+      "answer": "You roll an additional 1D6 and share out the extra points among the lowest dice rolls.",
+      "rating": 9
+    },
+    {
+      "question": "What is the threshold for low rolls that may require modifying them?",
+      "answer": "Three or more rolls under 10.",
+      "rating": 8
+    },
+    {
+      "question": "How many low rolls are allowed before modifying them?",
+      "answer": "Three or more.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if a player rolls three or more characteristics that begin below 50?",
+      "answer": "The Keeper may allow this option.",
+      "rating": 6
+    },
+    {
+      "question": "What method is used to modify low rolls?",
+      "answer": "The default method.",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do investigators normally get skill points for, aside from their occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting and Firearms"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find information about Equipment lists and Weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pages 396-400 and pages 401-405 respectively"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main goal when creating an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "To generate a set of characteristics that fit within the appropriate range of values"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do some groups prefer to create investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "With a random approach"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of varying degrees of freedom when creating investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "To exchange or modify the values, perhaps to fit their perception of game balance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating of a penniless individual in the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "CR 0 or less"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much cash does a penniless individual have in the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0.50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary factor in determining a character's credit rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest amount of cash a character can have?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0.50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of cash values for a 'Poor' character?"
+      },
+      {
+        "role": "assistant",
+        "content": "CR x 1 ($1 - $9)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the cash value of a 'Poor' character determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating x 1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest cash value for a 'Spending Level' of $50?"
+      },
+      {
+        "role": "assistant",
+        "content": "$250"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest cash value for a 'Super Rich' character?"
+      },
+      {
+        "role": "assistant",
+        "content": "$50,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest possible credit rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 or less"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest spending level?"
+      },
+      {
+        "role": "assistant",
+        "content": "$10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest average spending level?"
+      },
+      {
+        "role": "assistant",
+        "content": "10-49"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest spending level for the 'Rich' category?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest average spending level?"
+      },
+      {
+        "role": "assistant",
+        "content": "50-89"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest credit rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a player rolls three or more characteristics that begin below 50?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can scrap your dice rolls and start again."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What method is used if there are too many low rolls (three or more under 10)?"
+      },
+      {
+        "role": "assistant",
+        "content": "You roll an additional 1D6 and share out the extra points among the lowest dice rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the threshold for low rolls that may require modifying them?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three or more rolls under 10."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many low rolls are allowed before modifying them?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three or more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a player rolls three or more characteristics that begin below 50?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may allow this option."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What method is used to modify low rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "The default method."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, a bout of madness can occur when an investigator is exposed to a traumatic or disturbing experience, causing them to lose control and become insane for a set period of time, typically 1D10 hours. During this time, the investigator may act rationally but outwardly appear insane, and their actions are influenced by their phobias or manias. The Keeper can adapt the outcome to accommodate the situation, and the player may regain control of the investigator once they recover from their bout of madness. The duration of the insanity can be indefinite or temporary, depending on the scenario.",
+  "qa_pairs": [
+    {
+      "question": "How long can the investigator be lost in madness?",
+      "answer": "1D10 hours",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator when the bout of madness comes to an end?",
+      "answer": "They return to their senses",
+      "rating": 9
+    },
+    {
+      "question": "How does the Keeper summarize the time the investigator is lost in madness?",
+      "answer": "By simply describing the unfamiliar place",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the investigator's memory after the bout of madness ends?",
+      "answer": "They have no memory of where they have been or what they have done",
+      "rating": 8
+    },
+    {
+      "question": "How long does temporary insanity last in Call of Cthulhu?",
+      "answer": "1D10 hours",
+      "rating": 6
+    },
+    {
+      "question": "What determines the nature of a bout of madness in Call of Cthulhu?",
+      "answer": "Either roll on Table VIII: Bouts of Madness\u2014Summary or the Keeper may choose an appropriate option.",
+      "rating": 9
+    },
+    {
+      "question": "How long does indefinite insanity typically last in a Call of Cthulhu scenario or chapter?",
+      "answer": "The duration of the scenario or chapter",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator's behavior after recovering from a bout of madness?",
+      "answer": "They return to normal behavior, only occasionally presenting their insanity outwardly.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of the investigator's paranoia after recovering from madness?",
+      "answer": "They constantly check the street for cars.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of the investigator's paranoia?",
+      "answer": "They disassemble the telephone, looking for bugs.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of the investigator's phobia after recovering from madness?",
+      "answer": "They are afraid of a draught of cool air.",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of the chapter that provides further advice on roleplaying insane characters?",
+      "answer": "Chapter 10: Playing the Game",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Harvey recovering from his bout of madness?",
+      "answer": "He rejoins his friends",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a phobia or mania on an insane investigator?",
+      "answer": "It takes on a greater significance",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a phobia or mania on a sane investigator?",
+      "answer": "It acts solely as a roleplaying trait",
+      "rating": 8
+    },
+    {
+      "question": "What happens to claustrophobia when the investigator is sane?",
+      "answer": "The phobia won't prevent the investigator from crawling through dark tunnels.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the investigator is insane and exposed to the source of a phobia?",
+      "answer": "The phobia causes panic.",
+      "rating": 9
+    },
+    {
+      "question": "What is the penalty for actions other than fighting or fleeing for phobias?",
+      "answer": "One penalty die.",
+      "rating": 7
+    },
+    {
+      "question": "Does the penalty die apply to Sanity rolls or reality check rolls?",
+      "answer": "No, it does not apply to Sanity rolls or reality check rolls.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of direct exposure to the subject of a phobia?",
+      "answer": "Causes panic",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of exposure to the source of a mania?",
+      "answer": "Causes an obsessive reaction",
+      "rating": 8
+    },
+    {
+      "question": "How does being exposed to the subject of a phobia affect Sanity rolls?",
+      "answer": "No penalty applies",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigator when being exposed to the subject of their mania?",
+      "answer": "Causes an overwhelming response",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long can the investigator be lost in madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when the bout of madness comes to an end?"
+      },
+      {
+        "role": "assistant",
+        "content": "They return to their senses"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper summarize the time the investigator is lost in madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "By simply describing the unfamiliar place"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's memory after the bout of madness ends?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have no memory of where they have been or what they have done"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does temporary insanity last in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the nature of a bout of madness in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either roll on Table VIII: Bouts of Madness\u2014Summary or the Keeper may choose an appropriate option."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does indefinite insanity typically last in a Call of Cthulhu scenario or chapter?"
+      },
+      {
+        "role": "assistant",
+        "content": "The duration of the scenario or chapter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's behavior after recovering from a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They return to normal behavior, only occasionally presenting their insanity outwardly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of the investigator's paranoia after recovering from madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They constantly check the street for cars."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the investigator's paranoia?"
+      },
+      {
+        "role": "assistant",
+        "content": "They disassemble the telephone, looking for bugs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of the investigator's phobia after recovering from madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are afraid of a draught of cool air."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the chapter that provides further advice on roleplaying insane characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chapter 10: Playing the Game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey recovering from his bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "He rejoins his friends"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a phobia or mania on an insane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes on a greater significance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a phobia or mania on a sane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It acts solely as a roleplaying trait"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to claustrophobia when the investigator is sane?"
+      },
+      {
+        "role": "assistant",
+        "content": "The phobia won't prevent the investigator from crawling through dark tunnels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the investigator is insane and exposed to the source of a phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "The phobia causes panic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for actions other than fighting or fleeing for phobias?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does the penalty die apply to Sanity rolls or reality check rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it does not apply to Sanity rolls or reality check rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of direct exposure to the subject of a phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes panic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of exposure to the source of a mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes an obsessive reaction"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does being exposed to the subject of a phobia affect Sanity rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "No penalty applies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when being exposed to the subject of their mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes an overwhelming response"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

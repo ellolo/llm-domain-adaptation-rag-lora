@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes two fictional creatures from the Lovecraftian universe: the Servants of Gla'aki, undead slaves created by the Great Old One Gla'aki, and the Gnoph-Keh, a mysterious, hairy, and adaptable being associated with Ithaqua. The Servants of Gla'aki are created from Gla'aki's spines and share his memories, but they decay and become vulnerable to intense light. They have limited magical abilities and are typically armed with a sickle, while the Gnoph-Keh has the power to summon a blizzard, restricting visibility and costing it a magic point per hour. Both creatures have unique characteristics and abilities that make them formidable opponents in a Lovecraftian setting.",
+  "qa_pairs": [
+    {
+      "question": "What are Gla'aki's slaves made of?",
+      "answer": "Corpse, created by Gla'aki's spines",
+      "rating": 9
+    },
+    {
+      "question": "How do Gla'aki's slaves react to intense light?",
+      "answer": "They wither and begin to rot, destroying them in a few hours",
+      "rating": 9
+    },
+    {
+      "question": "What type of spells do Gla'aki's slaves have?",
+      "answer": "None, but they retain any they knew while alive and new spells taught by Gla'aki",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Gla'aki's slaves after six decades of half-death?",
+      "answer": "They become subject to the Green Decay",
+      "rating": 9
+    },
+    {
+      "question": "How long does the Green Decay take to destroy a Gla'aki's slave exposed to intense light?",
+      "answer": "A few hours",
+      "rating": 8
+    },
+    {
+      "question": "What happens to servants of Gla'aki after six decades of half-death?",
+      "answer": "They wither and look like the undead monsters they are.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of intense light on servants of Gla'aki?",
+      "answer": "The Green Decay, which begins to rot on the spot, destroying one so exposed in a few hours.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for servants of Gla'aki?",
+      "answer": "None.",
+      "rating": 7
+    },
+    {
+      "question": "What is the average magic points for servants of Gla'aki?",
+      "answer": "10.",
+      "rating": 8
+    },
+    {
+      "question": "What is the movement speed of servants of Gla'aki?",
+      "answer": "5.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to servants of Gla'aki if they are exposed to intense light?",
+      "answer": "They become subject to the Green Decay.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for servants of Gla'aki?",
+      "answer": "None.",
+      "rating": 7
+    },
+    {
+      "question": "What is the average magic points for servants of Gla'aki?",
+      "answer": "10.",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks do servants of Gla'aki have per round?",
+      "answer": "1.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical weapon used by servants of Gla'aki?",
+      "answer": "A sickle.",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical damage dealt by a weapon in this monster?",
+      "answer": "1D3 + damage bonus",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for a living-corpse aspect?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for a Green Decay death?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by a 1D6 + 1 + damage bonus attack?",
+      "answer": "1D6 + 1 + damage bonus",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of damage is considered 'flying' damage?",
+      "answer": "20%",
+      "rating": 7
+    },
+    {
+      "question": "What is the typical habitat of the gnoph-keh?",
+      "answer": "glaciers, ice caps, extremely cold and icy areas",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of a human tribe naming themselves after the gnoph-keh?",
+      "answer": "perhaps they worship the gnoph-keh as a deity or use it as a totem beast",
+      "rating": 8
+    },
+    {
+      "question": "How much magic points does the gnoph-keh's blizzard power cost per hour?",
+      "answer": "1 magic point per hour",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum radius of the gnoph-keh's blizzard?",
+      "answer": "100 yards",
+      "rating": 9
+    },
+    {
+      "question": "How does the gnoph-keh's blizzard restrict visibility?",
+      "answer": "to 3 yards maximum",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Gla'aki's slaves made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "Corpse, created by Gla'aki's spines"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Gla'aki's slaves react to intense light?"
+      },
+      {
+        "role": "assistant",
+        "content": "They wither and begin to rot, destroying them in a few hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of spells do Gla'aki's slaves have?"
+      },
+      {
+        "role": "assistant",
+        "content": "None, but they retain any they knew while alive and new spells taught by Gla'aki"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Gla'aki's slaves after six decades of half-death?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become subject to the Green Decay"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the Green Decay take to destroy a Gla'aki's slave exposed to intense light?"
+      },
+      {
+        "role": "assistant",
+        "content": "A few hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to servants of Gla'aki after six decades of half-death?"
+      },
+      {
+        "role": "assistant",
+        "content": "They wither and look like the undead monsters they are."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of intense light on servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Green Decay, which begins to rot on the spot, destroying one so exposed in a few hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "None."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "10."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement speed of servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "5."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to servants of Gla'aki if they are exposed to intense light?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become subject to the Green Decay."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "None."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "10."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks do servants of Gla'aki have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical weapon used by servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sickle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical damage dealt by a weapon in this monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a living-corpse aspect?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a Green Decay death?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a 1D6 + 1 + damage bonus attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + 1 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage is considered 'flying' damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "20%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical habitat of the gnoph-keh?"
+      },
+      {
+        "role": "assistant",
+        "content": "glaciers, ice caps, extremely cold and icy areas"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a human tribe naming themselves after the gnoph-keh?"
+      },
+      {
+        "role": "assistant",
+        "content": "perhaps they worship the gnoph-keh as a deity or use it as a totem beast"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much magic points does the gnoph-keh's blizzard power cost per hour?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point per hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum radius of the gnoph-keh's blizzard?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the gnoph-keh's blizzard restrict visibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "to 3 yards maximum"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

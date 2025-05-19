@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, the game master (Keeper) can use a concealed roll to determine how non-player characters (NPCs) react to investigators, taking into account the investigator's attributes such as APP (Attributes) and Credit Rating. This allows for a more nuanced and realistic portrayal of NPCs, who can have positive or negative reactions based on their own flaws and mistakes. The Keeper can also use props, such as portraits, to help differentiate between NPCs and keep track of their characteristics. This approach enables the Keeper to create a more immersive and engaging game world.",
+  "qa_pairs": [
+    {
+      "question": "What does the game Call of Cthulhu assume about humanity and human civilization?",
+      "answer": "That humanity and human civilization considers itself worth defending and saving",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of portraying authorities in the game?",
+      "answer": "To show that some authorities are worth the struggle and some are not",
+      "rating": 8
+    },
+    {
+      "question": "Why are well-rounded authorities in the game important?",
+      "answer": "Because investigators can then make up their own minds about the value of society",
+      "rating": 9
+    },
+    {
+      "question": "What is the problem with portraying authorities as always corrupt or incompetent?",
+      "answer": "It can corrode the heart of the game and reinforce a clich\u00e9",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary goal of testing non-player character reactions to an investigator?",
+      "answer": "To test the non-player character's reaction to an investigator.",
+      "rating": 7
+    },
+    {
+      "question": "Which statistic can be used to determine the non-player character's reaction to an investigator?",
+      "answer": "Either the investigator's APP or Credit Rating.",
+      "rating": 9
+    },
+    {
+      "question": "What factor should be considered when deciding which statistic to use?",
+      "answer": "The situation and the non-player character.",
+      "rating": 8
+    },
+    {
+      "question": "Why is it a good idea to take note of each investigator's APP and Credit Rating skill at the start of the game?",
+      "answer": "To determine which statistic to use when testing non-player character reactions.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the target number for a concealed roll for non-player character reactions to an investigator?",
+      "answer": "The target number is determined by the situation and the non-player character, with wealth or looks influencing the character more likely in certain cases.",
+      "rating": 9
+    },
+    {
+      "question": "How do you determine the target number for a concealed roll?",
+      "answer": "The target number is determined by using either the investigator's APP or Credit Rating, with the higher of the two being used when unsure.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the dice result is below the target number for a concealed roll?",
+      "answer": "If the dice result is below the target number, the reaction is positive.",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of an initial negative reaction on the investigator?",
+      "answer": "An initial negative reaction should make the investigator's life more difficult, especially if the player's intention is to befriend or influence the non-player character.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the initial negative reaction test?",
+      "answer": "The initial negative reaction test is intended for use with non-player characters who have no outstanding reason to like or dislike the investigator.",
+      "rating": 8
+    },
+    {
+      "question": "What influences the desk sergeant's reaction to Harvey?",
+      "answer": "The desk sergeant's reaction is more likely to be impressed by wealth than looks.",
+      "rating": 8
+    },
+    {
+      "question": "How does Harvey's Credit Rating score affect his reaction?",
+      "answer": "Harvey's Credit Rating score is more important in this instance than APP.",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome of the Keeper's roll regarding Harvey's reaction?",
+      "answer": "The Keeper's roll of 83 indicates a failure, resulting in a poor reaction from the desk sergeant.",
+      "rating": 9
+    },
+    {
+      "question": "What is Harvey's Credit Rating score?",
+      "answer": "41",
+      "rating": 8
+    },
+    {
+      "question": "What score does the Keeper roll, which indicates a failure?",
+      "answer": "83",
+      "rating": 9
+    },
+    {
+      "question": "What can happen to non-player characters when they fail?",
+      "answer": "They can make mistakes, misunderstand, and fail",
+      "rating": 8
+    },
+    {
+      "question": "What should be avoided when roleplaying non-player characters?",
+      "answer": "Making them infallible",
+      "rating": 9
+    },
+    {
+      "question": "What can happen to non-player characters in a Call of Cthulhu game?",
+      "answer": "Non-player characters can make mistakes, misunderstand, and fail just as readily as the investigators.",
+      "rating": 8
+    },
+    {
+      "question": "Why is it helpful for the Keeper to prepare simple props before the game?",
+      "answer": "Preparing simple props can help keep track of who's who in the game.",
+      "rating": 9
+    },
+    {
+      "question": "What can help differentiate between non-player characters in a Call of Cthulhu game?",
+      "answer": "A quick and easy way to differentiate between non-player characters is to find a portrait for each of them.",
+      "rating": 8
+    },
+    {
+      "question": "Where can investigators typically meet important non-player characters in a Call of Cthulhu game?",
+      "answer": "Investigators typically meet important non-player characters in published scenarios that include drawings or photographs of each character.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the game Call of Cthulhu assume about humanity and human civilization?"
+      },
+      {
+        "role": "assistant",
+        "content": "That humanity and human civilization considers itself worth defending and saving"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of portraying authorities in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To show that some authorities are worth the struggle and some are not"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are well-rounded authorities in the game important?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because investigators can then make up their own minds about the value of society"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the problem with portraying authorities as always corrupt or incompetent?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can corrode the heart of the game and reinforce a clich\u00e9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of testing non-player character reactions to an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "To test the non-player character's reaction to an investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which statistic can be used to determine the non-player character's reaction to an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either the investigator's APP or Credit Rating."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factor should be considered when deciding which statistic to use?"
+      },
+      {
+        "role": "assistant",
+        "content": "The situation and the non-player character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it a good idea to take note of each investigator's APP and Credit Rating skill at the start of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine which statistic to use when testing non-player character reactions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the target number for a concealed roll for non-player character reactions to an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target number is determined by the situation and the non-player character, with wealth or looks influencing the character more likely in certain cases."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you determine the target number for a concealed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target number is determined by using either the investigator's APP or Credit Rating, with the higher of the two being used when unsure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the dice result is below the target number for a concealed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the dice result is below the target number, the reaction is positive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of an initial negative reaction on the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "An initial negative reaction should make the investigator's life more difficult, especially if the player's intention is to befriend or influence the non-player character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the initial negative reaction test?"
+      },
+      {
+        "role": "assistant",
+        "content": "The initial negative reaction test is intended for use with non-player characters who have no outstanding reason to like or dislike the investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What influences the desk sergeant's reaction to Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "The desk sergeant's reaction is more likely to be impressed by wealth than looks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Harvey's Credit Rating score affect his reaction?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey's Credit Rating score is more important in this instance than APP."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of the Keeper's roll regarding Harvey's reaction?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper's roll of 83 indicates a failure, resulting in a poor reaction from the desk sergeant."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Credit Rating score?"
+      },
+      {
+        "role": "assistant",
+        "content": "41"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What score does the Keeper roll, which indicates a failure?"
+      },
+      {
+        "role": "assistant",
+        "content": "83"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to non-player characters when they fail?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can make mistakes, misunderstand, and fail"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be avoided when roleplaying non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making them infallible"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to non-player characters in a Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Non-player characters can make mistakes, misunderstand, and fail just as readily as the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it helpful for the Keeper to prepare simple props before the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Preparing simple props can help keep track of who's who in the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can help differentiate between non-player characters in a Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A quick and easy way to differentiate between non-player characters is to find a portrait for each of them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators typically meet important non-player characters in a Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigators typically meet important non-player characters in published scenarios that include drawings or photographs of each character."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

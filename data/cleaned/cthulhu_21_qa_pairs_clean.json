@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Outer Gods are a pantheon of deities in the Cthulhu Mythos, a shared universe created by H.P. Lovecraft. They are considered to be the rulers of the universe, with little to do with humanity except for the messenger god Nyarlathotep. The Outer Gods are often depicted as being almost true gods, with the ability to personify cosmic principles, and are rarely acknowledged or interacted with by humans. They are typically associated with madness, death, and destruction, and are often worshiped by secret cults or lone individuals. In contrast, the Great Old Ones, a separate pantheon of deities, are more supernatural and often interact with humans, leading to worship and cults.",
+  "qa_pairs": [
+    {
+      "question": "What rule the Outer Gods have over the universe?",
+      "answer": "The Outer Gods rule the universe",
+      "rating": 9
+    },
+    {
+      "question": "How do humans usually suffer when meddling with these entities?",
+      "answer": "Humans usually end in madness or death",
+      "rating": 8
+    },
+    {
+      "question": "What is the general attitude of Outer Gods towards humans?",
+      "answer": "They often try to break through cosmic walls or dimensions to wreak new destruction.",
+      "rating": 9
+    },
+    {
+      "question": "Who is the messenger and soul controlling the Outer Gods?",
+      "answer": "Nyarlathotep",
+      "rating": 8
+    },
+    {
+      "question": "What is the state of Azathoth, the daemon sultan and ruler of the cosmos?",
+      "answer": "Azathoth writhes mindlessly to the piping of a demon flute at the center of the universe.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship between Yog-Sothoth and the mundane universe?",
+      "answer": "Yog-Sothoth is coterminous with all time and space, but locked somehow outside the mundane universe.",
+      "rating": 9
+    },
+    {
+      "question": "What is Azathoth's role in the universe?",
+      "answer": "daemon sultan and ruler of the cosmos",
+      "rating": 8
+    },
+    {
+      "question": "What is Yog-Sothoth's connection to time and space?",
+      "answer": "coterminous with all time and space",
+      "rating": 9
+    },
+    {
+      "question": "Can Azathoth be met by traveling through space?",
+      "answer": "theoretically might be met by traveling far enough through space",
+      "rating": 8
+    },
+    {
+      "question": "Who is the best-known Elder God?",
+      "answer": "Nodens",
+      "rating": 9
+    },
+    {
+      "question": "What is the term Elder Gods sometimes referred to?",
+      "answer": "another race of gods, neutral to and possibly rivals of the Outer Gods",
+      "rating": 8
+    },
+    {
+      "question": "Who is the best-known Elder God?",
+      "answer": "Nodens",
+      "rating": 9
+    },
+    {
+      "question": "Who is the best-known Elder God?",
+      "answer": "Nodens",
+      "rating": 9
+    },
+    {
+      "question": "What is another name for a set of minor Outer Gods?",
+      "answer": "The Lesser Other Gods",
+      "rating": 8
+    },
+    {
+      "question": "How do humans typically worship Great Old Ones?",
+      "answer": "Entire clans or cults may secretly worship a Great Old One",
+      "rating": 7
+    },
+    {
+      "question": "Where do beings serving the Great Old Ones frequently inhabit?",
+      "answer": "The remote fastness of the Earth",
+      "rating": 8
+    },
+    {
+      "question": "What is the preferred deity for lone madmen?",
+      "answer": "the Outer Gods",
+      "rating": 8
+    },
+    {
+      "question": "Where are the beings serving the Great Old Ones often found?",
+      "answer": "the remote fastness of the Earth",
+      "rating": 9
+    },
+    {
+      "question": "What do investigators most often encounter in their investigations?",
+      "answer": "worshipers and alien servants",
+      "rating": 7
+    },
+    {
+      "question": "How do the Great Old Ones appear?",
+      "answer": "themselves",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What rule the Outer Gods have over the universe?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Outer Gods rule the universe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do humans usually suffer when meddling with these entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Humans usually end in madness or death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general attitude of Outer Gods towards humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "They often try to break through cosmic walls or dimensions to wreak new destruction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the messenger and soul controlling the Outer Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nyarlathotep"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of Azathoth, the daemon sultan and ruler of the cosmos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azathoth writhes mindlessly to the piping of a demon flute at the center of the universe."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between Yog-Sothoth and the mundane universe?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yog-Sothoth is coterminous with all time and space, but locked somehow outside the mundane universe."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Azathoth's role in the universe?"
+      },
+      {
+        "role": "assistant",
+        "content": "daemon sultan and ruler of the cosmos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yog-Sothoth's connection to time and space?"
+      },
+      {
+        "role": "assistant",
+        "content": "coterminous with all time and space"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Azathoth be met by traveling through space?"
+      },
+      {
+        "role": "assistant",
+        "content": "theoretically might be met by traveling far enough through space"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the best-known Elder God?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nodens"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the term Elder Gods sometimes referred to?"
+      },
+      {
+        "role": "assistant",
+        "content": "another race of gods, neutral to and possibly rivals of the Outer Gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the best-known Elder God?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nodens"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the best-known Elder God?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nodens"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is another name for a set of minor Outer Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Lesser Other Gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do humans typically worship Great Old Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entire clans or cults may secretly worship a Great Old One"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do beings serving the Great Old Ones frequently inhabit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The remote fastness of the Earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the preferred deity for lone madmen?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Outer Gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are the beings serving the Great Old Ones often found?"
+      },
+      {
+        "role": "assistant",
+        "content": "the remote fastness of the Earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do investigators most often encounter in their investigations?"
+      },
+      {
+        "role": "assistant",
+        "content": "worshipers and alien servants"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the Great Old Ones appear?"
+      },
+      {
+        "role": "assistant",
+        "content": "themselves"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

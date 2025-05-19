@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Deep Ones are an amphibious, alien species in H.P. Lovecraft's works, primarily serving Cthulhu and other beings. They are immortal unless slain and have the ability to breathe underwater and on land. Deep Ones are capable of draining the life force of humans, dealing significant damage, and have a 40% chance of knowing spells. They are also known for their cold, beautiful, and cruel lives, and are often worshiped by humans who interbreed with them. The Deep Ones are connected to ancient, dark fertility cults and have a strong connection to the natural world.",
+  "qa_pairs": [
+    {
+      "question": "How much STR loss can a victim sustain while being drained?",
+      "answer": "1D10+5 STR per round",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for a Dark Young in combat?",
+      "answer": "80% (40/16)",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Dark Young can trample an opponent?",
+      "answer": "40%",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage bonus for a successful trample attack?",
+      "answer": "damage bonus",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage per round for a successful grab attack?",
+      "answer": "1D10 + 5 STR",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of Dark Young have a bonus to Stealth skills?",
+      "answer": "30%",
+      "rating": 7
+    },
+    {
+      "question": "What are the physical characteristics of the deep ones?",
+      "answer": "sides of their necks were palpitating gills and their long paws were webbed",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary purpose of the deep ones in relation to Great Cthulhu?",
+      "answer": "They come together to mate or to worship Great Cthulhu",
+      "rating": 8
+    },
+    {
+      "question": "Where are some of the submerged cities of the deep ones located?",
+      "answer": "One is off the coast of Massachusetts, near Innsmouth, while other sites are rumored to lie off the British Isles",
+      "rating": 9
+    },
+    {
+      "question": "What is unique about the deep ones' interaction with humans?",
+      "answer": "They do not crave touching or being touched as humans do",
+      "rating": 8
+    },
+    {
+      "question": "Where are the Deep Ones found primarily?",
+      "answer": "They are a marine race, unknown in freshwater environments, and globally have many cities, all submerged beneath the waves.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical chance of a Deep One knowing a spell?",
+      "answer": "Deep ones have a 40% chance of knowing 1D4 spells.",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the ancient Pagan fertility cult uncovered in England?",
+      "answer": "The findings reveal an unhealthy devotion to trees and darkly suggest hideous religious rites involving the sacrifice of virgins to something named only as the 'Withering Tree'.",
+      "rating": 9
+    },
+    {
+      "question": "Can Deep Ones breathe on land?",
+      "answer": "Deep ones are equally capable of breathing on land.",
+      "rating": 8
+    },
+    {
+      "question": "What is the general habitat of deep ones?",
+      "answer": "Deep ones require no exterior help to breathe underwater and are equally capable of breathing on land.",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the ancient Pagan fertility cult uncovered by researchers?",
+      "answer": "The findings reveal an unhealthy devotion to trees and darkly suggest hideous religious rites involving the sacrifice of virgins to something named only as the 'Withering Tree'.",
+      "rating": 9
+    },
+    {
+      "question": "What is a possible connection to the claims of Amazonian elders?",
+      "answer": "Perhaps connected are the claims of certain Amazonian elders who speak of regions of the jungle that walk, and how gifts must be given to the 'tall ones' to satiate their hunger.",
+      "rating": 8
+    },
+    {
+      "question": "How do deep ones die?",
+      "answer": "Deep ones are immortal unless slain.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for Deep Ones to be immortal?",
+      "answer": "unless slain",
+      "rating": 9
+    },
+    {
+      "question": "What is the chance of a Deep One knowing a spell?",
+      "answer": "40%",
+      "rating": 7
+    },
+    {
+      "question": "Where were recent research findings about an ancient Pagan fertility cult uncovered?",
+      "answer": "central England",
+      "rating": 8
+    },
+    {
+      "question": "What is believed to happen to travelers who stay in certain regions of the jungle without giving gifts to the 'tall ones'?",
+      "answer": "they are awoken by vines encircling their legs or arms",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much STR loss can a victim sustain while being drained?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10+5 STR per round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a Dark Young in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "80% (40/16)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Dark Young can trample an opponent?"
+      },
+      {
+        "role": "assistant",
+        "content": "40%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a successful trample attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage per round for a successful grab attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 + 5 STR"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Dark Young have a bonus to Stealth skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the physical characteristics of the deep ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "sides of their necks were palpitating gills and their long paws were webbed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of the deep ones in relation to Great Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "They come together to mate or to worship Great Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are some of the submerged cities of the deep ones located?"
+      },
+      {
+        "role": "assistant",
+        "content": "One is off the coast of Massachusetts, near Innsmouth, while other sites are rumored to lie off the British Isles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about the deep ones' interaction with humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "They do not crave touching or being touched as humans do"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are the Deep Ones found primarily?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are a marine race, unknown in freshwater environments, and globally have many cities, all submerged beneath the waves."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical chance of a Deep One knowing a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep ones have a 40% chance of knowing 1D4 spells."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the ancient Pagan fertility cult uncovered in England?"
+      },
+      {
+        "role": "assistant",
+        "content": "The findings reveal an unhealthy devotion to trees and darkly suggest hideous religious rites involving the sacrifice of virgins to something named only as the 'Withering Tree'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Deep Ones breathe on land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep ones are equally capable of breathing on land."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general habitat of deep ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep ones require no exterior help to breathe underwater and are equally capable of breathing on land."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the ancient Pagan fertility cult uncovered by researchers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The findings reveal an unhealthy devotion to trees and darkly suggest hideous religious rites involving the sacrifice of virgins to something named only as the 'Withering Tree'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible connection to the claims of Amazonian elders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perhaps connected are the claims of certain Amazonian elders who speak of regions of the jungle that walk, and how gifts must be given to the 'tall ones' to satiate their hunger."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do deep ones die?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep ones are immortal unless slain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for Deep Ones to be immortal?"
+      },
+      {
+        "role": "assistant",
+        "content": "unless slain"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a Deep One knowing a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "40%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where were recent research findings about an ancient Pagan fertility cult uncovered?"
+      },
+      {
+        "role": "assistant",
+        "content": "central England"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is believed to happen to travelers who stay in certain regions of the jungle without giving gifts to the 'tall ones'?"
+      },
+      {
+        "role": "assistant",
+        "content": "they are awoken by vines encircling their legs or arms"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the town of Bennington, a gunfight occurred on the edge of the forest, resulting in the kidnapping of Jane Strong, the daughter of Lucas Strong. The sheriff is organizing a manhunt to find Jane and catch the escaped gangsters, led by Sidney Harris, who demanded a $10,000 ransom for her safe return. Lucas Strong is offering a $25 per day reward to anyone who joins the hunt, and he is also willing to pay for the capture of Harris' dead body. The investigators are grouped together and must gather supplies and equipment within two hours to begin their search.",
+  "qa_pairs": [
+    {
+      "question": "Who demanded a ransom of $10,000 for Jane's return?",
+      "answer": "G Harris",
+      "rating": 9
+    },
+    {
+      "question": "Who is offering a $25 per day reward for helping in the hunt for Jane?",
+      "answer": "Lucas Strong",
+      "rating": 8
+    },
+    {
+      "question": "What will Strong pay to anyone willing to help?",
+      "answer": "He\u2019s willing to pay anyone who is willing to help, \u201cMan or woman, black or white, I\u2019don\u2019t care. Just bring my little girl home and you\u2019ll be paid!\u201d",
+      "rating": 9
+    },
+    {
+      "question": "Where can investigators buy additional weapons or equipment?",
+      "answer": "Arthur J. Spence\u2019s Hardware and Gun Store on Main Street",
+      "rating": 8
+    },
+    {
+      "question": "What is the deadline for the investigators to get their supplies and equipment together?",
+      "answer": "They are given until noon (two hours)",
+      "rating": 7
+    },
+    {
+      "question": "What will the sheriff do if the investigators press Strong for more money or make a scene?",
+      "answer": "The sheriff will take objection and warn the investigators to mind their manners.",
+      "rating": 8
+    },
+    {
+      "question": "Where can investigators buy additional weapons or equipment?",
+      "answer": "Arthur J. Spence\u2019s Hardware and Gun Store on Main Street",
+      "rating": 8
+    },
+    {
+      "question": "What should investigators do if they are looking for unusual equipment?",
+      "answer": "They may have to call on luck",
+      "rating": 6
+    },
+    {
+      "question": "Why is it difficult for investigators to find certain items?",
+      "answer": "Because the town is essentially a frontier town and some items may be impossible to buy within the time frame",
+      "rating": 8
+    },
+    {
+      "question": "Will all equipment and weapons be available for purchase?",
+      "answer": "No, some items will be impossible to buy in the time the investigators have",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the store where Spence's Hardware and Gun Store is located?",
+      "answer": "Spence's Hardware and Gun Store on Main Street",
+      "rating": 7
+    },
+    {
+      "question": "What kind of articles can investigators find in the local library or newspaper office to learn about the forest's use as a hideout?",
+      "answer": "Articles about the forest being used as a hideout for fugitives trying to evade conscription into the Union Army",
+      "rating": 8
+    },
+    {
+      "question": "What has Harris planned to do with the forest?",
+      "answer": "It is not specified what Harris has planned to do with the forest, but it is mentioned that Harris is using the forest",
+      "rating": 6
+    },
+    {
+      "question": "What team did Strong recently send out to survey for precious minerals?",
+      "answer": "A geological team to survey for precious minerals in what will become the reservoir\u2019s bed",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who demanded a ransom of $10,000 for Jane's return?"
+      },
+      {
+        "role": "assistant",
+        "content": "G Harris"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is offering a $25 per day reward for helping in the hunt for Jane?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucas Strong"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will Strong pay to anyone willing to help?"
+      },
+      {
+        "role": "assistant",
+        "content": "He\u2019s willing to pay anyone who is willing to help, \u201cMan or woman, black or white, I\u2019don\u2019t care. Just bring my little girl home and you\u2019ll be paid!\u201d"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators buy additional weapons or equipment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arthur J. Spence\u2019s Hardware and Gun Store on Main Street"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the deadline for the investigators to get their supplies and equipment together?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are given until noon (two hours)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will the sheriff do if the investigators press Strong for more money or make a scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sheriff will take objection and warn the investigators to mind their manners."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators buy additional weapons or equipment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arthur J. Spence\u2019s Hardware and Gun Store on Main Street"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should investigators do if they are looking for unusual equipment?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may have to call on luck"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it difficult for investigators to find certain items?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the town is essentially a frontier town and some items may be impossible to buy within the time frame"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Will all equipment and weapons be available for purchase?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, some items will be impossible to buy in the time the investigators have"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the store where Spence's Hardware and Gun Store is located?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spence's Hardware and Gun Store on Main Street"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of articles can investigators find in the local library or newspaper office to learn about the forest's use as a hideout?"
+      },
+      {
+        "role": "assistant",
+        "content": "Articles about the forest being used as a hideout for fugitives trying to evade conscription into the Union Army"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has Harris planned to do with the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is not specified what Harris has planned to do with the forest, but it is mentioned that Harris is using the forest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What team did Strong recently send out to survey for precious minerals?"
+      },
+      {
+        "role": "assistant",
+        "content": "A geological team to survey for precious minerals in what will become the reservoir\u2019s bed"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 14,
+    "retention_rate": 0.64,
+    "avg_score": 5.4
+  }
+}

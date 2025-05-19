@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, the Outer Gods are powerful, otherworldly beings that can be summoned by powerful wizards. These summoned entities, known as servitors, are twisted and warped creatures that can be hostile towards humans. Servitors have unique abilities, such as the ability to play discordant music that can drive humans mad, and can attack in various ways, including with their tentacles. They also have unique statistics, such as high damage bonuses and regeneration abilities. Overall, the Outer Gods are formidable foes that can be a challenge for even the most experienced players.",
+  "qa_pairs": [
+    {
+      "question": "What is the cost for a servitor to summon a being?",
+      "answer": "A magic point and another magic point for each five rounds the summoned being remains.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to human listeners who endure music of madness every two rounds?",
+      "answer": "They must make a Sanity roll.",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks can a Serpent Person make per round?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "What is a common attack used by Serpent People?",
+      "answer": "The usual range of unarmed attacks open to humanoids.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of summoning a servitor in terms of magic points?",
+      "answer": "Two magic points, and an additional magic point for each five rounds the summoned being remains.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to human listeners who endure the music of Madness for two rounds without making a Sanity roll?",
+      "answer": "They lose 1D4 Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical number of spells known by a Serpent Person?",
+      "answer": "At least 1D10 spells, always including 1D10 Summon/Bind and Call spells.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt to a victim of a serpent person's bite if they fail an Extreme CON roll?",
+      "answer": "1D8 damage.",
+      "rating": 8
+    },
+    {
+      "question": "What is suggested by learned wizards about those who lose their mind to such music?",
+      "answer": "They may themselves becomes warped in mind and body and forever doomed to dance to the tune of the Outer Gods.",
+      "rating": 10
+    },
+    {
+      "question": "What is the damage dealt by the bite of a serpent person?",
+      "answer": "1D8 + poison",
+      "rating": 8
+    },
+    {
+      "question": "What is the chance for a serpent person to dodge an attack?",
+      "answer": "32% (16/6)",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt by a serpent person's fighting attack?",
+      "answer": "1D3 + damage bonus",
+      "rating": 7
+    },
+    {
+      "question": "What is a characteristic of a serpent person's bite?",
+      "answer": "The bite of a serpent person is highly poisonous.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a victim fails to succeed in an Extreme CON roll when bitten by a serpent person?",
+      "answer": "The victim takes 1D8 damage.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt by a serpent person when fighting 50% of the time?",
+      "answer": "Damage 1D3 + damage bonus.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by a serpent person when fighting 35% of the time?",
+      "answer": "Damage 1D8 + poison.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost for a servitor to summon a being?"
+      },
+      {
+        "role": "assistant",
+        "content": "A magic point and another magic point for each five rounds the summoned being remains."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to human listeners who endure music of madness every two rounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "They must make a Sanity roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a Serpent Person make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common attack used by Serpent People?"
+      },
+      {
+        "role": "assistant",
+        "content": "The usual range of unarmed attacks open to humanoids."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of summoning a servitor in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two magic points, and an additional magic point for each five rounds the summoned being remains."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to human listeners who endure the music of Madness for two rounds without making a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose 1D4 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical number of spells known by a Serpent Person?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least 1D10 spells, always including 1D10 Summon/Bind and Call spells."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt to a victim of a serpent person's bite if they fail an Extreme CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is suggested by learned wizards about those who lose their mind to such music?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may themselves becomes warped in mind and body and forever doomed to dance to the tune of the Outer Gods."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the bite of a serpent person?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 + poison"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance for a serpent person to dodge an attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "32% (16/6)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a serpent person's fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of a serpent person's bite?"
+      },
+      {
+        "role": "assistant",
+        "content": "The bite of a serpent person is highly poisonous."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a victim fails to succeed in an Extreme CON roll when bitten by a serpent person?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim takes 1D8 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a serpent person when fighting 50% of the time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage 1D3 + damage bonus."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a serpent person when fighting 35% of the time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage 1D8 + poison."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 16,
+    "retention_rate": 0.62,
+    "avg_score": 8.4
+  }
+}

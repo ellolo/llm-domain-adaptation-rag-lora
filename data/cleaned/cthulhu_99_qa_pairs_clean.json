@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the Keeper explains the rules for skill checks in a game system, specifically when to use sequential skill rolls versus a combined skill roll. The Keeper also outlines the process for the Investigator's Development Phase, where the player earns experience points by successfully using skills in play. The document explains how to track the Investigator's skill levels, including how to improve or maintain them, and provides guidelines for when to call for a Development Phase. Additionally, it clarifies the rules for skills such as Charm, Fast Talk, and Intimidate, and how to determine the difficulty level of a skill check.",
+  "qa_pairs": [
+    {
+      "question": "What determines whether to use sequential skill rolls or a combined skill roll?",
+      "answer": "The situation calls for either sequential skill rolls or a combined skill roll.",
+      "rating": 9
+    },
+    {
+      "question": "What skills would allow Harvey to anticipate the cultist's action?",
+      "answer": "Spot Hidden and Psychology.",
+      "rating": 8
+    },
+    {
+      "question": "What skills are required to repair an electric turbine?",
+      "answer": "Mechanical Repair and Electrical Repair.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of the combined rolls for repairing an electric turbine?",
+      "answer": "Both skills must be successful.",
+      "rating": 8
+    },
+    {
+      "question": "What is required for Harvey to successfully repair the electric turbine?",
+      "answer": "One roll must be successful in both Mechanical Repair and Electrical Repair.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the difficulty level of a Charm skill?",
+      "answer": "The opposing factor, which is either Charm, Fast Talk, Intimidate, or Persuade, or Psychology.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of having a Charm skill of 75%?",
+      "answer": "It does not mean that the investigator can charm anyone and succeed 75% of the time.",
+      "rating": 8
+    },
+    {
+      "question": "What does the investigator need to charm someone, if the investigator has a Charm skill of 75%?",
+      "answer": "The investigator would need to match the Charm skill level (75%) with the opposing factor.",
+      "rating": 9
+    },
+    {
+      "question": "What type of roll is made for the task?",
+      "answer": "A combined Mechanical Repair and Electrical Repair roll",
+      "rating": 8
+    },
+    {
+      "question": "What determines the difficulty level of a skill?",
+      "answer": "The opposing factor, which is a matching social skill",
+      "rating": 9
+    },
+    {
+      "question": "What happens if both sides of an opposed roll achieve a level of success?",
+      "answer": "Only one can tick their skill",
+      "rating": 7
+    },
+    {
+      "question": "How does the player check for a tick in the investigator sheet?",
+      "answer": "By checking the box beside the skill used",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a tick if a bonus die is used in a roll?",
+      "answer": "No tick is earned.",
+      "rating": 6
+    },
+    {
+      "question": "Where does the investigator development phase typically occur?",
+      "answer": "At the end of a scenario or the conclusion of a chapter.",
+      "rating": 9
+    },
+    {
+      "question": "Can a skill be checked multiple times to see if the investigator improves?",
+      "answer": "No, only one check per skill can be made.",
+      "rating": 8
+    },
+    {
+      "question": "When should the Keeper look for a pause in the narrative to allow for an investigator development phase?",
+      "answer": "After a story continues beyond the conclusion of a chapter.",
+      "rating": 9
+    },
+    {
+      "question": "What determines whether an investigator improves a skill?",
+      "answer": "A roll higher than the current skill number or a result over 95",
+      "rating": 9
+    },
+    {
+      "question": "How does a player roll to check if an investigator improves a skill?",
+      "answer": "1D100",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the investigator rolls higher than the current skill number?",
+      "answer": "The investigator improves in that skill",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum possible skill points a skill can have?",
+      "answer": "100%",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the player rolls higher than the current skill number?",
+      "answer": "The investigator improves in that skill.",
+      "rating": 9
+    },
+    {
+      "question": "How does the skill amount change when the player rolls equal to or less than the investigator\u2019s skill level?",
+      "answer": "It does not change.",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum skill percentage?",
+      "answer": "100%",
+      "rating": 9
+    },
+    {
+      "question": "What happens to skill checks after a game session?",
+      "answer": "They can be checked again during the next game session.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator's skill level if they roll equal to or less than the investigator\u2019s skill level?",
+      "answer": "The investigator hasn\u2019t learned from the experience and the skill amount does not change.",
+      "rating": 8
+    },
+    {
+      "question": "What should be done after all skills have been checked?",
+      "answer": "Erase all skill checks on the investigator sheet.",
+      "rating": 9
+    },
+    {
+      "question": "Can the Cthulhu Mythos and Credit Rating skills be checked?",
+      "answer": "No, The Cthulhu Mythos and Credit Rating skills never receive a skill check.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigator's skill level if they don't improve it?",
+      "answer": "Not improving a skill has no other consequence.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines whether to use sequential skill rolls or a combined skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The situation calls for either sequential skill rolls or a combined skill roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills would allow Harvey to anticipate the cultist's action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spot Hidden and Psychology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills are required to repair an electric turbine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mechanical Repair and Electrical Repair."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the combined rolls for repairing an electric turbine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both skills must be successful."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for Harvey to successfully repair the electric turbine?"
+      },
+      {
+        "role": "assistant",
+        "content": "One roll must be successful in both Mechanical Repair and Electrical Repair."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of a Charm skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opposing factor, which is either Charm, Fast Talk, Intimidate, or Persuade, or Psychology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of having a Charm skill of 75%?"
+      },
+      {
+        "role": "assistant",
+        "content": "It does not mean that the investigator can charm anyone and succeed 75% of the time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the investigator need to charm someone, if the investigator has a Charm skill of 75%?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator would need to match the Charm skill level (75%) with the opposing factor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is made for the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "A combined Mechanical Repair and Electrical Repair roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opposing factor, which is a matching social skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both sides of an opposed roll achieve a level of success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one can tick their skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the player check for a tick in the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "By checking the box beside the skill used"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a tick if a bonus die is used in a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "No tick is earned."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does the investigator development phase typically occur?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the end of a scenario or the conclusion of a chapter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a skill be checked multiple times to see if the investigator improves?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, only one check per skill can be made."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When should the Keeper look for a pause in the narrative to allow for an investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "After a story continues beyond the conclusion of a chapter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines whether an investigator improves a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll higher than the current skill number or a result over 95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a player roll to check if an investigator improves a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator rolls higher than the current skill number?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator improves in that skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum possible skill points a skill can have?"
+      },
+      {
+        "role": "assistant",
+        "content": "100%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the player rolls higher than the current skill number?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator improves in that skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the skill amount change when the player rolls equal to or less than the investigator\u2019s skill level?"
+      },
+      {
+        "role": "assistant",
+        "content": "It does not change."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum skill percentage?"
+      },
+      {
+        "role": "assistant",
+        "content": "100%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to skill checks after a game session?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can be checked again during the next game session."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's skill level if they roll equal to or less than the investigator\u2019s skill level?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator hasn\u2019t learned from the experience and the skill amount does not change."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be done after all skills have been checked?"
+      },
+      {
+        "role": "assistant",
+        "content": "Erase all skill checks on the investigator sheet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Cthulhu Mythos and Credit Rating skills be checked?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, The Cthulhu Mythos and Credit Rating skills never receive a skill check."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's skill level if they don't improve it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not improving a skill has no other consequence."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

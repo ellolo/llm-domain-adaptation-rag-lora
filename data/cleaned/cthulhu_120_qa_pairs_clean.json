@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, modifiers are introduced that can grant advantages or disadvantages to characters in a game. These modifiers include \"Diving for Cover\" (penalty die), \"Cover and Concealment\" (penalty die), \"Point-Blank Range\" (bonus die), \"Aiming\" (bonus die), \"Fast-Moving Targets\" (penalty die), \"Target Size\" (bonus or penalty die), and \"Reloading Firearms\" (possible penalty die). These modifiers can affect the difficulty of attacks, the accuracy of shots, and the effectiveness of defensive maneuvers. They provide a way for characters to adapt to different situations and gain an advantage or disadvantage in combat.",
+  "qa_pairs": [
+    {
+      "question": "What are modifiers that grant either a bonus die or a penalty die?",
+      "answer": "Modifiers grant either a bonus die or a penalty die.",
+      "rating": 9
+    },
+    {
+      "question": "What action does a target that is aware of being fired upon take to present a more difficult target?",
+      "answer": "A target that is aware of being fired upon may react by diving for cover.",
+      "rating": 8
+    },
+    {
+      "question": "What is the requirement for diving for cover?",
+      "answer": "A Dodge roll",
+      "rating": 9
+    },
+    {
+      "question": "What does the attacker get if they succeed in diving for cover?",
+      "answer": "One penalty die",
+      "rating": 8
+    },
+    {
+      "question": "What does a character who dives for cover forfeit?",
+      "answer": "Their next attack",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a character with multiple attacks dives for cover?",
+      "answer": "They forfeit all of their attacks",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a character has used their attack this round?",
+      "answer": "They forfeit their attack in the following round.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if an individual with multiple attacks dives for cover?",
+      "answer": "They forfeit all of their attacks, not just a single attack.",
+      "rating": 9
+    },
+    {
+      "question": "How does cover protect a target?",
+      "answer": "It obscures the target, making the shot more difficult.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a target breaks cover briefly?",
+      "answer": "Another character targeting the target may be allowed to shoot.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an individual with multiple attacks dives for cover?",
+      "answer": "They forfeit all of their attacks.",
+      "rating": 9
+    },
+    {
+      "question": "How much of the target must be concealed for a one to get an additional penalty die?",
+      "answer": "At least half of the target",
+      "rating": 8
+    },
+    {
+      "question": "What is the bonus die when a target is at point-blank range?",
+      "answer": "A bonus die",
+      "rating": 7
+    },
+    {
+      "question": "Can a target fight back or dodge a Firearm attack?",
+      "answer": "No, they can only fight back or dodge a Fighting attack",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a target's defense if it breaks cover even briefly?",
+      "answer": "A target that breaks cover even briefly may be targeted by another character, if that character is holding their turn.",
+      "rating": 9
+    },
+    {
+      "question": "What is the bonus die awarded to the attacker when the target is at point-blank range?",
+      "answer": "The attacker gains a bonus die at point-blank range, within a fifth of the shooter's DEX in feet.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the aiming character if they take damage or move while aiming?",
+      "answer": "The advantage of aiming is lost if the aiming character takes damage or moves while aiming.",
+      "rating": 10
+    },
+    {
+      "question": "How many bonus dies can the aiming character gain?",
+      "answer": "Only one bonus die may be gained by aiming.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the advantage of aiming if the aiming character takes damage or moves?",
+      "answer": "The advantage of aiming is lost.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a target moving at full speed on the difficulty of hitting it?",
+      "answer": "A target moving at full speed (MOV 8 or more) is hard to hit; apply one penalty die.",
+      "rating": 10
+    },
+    {
+      "question": "What happens to the difficulty of hitting a smaller target?",
+      "answer": "Smaller targets are harder to hit; apply one penalty die.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of reloading a machine gun on the process?",
+      "answer": "Allow two rounds to change a machine gun belt.",
+      "rating": 7
+    },
+    {
+      "question": "How many rounds it takes to load two shells into any handgun, rifle, or shotgun?",
+      "answer": "One combat round",
+      "rating": 9
+    },
+    {
+      "question": "How many rounds it takes to exchange a clip in a round?",
+      "answer": "One round",
+      "rating": 8
+    },
+    {
+      "question": "How many rounds it takes to change a machine gun belt?",
+      "answer": "Two rounds",
+      "rating": 8
+    },
+    {
+      "question": "How many shots can many handguns fire per round?",
+      "answer": "2 or 3 shots",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are modifiers that grant either a bonus die or a penalty die?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modifiers grant either a bonus die or a penalty die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action does a target that is aware of being fired upon take to present a more difficult target?"
+      },
+      {
+        "role": "assistant",
+        "content": "A target that is aware of being fired upon may react by diving for cover."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for diving for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Dodge roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the attacker get if they succeed in diving for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a character who dives for cover forfeit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their next attack"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character with multiple attacks dives for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "They forfeit all of their attacks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character has used their attack this round?"
+      },
+      {
+        "role": "assistant",
+        "content": "They forfeit their attack in the following round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an individual with multiple attacks dives for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "They forfeit all of their attacks, not just a single attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does cover protect a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "It obscures the target, making the shot more difficult."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a target breaks cover briefly?"
+      },
+      {
+        "role": "assistant",
+        "content": "Another character targeting the target may be allowed to shoot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an individual with multiple attacks dives for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "They forfeit all of their attacks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much of the target must be concealed for a one to get an additional penalty die?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least half of the target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus die when a target is at point-blank range?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bonus die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a target fight back or dodge a Firearm attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they can only fight back or dodge a Fighting attack"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target's defense if it breaks cover even briefly?"
+      },
+      {
+        "role": "assistant",
+        "content": "A target that breaks cover even briefly may be targeted by another character, if that character is holding their turn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus die awarded to the attacker when the target is at point-blank range?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker gains a bonus die at point-blank range, within a fifth of the shooter's DEX in feet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the aiming character if they take damage or move while aiming?"
+      },
+      {
+        "role": "assistant",
+        "content": "The advantage of aiming is lost if the aiming character takes damage or moves while aiming."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many bonus dies can the aiming character gain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one bonus die may be gained by aiming."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the advantage of aiming if the aiming character takes damage or moves?"
+      },
+      {
+        "role": "assistant",
+        "content": "The advantage of aiming is lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a target moving at full speed on the difficulty of hitting it?"
+      },
+      {
+        "role": "assistant",
+        "content": "A target moving at full speed (MOV 8 or more) is hard to hit; apply one penalty die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the difficulty of hitting a smaller target?"
+      },
+      {
+        "role": "assistant",
+        "content": "Smaller targets are harder to hit; apply one penalty die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of reloading a machine gun on the process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allow two rounds to change a machine gun belt."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds it takes to load two shells into any handgun, rifle, or shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "One combat round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds it takes to exchange a clip in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds it takes to change a machine gun belt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many shots can many handguns fire per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 or 3 shots"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"Graveyard Kiss\" spell, also known as \"Create Zombie Variant,\" is a ritual that transforms a human corpse into a mindless zombie under the caster's control. The spell requires a human corpse, the caster's own blood, and a significant loss of Sanity points (5 points). The zombie is linked to the caster and will follow simple commands, but its life is tied to the caster's, and it will rot away if the caster dies. A more sinister version of the spell, \"Create Zombie,\" involves capturing and murdering a living person, burying them alive, and then converting them into a zombie.",
+  "qa_pairs": [
+    {
+      "question": "How long does the casting time of the spell take?",
+      "answer": "1 hour",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the zombie after its creation?",
+      "answer": "It continues to rot and eventually decays into incapacity",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the zombie after its creation?",
+      "answer": "The thing continues to rot after its creation and eventually decays into incapacity.",
+      "rating": 7
+    },
+    {
+      "question": "How long does the casting time of the Graveyard Kiss spell reduce to?",
+      "answer": "The casting time is reduced to one day, but it could just as well remain at one week.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the zombie's life if its master dies?",
+      "answer": "The zombie's life will become inactive and rot away should its master die.",
+      "rating": 9
+    },
+    {
+      "question": "What can be learned from the zombie over time?",
+      "answer": "The zombie may slowly learn more over time.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the zombie if its master dies?",
+      "answer": "The zombie becomes inactive and will rot away.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of casting the Graveyard Kiss spell?",
+      "answer": "5 POW and 1D10 Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "How long does the casting time of the Graveyard Kiss spell take?",
+      "answer": "1 day.",
+      "rating": 8
+    },
+    {
+      "question": "What is required for the Graveyard Kiss spell to work?",
+      "answer": "A human corpse with sufficient flesh to allow mobility after activation.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the caster if the spell fails?",
+      "answer": "The caster's POW is lost, a gift to the corpse.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the caster's own blood in the spell?",
+      "answer": "The caster puts an ounce of his or her own blood in the mouth of the corpse.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the zombie if the caster dies?",
+      "answer": "The zombie becomes inactive and rots away.",
+      "rating": 8
+    },
+    {
+      "question": "How many zombies can be actively controlled at any given time?",
+      "answer": "The maximum number of zombies that may be actively controlled at any given time is the result of the caster's POW divided by five.",
+      "rating": 9
+    },
+    {
+      "question": "What is the term for the part of the invocation that refers to the Mythos Gods?",
+      "answer": "Mythos Gods",
+      "rating": 8
+    },
+    {
+      "question": "How do you calculate the maximum number of zombies that can be actively controlled?",
+      "answer": "Divide the caster's POW by five",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the casting time of the spell take?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the zombie after its creation?"
+      },
+      {
+        "role": "assistant",
+        "content": "It continues to rot and eventually decays into incapacity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the zombie after its creation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The thing continues to rot after its creation and eventually decays into incapacity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the casting time of the Graveyard Kiss spell reduce to?"
+      },
+      {
+        "role": "assistant",
+        "content": "The casting time is reduced to one day, but it could just as well remain at one week."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the zombie's life if its master dies?"
+      },
+      {
+        "role": "assistant",
+        "content": "The zombie's life will become inactive and rot away should its master die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be learned from the zombie over time?"
+      },
+      {
+        "role": "assistant",
+        "content": "The zombie may slowly learn more over time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the zombie if its master dies?"
+      },
+      {
+        "role": "assistant",
+        "content": "The zombie becomes inactive and will rot away."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Graveyard Kiss spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 POW and 1D10 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the casting time of the Graveyard Kiss spell take?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 day."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the Graveyard Kiss spell to work?"
+      },
+      {
+        "role": "assistant",
+        "content": "A human corpse with sufficient flesh to allow mobility after activation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster if the spell fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster's POW is lost, a gift to the corpse."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the caster's own blood in the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster puts an ounce of his or her own blood in the mouth of the corpse."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the zombie if the caster dies?"
+      },
+      {
+        "role": "assistant",
+        "content": "The zombie becomes inactive and rots away."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many zombies can be actively controlled at any given time?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maximum number of zombies that may be actively controlled at any given time is the result of the caster's POW divided by five."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the term for the part of the invocation that refers to the Mythos Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mythos Gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you calculate the maximum number of zombies that can be actively controlled?"
+      },
+      {
+        "role": "assistant",
+        "content": "Divide the caster's POW by five"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 16,
+    "retention_rate": 0.8,
+    "avg_score": 7.2
+  }
+}

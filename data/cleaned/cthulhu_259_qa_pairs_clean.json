@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Necronomicon is a fictional grimoire in the Cthulhu Mythos, a shared universe created by H.P. Lovecraft. The book is said to contain deep magic and knowledge related to the Cthulhu Mythos, including spells, incantations, and descriptions of various Mythos entities. There are several versions of the Necronomicon, including the original Kitab Al Azif written by Abdul Al-Hazred around 730 A.D., and later translations by Olaus Wormius, Dr. John Dee, and Baron Frederic. Each version is said to have a different level of sanity loss and Mythos rating, with the original Kitab Al Azif being the most powerful and potentially insane-inducing.",
+  "qa_pairs": [
+    {
+      "question": "When was the Latin version of Necronomicon first circulated?",
+      "answer": "1228 AD",
+      "rating": 8
+    },
+    {
+      "question": "In what century was the Latin version of Necronomicon printed?",
+      "answer": "15th century",
+      "rating": 9
+    },
+    {
+      "question": "How many copies of the first edition of Latin Necronomicon are known to exist?",
+      "answer": "One",
+      "rating": 7
+    },
+    {
+      "question": "When was the English version of Necronomicon translated by Dr. John Dee?",
+      "answer": "1586",
+      "rating": 8
+    },
+    {
+      "question": "How many copies of the manuscript version of English Necronomicon are known to exist?",
+      "answer": "Three",
+      "rating": 9
+    },
+    {
+      "question": "How many nearly-complete copies of the Necronomicon are known?",
+      "answer": "Three",
+      "rating": 8
+    },
+    {
+      "question": "What is the suggested study period for the Necronomicon?",
+      "answer": "50 weeks",
+      "rating": 9
+    },
+    {
+      "question": "What is the suggested study period for the Sussex Manuscript?",
+      "answer": "36 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the proper known name of the Cultus Maleficarum?",
+      "answer": "Cultus Maleficarum",
+      "rating": 9
+    },
+    {
+      "question": "When was the English translation of the Necronomicon, known as Al Azif, printed?",
+      "answer": "1597",
+      "rating": 8
+    },
+    {
+      "question": "What is the suggested Sanity Loss for studying the Necronomicon?",
+      "answer": "2D10",
+      "rating": 7
+    },
+    {
+      "question": "What is the Mythos Rating for the Necronomicon?",
+      "answer": "45",
+      "rating": 9
+    },
+    {
+      "question": "How many weeks is the study period for the Necronomicon?",
+      "answer": "50 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the suggested Mythos rating for the Sussex Manuscript?",
+      "answer": "21",
+      "rating": 9
+    },
+    {
+      "question": "What is the suggested Mythos rating for the Al Azif?",
+      "answer": "21",
+      "rating": 9
+    },
+    {
+      "question": "What is the Necronomicon known for in the Cthulhu Mythos?",
+      "answer": "The Necronomicon is encyclopedic and baffling, containing deep Mythos magic and knowledge.",
+      "rating": 10
+    },
+    {
+      "question": "What can be opened by a chant to Yog-Sothoth in the Necronomicon?",
+      "answer": "The Way to this world",
+      "rating": 9
+    },
+    {
+      "question": "What does the Necronomicon discuss in terms of existence?",
+      "answer": "The nature of existence",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the Necronomicon on humans?",
+      "answer": "The gateway to insanity, the path through which humans pass, metamorphose, and emerge unrecognizable",
+      "rating": 10
+    },
+    {
+      "question": "What can be found in the Necronomicon regarding the powder of Ibn-Ghazi?",
+      "answer": "Information",
+      "rating": 7
+    },
+    {
+      "question": "Who wrote the original version of the Necronomicon, known as the Kitab Al Azif?",
+      "answer": "Abdul Al-Hazred (Abd al-Azrad)",
+      "rating": 9
+    },
+    {
+      "question": "When was the original version of the Necronomicon, known as the Kitab Al Azif, written?",
+      "answer": "around 730 A.D.",
+      "rating": 8
+    },
+    {
+      "question": "In which city was Abdul Al-Hazred born?",
+      "answer": "Sanaa, Yemen",
+      "rating": 8
+    },
+    {
+      "question": "What was Abdul Al-Hazred's occupation?",
+      "answer": "student of magic, astronomer, poet, philosopher, and scientist",
+      "rating": 9
+    },
+    {
+      "question": "How old was Abdul Al-Hazred when he died?",
+      "answer": "he died in his 30s",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Latin version of Necronomicon first circulated?"
+      },
+      {
+        "role": "assistant",
+        "content": "1228 AD"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what century was the Latin version of Necronomicon printed?"
+      },
+      {
+        "role": "assistant",
+        "content": "15th century"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the first edition of Latin Necronomicon are known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "One"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the English version of Necronomicon translated by Dr. John Dee?"
+      },
+      {
+        "role": "assistant",
+        "content": "1586"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the manuscript version of English Necronomicon are known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many nearly-complete copies of the Necronomicon are known?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested study period for the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested study period for the Sussex Manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the proper known name of the Cultus Maleficarum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cultus Maleficarum"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the English translation of the Necronomicon, known as Al Azif, printed?"
+      },
+      {
+        "role": "assistant",
+        "content": "1597"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested Sanity Loss for studying the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating for the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks is the study period for the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested Mythos rating for the Sussex Manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "21"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested Mythos rating for the Al Azif?"
+      },
+      {
+        "role": "assistant",
+        "content": "21"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Necronomicon known for in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Necronomicon is encyclopedic and baffling, containing deep Mythos magic and knowledge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be opened by a chant to Yog-Sothoth in the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Way to this world"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Necronomicon discuss in terms of existence?"
+      },
+      {
+        "role": "assistant",
+        "content": "The nature of existence"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Necronomicon on humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "The gateway to insanity, the path through which humans pass, metamorphose, and emerge unrecognizable"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be found in the Necronomicon regarding the powder of Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Information"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the original version of the Necronomicon, known as the Kitab Al Azif?"
+      },
+      {
+        "role": "assistant",
+        "content": "Abdul Al-Hazred (Abd al-Azrad)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the original version of the Necronomicon, known as the Kitab Al Azif, written?"
+      },
+      {
+        "role": "assistant",
+        "content": "around 730 A.D."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In which city was Abdul Al-Hazred born?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanaa, Yemen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Abdul Al-Hazred's occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "student of magic, astronomer, poet, philosopher, and scientist"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How old was Abdul Al-Hazred when he died?"
+      },
+      {
+        "role": "assistant",
+        "content": "he died in his 30s"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

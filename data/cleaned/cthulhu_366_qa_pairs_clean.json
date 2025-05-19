@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nAtlach-Nacha, the Spider God, is a formidable foe in the game, capable of entangling and paralyzing victims with its web. Its attacks, including a paralyzing bite and web-slinging, can be devastating, and its ability to regenerate from damage makes it a resilient opponent. In contrast, Abhoth, a source of uncleanness, is an even more powerful and malevolent entity, capable of wrestling and absorbing victims, and regenerating from damage at an accelerated rate. Both creatures are formidable opponents that require careful strategy and tactics to defeat.",
+  "qa_pairs": [
+    {
+      "question": "What is the STR value of Atlach-Nacha?",
+      "answer": "150",
+      "rating": 8
+    },
+    {
+      "question": "What is the attack bonus of Atlach-Nacha?",
+      "answer": "+2D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the SIZ value of Atlach-Nacha?",
+      "answer": "SIZ 125",
+      "rating": 8
+    },
+    {
+      "question": "What is the movement value of Atlach-Nacha?",
+      "answer": "Move: 15",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage bonus for Atlach-Nacha?",
+      "answer": "+2D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the STR value of Atlach-Nacha?",
+      "answer": "150",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks per round can Atlach-Nacha make?",
+      "answer": "1",
+      "rating": 9
+    },
+    {
+      "question": "What is the STR value of the web Atlach-Nacha can cast?",
+      "answer": "150",
+      "rating": 8
+    },
+    {
+      "question": "What happens if both rolls are successful in the Cast web action?",
+      "answer": "The poison has been resisted.",
+      "rating": 8
+    },
+    {
+      "question": "How much damage can be dealt by a successful bite attack?",
+      "answer": "30 points of damage",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target if it reaches zero hit points?",
+      "answer": "It flees across its complex web to a secret lair where it heals.",
+      "rating": 8
+    },
+    {
+      "question": "What is the required roll to break out of the Cast web action?",
+      "answer": "An opposed STR roll versus the web's STR 150",
+      "rating": 9
+    },
+    {
+      "question": "What is the required STR roll to break out?",
+      "answer": "150",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage bonus for Abhoth?",
+      "answer": "+6D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the Sanity cost to see Atlach-Nacha?",
+      "answer": "1/1D10 Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus of Abhoth's attacks?",
+      "answer": "+6D6, but only 1D6 per pseudopod",
+      "rating": 9
+    },
+    {
+      "question": "What is the number of attacks Abhoth can make per round?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What happens if Abhoth is reduced to 0 hit points?",
+      "answer": "Abhoth withdraws and sinks far away down into the earth",
+      "rating": 9
+    },
+    {
+      "question": "What is Abhoth's armor against kinetic damage?",
+      "answer": "20 points per combat round",
+      "rating": 8
+    },
+    {
+      "question": "What is Abhoth's fighting attacks percentage?",
+      "answer": "60% (30/12)",
+      "rating": 7
+    },
+    {
+      "question": "How much damage does Abhoth regenerate from at the rate of 20 points per combat round?",
+      "answer": "All kinetic damage",
+      "rating": 9
+    },
+    {
+      "question": "What will cause normal damage to Abhoth?",
+      "answer": "Fire or magic",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Abhoth if it is reduced to 0 hit points?",
+      "answer": "It withdraws and sinks far away down into the earth",
+      "rating": 9
+    },
+    {
+      "question": "Does Abhoth require any spells to function?",
+      "answer": "No, it may have some effect from spells",
+      "rating": 8
+    },
+    {
+      "question": "What does Abhoth do after healing from its injuries?",
+      "answer": "It oozes toward the surface",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR value of Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "150"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the attack bonus of Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the SIZ value of Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "SIZ 125"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement value of Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "Move: 15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR value of Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "150"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round can Atlach-Nacha make?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR value of the web Atlach-Nacha can cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "150"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both rolls are successful in the Cast web action?"
+      },
+      {
+        "role": "assistant",
+        "content": "The poison has been resisted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can be dealt by a successful bite attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target if it reaches zero hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "It flees across its complex web to a secret lair where it heals."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required roll to break out of the Cast web action?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed STR roll versus the web's STR 150"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required STR roll to break out?"
+      },
+      {
+        "role": "assistant",
+        "content": "150"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Abhoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "+6D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity cost to see Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D10 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of Abhoth's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+6D6, but only 1D6 per pseudopod"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of attacks Abhoth can make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Abhoth is reduced to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Abhoth withdraws and sinks far away down into the earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Abhoth's armor against kinetic damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "20 points per combat round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Abhoth's fighting attacks percentage?"
+      },
+      {
+        "role": "assistant",
+        "content": "60% (30/12)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does Abhoth regenerate from at the rate of 20 points per combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "All kinetic damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will cause normal damage to Abhoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fire or magic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Abhoth if it is reduced to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "It withdraws and sinks far away down into the earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does Abhoth require any spells to function?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it may have some effect from spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Abhoth do after healing from its injuries?"
+      },
+      {
+        "role": "assistant",
+        "content": "It oozes toward the surface"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 25,
+    "retention_rate": 0.96,
+    "avg_score": 7.9
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a horror-themed game, careful consideration is required when creating and casting spells, as they can have a significant impact on gameplay. Key aspects of spellcasting include POW rolls to determine success, spell range, casting time, and costs, which can be altered based on the source of the spell and the scenario. The game master can also add personal touches to the spell, such as location, components, and ritual, to create a more immersive experience. Effective spellcasting requires a balance between the caster's POW and the target's POW, as well as consideration of the spell's effects on the caster's sanity.",
+  "qa_pairs": [
+    {
+      "question": "What should be considered before placing a spell in the hands of the players?",
+      "answer": "careful consideration is required",
+      "rating": 8
+    },
+    {
+      "question": "How do the sides determine the outcome of a POW roll?",
+      "answer": "Both sides make a POW roll and compare their levels of success",
+      "rating": 9
+    },
+    {
+      "question": "What happens in the case of a tie in a POW roll?",
+      "answer": "The higher POW wins",
+      "rating": 7
+    },
+    {
+      "question": "Under what condition does a caster automatically win a POW roll?",
+      "answer": "If the difference between the caster\u2019s POW and the target\u2019s POW is 100 or more",
+      "rating": 9
+    },
+    {
+      "question": "What determines the victor in a POW comparison?",
+      "answer": "The higher POW",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the casting time is instantaneous?",
+      "answer": "It activates on the user\u2019s DEX+50",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum difference in POW for automatic victory?",
+      "answer": "100 or more",
+      "rating": 8
+    },
+    {
+      "question": "What is a common casting time for spells in combat?",
+      "answer": "1 round",
+      "rating": 7
+    },
+    {
+      "question": "How does a spell's casting time affect its activation round?",
+      "answer": "The casting time determines when a spell activates: instantaneous on DEX+50, 1 round on DEX, 2 rounds on DEX in the following round, and so on.",
+      "rating": 9
+    },
+    {
+      "question": "What factors are considered when altering a spell's costs and effects?",
+      "answer": "When altering a spell's costs and effects, consider any changes to the effect, as a more powerful effect is likely to increase the cost, while a lesser effect may lower it.",
+      "rating": 8
+    },
+    {
+      "question": "What type of expenditure may be included in a spell's cost beyond magic points and Sanity points?",
+      "answer": "A permanent expenditure of POW may be included in a spell's cost for long-lasting and highly significant effects.",
+      "rating": 7
+    },
+    {
+      "question": "How does the DEX score factor into a spell's casting time?",
+      "answer": "DEX is used to determine when a spell activates: on DEX+50 for instantaneous casting, on DEX for 1-round casting, and on DEX in the following round for casting that takes more than one round.",
+      "rating": 9
+    },
+    {
+      "question": "What affects the cost of a spell in the game?",
+      "answer": "The source from which a spell is learned",
+      "rating": 6
+    },
+    {
+      "question": "What can affect a spell's effect?",
+      "answer": "The source from which a spell is learned and any changes intended to be made to the spell",
+      "rating": 8
+    },
+    {
+      "question": "What determines the effect and cost of a spell in this game?",
+      "answer": "There is no set ratio of spell cost to effect in this game.",
+      "rating": 8
+    },
+    {
+      "question": "How might the location of a story affect a spell?",
+      "answer": "Location: consider the locations in your story; could one of them be linked to the spell?",
+      "rating": 9
+    },
+    {
+      "question": "What factors might influence a spell's components?",
+      "answer": "Spell components: the specific items required to cast the spell.",
+      "rating": 7
+    },
+    {
+      "question": "How might investigators use a previous session's discovery to aid a spell?",
+      "answer": "Could it be that the investigators need the curved silver dagger they saw in the previous session at the British Museum?",
+      "rating": 8
+    },
+    {
+      "question": "What can happen if a character receives a spell directly from a Great Old One?",
+      "answer": "The spell's effects might be greatly increased, and/or its costs might be greatly reduced.",
+      "rating": 9
+    },
+    {
+      "question": "How can the location in a story be used to enhance a spell?",
+      "answer": "The location can be linked to the spell, adding an added dimension to the scenario.",
+      "rating": 8
+    },
+    {
+      "question": "What role do spell components play in casting a spell?",
+      "answer": "The specific items required to cast the spell can be crucial, such as the curved silver dagger seen in a previous session.",
+      "rating": 9
+    },
+    {
+      "question": "What typically characterizes a greater spell effect?",
+      "answer": "A more complex and involved ritual, often requiring specific conditions such as blood or a ritual circle.",
+      "rating": 8
+    },
+    {
+      "question": "What type of dagger are investigators looking for?",
+      "answer": "curved silver dagger",
+      "rating": 8
+    },
+    {
+      "question": "How does the investigators' spell description need to be done?",
+      "answer": "with strange smells, disorienting visions, curious sounds, and disturbing sensations",
+      "rating": 9
+    },
+    {
+      "question": "What usually means a more complex ritual?",
+      "answer": "a greater spell effect",
+      "rating": 7
+    },
+    {
+      "question": "Why do the investigators need to daub themselves in blood?",
+      "answer": "at the full moon",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be considered before placing a spell in the hands of the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "careful consideration is required"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the sides determine the outcome of a POW roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both sides make a POW roll and compare their levels of success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens in the case of a tie in a POW roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The higher POW wins"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition does a caster automatically win a POW roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the difference between the caster\u2019s POW and the target\u2019s POW is 100 or more"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the victor in a POW comparison?"
+      },
+      {
+        "role": "assistant",
+        "content": "The higher POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the casting time is instantaneous?"
+      },
+      {
+        "role": "assistant",
+        "content": "It activates on the user\u2019s DEX+50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum difference in POW for automatic victory?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 or more"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common casting time for spells in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a spell's casting time affect its activation round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The casting time determines when a spell activates: instantaneous on DEX+50, 1 round on DEX, 2 rounds on DEX in the following round, and so on."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors are considered when altering a spell's costs and effects?"
+      },
+      {
+        "role": "assistant",
+        "content": "When altering a spell's costs and effects, consider any changes to the effect, as a more powerful effect is likely to increase the cost, while a lesser effect may lower it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of expenditure may be included in a spell's cost beyond magic points and Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "A permanent expenditure of POW may be included in a spell's cost for long-lasting and highly significant effects."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the DEX score factor into a spell's casting time?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX is used to determine when a spell activates: on DEX+50 for instantaneous casting, on DEX for 1-round casting, and on DEX in the following round for casting that takes more than one round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What affects the cost of a spell in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The source from which a spell is learned"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can affect a spell's effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The source from which a spell is learned and any changes intended to be made to the spell"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the effect and cost of a spell in this game?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no set ratio of spell cost to effect in this game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might the location of a story affect a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Location: consider the locations in your story; could one of them be linked to the spell?"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors might influence a spell's components?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spell components: the specific items required to cast the spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might investigators use a previous session's discovery to aid a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Could it be that the investigators need the curved silver dagger they saw in the previous session at the British Museum?"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if a character receives a spell directly from a Great Old One?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell's effects might be greatly increased, and/or its costs might be greatly reduced."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the location in a story be used to enhance a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The location can be linked to the spell, adding an added dimension to the scenario."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role do spell components play in casting a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The specific items required to cast the spell can be crucial, such as the curved silver dagger seen in a previous session."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What typically characterizes a greater spell effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "A more complex and involved ritual, often requiring specific conditions such as blood or a ritual circle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of dagger are investigators looking for?"
+      },
+      {
+        "role": "assistant",
+        "content": "curved silver dagger"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigators' spell description need to be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "with strange smells, disorienting visions, curious sounds, and disturbing sensations"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What usually means a more complex ritual?"
+      },
+      {
+        "role": "assistant",
+        "content": "a greater spell effect"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do the investigators need to daub themselves in blood?"
+      },
+      {
+        "role": "assistant",
+        "content": "at the full moon"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 26,
+    "retention_rate": 0.93,
+    "avg_score": 7.8
+  }
+}

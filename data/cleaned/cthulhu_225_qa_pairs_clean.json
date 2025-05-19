@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu games, the Keeper can use various techniques to create a sense of immersion and provide information to players, including handouts. Handouts can be physical items such as letters, maps, or newspaper articles, or digital files like sound recordings. The Keeper can use creative methods to create these handouts, such as using old notebooks, coffee-stained paper, or fake blood, to create a realistic and engaging experience for the players. The use of handouts can also help to shift the focus from the Keeper to the players, encouraging them to read and interpret the information. Effective use of handouts can enhance the overall gameplay experience.",
+  "qa_pairs": [
+    {
+      "question": "What is the goal when searching for a clue?",
+      "answer": "To look for a clue.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a player passes a Psychology roll?",
+      "answer": "The truth is revealed.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal when searching for a clue or specific item at a scene?",
+      "answer": "To look for a clue or a specific item, perhaps \u2017to look for Jefferson\u2019s journal,\u2019 for example.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a player loses a Psychology roll to deceive a Keeper?",
+      "answer": "The player knows that the opposite of what is true is happening.",
+      "rating": 9
+    },
+    {
+      "question": "Will the player discover the truth if the goal is achieved?",
+      "answer": "The clue or item is definitely not present at the scene.",
+      "rating": 7
+    },
+    {
+      "question": "What should Harvey's player do if she is not certain about the barman's honesty?",
+      "answer": "Offer a bribe or a threat",
+      "rating": 8
+    },
+    {
+      "question": "What happens if Harvey's player fails a Psychology roll to tell if the barman is lying?",
+      "answer": "She fails the roll",
+      "rating": 9
+    },
+    {
+      "question": "Should Harvey's player press the matter, perhaps offering a bribe or a threat, after failing the Psychology roll?",
+      "answer": "No, she should not press the matter",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of player handouts in Call of Cthulhu games?",
+      "answer": "To provide players with information, usually after their investigators have found something important",
+      "rating": 9
+    },
+    {
+      "question": "What are player handouts in Call of Cthulhu games?",
+      "answer": "A common feature of Call of Cthulhu games, usually given to players when their investigators find important information.",
+      "rating": 8
+    },
+    {
+      "question": "What functions do handouts serve in Call of Cthulhu games?",
+      "answer": "Several functions, including sensory and providing clues and information to players.",
+      "rating": 9
+    },
+    {
+      "question": "What makes a handout sensory?",
+      "answer": "a lovingly crafted handout",
+      "rating": 7
+    },
+    {
+      "question": "What can a handout shift the focus to?",
+      "answer": "the person you hand it to",
+      "rating": 8
+    },
+    {
+      "question": "What should you encourage the player to do if the handout is for everyone?",
+      "answer": "read it aloud",
+      "rating": 9
+    },
+    {
+      "question": "What is a handout used for in a game?",
+      "answer": "to give out clues and information that can be retained by the players for later reference",
+      "rating": 8
+    },
+    {
+      "question": "Why should a handout be read aloud if it's for everyone?",
+      "answer": "to encourage the player to read it aloud",
+      "rating": 6
+    },
+    {
+      "question": "What are some simple techniques that can be used to great effect in creating a scene?",
+      "answer": "Simple techniques can be used to great effect, such as writing letters with a fountain pen, using an old, worn notebook, coffee to stain paper, and embellishing clothing with fake blood.",
+      "rating": 8
+    },
+    {
+      "question": "What can be used to show locations and people in a scenario?",
+      "answer": "Photographs of the period in which the scenario is set can be used to show locations and people.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal when searching for a clue?"
+      },
+      {
+        "role": "assistant",
+        "content": "To look for a clue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a player passes a Psychology roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The truth is revealed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal when searching for a clue or specific item at a scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "To look for a clue or a specific item, perhaps \u2017to look for Jefferson\u2019s journal,\u2019 for example."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a player loses a Psychology roll to deceive a Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player knows that the opposite of what is true is happening."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Will the player discover the truth if the goal is achieved?"
+      },
+      {
+        "role": "assistant",
+        "content": "The clue or item is definitely not present at the scene."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Harvey's player do if she is not certain about the barman's honesty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Offer a bribe or a threat"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey's player fails a Psychology roll to tell if the barman is lying?"
+      },
+      {
+        "role": "assistant",
+        "content": "She fails the roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Should Harvey's player press the matter, perhaps offering a bribe or a threat, after failing the Psychology roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, she should not press the matter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of player handouts in Call of Cthulhu games?"
+      },
+      {
+        "role": "assistant",
+        "content": "To provide players with information, usually after their investigators have found something important"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are player handouts in Call of Cthulhu games?"
+      },
+      {
+        "role": "assistant",
+        "content": "A common feature of Call of Cthulhu games, usually given to players when their investigators find important information."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What functions do handouts serve in Call of Cthulhu games?"
+      },
+      {
+        "role": "assistant",
+        "content": "Several functions, including sensory and providing clues and information to players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What makes a handout sensory?"
+      },
+      {
+        "role": "assistant",
+        "content": "a lovingly crafted handout"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a handout shift the focus to?"
+      },
+      {
+        "role": "assistant",
+        "content": "the person you hand it to"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should you encourage the player to do if the handout is for everyone?"
+      },
+      {
+        "role": "assistant",
+        "content": "read it aloud"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a handout used for in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "to give out clues and information that can be retained by the players for later reference"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should a handout be read aloud if it's for everyone?"
+      },
+      {
+        "role": "assistant",
+        "content": "to encourage the player to read it aloud"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some simple techniques that can be used to great effect in creating a scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "Simple techniques can be used to great effect, such as writing letters with a fountain pen, using an old, worn notebook, coffee to stain paper, and embellishing clothing with fake blood."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to show locations and people in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Photographs of the period in which the scenario is set can be used to show locations and people."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 18,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

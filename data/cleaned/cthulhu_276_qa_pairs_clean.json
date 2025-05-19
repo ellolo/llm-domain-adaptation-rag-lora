@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this section of the Grimoire, various spells are described, including Call, Contact, and Summon spells, which can be used for different purposes such as worship, communication, and binding of monsters. Call spells bring physical manifestations of gods, while Contact spells allow for communication with gods or monsters, and Summon spells compel monsters to appear before the caster. To cast these spells, wizards must have sufficient magic points, POW, and sometimes make moral or sacrificial choices. The spells can also have consequences, such as the need to bind or control summoned monsters, and the risk of losing one's own life essence or vital organs.",
+  "qa_pairs": [
+    {
+      "question": "What can be done to increase a caster's magic points?",
+      "answer": "Increase the magic points by burning some hit points",
+      "rating": 8
+    },
+    {
+      "question": "How can POW be accrued by wizards?",
+      "answer": "Through certain spells or items, such as an enchanted cane",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary purpose of a Call spell?",
+      "answer": "to bring an actual physical manifestation of a god before the caster",
+      "rating": 10
+    },
+    {
+      "question": "What is the purpose of a Dismiss spell?",
+      "answer": "to send the god back from whence it came",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the Call spell?",
+      "answer": "to bring forth dark gods to accept ritual sacrifices or as an act of worship",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of the Dismiss spell?",
+      "answer": "to send the god back from whence it came",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the spell is used with Mythos monsters?",
+      "answer": "They come of their own volition and are not under the caster\u2019s control.",
+      "rating": 8
+    },
+    {
+      "question": "Can summon spells compel a god to appear before the caster?",
+      "answer": "No, summon spells compel a monster (not a god) to appear before the caster.",
+      "rating": 9
+    },
+    {
+      "question": "What can be bound using a summon spell?",
+      "answer": "The caster's will",
+      "rating": 8
+    },
+    {
+      "question": "What type of spells define and group the spells in The Grimoire?",
+      "answer": "Call and Dismiss Spells, Contact Spells, and Enchantment Spells",
+      "rating": 9
+    },
+    {
+      "question": "What is the main purpose of summoning spells in the Grimoire?",
+      "answer": "The power of some otherworldly horror",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of casting the Apportion Ka spell in terms of magic points?",
+      "answer": "10 magic points",
+      "rating": 8
+    },
+    {
+      "question": "What is the main weakness of the Apportion Ka spell?",
+      "answer": "The brain is the seat of the spell's power and, as such, could not be removed.",
+      "rating": 9
+    },
+    {
+      "question": "Who was the first to use the Apportion Ka spell?",
+      "answer": "Followers of the Dark Pharaoh, Nephren-Ka",
+      "rating": 8
+    },
+    {
+      "question": "What is the one weakness of the spell?",
+      "answer": "the brain",
+      "rating": 6
+    },
+    {
+      "question": "What would happen to the caster if the brain was destroyed?",
+      "answer": "the caster would die",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be done to increase a caster's magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increase the magic points by burning some hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can POW be accrued by wizards?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through certain spells or items, such as an enchanted cane"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of a Call spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to bring an actual physical manifestation of a god before the caster"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a Dismiss spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to send the god back from whence it came"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Call spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to bring forth dark gods to accept ritual sacrifices or as an act of worship"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Dismiss spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to send the god back from whence it came"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the spell is used with Mythos monsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "They come of their own volition and are not under the caster\u2019s control."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can summon spells compel a god to appear before the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, summon spells compel a monster (not a god) to appear before the caster."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be bound using a summon spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster's will"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of spells define and group the spells in The Grimoire?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call and Dismiss Spells, Contact Spells, and Enchantment Spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of summoning spells in the Grimoire?"
+      },
+      {
+        "role": "assistant",
+        "content": "The power of some otherworldly horror"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Apportion Ka spell in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main weakness of the Apportion Ka spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The brain is the seat of the spell's power and, as such, could not be removed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was the first to use the Apportion Ka spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Followers of the Dark Pharaoh, Nephren-Ka"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the one weakness of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "the brain"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen to the caster if the brain was destroyed?"
+      },
+      {
+        "role": "assistant",
+        "content": "the caster would die"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 16,
+    "filtered": 16,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

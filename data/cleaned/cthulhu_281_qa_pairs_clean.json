@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines two Call Deity spells in the Cthulhu Mythos: Call of Shub-Niggurath and Call Yog-Sothoth. Call of Shub-Niggurath requires a human sacrifice and a consecrated altar, while Call Yog-Sothoth involves constructing a stone tower and designating a human sacrifice. In contrast, the Dismiss Deity spell allows a deity to leave Earth without the need for a human sacrifice, requiring only magic points to be sacrificed in exchange for a higher chance of dismissal. The spell can be cast at any time and anywhere, and its success depends on the total chance of dismissal, which can be increased by contributing magic points.",
+  "qa_pairs": [
+    {
+      "question": "Where must the altar be positioned?",
+      "answer": "in dank wilderness under the sky",
+      "rating": 8
+    },
+    {
+      "question": "What is required to consecrate the altar for a Call of Shub-Niggurath?",
+      "answer": "fresh blood",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum height requirement for the stone tower for a Call of Yog-Sothoth?",
+      "answer": "at least ten yards high",
+      "rating": 8
+    },
+    {
+      "question": "What must the cultists do each time the spell is cast for a Call of Yog-Sothoth?",
+      "answer": "designate a human sacrifice",
+      "rating": 9
+    },
+    {
+      "question": "How high must the stone tower be?",
+      "answer": "at least ten yards",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the magic points needed for a successful cast of the spell if the stone tower is enchanted?",
+      "answer": "lower",
+      "rating": 8
+    },
+    {
+      "question": "What does each point of POW infused in the tower permanently improve the total chance of casting Call Yog-Sothoth from it by?",
+      "answer": "1 percentile",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of how the cultists may designate a human sacrifice?",
+      "answer": "from a nearby village",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of casting the Call Yog-Sothoth spell?",
+      "answer": "1 or more magic points per person.",
+      "rating": 8
+    },
+    {
+      "question": "How long does casting time for Call Yog-Sothoth take?",
+      "answer": "1 minute plus 1 extra round per participant who donates magic points",
+      "rating": 9
+    },
+    {
+      "question": "How does the casting success of Call Yog-Sothoth improve when the stone tower is enchanted?",
+      "answer": "Each point of POW infused in the tower permanently improves the total chance of casting Call Yog-Sothoth from it by 1 percentile",
+      "rating": 9
+    },
+    {
+      "question": "What is the initial chance to dismiss a deity with the Dismiss spell?",
+      "answer": "5%",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points are needed to 'open the way' to dismiss Cthugha?",
+      "answer": "8",
+      "rating": 8
+    },
+    {
+      "question": "What percentage chance does the initial 5% grant to dismiss the god Cthugha?",
+      "answer": "5%",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points must be sacrificed to increase the chance of dismissing Cthugha by 50%?",
+      "answer": "10",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum achievable chance of dismissing Cthugha?",
+      "answer": "99%",
+      "rating": 10
+    },
+    {
+      "question": "What is the focus of the Dismiss Deity spell?",
+      "answer": "the caster",
+      "rating": 9
+    },
+    {
+      "question": "Does Dismiss Deity cost Sanity points?",
+      "answer": "no",
+      "rating": 8
+    },
+    {
+      "question": "Can the Dismiss portion of the spell be cast anytime and anywhere?",
+      "answer": "yes",
+      "rating": 9
+    },
+    {
+      "question": "What are some words to consider for alternative names for Dismiss Deity spells?",
+      "answer": "Banishment, Dispel, Exile, Repel",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where must the altar be positioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "in dank wilderness under the sky"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to consecrate the altar for a Call of Shub-Niggurath?"
+      },
+      {
+        "role": "assistant",
+        "content": "fresh blood"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum height requirement for the stone tower for a Call of Yog-Sothoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "at least ten yards high"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the cultists do each time the spell is cast for a Call of Yog-Sothoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "designate a human sacrifice"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How high must the stone tower be?"
+      },
+      {
+        "role": "assistant",
+        "content": "at least ten yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the magic points needed for a successful cast of the spell if the stone tower is enchanted?"
+      },
+      {
+        "role": "assistant",
+        "content": "lower"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does each point of POW infused in the tower permanently improve the total chance of casting Call Yog-Sothoth from it by?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 percentile"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of how the cultists may designate a human sacrifice?"
+      },
+      {
+        "role": "assistant",
+        "content": "from a nearby village"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Call Yog-Sothoth spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 or more magic points per person."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does casting time for Call Yog-Sothoth take?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 minute plus 1 extra round per participant who donates magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the casting success of Call Yog-Sothoth improve when the stone tower is enchanted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each point of POW infused in the tower permanently improves the total chance of casting Call Yog-Sothoth from it by 1 percentile"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial chance to dismiss a deity with the Dismiss spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "5%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points are needed to 'open the way' to dismiss Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage chance does the initial 5% grant to dismiss the god Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "5%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points must be sacrificed to increase the chance of dismissing Cthugha by 50%?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum achievable chance of dismissing Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "99%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the focus of the Dismiss Deity spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "the caster"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does Dismiss Deity cost Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Dismiss portion of the spell be cast anytime and anywhere?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some words to consider for alternative names for Dismiss Deity spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banishment, Dispel, Exile, Repel"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

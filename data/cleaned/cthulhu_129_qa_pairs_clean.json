@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for recovering from damage and injuries are outlined for a character in a game. Regular damage can be recovered at a rate of 1 hit point per day, while major wounds require a CON roll to recover, with success adding bonus dice for rest and medical care. If a character's hit points fall to zero, they are considered dying and must make a CON roll to recover. The document also outlines the process for administering first aid and medicine to stabilize a character's hit points.",
+  "qa_pairs": [
+    {
+      "question": "How long does a character recover from regular damage per day?",
+      "answer": "1 hit point per day",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take Harvey to recover from 17 damage of regular damage?",
+      "answer": "15 days",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points Harvey recovers per day if he has not sustained a major wound?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "After how many days of recovery does Harvey regain full health, assuming he has no major wounds and only taken regular damage?",
+      "answer": "15",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey's health if he fails a CON roll at the end of a week of game time with a major wound?",
+      "answer": "No recovery takes place that week",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points are recovered if a character succeeds on a CON roll at the end of a week of game time with a major wound?",
+      "answer": "1D3",
+      "rating": 8
+    },
+    {
+      "question": "How many damage points has Harvey taken?",
+      "answer": "17",
+      "rating": 6
+    },
+    {
+      "question": "How long does it take for Harvey to recover to full health?",
+      "answer": "15 days",
+      "rating": 9
+    },
+    {
+      "question": "What should the character's caregiver do with Medicine skill if they receive effective medical care?",
+      "answer": "Make one Medicine skill roll at the end of the week",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence if the character is unable to take sufficient rest and/or a fumble was rolled on their doctor's Medicine skill roll?",
+      "answer": "A penalty die should be added",
+      "rating": 9
+    },
+    {
+      "question": "What skill should the caregiver make a roll with if they receive effective medical care?",
+      "answer": "Medicine skill",
+      "rating": 7
+    },
+    {
+      "question": "Who should make the Medicine skill roll if the character receives effective medical care?",
+      "answer": "The caregiver with the highest Medicine skill",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for a major wound to be healed?",
+      "answer": "The character either rolls an Extreme success for their recovery (CON roll) or their current hit points have recovered to half or more than half of their full hit point total.",
+      "rating": 9
+    },
+    {
+      "question": "How is damage calculated in combat?",
+      "answer": "Damage is less than half of the maximum hit points.",
+      "rating": 8
+    },
+    {
+      "question": "How many hit points can be recovered per day with First Aid?",
+      "answer": "One hit point per day.",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of a fumble on the character's recovery?",
+      "answer": "A lasting injury, complication, or worse condition results.",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum amount of damage a character can take before dying?",
+      "answer": "more than half maximum hit points",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a character fails to heal a major wound?",
+      "answer": "No healing",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does a character recover from regular damage per day?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hit point per day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take Harvey to recover from 17 damage of regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points Harvey recovers per day if he has not sustained a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "After how many days of recovery does Harvey regain full health, assuming he has no major wounds and only taken regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's health if he fails a CON roll at the end of a week of game time with a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "No recovery takes place that week"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points are recovered if a character succeeds on a CON roll at the end of a week of game time with a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many damage points has Harvey taken?"
+      },
+      {
+        "role": "assistant",
+        "content": "17"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for Harvey to recover to full health?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the character's caregiver do with Medicine skill if they receive effective medical care?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make one Medicine skill roll at the end of the week"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence if the character is unable to take sufficient rest and/or a fumble was rolled on their doctor's Medicine skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A penalty die should be added"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill should the caregiver make a roll with if they receive effective medical care?"
+      },
+      {
+        "role": "assistant",
+        "content": "Medicine skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who should make the Medicine skill roll if the character receives effective medical care?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caregiver with the highest Medicine skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a major wound to be healed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character either rolls an Extreme success for their recovery (CON roll) or their current hit points have recovered to half or more than half of their full hit point total."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is damage calculated in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage is less than half of the maximum hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points can be recovered per day with First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "One hit point per day."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a fumble on the character's recovery?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lasting injury, complication, or worse condition results."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum amount of damage a character can take before dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "more than half maximum hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character fails to heal a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "No healing"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 18,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

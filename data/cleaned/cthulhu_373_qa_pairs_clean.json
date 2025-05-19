@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nCthulhu, a monstrous entity from H.P. Lovecraft's works, is a powerful being that can incinerate a 20-yard radius area with fire, causing significant damage to those within its reach. To combat Cthulhu, targets must make an Extreme CON roll, which can result in hit point loss or incineration. Cthulhu's physical form is highly adaptable, allowing it to warp and modify its body to suit its surroundings, but its overall shape remains recognizable as a caricature of the creature. Those who hear Cthulhu's call, often through dreams or artistic inspirations, may be driven to madness or creative works that reflect the darkness of the entity's influence.",
+  "qa_pairs": [
+    {
+      "question": "What happens if an investigator fails an Extreme CON roll within the area incinerated by Cthugha?",
+      "answer": "A failed roll indicates incineration.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage can a Flame Burst Target make against Cthugha?",
+      "answer": "40% (20/8)",
+      "rating": 8
+    },
+    {
+      "question": "What happens to weapons that come into contact with Cthugha?",
+      "answer": "They are destroyed.",
+      "rating": 9
+    },
+    {
+      "question": "How much armor does Cthugha have?",
+      "answer": "14 points of armor.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to weapons that come into contact with Cthugha?",
+      "answer": "Weapons that come into contact with Cthugha are destroyed.",
+      "rating": 9
+    },
+    {
+      "question": "What is the required calculation for Sanity points to see Cthugha?",
+      "answer": "1D3/1D20",
+      "rating": 8
+    },
+    {
+      "question": "Is Cthugha associated with the Great Fire of London?",
+      "answer": "Yes, in some circles, it is believed to have started due to an unwise ritual devotion.",
+      "rating": 9
+    },
+    {
+      "question": "What is Cthugha often referred to as?",
+      "answer": "Great Cthulhu",
+      "rating": 8
+    },
+    {
+      "question": "What is the believed cause of the Great Fire of London in 1666?",
+      "answer": "an unwise ritual devotion to Cthugha",
+      "rating": 8
+    },
+    {
+      "question": "What is the physical appearance of Cthulhu?",
+      "answer": "an octopus-like head, a scaly, rubbery-looking body, prodigious claws on hind and fore feet, and long, narrow wings",
+      "rating": 9
+    },
+    {
+      "question": "How did the participants of the ritual in the Great Fire of London react?",
+      "answer": "they quickly fled before the working could be undone or contained",
+      "rating": 7
+    },
+    {
+      "question": "What is the size and appearance of Cthulhu's body?",
+      "answer": "a somewhat bloated corpulence, a gelatinous green immensity",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the monster described by H.P. Lovecraft?",
+      "answer": "Great Cthulhu",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome of the ritual involving Great Cthulhu?",
+      "answer": "The entire city is aflame",
+      "rating": 9
+    },
+    {
+      "question": "How does the Great Cthulhu move?",
+      "answer": "It lumbered",
+      "rating": 7
+    },
+    {
+      "question": "What is the appearance of Great Cthulhu's head?",
+      "answer": "An octopus-like head with a mass of feelers",
+      "rating": 8
+    },
+    {
+      "question": "What happened to the ritual's participants in The Call of Cthulhu?",
+      "answer": "They fled before the working could be undone or contained.",
+      "rating": 9
+    },
+    {
+      "question": "What is Great Cthulhu's body form like?",
+      "answer": "It can warp and modify its form at will, but its overall shape is tied to a somewhat bloated corpulence.",
+      "rating": 8
+    },
+    {
+      "question": "Can Great Cthulhu completely absorb his wings?",
+      "answer": "No, he would never completely absorb them, but can expand or contract them.",
+      "rating": 8
+    },
+    {
+      "question": "How does Great Cthulhu modify his body?",
+      "answer": "He can extend new limbs, retract old ones, greatly increase his wings' area, reduce his body's size, or elongate a single limb or tentacle.",
+      "rating": 9
+    },
+    {
+      "question": "Where does Cthulhu dwell?",
+      "answer": "The corpse city of black R\u2019lyeh, sunken deep beneath the surface of the Pacific.",
+      "rating": 8
+    },
+    {
+      "question": "Can Cthulhu completely absorb his wings?",
+      "answer": "No, he would never completely absorb them.",
+      "rating": 7
+    },
+    {
+      "question": "What effect does Cthulhu's dream have on humans?",
+      "answer": "It may affect the dreams of men, and artistic sensibilities are often affected.",
+      "rating": 8
+    },
+    {
+      "question": "What is a possible outcome for humans who hear Cthulhu's dream?",
+      "answer": "They may be driven to produce nightmarish canvases or sculptures, or follow a darker path to absolute madness and, sometimes, suicide.",
+      "rating": 9
+    },
+    {
+      "question": "Who are the recipients of Cthulhu's call?",
+      "answer": "Certain sensitive humans",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the recipient of Cthulhu's call?",
+      "answer": "They often produce nightmarish canvases or sculptures",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of the recipient of Cthulhu's call not finding a vent for their emotions?",
+      "answer": "Absolute madness and, sometimes, suicide",
+      "rating": 7
+    },
+    {
+      "question": "What do some cultists believe the recipients of Cthulhu's call are?",
+      "answer": "Honored and should be held in high regard",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails an Extreme CON roll within the area incinerated by Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "A failed roll indicates incineration."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a Flame Burst Target make against Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "40% (20/8)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to weapons that come into contact with Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are destroyed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much armor does Cthugha have?"
+      },
+      {
+        "role": "assistant",
+        "content": "14 points of armor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to weapons that come into contact with Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "Weapons that come into contact with Cthugha are destroyed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required calculation for Sanity points to see Cthugha?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3/1D20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Cthugha associated with the Great Fire of London?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, in some circles, it is believed to have started due to an unwise ritual devotion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Cthugha often referred to as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Great Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the believed cause of the Great Fire of London in 1666?"
+      },
+      {
+        "role": "assistant",
+        "content": "an unwise ritual devotion to Cthugha"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the physical appearance of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "an octopus-like head, a scaly, rubbery-looking body, prodigious claws on hind and fore feet, and long, narrow wings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the participants of the ritual in the Great Fire of London react?"
+      },
+      {
+        "role": "assistant",
+        "content": "they quickly fled before the working could be undone or contained"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the size and appearance of Cthulhu's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "a somewhat bloated corpulence, a gelatinous green immensity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the monster described by H.P. Lovecraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Great Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of the ritual involving Great Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The entire city is aflame"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Great Cthulhu move?"
+      },
+      {
+        "role": "assistant",
+        "content": "It lumbered"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the appearance of Great Cthulhu's head?"
+      },
+      {
+        "role": "assistant",
+        "content": "An octopus-like head with a mass of feelers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the ritual's participants in The Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "They fled before the working could be undone or contained."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Great Cthulhu's body form like?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can warp and modify its form at will, but its overall shape is tied to a somewhat bloated corpulence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Great Cthulhu completely absorb his wings?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, he would never completely absorb them, but can expand or contract them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Great Cthulhu modify his body?"
+      },
+      {
+        "role": "assistant",
+        "content": "He can extend new limbs, retract old ones, greatly increase his wings' area, reduce his body's size, or elongate a single limb or tentacle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Cthulhu dwell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The corpse city of black R\u2019lyeh, sunken deep beneath the surface of the Pacific."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Cthulhu completely absorb his wings?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, he would never completely absorb them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does Cthulhu's dream have on humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may affect the dreams of men, and artistic sensibilities are often affected."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible outcome for humans who hear Cthulhu's dream?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may be driven to produce nightmarish canvases or sculptures, or follow a darker path to absolute madness and, sometimes, suicide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the recipients of Cthulhu's call?"
+      },
+      {
+        "role": "assistant",
+        "content": "Certain sensitive humans"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the recipient of Cthulhu's call?"
+      },
+      {
+        "role": "assistant",
+        "content": "They often produce nightmarish canvases or sculptures"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the recipient of Cthulhu's call not finding a vent for their emotions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Absolute madness and, sometimes, suicide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do some cultists believe the recipients of Cthulhu's call are?"
+      },
+      {
+        "role": "assistant",
+        "content": "Honored and should be held in high regard"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

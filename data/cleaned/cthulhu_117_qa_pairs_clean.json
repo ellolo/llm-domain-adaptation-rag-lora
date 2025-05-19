@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this combat scenario, Harvey and Rodger are fighting a cultist who has been caught off guard. Harvey uses his surprise attack to grab the cultist, while Rodger attempts to restrain him. In the first combat round, Rodger successfully restrains the cultist, but Harvey then uses the cultist as a human shield to attack him with a briefcase. In the second combat round, Rodger fails to slam the cultist's face against a pillar, while the cultist also fails to break free from Rodger's hold.",
+  "qa_pairs": [
+    {
+      "question": "What is the result of Harvey\u2019s Fighting (Brawl) skill roll?",
+      "answer": "11 is rolled for Harvey\u2019s Fighting (Brawl) skill\u2014a Hard success.",
+      "rating": 10
+    },
+    {
+      "question": "Why is no opposing roll made for the cultist?",
+      "answer": "No opposing roll is made for the cultist on account of Harvey having the advantage of surprise.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the cultist after Harvey snatches the bag?",
+      "answer": "Harvey snatches the bag from the cultist.",
+      "rating": 8
+    },
+    {
+      "question": "When does the Keeper switch to using combat rounds?",
+      "answer": "Now that Harvey\u2019s surprise attack is concluded, the Keeper switches to using combat rounds.",
+      "rating": 9
+    },
+    {
+      "question": "What is Rodger's action in the combat round?",
+      "answer": "Rodger is going to grab the cultist from behind, keeping hold of him while Harvey punches the cultist\u2019s lights out.",
+      "rating": 10
+    },
+    {
+      "question": "What happens in the case of a draw with an opponent that is fighting back?",
+      "answer": "The attacker wins.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the cultist's blow when it fails to connect?",
+      "answer": "The cultist's blow fails to connect.",
+      "rating": 7
+    },
+    {
+      "question": "Why does the cultist have a penalty die?",
+      "answer": "The cultist is being restrained.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for the cultist to break Rodger's hold?",
+      "answer": "The cultist must win the maneuver.",
+      "rating": 8
+    },
+    {
+      "question": "What is the penalty die rolled for the cultist's Fighting (Brawl) skill?",
+      "answer": "Either 82 or 02 (penalty die) is rolled.",
+      "rating": 9
+    },
+    {
+      "question": "How does the cultist's penalty die affect the outcome of the Fighting (Brawl) skill check?",
+      "answer": "The highest roll is used\u2014a Failure.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of the cultist failing the Fighting (Brawl) skill check?",
+      "answer": "The status quo will remain.",
+      "rating": 7
+    },
+    {
+      "question": "What was the outcome of Rodger's Dodge skill roll?",
+      "answer": "A Regular success",
+      "rating": 8
+    },
+    {
+      "question": "What was the outcome of the cultist's Dodge skill roll?",
+      "answer": "A Failure",
+      "rating": 6
+    },
+    {
+      "question": "What type of damage did the briefcase inflict on the cultist?",
+      "answer": "1D6 (equivalent to a small club)",
+      "rating": 9
+    },
+    {
+      "question": "How much damage did the cultist take from the briefcase attack?",
+      "answer": "3 points of damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the cultist's Dodge skill result?",
+      "answer": "A Failure.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage from the briefcase?",
+      "answer": "1D6.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cultist's penalty die for the second combat round?",
+      "answer": "One.",
+      "rating": 8
+    },
+    {
+      "question": "What does Rodger decide to do with the cultist?",
+      "answer": "Slam the cultist's face against a nearby pillar.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Rodger's Fighting (Brawl) skill roll?",
+      "answer": "a failure",
+      "rating": 8
+    },
+    {
+      "question": "How many penalty dice are rolled for the cultist's Fighting (Brawl) skill?",
+      "answer": "either 11 or 81",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome of the cultist's Fighting (Brawl) skill roll?",
+      "answer": "a failure",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of the cultist's attempt to break free?",
+      "answer": "a failure",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey\u2019s Fighting (Brawl) skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "11 is rolled for Harvey\u2019s Fighting (Brawl) skill\u2014a Hard success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is no opposing roll made for the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "No opposing roll is made for the cultist on account of Harvey having the advantage of surprise."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the cultist after Harvey snatches the bag?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey snatches the bag from the cultist."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When does the Keeper switch to using combat rounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Now that Harvey\u2019s surprise attack is concluded, the Keeper switches to using combat rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Rodger's action in the combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rodger is going to grab the cultist from behind, keeping hold of him while Harvey punches the cultist\u2019s lights out."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens in the case of a draw with an opponent that is fighting back?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker wins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the cultist's blow when it fails to connect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cultist's blow fails to connect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the cultist have a penalty die?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cultist is being restrained."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the cultist to break Rodger's hold?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cultist must win the maneuver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty die rolled for the cultist's Fighting (Brawl) skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either 82 or 02 (penalty die) is rolled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the cultist's penalty die affect the outcome of the Fighting (Brawl) skill check?"
+      },
+      {
+        "role": "assistant",
+        "content": "The highest roll is used\u2014a Failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the cultist failing the Fighting (Brawl) skill check?"
+      },
+      {
+        "role": "assistant",
+        "content": "The status quo will remain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of Rodger's Dodge skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Regular success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of the cultist's Dodge skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage did the briefcase inflict on the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 (equivalent to a small club)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage did the cultist take from the briefcase attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cultist's Dodge skill result?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage from the briefcase?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cultist's penalty die for the second combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Rodger decide to do with the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Slam the cultist's face against a nearby pillar."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Rodger's Fighting (Brawl) skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "a failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are rolled for the cultist's Fighting (Brawl) skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "either 11 or 81"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of the cultist's Fighting (Brawl) skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "a failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the cultist's attempt to break free?"
+      },
+      {
+        "role": "assistant",
+        "content": "a failure"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

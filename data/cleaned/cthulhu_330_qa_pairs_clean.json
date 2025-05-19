@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the context of H.P. Lovecraft's Cthulhu Mythos, the \"Dark Young\" are enormous, writhing, tentacled creatures that serve as avatars of the Great Old One Shub-Niggurath. These creatures are typically 12-20 feet tall, with a tree-like silhouette, and are capable of draining the strength of their victims. They are often found in areas where Shub-Niggurath is worshiped and are known to act as proxies for their mother, accepting sacrifices and spreading her faith. The Dark Young possess unique abilities, including the ability to use their tentacles to grab and drain victims, and are feared for their ability to wreak havoc on the world.",
+  "qa_pairs": [
+    {
+      "question": "Who are the people of Mali believed to be?",
+      "answer": "amphibious, fishlike ancestor spirits",
+      "rating": 9
+    },
+    {
+      "question": "Are Dagon and Hydra considered to be aspects of Great Cthulhu?",
+      "answer": "facets or avatars of Great Cthulhu",
+      "rating": 8
+    },
+    {
+      "question": "What do the writhing masses of these beings resemble?",
+      "answer": "enormous writhing masses, formed out of ropy black tentacles",
+      "rating": 9
+    },
+    {
+      "question": "How tall do Dark Young stand?",
+      "answer": "Between 12 and 20 feet tall.",
+      "rating": 8
+    },
+    {
+      "question": "What is Shub-Niggu-rath's epithet?",
+      "answer": "The 'Black Goat of the Woods with a Thousand Young'.",
+      "rating": 9
+    },
+    {
+      "question": "How many spells does a Dark Young know?",
+      "answer": "A number of spells equal to a tenth of its INT.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the number of spells a Dark Young knows?",
+      "answer": "A tenth of its INT.",
+      "rating": 9
+    },
+    {
+      "question": "How tall do Dark Young stand?",
+      "answer": "between 12 and 20 feet",
+      "rating": 8
+    },
+    {
+      "question": "What is the average number of spells a Dark Young knows?",
+      "answer": "a tenth of its INT",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a Dark Young?",
+      "answer": "4D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the average magic points for a Dark Young?",
+      "answer": "18",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of Dark Youngs in Shub-Niggurath's worship?",
+      "answer": "They act as proxies in accepting sacrifices, worship from cultists, devouring non-cultists, and spreading their mother's faith across the world.",
+      "rating": 9
+    },
+    {
+      "question": "How are Dark Youngs able to cast spells?",
+      "answer": "Each Dark Young knows a number of spells equal to a tenth of its INT.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a Dark Young?",
+      "answer": "The average damage bonus is 4D6.",
+      "rating": 7
+    },
+    {
+      "question": "What is the average size of a Dark Young?",
+      "answer": "The average build is 5.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a Dark Young?",
+      "answer": "Average Damage Bonus: 4D6",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks can a Dark Young make per round?",
+      "answer": "Attacks per round: 5",
+      "rating": 9
+    },
+    {
+      "question": "What is a unique attack that a Dark Young may use once per round?",
+      "answer": "once per round, Trample attack",
+      "rating": 8
+    },
+    {
+      "question": "What type of attack does a Dark Young make with its thicker sinuous tentacles?",
+      "answer": "Each of these thicker tentacles can strike out to injure.",
+      "rating": 9
+    },
+    {
+      "question": "How many tentacles can a Dark young use to attack?",
+      "answer": "four thicker sinuous tentacles",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of grabbing a victim by a Dark young?",
+      "answer": "draining of 1D10+5 STR per round",
+      "rating": 9
+    },
+    {
+      "question": "How many victims can a Dark young grab at a time?",
+      "answer": "up to four victims",
+      "rating": 8
+    },
+    {
+      "question": "Can a Dark young's STR loss be restored?",
+      "answer": "no, it cannot be restored",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the people of Mali believed to be?"
+      },
+      {
+        "role": "assistant",
+        "content": "amphibious, fishlike ancestor spirits"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are Dagon and Hydra considered to be aspects of Great Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "facets or avatars of Great Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the writhing masses of these beings resemble?"
+      },
+      {
+        "role": "assistant",
+        "content": "enormous writhing masses, formed out of ropy black tentacles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How tall do Dark Young stand?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 12 and 20 feet tall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shub-Niggu-rath's epithet?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'Black Goat of the Woods with a Thousand Young'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many spells does a Dark Young know?"
+      },
+      {
+        "role": "assistant",
+        "content": "A number of spells equal to a tenth of its INT."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the number of spells a Dark Young knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "A tenth of its INT."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How tall do Dark Young stand?"
+      },
+      {
+        "role": "assistant",
+        "content": "between 12 and 20 feet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average number of spells a Dark Young knows?"
+      },
+      {
+        "role": "assistant",
+        "content": "a tenth of its INT"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Dark Young?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a Dark Young?"
+      },
+      {
+        "role": "assistant",
+        "content": "18"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of Dark Youngs in Shub-Niggurath's worship?"
+      },
+      {
+        "role": "assistant",
+        "content": "They act as proxies in accepting sacrifices, worship from cultists, devouring non-cultists, and spreading their mother's faith across the world."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Dark Youngs able to cast spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each Dark Young knows a number of spells equal to a tenth of its INT."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Dark Young?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average damage bonus is 4D6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average size of a Dark Young?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average build is 5."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Dark Young?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Damage Bonus: 4D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a Dark Young make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks per round: 5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a unique attack that a Dark Young may use once per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "once per round, Trample attack"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of attack does a Dark Young make with its thicker sinuous tentacles?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each of these thicker tentacles can strike out to injure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many tentacles can a Dark young use to attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "four thicker sinuous tentacles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of grabbing a victim by a Dark young?"
+      },
+      {
+        "role": "assistant",
+        "content": "draining of 1D10+5 STR per round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many victims can a Dark young grab at a time?"
+      },
+      {
+        "role": "assistant",
+        "content": "up to four victims"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a Dark young's STR loss be restored?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, it cannot be restored"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

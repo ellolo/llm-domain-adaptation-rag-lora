@@ -1,0 +1,374 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines a system for determining the severity of injuries in a Call of Cthulhu game, with a focus on realistic and detailed descriptions of potential harm. The system categorizes injuries into four levels: Mild, Moderate, Severe, and Deadly, with corresponding damage rolls and potential outcomes. The document also introduces additional factors, such as environmental hazards and poisons, which can further exacerbate injuries. Additionally, it discusses the concept of \"knock-out blows,\" where a character is knocked unconscious due to significant damage.",
+  "qa_pairs": [
+    {
+      "question": "What is the damage rating for a falling rock onto soft swamp?",
+      "answer": "1D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage rating for a falling rock onto grass?",
+      "answer": "1D10",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage rating for a car hit at 30mph?",
+      "answer": "2D10",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage rating for a speeding car?",
+      "answer": "4D10",
+      "rating": 6
+    },
+    {
+      "question": "How does a successful CON roll affect damage from poisons?",
+      "answer": "an Extreme CON roll will halve damage from poisons.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for a Hard success when a character is in a state of physical exertion?",
+      "answer": "A Hard success on the CON roll.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to damage from poisons if a character scores an Extreme CON roll?",
+      "answer": "The damage is halved.",
+      "rating": 9
+    },
+    {
+      "question": "What are some symptoms of poisoning in Call of Cthulhu?",
+      "answer": "stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness, and paralysis.",
+      "rating": 9
+    },
+    {
+      "question": "Can a poison's effects be shaken off in Call of Cthulhu?",
+      "answer": "Yes, in certain circumstances, Keepers may allow a poison's effects to be shaken off if the CON roll is a critical success.",
+      "rating": 8
+    },
+    {
+      "question": "How is the order of a round determined in Call of Cthulhu?",
+      "answer": "The order is determined by the DEX roll, with a higher roll taking precedence. If the DEX roll is a failure, the previous roll is retained.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a character rolls worse on a re-roll in Call of Cthulhu?",
+      "answer": "The character retains their previous place in the order.",
+      "rating": 7
+    },
+    {
+      "question": "What is the default order of initiative in the system?",
+      "answer": "Colin, Harvey, then the cultist.",
+      "rating": 8
+    },
+    {
+      "question": "How does the second cultist fit into the initiative order?",
+      "answer": "He slots into the initiative order after the first cultist.",
+      "rating": 8
+    },
+    {
+      "question": "What type of success is required to re-roll initiative with a bonus die?",
+      "answer": "A Hard success.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a target when it is reduced to zero hit points?",
+      "answer": "The target falls unconscious automatically.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when an attack inflicts a Major Wound on a target?",
+      "answer": "The target must make a CON roll to remain conscious.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition that automatically causes a target to fall unconscious?",
+      "answer": "A target that is reduced to zero hit points will fall unconscious automatically.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a Hard success on Colin's initiative roll?",
+      "answer": "This places him first in the order of initiative.",
+      "rating": 7
+    },
+    {
+      "question": "What is the consequence of a character suffering a significant lasting damage?",
+      "answer": "The character will be knocked out.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a falling rock onto soft swamp?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a falling rock onto grass?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a car hit at 30mph?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a speeding car?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a successful CON roll affect damage from poisons?"
+      },
+      {
+        "role": "assistant",
+        "content": "an Extreme CON roll will halve damage from poisons."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a Hard success when a character is in a state of physical exertion?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Hard success on the CON roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to damage from poisons if a character scores an Extreme CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The damage is halved."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some symptoms of poisoning in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness, and paralysis."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a poison's effects be shaken off in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, in certain circumstances, Keepers may allow a poison's effects to be shaken off if the CON roll is a critical success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the order of a round determined in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The order is determined by the DEX roll, with a higher roll taking precedence. If the DEX roll is a failure, the previous roll is retained."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character rolls worse on a re-roll in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character retains their previous place in the order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the default order of initiative in the system?"
+      },
+      {
+        "role": "assistant",
+        "content": "Colin, Harvey, then the cultist."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the second cultist fit into the initiative order?"
+      },
+      {
+        "role": "assistant",
+        "content": "He slots into the initiative order after the first cultist."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of success is required to re-roll initiative with a bonus die?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Hard success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target when it is reduced to zero hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target falls unconscious automatically."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an attack inflicts a Major Wound on a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target must make a CON roll to remain conscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that automatically causes a target to fall unconscious?"
+      },
+      {
+        "role": "assistant",
+        "content": "A target that is reduced to zero hit points will fall unconscious automatically."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a Hard success on Colin's initiative roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "This places him first in the order of initiative."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of a character suffering a significant lasting damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character will be knocked out."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 19,
+    "retention_rate": 0.95,
+    "avg_score": 7.8
+  }
+}

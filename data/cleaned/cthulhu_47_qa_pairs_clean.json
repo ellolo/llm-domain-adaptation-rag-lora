@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis reference chart provides half and fifth values for various skills in a game setting, allowing players and Keepers to determine the characteristic or skill value under the Base Number column. The chart also explains the concept of skill percentiles, which represent a character's knowledge or proficiency in a particular area, and how they can be affected by location and setting. Additionally, the document discusses the definitions and scope of skills within the game, including the use of generic names and the impact of skill levels on character performance.",
+  "qa_pairs": [
+    {
+      "question": "What is the characteristic for determining half values?",
+      "answer": "Read across to the Half Value column",
+      "rating": 9
+    },
+    {
+      "question": "What is the characteristic for determining fifth values?",
+      "answer": "Read across to the Fifth Value column",
+      "rating": 9
+    },
+    {
+      "question": "What is the unit for half values?",
+      "answer": "\u00bd (Half)",
+      "rating": 8
+    },
+    {
+      "question": "What is the unit for fifth values?",
+      "answer": "1/5 (Fifth)",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of Base Numbers for the reference chart?",
+      "answer": "1-100",
+      "rating": 7
+    },
+    {
+      "question": "What is the main topic of chapter 3?",
+      "answer": "Creating Investigators",
+      "rating": 9
+    },
+    {
+      "question": "How many skills are tagged as [Modern]?",
+      "answer": "Several",
+      "rating": 6
+    },
+    {
+      "question": "What is the purpose of the skill definitions?",
+      "answer": "To provide definitions of their use and scope within the game",
+      "rating": 9
+    },
+    {
+      "question": "Why are some skill descriptions general summaries?",
+      "answer": "To ensure brevity",
+      "rating": 8
+    },
+    {
+      "question": "Why was 'Drive Auto' reworded to 'Drive Carriage'?",
+      "answer": "Because it was not suitable for a game set in Victorian London",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of skill definitions?",
+      "answer": "to provide general summaries of intent and coverage",
+      "rating": 8
+    },
+    {
+      "question": "What does the [Modern] tag denote?",
+      "answer": "that the skill can only be used in modern-day settings",
+      "rating": 7
+    },
+    {
+      "question": "Why can a skill like Drive Auto not be used in a game set in Victorian London?",
+      "answer": "because it would not be suitable for the setting",
+      "rating": 8
+    },
+    {
+      "question": "What is the meaning of skill percentiles?",
+      "answer": "not proportions of what is hypothetically knowable",
+      "rating": 9
+    },
+    {
+      "question": "How does a physicist of 60% in the modern day compare to a physicist of 90% skill in 1910?",
+      "answer": "a physicist of 60% in the modern day knows much more than a physicist of 90% skill in 1910",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a skill name that may not be suitable for a specific setting?",
+      "answer": "Drive Auto",
+      "rating": 6
+    },
+    {
+      "question": "What can be concluded about skill percentiles and their relationship to knowledge?",
+      "answer": "They are not proportions of what is hypothetically knowable",
+      "rating": 9
+    },
+    {
+      "question": "How might a physicist's knowledge be affected by skill percentiles across different time periods?",
+      "answer": "A physicist of 60% in the modern day knows more than a physicist of 90% skill in 1910",
+      "rating": 9
+    },
+    {
+      "question": "How might a Japanese investigator's Law skill be affected by location?",
+      "answer": "The Keeper might increase the level of difficulty of the roll if tested on Spanish law",
+      "rating": 8
+    },
+    {
+      "question": "How might a Japanese investigator's Law skill be represented differently in a different location?",
+      "answer": "As a 75% skill in Japan, but a lower skill in Spanish law",
+      "rating": 8
+    },
+    {
+      "question": "How much more knowledgeable is a modern-day physicist with 60% skill compared to a physicist with 90% skill in 1910?",
+      "answer": "a physicist of 60% in the modern day knows much more than a physicist of 90% skill in 1910.",
+      "rating": 9
+    },
+    {
+      "question": "What effect does the location have on a Japanese investigator's Law skill?",
+      "answer": "the Keeper would probably increase the level of difficulty of the roll.",
+      "rating": 7
+    },
+    {
+      "question": "What skill level is sufficient for a character to eke out a living?",
+      "answer": "a skill level of 50% is high enough to let a character eke out a living from it.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage is considered high enough to let a character survive?",
+      "answer": "a skill level of 50% is high enough to let a character eke out a living from it.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the characteristic for determining half values?"
+      },
+      {
+        "role": "assistant",
+        "content": "Read across to the Half Value column"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the characteristic for determining fifth values?"
+      },
+      {
+        "role": "assistant",
+        "content": "Read across to the Fifth Value column"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the unit for half values?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u00bd (Half)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the unit for fifth values?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/5 (Fifth)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of Base Numbers for the reference chart?"
+      },
+      {
+        "role": "assistant",
+        "content": "1-100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main topic of chapter 3?"
+      },
+      {
+        "role": "assistant",
+        "content": "Creating Investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many skills are tagged as [Modern]?"
+      },
+      {
+        "role": "assistant",
+        "content": "Several"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the skill definitions?"
+      },
+      {
+        "role": "assistant",
+        "content": "To provide definitions of their use and scope within the game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are some skill descriptions general summaries?"
+      },
+      {
+        "role": "assistant",
+        "content": "To ensure brevity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why was 'Drive Auto' reworded to 'Drive Carriage'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it was not suitable for a game set in Victorian London"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of skill definitions?"
+      },
+      {
+        "role": "assistant",
+        "content": "to provide general summaries of intent and coverage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the [Modern] tag denote?"
+      },
+      {
+        "role": "assistant",
+        "content": "that the skill can only be used in modern-day settings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can a skill like Drive Auto not be used in a game set in Victorian London?"
+      },
+      {
+        "role": "assistant",
+        "content": "because it would not be suitable for the setting"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the meaning of skill percentiles?"
+      },
+      {
+        "role": "assistant",
+        "content": "not proportions of what is hypothetically knowable"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a physicist of 60% in the modern day compare to a physicist of 90% skill in 1910?"
+      },
+      {
+        "role": "assistant",
+        "content": "a physicist of 60% in the modern day knows much more than a physicist of 90% skill in 1910"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a skill name that may not be suitable for a specific setting?"
+      },
+      {
+        "role": "assistant",
+        "content": "Drive Auto"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be concluded about skill percentiles and their relationship to knowledge?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are not proportions of what is hypothetically knowable"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might a physicist's knowledge be affected by skill percentiles across different time periods?"
+      },
+      {
+        "role": "assistant",
+        "content": "A physicist of 60% in the modern day knows more than a physicist of 90% skill in 1910"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might a Japanese investigator's Law skill be affected by location?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper might increase the level of difficulty of the roll if tested on Spanish law"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might a Japanese investigator's Law skill be represented differently in a different location?"
+      },
+      {
+        "role": "assistant",
+        "content": "As a 75% skill in Japan, but a lower skill in Spanish law"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much more knowledgeable is a modern-day physicist with 60% skill compared to a physicist with 90% skill in 1910?"
+      },
+      {
+        "role": "assistant",
+        "content": "a physicist of 60% in the modern day knows much more than a physicist of 90% skill in 1910."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does the location have on a Japanese investigator's Law skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper would probably increase the level of difficulty of the roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill level is sufficient for a character to eke out a living?"
+      },
+      {
+        "role": "assistant",
+        "content": "a skill level of 50% is high enough to let a character eke out a living from it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage is considered high enough to let a character survive?"
+      },
+      {
+        "role": "assistant",
+        "content": "a skill level of 50% is high enough to let a character eke out a living from it."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

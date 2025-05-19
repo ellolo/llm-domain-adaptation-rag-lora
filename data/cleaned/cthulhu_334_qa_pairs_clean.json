@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes the dhole, a monstrous creature from H.P. Lovecraft's works, known for its immense size, slimy goo attack, and ability to swallow and crush its victims. The dhole's attacks have varying effects, including damage, special effects, and swallowing, with different probabilities and consequences. The creature is also described as a dimensional shambler, capable of walking between planes and worlds, and is feared by mortals due to its immense power and malevolent nature. The document provides a detailed description of the dhole's abilities and characteristics, offering insight into its role in Lovecraft's horror stories.",
+  "qa_pairs": [
+    {
+      "question": "What is the average build of a dhole?",
+      "answer": "65",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus of a dhole?",
+      "answer": "64D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the immediate effect of being hit by a dhole's bulk?",
+      "answer": "Death is automatic.",
+      "rating": 10
+    },
+    {
+      "question": "What is the range of the dhole's goo spit?",
+      "answer": "A range of 2-3 miles",
+      "rating": 7
+    },
+    {
+      "question": "How does a victim climb out of a dhole's goo?",
+      "answer": "Requires an Extreme STR roll",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a victim held in the dhole's goo?",
+      "answer": "Costs the investigator 1 hit point per round",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the investigator if they are held by the caustic slime?",
+      "answer": "The investigator begins to drown and loses 1 hit point per round.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a dhole swallowing someone?",
+      "answer": "The dhole scoops clean an area equal in size to the area of its goo attack.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by the Spit Goo attack?",
+      "answer": "50% damage, special type.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by the Engulf attack?",
+      "answer": "80% damage, swallowed type.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the burning damage after the victim escapes?",
+      "answer": "The burning damage stops.",
+      "rating": 7
+    },
+    {
+      "question": "What damage percentage is associated with Engulf?",
+      "answer": "80% (40/16)",
+      "rating": 8
+    },
+    {
+      "question": "What inspired Ay-i-Shak to write about the bholes?",
+      "answer": "He claimed to have visited and consorted with the bholes in the land of dream.",
+      "rating": 9
+    },
+    {
+      "question": "What was Ay-i-Shak's close call with the bholes?",
+      "answer": "He barely escaped with his life, and had to make a timely sacrifice of his young assistant, Mamoud, to make his escape.",
+      "rating": 9
+    },
+    {
+      "question": "What creature was described as shuffling towards Ay-i-Shak in the darkness?",
+      "answer": "A gigantic, blasphemous form of a thing not wholly ape and not wholly insect, referred to as a dhole.",
+      "rating": 8
+    },
+    {
+      "question": "How did the bholes send their dhole progeny across space and time?",
+      "answer": "Through unfathomable means, sending their dhole progeny across space and time to planets in the Waking World.",
+      "rating": 9
+    },
+    {
+      "question": "What is a characteristic of the creature's forepaws?",
+      "answer": "Its forepaws were extended, with talons spread wide.",
+      "rating": 9
+    },
+    {
+      "question": "What is the creature's capacity?",
+      "answer": "It is assumed that they are entities capable of walking between the planes and worlds of the universe.",
+      "rating": 8
+    },
+    {
+      "question": "What is the creature's state of being?",
+      "answer": "Its whole body was taut with murderous malignity.",
+      "rating": 9
+    },
+    {
+      "question": "What is known about the creature's head?",
+      "answer": "A rugose, dead-eyed rudiment of a head swayed drunkenly from side to side.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of a dhole?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of a dhole?"
+      },
+      {
+        "role": "assistant",
+        "content": "64D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the immediate effect of being hit by a dhole's bulk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death is automatic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the dhole's goo spit?"
+      },
+      {
+        "role": "assistant",
+        "content": "A range of 2-3 miles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a victim climb out of a dhole's goo?"
+      },
+      {
+        "role": "assistant",
+        "content": "Requires an Extreme STR roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a victim held in the dhole's goo?"
+      },
+      {
+        "role": "assistant",
+        "content": "Costs the investigator 1 hit point per round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator if they are held by the caustic slime?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator begins to drown and loses 1 hit point per round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a dhole swallowing someone?"
+      },
+      {
+        "role": "assistant",
+        "content": "The dhole scoops clean an area equal in size to the area of its goo attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the Spit Goo attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "50% damage, special type."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the Engulf attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "80% damage, swallowed type."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the burning damage after the victim escapes?"
+      },
+      {
+        "role": "assistant",
+        "content": "The burning damage stops."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What damage percentage is associated with Engulf?"
+      },
+      {
+        "role": "assistant",
+        "content": "80% (40/16)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What inspired Ay-i-Shak to write about the bholes?"
+      },
+      {
+        "role": "assistant",
+        "content": "He claimed to have visited and consorted with the bholes in the land of dream."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Ay-i-Shak's close call with the bholes?"
+      },
+      {
+        "role": "assistant",
+        "content": "He barely escaped with his life, and had to make a timely sacrifice of his young assistant, Mamoud, to make his escape."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What creature was described as shuffling towards Ay-i-Shak in the darkness?"
+      },
+      {
+        "role": "assistant",
+        "content": "A gigantic, blasphemous form of a thing not wholly ape and not wholly insect, referred to as a dhole."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the bholes send their dhole progeny across space and time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through unfathomable means, sending their dhole progeny across space and time to planets in the Waking World."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of the creature's forepaws?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its forepaws were extended, with talons spread wide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the creature's capacity?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is assumed that they are entities capable of walking between the planes and worlds of the universe."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the creature's state of being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its whole body was taut with murderous malignity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is known about the creature's head?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rugose, dead-eyed rudiment of a head swayed drunkenly from side to side."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

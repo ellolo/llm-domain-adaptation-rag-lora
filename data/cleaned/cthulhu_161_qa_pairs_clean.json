@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, Sanity is a critical aspect of the game, representing the investigator's mental stability in the face of eldritch horrors. A failed Sanity roll results in the investigator losing Sanity points, with the amount lost depending on the situation or entity encountered. The Mythos is inherently corrupting and can drive investigators to the brink of insanity, with the threat of complete madness serving as a constant reminder of the horrors they face. Sanity points can fluctuate during play, but never exceed the character's maximum Sanity rating.",
+  "qa_pairs": [
+    {
+      "question": "What happens to the investigator's Sanity points during a successful Sanity roll?",
+      "answer": "The investigator loses no Sanity points, or only a minimal amount.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigator's Sanity points during a failed Sanity roll?",
+      "answer": "The investigator always loses Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What is an exception to the rule that Bonus dice and penalty dice are not applied to Sanity rolls?",
+      "answer": "The exception is the Self-Help rule, page 167.",
+      "rating": 7
+    },
+    {
+      "question": "Can Luck points be spent on Sanity rolls if using the optional rule?",
+      "answer": "No, Luck points cannot be spent on Sanity rolls if using the optional rule.",
+      "rating": 6
+    },
+    {
+      "question": "How does the Mythos affect the human mind?",
+      "answer": "The Mythos is anathema to the human mind.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigator when a Sanity roll fails?",
+      "answer": "The investigator always loses Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "How is Sanity loss typically represented in published Call of Cthulhu scenarios?",
+      "answer": "As two numbers or rolls separated by a slash, e.g. SAN 1/1D4+1.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a successful Sanity roll in a scenario with a SAN 0/1D4 representation?",
+      "answer": "No Sanity points are lost.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator immediately after a failed Sanity roll?",
+      "answer": "The investigator loses self-control for a moment.",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper choose after the investigator loses self-control?",
+      "answer": "An involuntary action for the investigator.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the number of Sanity points lost if the Sanity roll is failed?",
+      "answer": "The die roll to the right of the slash.",
+      "rating": 8
+    },
+    {
+      "question": "How many Sanity points are lost if the Sanity roll is failed in the case of SAN 0/1D4?",
+      "answer": "1D4 Sanity points.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the investigator when they fail a Sanity roll?",
+      "answer": "The investigator loses self-control for a moment.",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper choose for the investigator when they lose self-control?",
+      "answer": "An involuntary action.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of an involuntary action the Keeper might choose?",
+      "answer": "T Jump in fright\u2014causing the investigator to drop something.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an investigator's action if a Sanity roll is failed during a combat round?",
+      "answer": "The investigator's action for that round may be dictated by the Keeper.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of a failed Sanity roll on a ghoul encounter?",
+      "answer": "0/1D6 Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an investigator loses more than a few Sanity points at one time?",
+      "answer": "The investigator may go insane.",
+      "rating": 9
+    },
+    {
+      "question": "What is the same for multiple ghouls encountered by an investigator?",
+      "answer": "The Sanity effect is for the encounter rather than each ghoul seen.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when an investigator fails a Sanity roll during a combat round?",
+      "answer": "The investigator's action for that round may be dictated by the Keeper, or they may freeze and take no action.",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points does Harvey Walters have after the roll?",
+      "answer": "41",
+      "rating": 7
+    },
+    {
+      "question": "What happens to Harvey Walters' Sanity points when he fails a roll?",
+      "answer": "They decrease by 4 points",
+      "rating": 8
+    },
+    {
+      "question": "What is the relationship between Sanity points and Cthulhu Mythos skill points?",
+      "answer": "The power of the Mythos, which corrupts and ruins by proximity and association",
+      "rating": 9
+    },
+    {
+      "question": "How high can an investigator's Sanity points rise during play?",
+      "answer": "Above the character's maximum Sanity rating",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of Harvey Walters' 1D6 roll?",
+      "answer": "4",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's Sanity points during a successful Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator loses no Sanity points, or only a minimal amount."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's Sanity points during a failed Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator always loses Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an exception to the rule that Bonus dice and penalty dice are not applied to Sanity rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "The exception is the Self-Help rule, page 167."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Luck points be spent on Sanity rolls if using the optional rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Luck points cannot be spent on Sanity rolls if using the optional rule."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Mythos affect the human mind?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Mythos is anathema to the human mind."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when a Sanity roll fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator always loses Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Sanity loss typically represented in published Call of Cthulhu scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "As two numbers or rolls separated by a slash, e.g. SAN 1/1D4+1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a successful Sanity roll in a scenario with a SAN 0/1D4 representation?"
+      },
+      {
+        "role": "assistant",
+        "content": "No Sanity points are lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator immediately after a failed Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator loses self-control for a moment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper choose after the investigator loses self-control?"
+      },
+      {
+        "role": "assistant",
+        "content": "An involuntary action for the investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the number of Sanity points lost if the Sanity roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The die roll to the right of the slash."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost if the Sanity roll is failed in the case of SAN 0/1D4?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when they fail a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator loses self-control for a moment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper choose for the investigator when they lose self-control?"
+      },
+      {
+        "role": "assistant",
+        "content": "An involuntary action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of an involuntary action the Keeper might choose?"
+      },
+      {
+        "role": "assistant",
+        "content": "T Jump in fright\u2014causing the investigator to drop something."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's action if a Sanity roll is failed during a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator's action for that round may be dictated by the Keeper."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a failed Sanity roll on a ghoul encounter?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D6 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator loses more than a few Sanity points at one time?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator may go insane."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the same for multiple ghouls encountered by an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Sanity effect is for the encounter rather than each ghoul seen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an investigator fails a Sanity roll during a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator's action for that round may be dictated by the Keeper, or they may freeze and take no action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does Harvey Walters have after the roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "41"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey Walters' Sanity points when he fails a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They decrease by 4 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between Sanity points and Cthulhu Mythos skill points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The power of the Mythos, which corrupts and ruins by proximity and association"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How high can an investigator's Sanity points rise during play?"
+      },
+      {
+        "role": "assistant",
+        "content": "Above the character's maximum Sanity rating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey Walters' 1D6 roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

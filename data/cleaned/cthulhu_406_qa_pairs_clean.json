@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document provides statistics for various animals, including dogs, horses, and lions, which can be used in a role-playing game. The animals are categorized into different types, such as riding horses, draught horses, donkeys, and mules, with unique characteristics and abilities. The statistics include attributes like strength, constitution, size, and power, as well as attack and defense capabilities, such as damage bonuses and armor classes. The animals also have specific habitats and behaviors, with horses and lions being more aggressive and fleeing from supernatural threats.",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum number of animals that pack animals prefer to gather in?",
+      "answer": "1D8+3",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for dogs?",
+      "answer": "-1",
+      "rating": 9
+    },
+    {
+      "question": "What are the different types of horses for roleplaying?",
+      "answer": "riding horses, draught horses, donkeys, and mules",
+      "rating": 8
+    },
+    {
+      "question": "What skill covers the use of riding horses?",
+      "answer": "Ride skill",
+      "rating": 9
+    },
+    {
+      "question": "How far can single riders and small groups cover in a day?",
+      "answer": "Forty miles",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical response of horses to supernatural things?",
+      "answer": "Panic",
+      "rating": 8
+    },
+    {
+      "question": "What type of horses are broken to ride but not much ridden?",
+      "answer": "Draught horses",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical behavior of donkeys and mules?",
+      "answer": "Carrying burdens, not riders, or drawing wagons or carts",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommended action for horses when faced with a potentially hazardous situation?",
+      "answer": "to flee",
+      "rating": 7
+    },
+    {
+      "question": "What is the average damage bonus for a horse?",
+      "answer": "+3D6",
+      "rating": 6
+    },
+    {
+      "question": "What are the typical attacks of a horse?",
+      "answer": "Fighting attacks: These are large animals that can kick and bite as well as buffet a lesser opponent to the ground.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average move for a horse?",
+      "answer": "12",
+      "rating": 9
+    },
+    {
+      "question": "What is a common reaction of horses to certain situations?",
+      "answer": "They tend to flee.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a horse's attacks?",
+      "answer": "+3D6",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks per round do horses have?",
+      "answer": "1",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of horses are capable of fighting?",
+      "answer": "25%",
+      "rating": 7
+    },
+    {
+      "question": "What is the habitat of horses?",
+      "answer": "Grasslands and high deserts, or where humans are.",
+      "rating": 6
+    },
+    {
+      "question": "What is the average damage bonus for a lion?",
+      "answer": "+3D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the HP of a lion?",
+      "answer": "23",
+      "rating": 9
+    },
+    {
+      "question": "What is the STR value of a lion?",
+      "answer": "95",
+      "rating": 10
+    },
+    {
+      "question": "What is the Dodge percentage of a lion?",
+      "answer": "25%",
+      "rating": 7
+    },
+    {
+      "question": "What is the STR value of a lion on average?",
+      "answer": "95",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of animals that pack animals prefer to gather in?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8+3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for dogs?"
+      },
+      {
+        "role": "assistant",
+        "content": "-1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the different types of horses for roleplaying?"
+      },
+      {
+        "role": "assistant",
+        "content": "riding horses, draught horses, donkeys, and mules"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill covers the use of riding horses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ride skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far can single riders and small groups cover in a day?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forty miles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical response of horses to supernatural things?"
+      },
+      {
+        "role": "assistant",
+        "content": "Panic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of horses are broken to ride but not much ridden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Draught horses"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical behavior of donkeys and mules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carrying burdens, not riders, or drawing wagons or carts"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended action for horses when faced with a potentially hazardous situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "to flee"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a horse?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the typical attacks of a horse?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting attacks: These are large animals that can kick and bite as well as buffet a lesser opponent to the ground."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average move for a horse?"
+      },
+      {
+        "role": "assistant",
+        "content": "12"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common reaction of horses to certain situations?"
+      },
+      {
+        "role": "assistant",
+        "content": "They tend to flee."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a horse's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round do horses have?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of horses are capable of fighting?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the habitat of horses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grasslands and high deserts, or where humans are."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the HP of a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "23"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR value of a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage of a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR value of a lion on average?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 22,
+    "retention_rate": 0.88,
+    "avg_score": 7.4
+  }
+}

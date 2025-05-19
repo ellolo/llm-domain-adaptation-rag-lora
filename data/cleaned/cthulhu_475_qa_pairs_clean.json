@@ -1,0 +1,336 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the 7th edition of Call of Cthulhu, the game's mechanics have been updated to unify characteristics and skills, making it easier to compare and calculate rolls. The decision was made to separate Luck from POW, as POW is significant elsewhere in the game, and to roll Luck randomly (3D6 x 5). Additionally, the game's characteristic system has been revised, with the STR, DEX, CON, SIZ, APP, INT, POW, and EDU characteristics now providing one-fifth values, which can be multiplied by five and divided by two to calculate full values.",
+  "qa_pairs": [
+    {
+      "question": "What is the main goal of unifying characteristics and skills?",
+      "answer": "to make it easier to compare and make opposed rolls using a mixture of skills and characteristics",
+      "rating": 9
+    },
+    {
+      "question": "Why was Luck divorced from POW?",
+      "answer": "since the latter is of great significance elsewhere in the game",
+      "rating": 8
+    },
+    {
+      "question": "What is the main intention behind the new system?",
+      "answer": "The intention is to make it easier to compare and make opposed rolls using a mixture of skills and characteristics.",
+      "rating": 9
+    },
+    {
+      "question": "How is Luck currently handled in the game?",
+      "answer": "Luck is now rolled randomly (3D6 x 5).",
+      "rating": 8
+    },
+    {
+      "question": "How is Occupational Skill Points generated in the new system?",
+      "answer": "EDU is no longer the only characteristic used to generate Occupational Skill Points.",
+      "rating": 7
+    },
+    {
+      "question": "What is the current method of rolling Luck?",
+      "answer": "Luck is now rolled randomly (3D6 x 5).",
+      "rating": 8
+    },
+    {
+      "question": "Why did the developers decide against associating a characteristic with each skill?",
+      "answer": "The developers decided against this approach for three reasons.",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommended conversion factor for characteristics in the game?",
+      "answer": "Divided by 5",
+      "rating": 6
+    },
+    {
+      "question": "Why were the original ideas to link base skill in Charm to Appearances and Dodge to DEX not used?",
+      "answer": "Three reasons: using characteristic values introduces additional work during investigator creation, the benefit of using one-fifth of the characteristic did not seem significant enough to justify the added complication, and the characteristics feed into skill points to a limited degree.",
+      "rating": 9
+    },
+    {
+      "question": "What is the characteristic used to calculate skill points?",
+      "answer": "A variety of characteristics are used to calculate skill points, depending on your investigator\u2019s chosen occupation.",
+      "rating": 8
+    },
+    {
+      "question": "How do you get the full value of a characteristic?",
+      "answer": "Multiply the one-fifth value by five for the full value.",
+      "rating": 9
+    },
+    {
+      "question": "What are the possible values for the characteristic 'Characteristic'?",
+      "answer": "15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100",
+      "rating": 8
+    },
+    {
+      "question": "How do you calculate the full value of a characteristic divided by 5?",
+      "answer": "Multiply the one-fifth value by 5 for the full value.",
+      "rating": 9
+    },
+    {
+      "question": "What is the process for calculating the one-half value of Luck points and hit points?",
+      "answer": "Multiply these by five for the full values and divide this new value by two, rounding down, for the one-half value.",
+      "rating": 9
+    },
+    {
+      "question": "How do Damage Bonus and Build change in 7th Edition compared to 6th and 5th editions?",
+      "answer": "Lower damage bonuses have been changed in 7th Edition.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the SAN characteristic in the game?",
+      "answer": "The SAN characteristic served only to set starting Sanity points.",
+      "rating": 7
+    },
+    {
+      "question": "How are hit points calculated in 7th Edition?",
+      "answer": "In 7th Edition, hit points are derived by adding CON + SIZ and dividing by 10, rounding down.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main goal of unifying characteristics and skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "to make it easier to compare and make opposed rolls using a mixture of skills and characteristics"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why was Luck divorced from POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "since the latter is of great significance elsewhere in the game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main intention behind the new system?"
+      },
+      {
+        "role": "assistant",
+        "content": "The intention is to make it easier to compare and make opposed rolls using a mixture of skills and characteristics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Luck currently handled in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Luck is now rolled randomly (3D6 x 5)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Occupational Skill Points generated in the new system?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU is no longer the only characteristic used to generate Occupational Skill Points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current method of rolling Luck?"
+      },
+      {
+        "role": "assistant",
+        "content": "Luck is now rolled randomly (3D6 x 5)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did the developers decide against associating a characteristic with each skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The developers decided against this approach for three reasons."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended conversion factor for characteristics in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Divided by 5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why were the original ideas to link base skill in Charm to Appearances and Dodge to DEX not used?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three reasons: using characteristic values introduces additional work during investigator creation, the benefit of using one-fifth of the characteristic did not seem significant enough to justify the added complication, and the characteristics feed into skill points to a limited degree."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the characteristic used to calculate skill points?"
+      },
+      {
+        "role": "assistant",
+        "content": "A variety of characteristics are used to calculate skill points, depending on your investigator\u2019s chosen occupation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you get the full value of a characteristic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Multiply the one-fifth value by five for the full value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible values for the characteristic 'Characteristic'?"
+      },
+      {
+        "role": "assistant",
+        "content": "15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do you calculate the full value of a characteristic divided by 5?"
+      },
+      {
+        "role": "assistant",
+        "content": "Multiply the one-fifth value by 5 for the full value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the process for calculating the one-half value of Luck points and hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Multiply these by five for the full values and divide this new value by two, rounding down, for the one-half value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Damage Bonus and Build change in 7th Edition compared to 6th and 5th editions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lower damage bonuses have been changed in 7th Edition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the SAN characteristic in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The SAN characteristic served only to set starting Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are hit points calculated in 7th Edition?"
+      },
+      {
+        "role": "assistant",
+        "content": "In 7th Edition, hit points are derived by adding CON + SIZ and dividing by 10, rounding down."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 17,
+    "filtered": 17,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

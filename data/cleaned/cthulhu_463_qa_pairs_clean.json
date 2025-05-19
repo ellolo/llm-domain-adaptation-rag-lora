@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes the manifestations of a Horror, a supernatural entity bound in blood and ink, which is unleashed when the Witch Trial Papers are copied. The Horror's effects can be seen in various ways, including disruptions to electrical systems, eerie lights, unexplained disturbances, and possession of individuals who have touched the papers. The document also outlines three principal means of combating the Horror: removing the original papers from harm's way, using the papers to attack the Horror, or creating one's own manifestations to counter its effects. These manifestations can be used by \"Keepers\" to narrow down suspects and searches, and can be used to narrow down the scope of the Horror's influence.",
+  "qa_pairs": [
+    {
+      "question": "Who is the forger that partly unraveled the binding of the Horror?",
+      "answer": "Cecil Hunter",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the Horror's location on its manifestations?",
+      "answer": "Its effect will be noticeably pronounced within a half mile or so of its location",
+      "rating": 8
+    },
+    {
+      "question": "What is the nature of the binding that the Horror was under?",
+      "answer": "A binding of blood and ink within angles and lines upon the page",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of the keepers creating their own manifestations of the Horror?",
+      "answer": "To create their own manifestations, using the following as guidance",
+      "rating": 7
+    },
+    {
+      "question": "What is the current state of the Horror in relation to reality?",
+      "answer": "Now partly free",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the Horror's location on the surrounding area?",
+      "answer": "the effect will be noticeably pronounced",
+      "rating": 6
+    },
+    {
+      "question": "What is the recommended approach for investigators to narrow down suspects and searches?",
+      "answer": "investigators might well use this fact to narrow down their suspects and searches",
+      "rating": 9
+    },
+    {
+      "question": "Who may encounter the manifestations of the Horror?",
+      "answer": "Anyone who has touched the Witch Trial Papers",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the Witch Trial Papers on the environment?",
+      "answer": "The effect of the Witch Trial Papers on the environment includes T The Oncoming Storm, which causes radios, batteries, and electrical systems to suffer, and cars to stall.",
+      "rating": 9
+    },
+    {
+      "question": "Who can create their own manifestations of the Witch Trial Papers?",
+      "answer": "Keepers are encouraged to create their own manifestations of the Witch Trial Papers, using the provided guidance.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to radios, batteries, and electrical systems during The Oncoming Storm?",
+      "answer": "Radios, batteries, and electrical systems suffer increasing disruption, fuses blow unexpectedly, and cars stall.",
+      "rating": 9
+    },
+    {
+      "question": "What is the suggested order of occurrence of the Witch Trial Papers' manifestations?",
+      "answer": "The manifestations are listed in a suggested order of occurrence, although the text does not specify the exact order.",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of the suggested order of occurrence for the manifestations?",
+      "answer": "Anyone who has touched the Witch Trial Papers may encounter any or all of the manifestations.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Witch Fire manifestation characterized by?",
+      "answer": "Eerie reddish lights seen in the distance",
+      "rating": 9
+    },
+    {
+      "question": "What may be reported at places of note during the Witch Fire manifestation?",
+      "answer": "Eerie reddish lights, and false fire reports to the authorities",
+      "rating": 8
+    },
+    {
+      "question": "Where may the Witch Fire manifestation be reported?",
+      "answer": "Places such as the legendary Witch House of Keziah Mason, the Hobbhouse Manse, Hunter\u2019s Studio, Leiter\u2019s cottage, or anywhere else deemed appropriate by the Keeper.",
+      "rating": 9
+    },
+    {
+      "question": "What are the locations where Witch Fire may be reported?",
+      "answer": "places such as the legendary Witch House of Keziah Mason, the Hobbhouse Manse, Hunter\u2019s Studio, Leiter\u2019s cottage, or anywhere else deemed appropriate by the Keeper",
+      "rating": 9
+    },
+    {
+      "question": "What effects may witnesses experience after seeing Witch Fire?",
+      "answer": "illness, fatigue, and headaches",
+      "rating": 8
+    },
+    {
+      "question": "What disturbances may occur near those who have touched the papers?",
+      "answer": "disturbances near to those who have touched the papers, including a presence sensed nearby, footsteps sounding in the vacant room above, and telephones ringing with whispering voices",
+      "rating": 9
+    },
+    {
+      "question": "What happens when no one is present in a room after a disturbance?",
+      "answer": "someone enters the room, but when you turn there is no one there",
+      "rating": 8
+    },
+    {
+      "question": "What symptoms can witnesses experience after interacting with the Horror?",
+      "answer": "illness, fatigue, and headaches",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a victim who has touched the papers after being possessed by the Horror?",
+      "answer": "They become open to possession by the Horror, allowing it to use its Soul Burn to attack others",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a corpse that has been possessed by the Horror?",
+      "answer": "It acts as a Zombie",
+      "rating": 8
+    },
+    {
+      "question": "What happens to witnesses who see a partial manifestation of the Horror?",
+      "answer": "They suffer a 1/1D4 SAN loss on their Sanity roll",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a corpse if it's possessed?",
+      "answer": "It acts as a Zombie.",
+      "rating": 8
+    },
+    {
+      "question": "What will the Horror manifest as before fully manifesting into reality?",
+      "answer": "A trail of madness and death.",
+      "rating": 9
+    },
+    {
+      "question": "How much SAN loss occurs from witnessing a partial manifestation of the Horror?",
+      "answer": "1/1D4 SAN loss.",
+      "rating": 7
+    },
+    {
+      "question": "What can be done to put an end to the Horror?",
+      "answer": "Taking the original illustrated portion of the Witch Trial Papers and putting them away from direct harm.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the forger that partly unraveled the binding of the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cecil Hunter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Horror's location on its manifestations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its effect will be noticeably pronounced within a half mile or so of its location"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the binding that the Horror was under?"
+      },
+      {
+        "role": "assistant",
+        "content": "A binding of blood and ink within angles and lines upon the page"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the keepers creating their own manifestations of the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "To create their own manifestations, using the following as guidance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of the Horror in relation to reality?"
+      },
+      {
+        "role": "assistant",
+        "content": "Now partly free"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Horror's location on the surrounding area?"
+      },
+      {
+        "role": "assistant",
+        "content": "the effect will be noticeably pronounced"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended approach for investigators to narrow down suspects and searches?"
+      },
+      {
+        "role": "assistant",
+        "content": "investigators might well use this fact to narrow down their suspects and searches"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who may encounter the manifestations of the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anyone who has touched the Witch Trial Papers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Witch Trial Papers on the environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "The effect of the Witch Trial Papers on the environment includes T The Oncoming Storm, which causes radios, batteries, and electrical systems to suffer, and cars to stall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can create their own manifestations of the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keepers are encouraged to create their own manifestations of the Witch Trial Papers, using the provided guidance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to radios, batteries, and electrical systems during The Oncoming Storm?"
+      },
+      {
+        "role": "assistant",
+        "content": "Radios, batteries, and electrical systems suffer increasing disruption, fuses blow unexpectedly, and cars stall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested order of occurrence of the Witch Trial Papers' manifestations?"
+      },
+      {
+        "role": "assistant",
+        "content": "The manifestations are listed in a suggested order of occurrence, although the text does not specify the exact order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the suggested order of occurrence for the manifestations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anyone who has touched the Witch Trial Papers may encounter any or all of the manifestations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Witch Fire manifestation characterized by?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eerie reddish lights seen in the distance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What may be reported at places of note during the Witch Fire manifestation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eerie reddish lights, and false fire reports to the authorities"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where may the Witch Fire manifestation be reported?"
+      },
+      {
+        "role": "assistant",
+        "content": "Places such as the legendary Witch House of Keziah Mason, the Hobbhouse Manse, Hunter\u2019s Studio, Leiter\u2019s cottage, or anywhere else deemed appropriate by the Keeper."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the locations where Witch Fire may be reported?"
+      },
+      {
+        "role": "assistant",
+        "content": "places such as the legendary Witch House of Keziah Mason, the Hobbhouse Manse, Hunter\u2019s Studio, Leiter\u2019s cottage, or anywhere else deemed appropriate by the Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effects may witnesses experience after seeing Witch Fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "illness, fatigue, and headaches"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What disturbances may occur near those who have touched the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "disturbances near to those who have touched the papers, including a presence sensed nearby, footsteps sounding in the vacant room above, and telephones ringing with whispering voices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when no one is present in a room after a disturbance?"
+      },
+      {
+        "role": "assistant",
+        "content": "someone enters the room, but when you turn there is no one there"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What symptoms can witnesses experience after interacting with the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "illness, fatigue, and headaches"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a victim who has touched the papers after being possessed by the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become open to possession by the Horror, allowing it to use its Soul Burn to attack others"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a corpse that has been possessed by the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "It acts as a Zombie"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to witnesses who see a partial manifestation of the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "They suffer a 1/1D4 SAN loss on their Sanity roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a corpse if it's possessed?"
+      },
+      {
+        "role": "assistant",
+        "content": "It acts as a Zombie."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will the Horror manifest as before fully manifesting into reality?"
+      },
+      {
+        "role": "assistant",
+        "content": "A trail of madness and death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much SAN loss occurs from witnessing a partial manifestation of the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D4 SAN loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be done to put an end to the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking the original illustrated portion of the Witch Trial Papers and putting them away from direct harm."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

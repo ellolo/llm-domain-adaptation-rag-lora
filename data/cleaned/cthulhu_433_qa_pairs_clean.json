@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIf investigators are taken captive, they can attempt to escape by making Hard DEX rolls to break free from their bonds. Alternatively, they can wait until nightfall and observe the site, noting the undead servants' activities and the construction of a pulley system to retrieve a crystal. If the investigators fail to intervene, the servants will use the crystal to summon Gla'aki, a powerful entity that will drain its power and potentially drive witnesses mad. The outcome ultimately depends on the Keeper's discretion, with the goal of thwarting the investigators' escape and fulfilling the dark rituals of the servants.",
+  "qa_pairs": [
+    {
+      "question": "What is the goal for the Keeper not to do before nightfall?",
+      "answer": "They don\u2019t want to harm their captives before nightfall if they can help it.",
+      "rating": 9
+    },
+    {
+      "question": "What can investigators do to work themselves free if they are captive?",
+      "answer": "They can make Hard DEX rolls, whether they try to free their own bonds or help another investigator.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the investigators fail a Hard DEX roll to free themselves?",
+      "answer": "The consequence of failure is attracting the servants\u2019 attention.",
+      "rating": 7
+    },
+    {
+      "question": "What can investigators do if they are trying to help another investigator to free themselves?",
+      "answer": "They can make Hard DEX rolls, whether they try to free their own bonds or help another investigator.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of failure on a Hard DEX roll to free oneself from bonds?",
+      "answer": "Attracting the servants' attention.",
+      "rating": 7
+    },
+    {
+      "question": "What can investigators do if they are louder than a whisper while speaking?",
+      "answer": "A servant in the next room can hear everything they say.",
+      "rating": 8
+    },
+    {
+      "question": "What is the motivation of Turner and his gang if the prisoners break free?",
+      "answer": "They won\u2019t have any hesitation using force to subdue them.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the undead servants if the investigators escape from the site?",
+      "answer": "They will go to the death.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the prisoners break free during daylight?",
+      "answer": "They won\u2019t have any hesitation using force to subdue them.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigators if they break free?",
+      "answer": "They are taken down to the lake when night falls to be converted to undying servants.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigators if they don\u2019t break free?",
+      "answer": "They are taken down to the lake when night falls to be converted to undying servants.",
+      "rating": 9
+    },
+    {
+      "question": "What will happen to the prisoners if they break free into daylight?",
+      "answer": "They will be pursued to the death by the investigators.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigators if they break free into daylight?",
+      "answer": "They are hunted to the death by the investigators.",
+      "rating": 9
+    },
+    {
+      "question": "Where do the investigators are taken if they don\u2019t break free?",
+      "answer": "To the lake.",
+      "rating": 7
+    },
+    {
+      "question": "What is heard by the investigators from within the pit?",
+      "answer": "The sound of working.",
+      "rating": 8
+    },
+    {
+      "question": "What is operated by the workers, assisted by Turner and his crew, after sunset?",
+      "answer": "A pulley system to pull out a pale blue-colored crystal.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the workers' actions at night?",
+      "answer": "The workers are operating the pulley to pull out a pale blue-colored crystal.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the crystal's light if the investigators don't intervene?",
+      "answer": "The crystal shines with a bright blue light that becomes painful to watch after a few seconds.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Gla'aki after it drains the power from the crystal?",
+      "answer": "Gla'aki thrashes in the water and eventually sinks slowly beneath the waves.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the undead servants after the ritual?",
+      "answer": "The undead servants return to the dig site, full of pleasure for having fulfilled the dreams of their god.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the light after a flash?",
+      "answer": "It dies",
+      "rating": 7
+    },
+    {
+      "question": "What do the undead servants do after Gla'aki sinks?",
+      "answer": "They return to the dig site",
+      "rating": 8
+    },
+    {
+      "question": "What do investigators plan to do with their prisoners?",
+      "answer": "Convert them",
+      "rating": 9
+    },
+    {
+      "question": "When do investigators plan to convert their prisoners?",
+      "answer": "At nightfall",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal for the Keeper not to do before nightfall?"
+      },
+      {
+        "role": "assistant",
+        "content": "They don\u2019t want to harm their captives before nightfall if they can help it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can investigators do to work themselves free if they are captive?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can make Hard DEX rolls, whether they try to free their own bonds or help another investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigators fail a Hard DEX roll to free themselves?"
+      },
+      {
+        "role": "assistant",
+        "content": "The consequence of failure is attracting the servants\u2019 attention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can investigators do if they are trying to help another investigator to free themselves?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can make Hard DEX rolls, whether they try to free their own bonds or help another investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failure on a Hard DEX roll to free oneself from bonds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attracting the servants' attention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can investigators do if they are louder than a whisper while speaking?"
+      },
+      {
+        "role": "assistant",
+        "content": "A servant in the next room can hear everything they say."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the motivation of Turner and his gang if the prisoners break free?"
+      },
+      {
+        "role": "assistant",
+        "content": "They won\u2019t have any hesitation using force to subdue them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the undead servants if the investigators escape from the site?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will go to the death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the prisoners break free during daylight?"
+      },
+      {
+        "role": "assistant",
+        "content": "They won\u2019t have any hesitation using force to subdue them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigators if they break free?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are taken down to the lake when night falls to be converted to undying servants."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigators if they don\u2019t break free?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are taken down to the lake when night falls to be converted to undying servants."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to the prisoners if they break free into daylight?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will be pursued to the death by the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigators if they break free into daylight?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are hunted to the death by the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do the investigators are taken if they don\u2019t break free?"
+      },
+      {
+        "role": "assistant",
+        "content": "To the lake."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is heard by the investigators from within the pit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sound of working."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is operated by the workers, assisted by Turner and his crew, after sunset?"
+      },
+      {
+        "role": "assistant",
+        "content": "A pulley system to pull out a pale blue-colored crystal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the workers' actions at night?"
+      },
+      {
+        "role": "assistant",
+        "content": "The workers are operating the pulley to pull out a pale blue-colored crystal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the crystal's light if the investigators don't intervene?"
+      },
+      {
+        "role": "assistant",
+        "content": "The crystal shines with a bright blue light that becomes painful to watch after a few seconds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Gla'aki after it drains the power from the crystal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gla'aki thrashes in the water and eventually sinks slowly beneath the waves."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the undead servants after the ritual?"
+      },
+      {
+        "role": "assistant",
+        "content": "The undead servants return to the dig site, full of pleasure for having fulfilled the dreams of their god."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the light after a flash?"
+      },
+      {
+        "role": "assistant",
+        "content": "It dies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the undead servants do after Gla'aki sinks?"
+      },
+      {
+        "role": "assistant",
+        "content": "They return to the dig site"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do investigators plan to do with their prisoners?"
+      },
+      {
+        "role": "assistant",
+        "content": "Convert them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When do investigators plan to convert their prisoners?"
+      },
+      {
+        "role": "assistant",
+        "content": "At nightfall"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

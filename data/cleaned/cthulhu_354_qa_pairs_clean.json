@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes the Serpent People, a humanoid species resembling upright serpents with ophidian heads and scales. They are a refined and cultured race, often revered as the followers of the god Yig, who is considered the father of all snakes. The Serpent People have a complex history, with multiple kingdoms rising and falling over millions of years, and have been known to possess great sorcery and scientific abilities. They are now largely extinct, with only a few remnants surviving, including degenerate and hibernating individuals who retain some of their former powers.",
+  "qa_pairs": [
+    {
+      "question": "What is the damage bonus for Weller's unarmed attacks?",
+      "answer": "1D6 + damage bonus",
+      "rating": 8
+    },
+    {
+      "question": "How does Dodge work for Weller's attacks?",
+      "answer": "Dodge 30% (15/6)",
+      "rating": 9
+    },
+    {
+      "question": "What is the armor class of Weller?",
+      "answer": "3-point rough hide",
+      "rating": 7
+    },
+    {
+      "question": "What are the typical damage points for Weller's attacks?",
+      "answer": "1D6 + damage bonus",
+      "rating": 8
+    },
+    {
+      "question": "What is the physical appearance of the Serpent people?",
+      "answer": "Serpent people resemble upright serpents with ophidian heads and scales, a tail, and two arms and legs.",
+      "rating": 9
+    },
+    {
+      "question": "Who is revered by the Serpent people as the father of all snakes?",
+      "answer": "Yig is revered above all other gods of the serpent people, for he is the father of all snakes.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to those who chose to pray to Tsathoggua instead of Yig?",
+      "answer": "They were destroyed by a vengeful god millions of years ago.",
+      "rating": 8
+    },
+    {
+      "question": "Do you think any outcasts remain who choose to pray to Tsathoggua?",
+      "answer": "It is doubtful whether any such outcasts remain to peddle their false litanies.",
+      "rating": 8
+    },
+    {
+      "question": "When did the serpent people's first kingdom, Valusia, flourish?",
+      "answer": "Some two hundred seventy-five million years ago",
+      "rating": 9
+    },
+    {
+      "question": "What was the name of the revered god of the serpent people, revered above all other gods of the serpent people?",
+      "answer": "Yig",
+      "rating": 9
+    },
+    {
+      "question": "What happened to the serpent people who chose to pray to Tsathoggua instead of Yig?",
+      "answer": "They were destroyed by a vengeful god millions of years ago",
+      "rating": 8
+    },
+    {
+      "question": "When did the dinosaurs appear, and what happened to the serpent people's first kingdom, Valusia?",
+      "answer": "With the coming of the dinosaurs, two hundred and twenty-five million years ago, the first kingdom fell",
+      "rating": 9
+    },
+    {
+      "question": "When did the first kingdom of the serpent people fall?",
+      "answer": "Two hundred and twenty-five million years ago",
+      "rating": 8
+    },
+    {
+      "question": "What was the name of the serpent people's greatest stronghold?",
+      "answer": "Yoth",
+      "rating": 8
+    },
+    {
+      "question": "When did the serpent people destroy their last citadel of Yanyoga?",
+      "answer": "10,000 B.C.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to the second kingdom of the serpent people at the center of the Thurian continent?",
+      "answer": "It fell overthrown by humans.",
+      "rating": 7
+    },
+    {
+      "question": "What is the likely fate of the degenerate serpent people?",
+      "answer": "They have characteristics lessened by as much as a third.",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical condition of the hibernating serpent people?",
+      "answer": "They have rested for thousands of years or more.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical characteristic of the third class of serpent people?",
+      "answer": "typically more intelligent and powerful",
+      "rating": 10
+    },
+    {
+      "question": "How much additional hit points does tearing away a rat-thing cost to the victim?",
+      "answer": "1D3 hit points",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage bonus for fighting a rat-thing?",
+      "answer": "damage bonus",
+      "rating": 6
+    },
+    {
+      "question": "What is the cost of seeing a rat-thing for the first time, if it was known to the observer in life?",
+      "answer": "1/1D8 Sanity points",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Weller's unarmed attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Dodge work for Weller's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dodge 30% (15/6)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor class of Weller?"
+      },
+      {
+        "role": "assistant",
+        "content": "3-point rough hide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the typical damage points for Weller's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the physical appearance of the Serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "Serpent people resemble upright serpents with ophidian heads and scales, a tail, and two arms and legs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is revered by the Serpent people as the father of all snakes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yig is revered above all other gods of the serpent people, for he is the father of all snakes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to those who chose to pray to Tsathoggua instead of Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were destroyed by a vengeful god millions of years ago."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do you think any outcasts remain who choose to pray to Tsathoggua?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is doubtful whether any such outcasts remain to peddle their false litanies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the serpent people's first kingdom, Valusia, flourish?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some two hundred seventy-five million years ago"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the name of the revered god of the serpent people, revered above all other gods of the serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yig"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the serpent people who chose to pray to Tsathoggua instead of Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were destroyed by a vengeful god millions of years ago"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the dinosaurs appear, and what happened to the serpent people's first kingdom, Valusia?"
+      },
+      {
+        "role": "assistant",
+        "content": "With the coming of the dinosaurs, two hundred and twenty-five million years ago, the first kingdom fell"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the first kingdom of the serpent people fall?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two hundred and twenty-five million years ago"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the name of the serpent people's greatest stronghold?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the serpent people destroy their last citadel of Yanyoga?"
+      },
+      {
+        "role": "assistant",
+        "content": "10,000 B.C."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the second kingdom of the serpent people at the center of the Thurian continent?"
+      },
+      {
+        "role": "assistant",
+        "content": "It fell overthrown by humans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the likely fate of the degenerate serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have characteristics lessened by as much as a third."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical condition of the hibernating serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have rested for thousands of years or more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical characteristic of the third class of serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "typically more intelligent and powerful"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much additional hit points does tearing away a rat-thing cost to the victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for fighting a rat-thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of seeing a rat-thing for the first time, if it was known to the observer in life?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D8 Sanity points"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

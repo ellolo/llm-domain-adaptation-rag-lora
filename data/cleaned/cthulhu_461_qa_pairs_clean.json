@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Hobbhouse Arkham Witch Trial Papers are a mysterious leather folio containing handwritten documents from the 1690s, detailing personal correspondence between jurist Caleb Hobbhouse and notable authorities in colonial New England. The papers are a key clue in a larger mystery, and the Keeper's Note emphasizes the importance of flexibility and improvisation in delivering the scenario. The document also introduces key figures such as Detective Lt. Bill Somerset, who can provide information on the Leiter case, and Shaunassy, who is investigating the Hobbhouse family. The papers also hint at the existence of supernatural forces at work in the town.",
+  "qa_pairs": [
+    {
+      "question": "Who is responsible for the Leiter case?",
+      "answer": "Detective Lt. Bill Somerset",
+      "rating": 9
+    },
+    {
+      "question": "What is the cause of death according to Detective Somerset?",
+      "answer": "A heart attack",
+      "rating": 8
+    },
+    {
+      "question": "What will Detective Somerset say if investigators ask about the unusual circumstances of the case?",
+      "answer": "That he has easier cases to solve and no time for chasing up freakish ones",
+      "rating": 9
+    },
+    {
+      "question": "What happened to Dr. Wheatcroft during the fight?",
+      "answer": "He failed his Sanity roll and fainted",
+      "rating": 8
+    },
+    {
+      "question": "What caused Leiter's death?",
+      "answer": "a heart attack",
+      "rating": 8
+    },
+    {
+      "question": "How might Somerset react if investigators push him too far?",
+      "answer": "he may take an interest in them, perhaps putting a tail on them or looking into their business dealings",
+      "rating": 9
+    },
+    {
+      "question": "What can make Somerset's attitude towards a case change?",
+      "answer": "if the investigators give Somerset a hard time or push him too far",
+      "rating": 9
+    },
+    {
+      "question": "How might Somerset react if he feels someone needs teaching a lesson in respect for law?",
+      "answer": "he is not beyond using his extensive resources to make life difficult for them",
+      "rating": 9
+    },
+    {
+      "question": "What is the nature of the documents in the Hobbhouse Arkham Witch Trial Papers?",
+      "answer": "The documents are hand-written and date back to the early seventeen-hundreds, comprising a record of personal correspondence.",
+      "rating": 9
+    },
+    {
+      "question": "How many pages are in the Hobbhouse Arkham Witch Trial Papers?",
+      "answer": "The Hobbhouse Arkham Witch Trial Papers contain a sheaf of some sixty unbound pages.",
+      "rating": 8
+    },
+    {
+      "question": "What is the binding of the Hobbhouse Arkham Witch Trial Papers?",
+      "answer": "The Hobbhouse Arkham Witch Trial Papers are closed with academic satchel-straps.",
+      "rating": 7
+    },
+    {
+      "question": "What is the estimated time period when the Hobbhouse Arkham Witch Trial Papers were created?",
+      "answer": "The documents date back to the early seventeen-hundreds.",
+      "rating": 9
+    },
+    {
+      "question": "What is the subject of the Hobbhouse Arkham Witch Trial Papers?",
+      "answer": "The Hobbhouse Arkham Witch Trial Papers are a record of personal correspondence between Caleb Hobbhouse and notable legal and spiritual authorities in colonial New England.",
+      "rating": 9
+    },
+    {
+      "question": "What is the physical format of the Hobbhouse Arkham Witch Trial Papers?",
+      "answer": "The Hobbhouse Arkham Witch Trial Papers are a leather folio containing a sheaf of sixty unbound pages.",
+      "rating": 8
+    },
+    {
+      "question": "When do the letters in the Hobbhouse Arkham Witch Trial Papers date back to?",
+      "answer": "The letters in the Hobbhouse Arkham Witch Trial Papers date back to the early seventeen-hundreds.",
+      "rating": 8
+    },
+    {
+      "question": "What is the focus of the letters in the Hobbhouse Arkham Witch Trial Papers?",
+      "answer": "The letters in the Hobbhouse Arkham Witch Trial Papers focus upon the 1690s Arkham Witch Trials.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is responsible for the Leiter case?"
+      },
+      {
+        "role": "assistant",
+        "content": "Detective Lt. Bill Somerset"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cause of death according to Detective Somerset?"
+      },
+      {
+        "role": "assistant",
+        "content": "A heart attack"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will Detective Somerset say if investigators ask about the unusual circumstances of the case?"
+      },
+      {
+        "role": "assistant",
+        "content": "That he has easier cases to solve and no time for chasing up freakish ones"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Dr. Wheatcroft during the fight?"
+      },
+      {
+        "role": "assistant",
+        "content": "He failed his Sanity roll and fainted"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What caused Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "a heart attack"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might Somerset react if investigators push him too far?"
+      },
+      {
+        "role": "assistant",
+        "content": "he may take an interest in them, perhaps putting a tail on them or looking into their business dealings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can make Somerset's attitude towards a case change?"
+      },
+      {
+        "role": "assistant",
+        "content": "if the investigators give Somerset a hard time or push him too far"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How might Somerset react if he feels someone needs teaching a lesson in respect for law?"
+      },
+      {
+        "role": "assistant",
+        "content": "he is not beyond using his extensive resources to make life difficult for them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the documents in the Hobbhouse Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The documents are hand-written and date back to the early seventeen-hundreds, comprising a record of personal correspondence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many pages are in the Hobbhouse Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Hobbhouse Arkham Witch Trial Papers contain a sheaf of some sixty unbound pages."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the binding of the Hobbhouse Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Hobbhouse Arkham Witch Trial Papers are closed with academic satchel-straps."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated time period when the Hobbhouse Arkham Witch Trial Papers were created?"
+      },
+      {
+        "role": "assistant",
+        "content": "The documents date back to the early seventeen-hundreds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the subject of the Hobbhouse Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Hobbhouse Arkham Witch Trial Papers are a record of personal correspondence between Caleb Hobbhouse and notable legal and spiritual authorities in colonial New England."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the physical format of the Hobbhouse Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Hobbhouse Arkham Witch Trial Papers are a leather folio containing a sheaf of sixty unbound pages."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When do the letters in the Hobbhouse Arkham Witch Trial Papers date back to?"
+      },
+      {
+        "role": "assistant",
+        "content": "The letters in the Hobbhouse Arkham Witch Trial Papers date back to the early seventeen-hundreds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the focus of the letters in the Hobbhouse Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The letters in the Hobbhouse Arkham Witch Trial Papers focus upon the 1690s Arkham Witch Trials."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 16,
+    "retention_rate": 0.67,
+    "avg_score": 6.0
+  }
+}

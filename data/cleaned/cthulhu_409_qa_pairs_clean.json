@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes various creatures, including a cobra, giant squid, and wolf, with unique characteristics, abilities, and attack patterns. The cobra is a stealthy, venomous snake with a high damage bonus, while the giant squid is a formidable sea creature with powerful tentacles and a high damage bonus. The wolf is a relatively weak but agile predator that can hunt in packs or solo. The document also introduces the concept of \"poisons\" and \"immune system shock\" from stings, which can have severe consequences for victims.",
+  "qa_pairs": [
+    {
+      "question": "What is the average damage bonus for a SNAKE?",
+      "answer": "-2",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a SQUID?",
+      "answer": "+2D6",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks can a SNAKE make per round?",
+      "answer": "4",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a SQUID's fighting attacks?",
+      "answer": "+2D6",
+      "rating": 9
+    },
+    {
+      "question": "How many tentacles can a SQUID seize a victim with?",
+      "answer": "Eight",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for STR?",
+      "answer": "+2D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the average build of a STR?",
+      "answer": "3",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks can a STR perform per round?",
+      "answer": "4",
+      "rating": 8
+    },
+    {
+      "question": "How does a STR attack its prey?",
+      "answer": "It uses maneuvers to seize and bite its prey",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a STR's poisonous bite?",
+      "answer": "Causes 1D6 damage and a penalty die on all future actions for several hours",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a second tentacle connecting to a first tentacle strike?",
+      "answer": "The two constrict the target and each does its damage each round.",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage caused by the poisonous beak of the creature?",
+      "answer": "1D6 damage",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage caused by the second tentacle strike?",
+      "answer": "1D10 + poison",
+      "rating": 9
+    },
+    {
+      "question": "What is the Dodge percentage for the creature?",
+      "answer": "47% (23/9)",
+      "rating": 8
+    },
+    {
+      "question": "What is the duration of a wasp and bee swarm attack?",
+      "answer": "2D6 combat rounds",
+      "rating": 7
+    },
+    {
+      "question": "What can cause death from bee stings, according to the text?",
+      "answer": "Extensive stings and failing a CON roll",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points can be lost per minute of an Africanized bee attack?",
+      "answer": "1D6 hit points",
+      "rating": 8
+    },
+    {
+      "question": "How do Africanized bees typically hunt?",
+      "answer": "In packs",
+      "rating": 7
+    },
+    {
+      "question": "What type of prey do wolves often hunt in packs?",
+      "answer": "Elk or caribou",
+      "rating": 8
+    },
+    {
+      "question": "How can an investigator experience profound immune system shock?",
+      "answer": "An investigator who is stung extensively",
+      "rating": 9
+    },
+    {
+      "question": "What is a rare occurrence among healthy humans?",
+      "answer": "verified attacks",
+      "rating": 6
+    },
+    {
+      "question": "How many hit points might each minute of a wolf's attack cost?",
+      "answer": "as much as 1D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the average build for a wolf?",
+      "answer": "Average Build: 0",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a SNAKE?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a SQUID?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a SNAKE make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a SQUID's fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many tentacles can a SQUID seize a victim with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eight"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for STR?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of a STR?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a STR perform per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a STR attack its prey?"
+      },
+      {
+        "role": "assistant",
+        "content": "It uses maneuvers to seize and bite its prey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a STR's poisonous bite?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes 1D6 damage and a penalty die on all future actions for several hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a second tentacle connecting to a first tentacle strike?"
+      },
+      {
+        "role": "assistant",
+        "content": "The two constrict the target and each does its damage each round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage caused by the poisonous beak of the creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage caused by the second tentacle strike?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 + poison"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage for the creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "47% (23/9)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of a wasp and bee swarm attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 combat rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can cause death from bee stings, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extensive stings and failing a CON roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points can be lost per minute of an Africanized bee attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Africanized bees typically hunt?"
+      },
+      {
+        "role": "assistant",
+        "content": "In packs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of prey do wolves often hunt in packs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elk or caribou"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can an investigator experience profound immune system shock?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator who is stung extensively"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a rare occurrence among healthy humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "verified attacks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points might each minute of a wolf's attack cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "as much as 1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for a wolf?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Build: 0"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 23,
+    "retention_rate": 0.92,
+    "avg_score": 7.8
+  }
+}

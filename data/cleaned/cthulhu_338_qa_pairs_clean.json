@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nFlying polyps are a type of monster that can attack with their tentacles or use wind-based attacks. They have a 70% chance of knowing spells, which can be used to damage their targets. Polyps can use various wind-based attacks, including Wind Blast, Fixing Attack, and Windstorm Attack, each with its own unique effects and limitations. These attacks can be used to damage and immobilize their targets, and the polyps can also move quickly and chase down their prey. The attacks and abilities of flying polyps are influenced by their physical and magical attributes, such as their strength, magic points, and power.",
+  "qa_pairs": [
+    {
+      "question": "What happens when a polyp is invisible?",
+      "answer": "It does not attack with its tentacles.",
+      "rating": 8
+    },
+    {
+      "question": "What is the chance of a polyp knowing 1D10 spells?",
+      "answer": "70%.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for Wind Blast?",
+      "answer": "+5D6.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average magic points for a polyp?",
+      "answer": "16.",
+      "rating": 7
+    },
+    {
+      "question": "How many tentacles can form in a round?",
+      "answer": "2D6.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to polypoid wind tentacles when they damage a target?",
+      "answer": "They damage a target's hit points, ignoring any body armor.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage type of a polypoid wind tentacle to a target?",
+      "answer": "1D10",
+      "rating": 8
+    },
+    {
+      "question": "How does the damage from a polypoid wind tentacle wound manifest?",
+      "answer": "As a windburn or desiccation of tissue.",
+      "rating": 9
+    },
+    {
+      "question": "Is the nature of a polypoid wind tentacle partially nonmaterial?",
+      "answer": "Yes",
+      "rating": 8
+    },
+    {
+      "question": "Does tentacle damage ignore body armor?",
+      "answer": "Yes",
+      "rating": 9
+    },
+    {
+      "question": "How does tentacle damage affect targets?",
+      "answer": "Tentacle damage is done directly to the target\u2019s hit points, ignoring any body armor.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the wind blast on targets?",
+      "answer": "Victims of the wind blast literally have their flesh stripped from their bones and their skin dehydrated and wind-burned.",
+      "rating": 10
+    },
+    {
+      "question": "What is the range of the wind blast?",
+      "answer": "The wind blast has a base range of 20 yards.",
+      "rating": 8
+    },
+    {
+      "question": "How does the damage of the wind blast decrease with distance?",
+      "answer": "The cylindrical blast can extend further than 20 yards, but loses 1D6 damage for each multiple of the base distance.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect on targets when they are at a certain distance from the polyp?",
+      "answer": "Targets of the wind blast are blown backwards for a number of yards equal to the hit points they have lost.",
+      "rating": 9
+    },
+    {
+      "question": "What is the form of a wound caused by the wind attack?",
+      "answer": "a windburn or desiccation of tissue.",
+      "rating": 8
+    },
+    {
+      "question": "How much damage the wind blast loses for each multiple of the base distance?",
+      "answer": "1D6 damage",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the victims of the wind blast?",
+      "answer": "Their flesh is stripped from their bones, their skin is dehydrated and wind-burned, and they are blown backwards.",
+      "rating": 9
+    },
+    {
+      "question": "What is the range of the wind blast when using the Fixing Attack mode?",
+      "answer": "1,000 yards",
+      "rating": 8
+    },
+    {
+      "question": "How much damage the cylindrical blast loses when it extends further than its base distance?",
+      "answer": "1D6 damage for each multiple of the base distance",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the victims of the wind blast?",
+      "answer": "Their flesh is stripped from their bones, their skin is dehydrated and wind-burned, and they are blown backwards for a number of yards equal to the hit points they have lost.",
+      "rating": 10
+    },
+    {
+      "question": "What is the range of the wind attack in Fixing Attack mode?",
+      "answer": "1,000 yards",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a polyp is invisible?"
+      },
+      {
+        "role": "assistant",
+        "content": "It does not attack with its tentacles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a polyp knowing 1D10 spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "70%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for Wind Blast?"
+      },
+      {
+        "role": "assistant",
+        "content": "+5D6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a polyp?"
+      },
+      {
+        "role": "assistant",
+        "content": "16."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many tentacles can form in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to polypoid wind tentacles when they damage a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "They damage a target's hit points, ignoring any body armor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type of a polypoid wind tentacle to a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the damage from a polypoid wind tentacle wound manifest?"
+      },
+      {
+        "role": "assistant",
+        "content": "As a windburn or desiccation of tissue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the nature of a polypoid wind tentacle partially nonmaterial?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does tentacle damage ignore body armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does tentacle damage affect targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tentacle damage is done directly to the target\u2019s hit points, ignoring any body armor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the wind blast on targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Victims of the wind blast literally have their flesh stripped from their bones and their skin dehydrated and wind-burned."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the wind blast?"
+      },
+      {
+        "role": "assistant",
+        "content": "The wind blast has a base range of 20 yards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the damage of the wind blast decrease with distance?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cylindrical blast can extend further than 20 yards, but loses 1D6 damage for each multiple of the base distance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect on targets when they are at a certain distance from the polyp?"
+      },
+      {
+        "role": "assistant",
+        "content": "Targets of the wind blast are blown backwards for a number of yards equal to the hit points they have lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the form of a wound caused by the wind attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "a windburn or desiccation of tissue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage the wind blast loses for each multiple of the base distance?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victims of the wind blast?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their flesh is stripped from their bones, their skin is dehydrated and wind-burned, and they are blown backwards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the wind blast when using the Fixing Attack mode?"
+      },
+      {
+        "role": "assistant",
+        "content": "1,000 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage the cylindrical blast loses when it extends further than its base distance?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 damage for each multiple of the base distance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victims of the wind blast?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their flesh is stripped from their bones, their skin is dehydrated and wind-burned, and they are blown backwards for a number of yards equal to the hit points they have lost."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the wind attack in Fixing Attack mode?"
+      },
+      {
+        "role": "assistant",
+        "content": "1,000 yards"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

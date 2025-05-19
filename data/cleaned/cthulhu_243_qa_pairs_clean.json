@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nWhen designing a linear scenario for Call of Cthulhu, it's essential to create a clear beginning, middle, and end that sets up the whole game, provides clues and leads, and pieces together the bigger picture. A well-structured plot can be inspired by classic detective fiction, books, films, and TV shows. However, as players become more experienced and confident, they may want to deviate from the linear scenario, leading to the need for non-linear scenarios. Non-linear scenarios allow for a sandbox-style setting where players can discover interconnected plots and endings in a different order each time the scenario is played.",
+  "qa_pairs": [
+    {
+      "question": "What is a common element shared by most linear scenarios?",
+      "answer": "A beginning, middle, and an end",
+      "rating": 9
+    },
+    {
+      "question": "What will lack definition in a scenario without a beginning, middle, and end?",
+      "answer": "Definition and has the potential to become a confusing mess",
+      "rating": 8
+    },
+    {
+      "question": "What should be taken into consideration for inspiration when creating an investigator?",
+      "answer": "The investigators' backstories",
+      "rating": 7
+    },
+    {
+      "question": "What structure is recommended for a scenario to provide definition?",
+      "answer": "A beginning, middle, and an end",
+      "rating": 9
+    },
+    {
+      "question": "What is the significance of a beginning in a scenario?",
+      "answer": "A beginning sets up the whole game, hooks the players' interest, sets the tone and mood, and provides an initial source of clues and leads for investigation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main purpose of the middle section in a scenario?",
+      "answer": "The middle is where the investigators get to pursue information, meet non-player characters, discover clues, and begin to piece together the bigger picture.",
+      "rating": 8
+    },
+    {
+      "question": "What is the significance of the end in a scenario?",
+      "answer": "The end comes when the investigators have (more or less) discovered what's going on.",
+      "rating": 7
+    },
+    {
+      "question": "What is the consequence of lacking a beginning, middle, and end in a scenario?",
+      "answer": "A scenario without these three will lack definition and has the potential to become a confusing mess, not only for the players, but also for the Keeper.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary function of the beginning in a linear scenario?",
+      "answer": "it hooks the players\u2019 interest, sets the tone and mood, and provides an initial source of clues and leads for investigation.",
+      "rating": 8
+    },
+    {
+      "question": "What is the most important part of constructing a plot in linear scenario design?",
+      "answer": "Constructing a plot is essential to good linear scenario design.",
+      "rating": 9
+    },
+    {
+      "question": "Where can a Keeper find inspiration for their scenario's plot?",
+      "answer": "All of these can provide great inspiration: the books you\u2019ve read, films and TV you\u2019ve watched, and stories you\u2019ve been told.",
+      "rating": 7
+    },
+    {
+      "question": "What is a good way for a Keeper to start a Lovecraft story-based scenario?",
+      "answer": "Changing a few names and mixing up the monsters in a particular Lovecraft story is the perfect way to start.",
+      "rating": 6
+    },
+    {
+      "question": "What is the recommended source for inspiration for a Keeper's scenario?",
+      "answer": "Lovecraft stories",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a Keeper when players take a different path than expected?",
+      "answer": "The Keeper may be tempted to contrive something to get the story back on its intended track",
+      "rating": 9
+    },
+    {
+      "question": "Why might players feel their contribution is of little value if they follow a preordained plot?",
+      "answer": "Because they feel they are simply following a preordained story rather than creating their own",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended approach for running scenarios in response to players' non-linear choices?",
+      "answer": "Running scenarios in a non-linear way",
+      "rating": 7
+    },
+    {
+      "question": "What should novice Keepers do first?",
+      "answer": "Create linear stories at first",
+      "rating": 9
+    },
+    {
+      "question": "What can happen if the players are compelled back to the Keeper's prepared plot?",
+      "answer": "They will feel that their contribution is of little value",
+      "rating": 8
+    },
+    {
+      "question": "How should novice Keepers run scenarios as their experience and confidence grow?",
+      "answer": "Moving onto non-linear scenarios",
+      "rating": 9
+    },
+    {
+      "question": "What can happen in a non-linear adventure?",
+      "answer": "The successive points may be encountered in a different order each time the scenario is played",
+      "rating": 8
+    },
+    {
+      "question": "What type of scenario is being discussed?",
+      "answer": "a non-linear scenario",
+      "rating": 7
+    },
+    {
+      "question": "What is the recommended approach for novice Keepers?",
+      "answer": "create linear stories at first, moving onto non-linear scenarios as their experience and confidence grows",
+      "rating": 9
+    },
+    {
+      "question": "What can happen in a non-linear adventure?",
+      "answer": "the successive points may be encountered in a different order each time the scenario is played and various unknown endings may ultimately be reached",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of creating a sandbox?",
+      "answer": "to establish a 'geography' for the game wherein numerous interconnected or separate plots can be set for the investigators to discover",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common element shared by most linear scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "A beginning, middle, and an end"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will lack definition in a scenario without a beginning, middle, and end?"
+      },
+      {
+        "role": "assistant",
+        "content": "Definition and has the potential to become a confusing mess"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be taken into consideration for inspiration when creating an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators' backstories"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What structure is recommended for a scenario to provide definition?"
+      },
+      {
+        "role": "assistant",
+        "content": "A beginning, middle, and an end"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of a beginning in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A beginning sets up the whole game, hooks the players' interest, sets the tone and mood, and provides an initial source of clues and leads for investigation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the middle section in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The middle is where the investigators get to pursue information, meet non-player characters, discover clues, and begin to piece together the bigger picture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the end in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The end comes when the investigators have (more or less) discovered what's going on."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of lacking a beginning, middle, and end in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A scenario without these three will lack definition and has the potential to become a confusing mess, not only for the players, but also for the Keeper."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of the beginning in a linear scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "it hooks the players\u2019 interest, sets the tone and mood, and provides an initial source of clues and leads for investigation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the most important part of constructing a plot in linear scenario design?"
+      },
+      {
+        "role": "assistant",
+        "content": "Constructing a plot is essential to good linear scenario design."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can a Keeper find inspiration for their scenario's plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "All of these can provide great inspiration: the books you\u2019ve read, films and TV you\u2019ve watched, and stories you\u2019ve been told."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a good way for a Keeper to start a Lovecraft story-based scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Changing a few names and mixing up the monsters in a particular Lovecraft story is the perfect way to start."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended source for inspiration for a Keeper's scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lovecraft stories"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a Keeper when players take a different path than expected?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may be tempted to contrive something to get the story back on its intended track"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why might players feel their contribution is of little value if they follow a preordained plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because they feel they are simply following a preordained story rather than creating their own"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended approach for running scenarios in response to players' non-linear choices?"
+      },
+      {
+        "role": "assistant",
+        "content": "Running scenarios in a non-linear way"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should novice Keepers do first?"
+      },
+      {
+        "role": "assistant",
+        "content": "Create linear stories at first"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if the players are compelled back to the Keeper's prepared plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will feel that their contribution is of little value"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should novice Keepers run scenarios as their experience and confidence grow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Moving onto non-linear scenarios"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen in a non-linear adventure?"
+      },
+      {
+        "role": "assistant",
+        "content": "The successive points may be encountered in a different order each time the scenario is played"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of scenario is being discussed?"
+      },
+      {
+        "role": "assistant",
+        "content": "a non-linear scenario"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended approach for novice Keepers?"
+      },
+      {
+        "role": "assistant",
+        "content": "create linear stories at first, moving onto non-linear scenarios as their experience and confidence grows"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen in a non-linear adventure?"
+      },
+      {
+        "role": "assistant",
+        "content": "the successive points may be encountered in a different order each time the scenario is played and various unknown endings may ultimately be reached"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of creating a sandbox?"
+      },
+      {
+        "role": "assistant",
+        "content": "to establish a 'geography' for the game wherein numerous interconnected or separate plots can be set for the investigators to discover"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

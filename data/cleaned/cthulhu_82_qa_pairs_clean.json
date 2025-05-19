@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines the rules for a skill system in a survival or wilderness-themed game, where players must use their skills to overcome challenges such as finding shelter, water, and food, as well as navigating extreme weather conditions and hostile environments. The system includes three main skills: Find/Make Shelter, Locate Water, and Sources of Food, with higher difficulty levels (Pushed) that simulate more extreme and high-stakes situations. The system also includes other skills such as Swim, Throw, and Push, which can be used in various situations to overcome challenges and avoid risks. The consequences of failing a Pushed roll can be severe, and the Keeper has the discretion to award modifiers and consequences based on the situation.",
+  "qa_pairs": [
+    {
+      "question": "What is the regular difficulty in finding/making shelter and locating water and sources of food?",
+      "answer": "find/make shelter; locate water and sources of food.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an investigator fails a pushed roll?",
+      "answer": "Sample Consequences of failing a Pushed roll",
+      "rating": 9
+    },
+    {
+      "question": "What happens to an insane investigator if they fail a pushed roll?",
+      "answer": "he or she believes themselves to be impervious to the elements and able to exist as a breatharian",
+      "rating": 10
+    },
+    {
+      "question": "What is an example of a pushed difficulty?",
+      "answer": "trying something risky (e.g. drinking the water without purifying it first; eating unidentified berries)",
+      "rating": 8
+    },
+    {
+      "question": "What is the Swim skill?",
+      "answer": "The ability to float and move through water or other liquid.",
+      "rating": 7
+    },
+    {
+      "question": "What can result from failing a pushed Swim roll?",
+      "answer": "Loss of hit points, or the person being washed away downstream, partially or completely drowned.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level for swimming in a fast-moving current?",
+      "answer": "Regular difficulty.",
+      "rating": 8
+    },
+    {
+      "question": "What is awarded for swimming a length in a swimming pool?",
+      "answer": "No roll is required.",
+      "rating": 6
+    },
+    {
+      "question": "What can failing a Pushed roll result in?",
+      "answer": "Loss of hit points and the person being washed away downstream, partially or completely drowned.",
+      "rating": 9
+    },
+    {
+      "question": "Is a roll required for swimming a length in the swimming pool?",
+      "answer": "No, a roll is not required.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a Hard difficulty situation?",
+      "answer": "Swimming against a rapid current while fully dressed, under adverse weather conditions.",
+      "rating": 9
+    },
+    {
+      "question": "What might happen to the person if they make it to the lifeboat and feel something grab their ankle?",
+      "answer": "They might be injured by being dashed against rocks.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a Throw roll fails?",
+      "answer": "The object lands at some random distance from the target.",
+      "rating": 7
+    },
+    {
+      "question": "What skill is used in combat when throwing certain objects?",
+      "answer": "The Throw skill",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum distance a palm-sized object can be hurled?",
+      "answer": "STR in yards",
+      "rating": 9
+    },
+    {
+      "question": "What factors might affect the Throw skill in combat?",
+      "answer": "The weight of the object being thrown or prevailing wind conditions",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum range for a successful Throw skill roll?",
+      "answer": "STR in yards",
+      "rating": 9
+    },
+    {
+      "question": "What skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs?",
+      "answer": "Throw skill",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for throwing a basketball through a hoop?",
+      "answer": "Regular difficulty",
+      "rating": 7
+    },
+    {
+      "question": "What happens to an item after it has been thrown?",
+      "answer": "It is out of the investigator\u2019s hands",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the object if the Throw roll fails?",
+      "answer": "The object lands at a random distance from the target.",
+      "rating": 9
+    },
+    {
+      "question": "What skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs?",
+      "answer": "The Throw skill",
+      "rating": 8
+    },
+    {
+      "question": "How does a Keeper determine the distance between the thrown object and the target after a failed Throw roll?",
+      "answer": "By comparing the closeness of the die roll result to the highest number which would have indicated success",
+      "rating": 9
+    },
+    {
+      "question": "In what situation would a Keeper ask for a Pushed roll?",
+      "answer": "If multiple missiles are available and there is a distinct risk connected with failure",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper's task when comparing the die roll result to the highest number indicating success?",
+      "answer": "The Keeper should compare the closeness of the die roll result to the highest number which would have indicated success, and choose a distance between target and thrown object that feels comparable.",
+      "rating": 9
+    },
+    {
+      "question": "What skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs?",
+      "answer": "The Throw skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a very light object being thrown in terms of modifiers?",
+      "answer": "Modifiers might be applied for the weight of the object being thrown or, in the case of a very light object, the prevailing wind conditions.",
+      "rating": 7
+    },
+    {
+      "question": "What is the situation in which a Pushed roll is not necessary?",
+      "answer": "If multiple missiles are available, there is no risk connected with failure and it is only a matter of time until the investigator is successful, don\u2019t roll dice.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty in finding/making shelter and locating water and sources of food?"
+      },
+      {
+        "role": "assistant",
+        "content": "find/make shelter; locate water and sources of food."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sample Consequences of failing a Pushed roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an insane investigator if they fail a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "he or she believes themselves to be impervious to the elements and able to exist as a breatharian"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a pushed difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "trying something risky (e.g. drinking the water without purifying it first; eating unidentified berries)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Swim skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability to float and move through water or other liquid."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can result from failing a pushed Swim roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Loss of hit points, or the person being washed away downstream, partially or completely drowned."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for swimming in a fast-moving current?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is awarded for swimming a length in a swimming pool?"
+      },
+      {
+        "role": "assistant",
+        "content": "No roll is required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can failing a Pushed roll result in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Loss of hit points and the person being washed away downstream, partially or completely drowned."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is a roll required for swimming a length in the swimming pool?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, a roll is not required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a Hard difficulty situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Swimming against a rapid current while fully dressed, under adverse weather conditions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to the person if they make it to the lifeboat and feel something grab their ankle?"
+      },
+      {
+        "role": "assistant",
+        "content": "They might be injured by being dashed against rocks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Throw roll fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The object lands at some random distance from the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used in combat when throwing certain objects?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Throw skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum distance a palm-sized object can be hurled?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR in yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors might affect the Throw skill in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "The weight of the object being thrown or prevailing wind conditions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum range for a successful Throw skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR in yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Throw skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for throwing a basketball through a hoop?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an item after it has been thrown?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is out of the investigator\u2019s hands"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the object if the Throw roll fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The object lands at a random distance from the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Throw skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a Keeper determine the distance between the thrown object and the target after a failed Throw roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "By comparing the closeness of the die roll result to the highest number which would have indicated success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what situation would a Keeper ask for a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "If multiple missiles are available and there is a distinct risk connected with failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's task when comparing the die roll result to the highest number indicating success?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should compare the closeness of the die roll result to the highest number which would have indicated success, and choose a distance between target and thrown object that feels comparable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Throw skill is used in combat when throwing knives, rocks, spears, grenades, or boomerangs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a very light object being thrown in terms of modifiers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modifiers might be applied for the weight of the object being thrown or, in the case of a very light object, the prevailing wind conditions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the situation in which a Pushed roll is not necessary?"
+      },
+      {
+        "role": "assistant",
+        "content": "If multiple missiles are available, there is no risk connected with failure and it is only a matter of time until the investigator is successful, don\u2019t roll dice."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

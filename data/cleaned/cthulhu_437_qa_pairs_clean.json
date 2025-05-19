@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis is an open-ended scenario set in the eerie environment of Arkham, specifically at Miskatonic University, where a murder mystery unfolds. The scenario involves the pursuit of valuable and dangerous missing papers, which are shrouded in strange events, greed, and obsession. The true culprit is not of this earth, adding a supernatural element to the investigation. The scenario takes place in October 1920s, during the Prohibition era, and is set in a dark and foreboding atmosphere, where the protagonist must navigate the unknown and the unexplained.",
+  "qa_pairs": [
+    {
+      "question": "What is the state of the narrator's health after waking up?",
+      "answer": "You suffer one penalty die on any CON rolls throughout the next day until you sleep again.",
+      "rating": 8
+    },
+    {
+      "question": "What is the state of the environment around the narrator?",
+      "answer": "The forest extends all around you. The path cuts and snakes its way between the trees, carpeted by freshly fallen yellowed leaves that have begun to dry and wither as if a sickness infests them.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition of the path the narrator is walking on?",
+      "answer": "The path cuts and snakes its way between the trees, carpeted by freshly fallen yellowed leaves that have begun to dry and wither as if a sickness infests them.",
+      "rating": 9
+    },
+    {
+      "question": "What is the reason for the narrator's pain?",
+      "answer": "a sharp pain sinks into your chest as something plunges into you.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the narrator after being attacked?",
+      "answer": "You wake with a gasp and a splutter.",
+      "rating": 7
+    },
+    {
+      "question": "What could be the source of the yellow light?",
+      "answer": "water",
+      "rating": 6
+    },
+    {
+      "question": "What is happening to the protagonist after waking up?",
+      "answer": "they wake with a gasp and a splutter",
+      "rating": 9
+    },
+    {
+      "question": "What is outside the cabin?",
+      "answer": "a dilapidated log cabin",
+      "rating": 9
+    },
+    {
+      "question": "What is happening to the protagonist's muscles and brain?",
+      "answer": "their muscles strain and their brain cries out for their limbs to work",
+      "rating": 8
+    },
+    {
+      "question": "What is happening to the protagonist?",
+      "answer": "They are powerless and unable to move.",
+      "rating": 7
+    },
+    {
+      "question": "What is said to the protagonist by the figure?",
+      "answer": "Join us in His service. Embrace your new destiny and bask in his eternal glory.",
+      "rating": 6
+    },
+    {
+      "question": "What is described as spreading from the empty eye socket?",
+      "answer": "A dark green smear of corruption.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the protagonist wakes from their terror?",
+      "answer": "They make a Sanity roll for 1/1D6 SAN loss.",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the horror?",
+      "answer": "The Thing in the Lake.",
+      "rating": 9
+    },
+    {
+      "question": "What is the environment where the protagonist finds themselves?",
+      "answer": "A stagnant lake with black, stinking water and a wooded tree line surrounding it.",
+      "rating": 9
+    },
+    {
+      "question": "What strange phenomenon is occurring beneath the water?",
+      "answer": "Strange light pulses from beneath the water.",
+      "rating": 9
+    },
+    {
+      "question": "What creatures are rising from the surface of the lake?",
+      "answer": "Tendrils that rise slowly from the surface, writhing and twisting in the cold night air, with lids that open and blink, revealing inhuman eyes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the protagonist feeling as something huge rises to greet the night?",
+      "answer": "A sickening stab as something plunges into their chest.",
+      "rating": 8
+    },
+    {
+      "question": "What is the sound of the metallic spikes that are thrusting upwards?",
+      "answer": "They spines writhe and flex.",
+      "rating": 8
+    },
+    {
+      "question": "When does the scenario take place?",
+      "answer": "The scenario takes place in October, some time in the 1920s, during the Prohibition era.",
+      "rating": 9
+    },
+    {
+      "question": "What is the setting of the scenario?",
+      "answer": "The scenario is set in the environment of Arkham.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main goal of the scenario?",
+      "answer": "The main goal of the scenario is to pursue a set of valuable and dangerous missing papers.",
+      "rating": 8
+    },
+    {
+      "question": "What is the atmosphere of the scenario?",
+      "answer": "The scenario is a murder mystery with strange events, greed, and obsession shrouding the facts of the case.",
+      "rating": 9
+    },
+    {
+      "question": "What time of year does the scenario take place in?",
+      "answer": "The scenario takes place in October.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of the narrator's health after waking up?"
+      },
+      {
+        "role": "assistant",
+        "content": "You suffer one penalty die on any CON rolls throughout the next day until you sleep again."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of the environment around the narrator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The forest extends all around you. The path cuts and snakes its way between the trees, carpeted by freshly fallen yellowed leaves that have begun to dry and wither as if a sickness infests them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the path the narrator is walking on?"
+      },
+      {
+        "role": "assistant",
+        "content": "The path cuts and snakes its way between the trees, carpeted by freshly fallen yellowed leaves that have begun to dry and wither as if a sickness infests them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for the narrator's pain?"
+      },
+      {
+        "role": "assistant",
+        "content": "a sharp pain sinks into your chest as something plunges into you."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the narrator after being attacked?"
+      },
+      {
+        "role": "assistant",
+        "content": "You wake with a gasp and a splutter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could be the source of the yellow light?"
+      },
+      {
+        "role": "assistant",
+        "content": "water"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the protagonist after waking up?"
+      },
+      {
+        "role": "assistant",
+        "content": "they wake with a gasp and a splutter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is outside the cabin?"
+      },
+      {
+        "role": "assistant",
+        "content": "a dilapidated log cabin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the protagonist's muscles and brain?"
+      },
+      {
+        "role": "assistant",
+        "content": "their muscles strain and their brain cries out for their limbs to work"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the protagonist?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are powerless and unable to move."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is said to the protagonist by the figure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Join us in His service. Embrace your new destiny and bask in his eternal glory."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is described as spreading from the empty eye socket?"
+      },
+      {
+        "role": "assistant",
+        "content": "A dark green smear of corruption."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the protagonist wakes from their terror?"
+      },
+      {
+        "role": "assistant",
+        "content": "They make a Sanity roll for 1/1D6 SAN loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Thing in the Lake."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the environment where the protagonist finds themselves?"
+      },
+      {
+        "role": "assistant",
+        "content": "A stagnant lake with black, stinking water and a wooded tree line surrounding it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What strange phenomenon is occurring beneath the water?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strange light pulses from beneath the water."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What creatures are rising from the surface of the lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tendrils that rise slowly from the surface, writhing and twisting in the cold night air, with lids that open and blink, revealing inhuman eyes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the protagonist feeling as something huge rises to greet the night?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sickening stab as something plunges into their chest."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the sound of the metallic spikes that are thrusting upwards?"
+      },
+      {
+        "role": "assistant",
+        "content": "They spines writhe and flex."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When does the scenario take place?"
+      },
+      {
+        "role": "assistant",
+        "content": "The scenario takes place in October, some time in the 1920s, during the Prohibition era."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the setting of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The scenario is set in the environment of Arkham."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main goal of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main goal of the scenario is to pursue a set of valuable and dangerous missing papers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the atmosphere of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The scenario is a murder mystery with strange events, greed, and obsession shrouding the facts of the case."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What time of year does the scenario take place in?"
+      },
+      {
+        "role": "assistant",
+        "content": "The scenario takes place in October."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.1
+  }
+}

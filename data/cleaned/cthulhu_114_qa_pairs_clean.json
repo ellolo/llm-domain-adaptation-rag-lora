@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this combat scenario, Harvey is ambushed by a thug while chasing a cultist in Boston. The Keeper allows Harvey to make a Spot Hidden roll to track the cultist, but Harvey fails, and the Keeper pushes the roll, allowing the thug to attack. Harvey attempts to push the thug aside and run past, but is stabbed for 6 points of damage. The Keeper then allows the thug to threaten Harvey with a knife and demand money, and Harvey surrenders his wallet. The document outlines the rules for resolving combat in this game system, including the use of skills, dice rolls, and penalties.",
+  "qa_pairs": [
+    {
+      "question": "Can the Keeper allow a skill roll to determine if a target anticipates an attack?",
+      "answer": "Yes, the Keeper may allow a skill roll to determine if a target anticipates an attack, using either Listen or Spot Hidden to hear or see it coming, or Psychology to perceive the attacker\u2019s intent.",
+      "rating": 8
+    },
+    {
+      "question": "Can the attacker use Stealth skill to set the difficulty level for the investigator\u2019s Listen, Spot Hidden, or Psychology skill?",
+      "answer": "Yes, the attacker can use Stealth skill to set the difficulty level for the investigator\u2019s Listen, Spot Hidden, or Psychology skill, or vice versa if the investigator is the one making the surprise attack.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the target fails to anticipate the attack?",
+      "answer": "The Keeper may allow the attack to be an automatic success (unless a fumble is rolled) or award the attacker a bonus die, depending on the situation.",
+      "rating": 8
+    },
+    {
+      "question": "Does a roll need to be made to hit with a ranged attack?",
+      "answer": "Yes, a roll should always be made to hit with a ranged attack (for example with a gun or throwing knife).",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of the target anticipating the attack?",
+      "answer": "They may choose to dodge or fight back.",
+      "rating": 6
+    },
+    {
+      "question": "How should a ranged attack be determined?",
+      "answer": "A roll should always be made to hit.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the attack if the target fails to anticipate it?",
+      "answer": "The Keeper may allow the attack to be an automatic success or award the attacker a bonus die.",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's Fighting skill level?",
+      "answer": "35 (Regular), 17 (Hard), 7 (Extreme)",
+      "rating": 9
+    },
+    {
+      "question": "What is Harvey's Dodge skill level?",
+      "answer": "25 (Regular), 12 (Hard), 5 (Extreme)",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's Build skill level?",
+      "answer": "1",
+      "rating": 6
+    },
+    {
+      "question": "What is the goal of Harvey's Action in the first round?",
+      "answer": "to push the thug out of his way long enough for Harvey to run past",
+      "rating": 9
+    },
+    {
+      "question": "Who goes first in the fight?",
+      "answer": "Harvey",
+      "rating": 8
+    },
+    {
+      "question": "What is the goal of Harvey's Action?",
+      "answer": "to push the thug away long enough for Harvey to run past",
+      "rating": 8
+    },
+    {
+      "question": "How many penalty dice will Harvey have due to the thug's Build?",
+      "answer": "one",
+      "rating": 7
+    },
+    {
+      "question": "What is the thug using to attack Harvey?",
+      "answer": "his Fighting (Brawl) skill and a knife",
+      "rating": 9
+    },
+    {
+      "question": "What is the penalty die Harvey has due to being one point higher than Harvey\u2019s Build (of zero)?",
+      "answer": "Harvey will have one penalty die.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Harvey's roll with a penalty die, getting 12 and 22?",
+      "answer": "He must take the higher roll\u2014a Regular success.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of the Keeper's roll for the thug, an Extreme success?",
+      "answer": "While trying to push the thug aside, Harvey is stabbed for 6 points of damage.",
+      "rating": 9
+    },
+    {
+      "question": "What does the thug threaten Harvey with and what does Harvey surrender?",
+      "answer": "The thug threatens Harvey with the knife and Harvey surrenders his wallet.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage Harvey takes when stabbed by the thug?",
+      "answer": "6 points of damage",
+      "rating": 7
+    },
+    {
+      "question": "What happens to ranged missile attacks in the game?",
+      "answer": "They are treated like firearms",
+      "rating": 8
+    },
+    {
+      "question": "Can thrown weapons be opposed with the Dodge skill?",
+      "answer": "Yes, they can be opposed with the Dodge skill",
+      "rating": 9
+    },
+    {
+      "question": "How are thrown weapons opposed with the Dodge skill?",
+      "answer": "In the same way as Fighting attacks",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper allow a skill roll to determine if a target anticipates an attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Keeper may allow a skill roll to determine if a target anticipates an attack, using either Listen or Spot Hidden to hear or see it coming, or Psychology to perceive the attacker\u2019s intent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the attacker use Stealth skill to set the difficulty level for the investigator\u2019s Listen, Spot Hidden, or Psychology skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the attacker can use Stealth skill to set the difficulty level for the investigator\u2019s Listen, Spot Hidden, or Psychology skill, or vice versa if the investigator is the one making the surprise attack."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target fails to anticipate the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may allow the attack to be an automatic success (unless a fumble is rolled) or award the attacker a bonus die, depending on the situation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does a roll need to be made to hit with a ranged attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a roll should always be made to hit with a ranged attack (for example with a gun or throwing knife)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the target anticipating the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may choose to dodge or fight back."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should a ranged attack be determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll should always be made to hit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the attack if the target fails to anticipate it?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may allow the attack to be an automatic success or award the attacker a bonus die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Fighting skill level?"
+      },
+      {
+        "role": "assistant",
+        "content": "35 (Regular), 17 (Hard), 7 (Extreme)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Dodge skill level?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 (Regular), 12 (Hard), 5 (Extreme)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Build skill level?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of Harvey's Action in the first round?"
+      },
+      {
+        "role": "assistant",
+        "content": "to push the thug out of his way long enough for Harvey to run past"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who goes first in the fight?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of Harvey's Action?"
+      },
+      {
+        "role": "assistant",
+        "content": "to push the thug away long enough for Harvey to run past"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice will Harvey have due to the thug's Build?"
+      },
+      {
+        "role": "assistant",
+        "content": "one"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the thug using to attack Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "his Fighting (Brawl) skill and a knife"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty die Harvey has due to being one point higher than Harvey\u2019s Build (of zero)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey will have one penalty die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's roll with a penalty die, getting 12 and 22?"
+      },
+      {
+        "role": "assistant",
+        "content": "He must take the higher roll\u2014a Regular success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the Keeper's roll for the thug, an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "While trying to push the thug aside, Harvey is stabbed for 6 points of damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the thug threaten Harvey with and what does Harvey surrender?"
+      },
+      {
+        "role": "assistant",
+        "content": "The thug threatens Harvey with the knife and Harvey surrenders his wallet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage Harvey takes when stabbed by the thug?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to ranged missile attacks in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are treated like firearms"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can thrown weapons be opposed with the Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can be opposed with the Dodge skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are thrown weapons opposed with the Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the same way as Fighting attacks"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.9
+  }
+}

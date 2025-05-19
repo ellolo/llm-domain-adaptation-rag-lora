@@ -1,0 +1,355 @@
+{
+  "summary": "This document appears to be a table or chart listing various firearms, including handguns and rifles, along with their characteristics, damage, and uses. The main topic is firearms, specifically handguns and rifles, with different calibers, damage, and uses listed. The chart also includes information on the era in which each firearm was common, with some firearms being rare or modern. The data seems to be organized by firearm type, with handguns listed first, followed by rifles.",
+  "qa_pairs": [
+    {
+      "question": "What is the name of the .44 Magnum revolver?",
+      "answer": ".44 Magnum revolver",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the .45 Automatic revolver?",
+      "answer": "$100",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of the IMI Desert Eagle revolver?",
+      "answer": "$400",
+      "rating": 9
+    },
+    {
+      "question": "What is the range of the .45 Revolver?",
+      "answer": "10 yards",
+      "rating": 7
+    },
+    {
+      "question": "What is the number of sides on a D6 die?",
+      "answer": "6",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of the .44 Magnum revolver in modern times?",
+      "answer": "$300",
+      "rating": 9
+    },
+    {
+      "question": "What is the number of sides on a D8 die?",
+      "answer": "8",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of the .45 Automatic revolver in modern times?",
+      "answer": "$190",
+      "rating": 8
+    },
+    {
+      "question": "What is the common era for the rifles listed in the text?",
+      "answer": "1920s, Modern",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the assault rifle mentioned in the text?",
+      "answer": "SKS Carbine",
+      "rating": 9
+    },
+    {
+      "question": "What is the type of the 20-gauge Shotgun?",
+      "answer": "Shotgun (2B)",
+      "rating": 8
+    },
+    {
+      "question": "What is the type of the 16-gauge Shotgun?",
+      "answer": "Shotgun (2B)",
+      "rating": 8
+    },
+    {
+      "question": "How many gauges are there for the 12-gauge Shotgun?",
+      "answer": "3 (Pump, semi-auto, 2B sawed off)",
+      "rating": 9
+    },
+    {
+      "question": "What is the common era for the 10-gauge Shotgun?",
+      "answer": "1920s, Modern",
+      "rating": 8
+    },
+    {
+      "question": "What type of shotgun is the Benelli M3?",
+      "answer": "12-gauge",
+      "rating": 9
+    },
+    {
+      "question": "What type of stock is on the Benelli M3 and the SPAS?",
+      "answer": "folding",
+      "rating": 8
+    },
+    {
+      "question": "What category of firearms is the SPAS?",
+      "answer": "rifle",
+      "rating": 7
+    },
+    {
+      "question": "How many times does the category 'Firearms' appear in the text?",
+      "answer": "7",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the .44 Magnum revolver?"
+      },
+      {
+        "role": "assistant",
+        "content": ".44 Magnum revolver"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the .45 Automatic revolver?"
+      },
+      {
+        "role": "assistant",
+        "content": "$100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the IMI Desert Eagle revolver?"
+      },
+      {
+        "role": "assistant",
+        "content": "$400"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the .45 Revolver?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of sides on a D6 die?"
+      },
+      {
+        "role": "assistant",
+        "content": "6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the .44 Magnum revolver in modern times?"
+      },
+      {
+        "role": "assistant",
+        "content": "$300"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of sides on a D8 die?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the .45 Automatic revolver in modern times?"
+      },
+      {
+        "role": "assistant",
+        "content": "$190"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the common era for the rifles listed in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s, Modern"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the assault rifle mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "SKS Carbine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the type of the 20-gauge Shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shotgun (2B)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the type of the 16-gauge Shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shotgun (2B)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many gauges are there for the 12-gauge Shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 (Pump, semi-auto, 2B sawed off)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the common era for the 10-gauge Shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s, Modern"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of shotgun is the Benelli M3?"
+      },
+      {
+        "role": "assistant",
+        "content": "12-gauge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of stock is on the Benelli M3 and the SPAS?"
+      },
+      {
+        "role": "assistant",
+        "content": "folding"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What category of firearms is the SPAS?"
+      },
+      {
+        "role": "assistant",
+        "content": "rifle"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many times does the category 'Firearms' appear in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 21,
+    "filtered": 18,
+    "retention_rate": 0.86,
+    "avg_score": 7.2
+  }
+}

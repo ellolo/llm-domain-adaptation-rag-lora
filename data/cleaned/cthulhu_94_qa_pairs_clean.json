@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the Keeper explains the rules for using Luck, Intelligence Rolls, Idea Rolls, and Know Rolls in a game. Luck is used for chance events, while Intelligence Rolls and Idea Rolls are used to solve intellectual puzzles and overcome obstacles. Know Rolls are used to recall information, and the Keeper determines the success of these rolls based on the investigator's education and relevant skills. Opposed Skill Rolls are also explained, including melee combat and player versus player rolls.",
+  "qa_pairs": [
+    {
+      "question": "What is a situation where Luck can be used?",
+      "answer": "When a skill or characteristic is applicable to a situation",
+      "rating": 8
+    },
+    {
+      "question": "How is Group Luck roll determined?",
+      "answer": "The player whose investigator has the lowest Luck score among those present in the scene",
+      "rating": 9
+    },
+    {
+      "question": "What happens if something bad is deemed to happen to one member of the group?",
+      "answer": "The Keeper asks who has the lowest Luck score and has that individual suffer the unfortunate event",
+      "rating": 8
+    },
+    {
+      "question": "What optional rule is mentioned for spending Luck points?",
+      "answer": "Altering dice rolls at the end of this chapter",
+      "rating": 7
+    },
+    {
+      "question": "What is the necessary condition for a cab to appear?",
+      "answer": "It is a matter of chance whether a cab may be driving down that road.",
+      "rating": 9
+    },
+    {
+      "question": "What type of roll is required to hail a cab at 2 o'clock in the morning?",
+      "answer": "Luck roll",
+      "rating": 8
+    },
+    {
+      "question": "What type of puzzles may require an Intelligence (INT) roll?",
+      "answer": "Intellectual puzzles of some kind, such as solving a crossword puzzle or answering a riddle.",
+      "rating": 9
+    },
+    {
+      "question": "Who decides the outcome of an Intelligence (INT) roll?",
+      "answer": "The Keeper",
+      "rating": 9
+    },
+    {
+      "question": "What is required to determine whether a cab may be driving down a road?",
+      "answer": "A Luck roll is required.",
+      "rating": 8
+    },
+    {
+      "question": "What type of roll is usually proposed by the players when investigators are stuck?",
+      "answer": "An Idea roll.",
+      "rating": 9
+    },
+    {
+      "question": "How is an Idea roll made?",
+      "answer": "Made in the same manner as an Intelligence roll, by rolling equal to or below the investigator\u2019s Intelligence.",
+      "rating": 8
+    },
+    {
+      "question": "What determines whether a missed clue has been obtained easily or at a cost?",
+      "answer": "The success or failure of the Idea roll.",
+      "rating": 9
+    },
+    {
+      "question": "When is an Idea roll usually proposed?",
+      "answer": "When the players\u2019 investigators have become stuck at a point in the investigation.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the success or failure of an Idea roll?",
+      "answer": "The outcome of the Idea roll determines whether the missed clue has been obtained easily or at some cost to the investigators.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the success of a Know roll?",
+      "answer": "A roll equal to or under a character\u2019s EDU value.",
+      "rating": 8
+    },
+    {
+      "question": "What is represented by the Know roll?",
+      "answer": "The percentage chance that the investigator\u2019s education supplied the information.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the success of a Know roll?",
+      "answer": "A roll equal to or under a character's EDU value",
+      "rating": 8
+    },
+    {
+      "question": "What should be used instead of a Know roll in a situation where a specific skill is more applicable?",
+      "answer": "A specific skill, at the Keeper's discretion",
+      "rating": 9
+    },
+    {
+      "question": "What is an excellent use for the Know roll?",
+      "answer": "Identification of present-day earthly languages",
+      "rating": 8
+    },
+    {
+      "question": "What should be considered when deciding to use a Know roll?",
+      "answer": "The Keeper's discretion",
+      "rating": 7
+    },
+    {
+      "question": "What does the Know roll represent in the game?",
+      "answer": "The Know roll represents what\u2019s stored in the brain\u2019s intellectual attic",
+      "rating": 8
+    },
+    {
+      "question": "How is the success of a Know roll determined?",
+      "answer": "The success of a Know roll is determined by the roll equal to or under a character\u2019s EDU value",
+      "rating": 9
+    },
+    {
+      "question": "When should a Know roll be used instead of a specific skill?",
+      "answer": "A Know roll should be used instead of a specific skill if the Keeper deems it appropriate",
+      "rating": 8
+    },
+    {
+      "question": "What is the standard method for determining a victor in a melee combat between two investigators?",
+      "answer": "Opposed Skill Rolls, specifically Player versus Player and Melee Combat",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a situation where Luck can be used?"
+      },
+      {
+        "role": "assistant",
+        "content": "When a skill or characteristic is applicable to a situation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Group Luck roll determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player whose investigator has the lowest Luck score among those present in the scene"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if something bad is deemed to happen to one member of the group?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper asks who has the lowest Luck score and has that individual suffer the unfortunate event"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What optional rule is mentioned for spending Luck points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Altering dice rolls at the end of this chapter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the necessary condition for a cab to appear?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is a matter of chance whether a cab may be driving down that road."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is required to hail a cab at 2 o'clock in the morning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Luck roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of puzzles may require an Intelligence (INT) roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Intellectual puzzles of some kind, such as solving a crossword puzzle or answering a riddle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who decides the outcome of an Intelligence (INT) roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to determine whether a cab may be driving down a road?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Luck roll is required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is usually proposed by the players when investigators are stuck?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Idea roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is an Idea roll made?"
+      },
+      {
+        "role": "assistant",
+        "content": "Made in the same manner as an Intelligence roll, by rolling equal to or below the investigator\u2019s Intelligence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines whether a missed clue has been obtained easily or at a cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "The success or failure of the Idea roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is an Idea roll usually proposed?"
+      },
+      {
+        "role": "assistant",
+        "content": "When the players\u2019 investigators have become stuck at a point in the investigation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the success or failure of an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The outcome of the Idea roll determines whether the missed clue has been obtained easily or at some cost to the investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the success of a Know roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll equal to or under a character\u2019s EDU value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is represented by the Know roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The percentage chance that the investigator\u2019s education supplied the information."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the success of a Know roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll equal to or under a character's EDU value"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be used instead of a Know roll in a situation where a specific skill is more applicable?"
+      },
+      {
+        "role": "assistant",
+        "content": "A specific skill, at the Keeper's discretion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an excellent use for the Know roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Identification of present-day earthly languages"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be considered when deciding to use a Know roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper's discretion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Know roll represent in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Know roll represents what\u2019s stored in the brain\u2019s intellectual attic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the success of a Know roll determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "The success of a Know roll is determined by the roll equal to or under a character\u2019s EDU value"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When should a Know roll be used instead of a specific skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Know roll should be used instead of a specific skill if the Keeper deems it appropriate"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard method for determining a victor in a melee combat between two investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed Skill Rolls, specifically Player versus Player and Melee Combat"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

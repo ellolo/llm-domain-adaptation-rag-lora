@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, investigators are following various leads, including Eugene's direction and Harris' tracks, or tracking the artists' attackers towards the lake. On Day 3, they come across two cabins, one of which is instantly familiar to those who have experienced a dream about a cabin in darkness, requiring a Sanity roll. The cabin inside contains clues about the Civil War, including bloodstained knives and a mysterious green dust-like decay, which may be a decaying fungus or mold. The diary of the cabin's occupant reveals a dark secret about a mysterious benefactor that exists on the shores of the black lake, promising life everlasting but at a terrible cost.",
+  "qa_pairs": [
+    {
+      "question": "What should a player do if they've already experienced a similar painting in a dream?",
+      "answer": "Make a Sanity roll, losing the same amount as originally prompted by the dream.",
+      "rating": 8
+    },
+    {
+      "question": "How does the investigator's cumulative loss from one source limit the maximum loss of Sanity points?",
+      "answer": "By applying the usual rule to limit the loss to a total of the original prompt.",
+      "rating": 9
+    },
+    {
+      "question": "What is the direction the investigators may be following Eugene's or Harris' tracks?",
+      "answer": "Eugene's direction or Harris' tracks.",
+      "rating": 7
+    },
+    {
+      "question": "What can be found in a clearing on Day 3?",
+      "answer": "An old cabin.",
+      "rating": 6
+    },
+    {
+      "question": "What is the state of the door at Turner's Cabin?",
+      "answer": "The door is closed.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the posse advances down the recently used track?",
+      "answer": "Go to Day 3: The Dig Site.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of advancing down the recently used track?",
+      "answer": "go to Day 3: The Dig Site",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of advancing down the older, less used track?",
+      "answer": "come upon a clearing to the left where another, older cabin resides: Turner\u2019s cabin",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of reliving the initial dream inside Turner\u2019s cabin?",
+      "answer": "relive the horror of the initial dream",
+      "rating": 9
+    },
+    {
+      "question": "Where is the trail after passing Turner\u2019s cabin?",
+      "answer": "past the clearing to Day 3: The Lake",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the cabin located to the left in the clearing?",
+      "answer": "Turner's cabin",
+      "rating": 9
+    },
+    {
+      "question": "What objects are hung upon pegs inside the cabin?",
+      "answer": "Civil War Union army uniforms and hats",
+      "rating": 9
+    },
+    {
+      "question": "What objects are found on the table inside the cabin?",
+      "answer": "Bloodstained hunting knives",
+      "rating": 8
+    },
+    {
+      "question": "What is the possible origin of the green dust-like decay found inside the cabin?",
+      "answer": "Decaying fungus or mold",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the third stage on the trail?",
+      "answer": "Day 3: The Lake",
+      "rating": 8
+    },
+    {
+      "question": "What is seen on the table inside the location?",
+      "answer": "bloodstained hunting knives",
+      "rating": 9
+    },
+    {
+      "question": "What is the substance that remains from the servants' decay?",
+      "answer": "a green dust-like decay possibly being some kind of decaying fungus or mold",
+      "rating": 7
+    },
+    {
+      "question": "What is presented to the investigators from the diary?",
+      "answer": "the last, most important passage of the diary",
+      "rating": 8
+    },
+    {
+      "question": "What inspired the investigators to go to the black lake?",
+      "answer": "The promise of life everlasting.",
+      "rating": 9
+    },
+    {
+      "question": "What was the comet that broke apart and scattered its pieces around the world?",
+      "answer": "A comet that broke apart.",
+      "rating": 6
+    },
+    {
+      "question": "What is the crystal prison that contains their benefactor?",
+      "answer": "A crystal prison.",
+      "rating": 8
+    },
+    {
+      "question": "What would happen if their benefactor's crystal was delivered to the lake?",
+      "answer": "The strength of the benefactor's power would be weakened.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a player do if they've already experienced a similar painting in a dream?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a Sanity roll, losing the same amount as originally prompted by the dream."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator's cumulative loss from one source limit the maximum loss of Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "By applying the usual rule to limit the loss to a total of the original prompt."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the direction the investigators may be following Eugene's or Harris' tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eugene's direction or Harris' tracks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be found in a clearing on Day 3?"
+      },
+      {
+        "role": "assistant",
+        "content": "An old cabin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of the door at Turner's Cabin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The door is closed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the posse advances down the recently used track?"
+      },
+      {
+        "role": "assistant",
+        "content": "Go to Day 3: The Dig Site."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of advancing down the recently used track?"
+      },
+      {
+        "role": "assistant",
+        "content": "go to Day 3: The Dig Site"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of advancing down the older, less used track?"
+      },
+      {
+        "role": "assistant",
+        "content": "come upon a clearing to the left where another, older cabin resides: Turner\u2019s cabin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of reliving the initial dream inside Turner\u2019s cabin?"
+      },
+      {
+        "role": "assistant",
+        "content": "relive the horror of the initial dream"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the trail after passing Turner\u2019s cabin?"
+      },
+      {
+        "role": "assistant",
+        "content": "past the clearing to Day 3: The Lake"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the cabin located to the left in the clearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turner's cabin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What objects are hung upon pegs inside the cabin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Civil War Union army uniforms and hats"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What objects are found on the table inside the cabin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bloodstained hunting knives"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the possible origin of the green dust-like decay found inside the cabin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Decaying fungus or mold"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the third stage on the trail?"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 3: The Lake"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is seen on the table inside the location?"
+      },
+      {
+        "role": "assistant",
+        "content": "bloodstained hunting knives"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the substance that remains from the servants' decay?"
+      },
+      {
+        "role": "assistant",
+        "content": "a green dust-like decay possibly being some kind of decaying fungus or mold"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is presented to the investigators from the diary?"
+      },
+      {
+        "role": "assistant",
+        "content": "the last, most important passage of the diary"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What inspired the investigators to go to the black lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "The promise of life everlasting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the comet that broke apart and scattered its pieces around the world?"
+      },
+      {
+        "role": "assistant",
+        "content": "A comet that broke apart."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the crystal prison that contains their benefactor?"
+      },
+      {
+        "role": "assistant",
+        "content": "A crystal prison."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen if their benefactor's crystal was delivered to the lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "The strength of the benefactor's power would be weakened."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 22,
+    "retention_rate": 0.92,
+    "avg_score": 7.8
+  }
+}

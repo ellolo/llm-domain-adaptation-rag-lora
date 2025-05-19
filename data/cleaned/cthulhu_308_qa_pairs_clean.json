@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Mythos, advanced scientific equipment and magical artifacts often blur together, making it difficult to distinguish between the two. The Mi-Go, a technologically advanced alien species, have brought significant technological advancements to Earth, including mining and war-related equipment. They also possess dark technology, such as the Shining Trapezohedron, and have developed advanced medical and surgical techniques, including the ability to preserve human brains for thousands of years. The Mi-Go guard their technology jealously and will pursue anyone who attempts to steal it. Additionally, the Mi-Go use a bio-web armor, a semi-luminous green slime that provides protection against various attacks, and the Black Lotus Powder, a mind-bending psychedelic used for torture and extraction of information.",
+  "qa_pairs": [
+    {
+      "question": "What is unique about most humans' ability to distinguish between advanced scientific equipment and Mythos artifacts?",
+      "answer": "Most humans would be unable to tell the difference between a piece of advanced scientific equipment and a magical Mythos artifact.",
+      "rating": 8
+    },
+    {
+      "question": "How advanced are the mi-go technologically compared to Earth?",
+      "answer": "The mi-go are technologically several hundred years beyond that of Earth.",
+      "rating": 9
+    },
+    {
+      "question": "What motivated the mi-go to come to Earth?",
+      "answer": "The mi-go originally came to Earth to steal certain minerals they could not find on their own worlds.",
+      "rating": 8
+    },
+    {
+      "question": "What types of technology do the mi-go primarily use on Earth?",
+      "answer": "Most technology that the mi-go have brought to Earth relates to mining or to war.",
+      "rating": 7
+    },
+    {
+      "question": "What initially brought the mi-go to Earth?",
+      "answer": "to steal certain minerals",
+      "rating": 6
+    },
+    {
+      "question": "What type of technology does the mi-go relate to war?",
+      "answer": "mining or to war",
+      "rating": 6
+    },
+    {
+      "question": "What was created by the mi-go from a Seed of Azathoth?",
+      "answer": "a larval Great Old One, Ghadamon",
+      "rating": 9
+    },
+    {
+      "question": "What type of gates were constructed by the mi-go?",
+      "answer": "a network of magical gates",
+      "rating": 8
+    },
+    {
+      "question": "What type of technology do most mi-go technology relate to on Earth?",
+      "answer": "mining or to war",
+      "rating": 8
+    },
+    {
+      "question": "What is the Shining Trapezohedron used for?",
+      "answer": "a peculiar power over an aspect of Nyarlathotep",
+      "rating": 9
+    },
+    {
+      "question": "What is a remarkable medical technique demonstrated by the mi-go?",
+      "answer": "remove a human brain from its body and preserve it for thousands of years, totally functional",
+      "rating": 9
+    },
+    {
+      "question": "What advanced knowledge does the mi-go possess in medical and surgical techniques?",
+      "answer": "many surgical techniques that humans would consider miraculous",
+      "rating": 8
+    },
+    {
+      "question": "What can Mi-go do with a human brain?",
+      "answer": "They can remove a human brain from its body and preserve it for thousands of years, totally functional.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of Bio-Web Armor?",
+      "answer": "It provides 8 points of armor against blows, flame, electricity, etc. in dangerous situations.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a human wearing Bio-Web Armor?",
+      "answer": "A human wearing Bio-Web Armor will take 1 point of damage each time the armor is removed, as hair and flesh is ripped away.",
+      "rating": 9
+    },
+    {
+      "question": "How do Mi-go guard their technology?",
+      "answer": "They will pursue anyone foolish enough to steal their technology.",
+      "rating": 8
+    },
+    {
+      "question": "What are the armor points of the harnesses?",
+      "answer": "8",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the bio-web armor when it is removed?",
+      "answer": "1 point of damage as hair and flesh is ripped away",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the bio-web armor when it has no protection left?",
+      "answer": "Disintegrates into a steaming, sticky pool of viscous matter",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of large doses of Black Lotus Powder?",
+      "answer": "Reduces those taking it to insane, driveling idiots",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the armor when no armor points remain?",
+      "answer": "The armor disintegrates into a steaming, sticky pool of viscous matter.",
+      "rating": 9
+    },
+    {
+      "question": "How is the Black Lotus Powder administered?",
+      "answer": "The drug can be administered either by injection (the powder when heated turns to liquid) or by inhalation (the black smoke given-off smells like burnt toffee).",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the victim's Sanity points while under the effect of the Black Lotus Powder?",
+      "answer": "1D4 Sanity points are lost per minute the drug is active.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the Black Lotus Powder on the victim's mental state?",
+      "answer": "The victim immediately begins to hallucinate for 1D6 minutes per dose, granting insights into the unspeakable knowledge of the Mythos.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about most humans' ability to distinguish between advanced scientific equipment and Mythos artifacts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Most humans would be unable to tell the difference between a piece of advanced scientific equipment and a magical Mythos artifact."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How advanced are the mi-go technologically compared to Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mi-go are technologically several hundred years beyond that of Earth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What motivated the mi-go to come to Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mi-go originally came to Earth to steal certain minerals they could not find on their own worlds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of technology do the mi-go primarily use on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Most technology that the mi-go have brought to Earth relates to mining or to war."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What initially brought the mi-go to Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "to steal certain minerals"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of technology does the mi-go relate to war?"
+      },
+      {
+        "role": "assistant",
+        "content": "mining or to war"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was created by the mi-go from a Seed of Azathoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "a larval Great Old One, Ghadamon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of gates were constructed by the mi-go?"
+      },
+      {
+        "role": "assistant",
+        "content": "a network of magical gates"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of technology do most mi-go technology relate to on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "mining or to war"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Shining Trapezohedron used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "a peculiar power over an aspect of Nyarlathotep"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a remarkable medical technique demonstrated by the mi-go?"
+      },
+      {
+        "role": "assistant",
+        "content": "remove a human brain from its body and preserve it for thousands of years, totally functional"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What advanced knowledge does the mi-go possess in medical and surgical techniques?"
+      },
+      {
+        "role": "assistant",
+        "content": "many surgical techniques that humans would consider miraculous"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can Mi-go do with a human brain?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can remove a human brain from its body and preserve it for thousands of years, totally functional."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Bio-Web Armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "It provides 8 points of armor against blows, flame, electricity, etc. in dangerous situations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a human wearing Bio-Web Armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "A human wearing Bio-Web Armor will take 1 point of damage each time the armor is removed, as hair and flesh is ripped away."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Mi-go guard their technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will pursue anyone foolish enough to steal their technology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the armor points of the harnesses?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the bio-web armor when it is removed?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 point of damage as hair and flesh is ripped away"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the bio-web armor when it has no protection left?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disintegrates into a steaming, sticky pool of viscous matter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of large doses of Black Lotus Powder?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reduces those taking it to insane, driveling idiots"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the armor when no armor points remain?"
+      },
+      {
+        "role": "assistant",
+        "content": "The armor disintegrates into a steaming, sticky pool of viscous matter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the Black Lotus Powder administered?"
+      },
+      {
+        "role": "assistant",
+        "content": "The drug can be administered either by injection (the powder when heated turns to liquid) or by inhalation (the black smoke given-off smells like burnt toffee)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's Sanity points while under the effect of the Black Lotus Powder?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 Sanity points are lost per minute the drug is active."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Black Lotus Powder on the victim's mental state?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim immediately begins to hallucinate for 1D6 minutes per dose, granting insights into the unspeakable knowledge of the Mythos."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

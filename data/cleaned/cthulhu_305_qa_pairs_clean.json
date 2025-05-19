@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the \"Bind\" spell, a summoning and binding ritual used to control and command various supernatural creatures, known as \"monsters.\" The spell requires a caster to know the specific monster they wish to bind, as well as a suitable object (such as a whistle, knife, or dagger) imbued with magical properties. The caster must then succeed in an opposed POW roll to bind the monster, with the success of the binding also dependent on the caster's Sanity points and magic points. Each binding has its own unique requirements and benefits, and a bound creature cannot be re-bound until its current command is completed.",
+  "qa_pairs": [
+    {
+      "question": "What is an alternative name for this spell?",
+      "answer": "The Ritual Symphony of the Indescribable Ones, Recitation of the Maddening Piping",
+      "rating": 8
+    },
+    {
+      "question": "What is the required condition for casting this spell?",
+      "answer": "The spell can be cast only at night under a cloudless sky.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of an enchanted book on the spell's success chance?",
+      "answer": "The chance for success is increased by 2 percentiles per point of POW within the book.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of casting this spell?",
+      "answer": "1 Sanity point",
+      "rating": 7
+    },
+    {
+      "question": "What is the creature's condition for being visible?",
+      "answer": "Its veins fill with blood from some visible creature.",
+      "rating": 8
+    },
+    {
+      "question": "What are the two sides of the same coin in terms of magic?",
+      "answer": "Binding and Summoning",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a monster arrives unbound or unexpectedly?",
+      "answer": "It may be bound on the spot.",
+      "rating": 8
+    },
+    {
+      "question": "How much time does the caster need to spend before the thing can be bound?",
+      "answer": "A round",
+      "rating": 7
+    },
+    {
+      "question": "What happens if a monster arrives unbound or unexpectedly?",
+      "answer": "It may be bound on the spot.",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points does the caster need to invest to gain a bonus die on the opposed POW roll to bind the monster?",
+      "answer": "One-fifth of the summoned creature\u2019s POW",
+      "rating": 9
+    },
+    {
+      "question": "How many rounds does the caster need to spend chanting before the creature can be bound?",
+      "answer": "A round",
+      "rating": 7
+    },
+    {
+      "question": "How many magic points does each binding cost?",
+      "answer": "1 Sanity point and variable magic points",
+      "rating": 6
+    },
+    {
+      "question": "What does each cast of the binding cost?",
+      "answer": "1 Sanity point and variable magic points",
+      "rating": 6
+    },
+    {
+      "question": "How much magic points does the caster need to sacrifice to gain a bonus die on the opposed POW roll?",
+      "answer": "One-fifth of the summoned creature\u2019s POW",
+      "rating": 9
+    },
+    {
+      "question": "What is the requirement for a creature to be bound?",
+      "answer": "A creature to be bound must be visible to the caster and within 100 yards.",
+      "rating": 8
+    },
+    {
+      "question": "What bonus can the caster gain with an enchanted whistle?",
+      "answer": "A bonus die on the opposed POW roll.",
+      "rating": 8
+    },
+    {
+      "question": "What bonus can the caster gain with an enchanted knife?",
+      "answer": "A bonus die to the opposed POW roll.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the opposed roll is failed?",
+      "answer": "the caster is in trouble!",
+      "rating": 9
+    },
+    {
+      "question": "What bonus die does the caster gain if an enchanted whistle is used?",
+      "answer": "a bonus die on the opposed POW roll",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the Dimensional Shambler is exposed to bright sunlight?",
+      "answer": "a second bonus die may be gained",
+      "rating": 9
+    },
+    {
+      "question": "What material is the enchanted dagger made from to gain a bonus die?",
+      "answer": "any pure metal such as copper or iron",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the caster if they stand within a bonfire during a Bind Fire Vampire spell?",
+      "answer": "They gain one bonus die to the opposed POW roll.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the blood sacrifice in a Bind Hunting Horror spell?",
+      "answer": "A sentient being is needed as a blood sacrifice.",
+      "rating": 9
+    },
+    {
+      "question": "What is another name for the Bind Fire Vampire spell?",
+      "answer": "Annexation of the Fiery Devil, Authority of the Blazing Tongue.",
+      "rating": 9
+    },
+    {
+      "question": "What is required by the caster in a Bind Hunting Horror spell?",
+      "answer": "The caster does not perform the sacrifice\u2014the hunting horror performs it.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative name for this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Ritual Symphony of the Indescribable Ones, Recitation of the Maddening Piping"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required condition for casting this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell can be cast only at night under a cloudless sky."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of an enchanted book on the spell's success chance?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chance for success is increased by 2 percentiles per point of POW within the book."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 Sanity point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the creature's condition for being visible?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its veins fill with blood from some visible creature."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two sides of the same coin in terms of magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Binding and Summoning"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a monster arrives unbound or unexpectedly?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may be bound on the spot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much time does the caster need to spend before the thing can be bound?"
+      },
+      {
+        "role": "assistant",
+        "content": "A round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a monster arrives unbound or unexpectedly?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may be bound on the spot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points does the caster need to invest to gain a bonus die on the opposed POW roll to bind the monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "One-fifth of the summoned creature\u2019s POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds does the caster need to spend chanting before the creature can be bound?"
+      },
+      {
+        "role": "assistant",
+        "content": "A round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points does each binding cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 Sanity point and variable magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does each cast of the binding cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 Sanity point and variable magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much magic points does the caster need to sacrifice to gain a bonus die on the opposed POW roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "One-fifth of the summoned creature\u2019s POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a creature to be bound?"
+      },
+      {
+        "role": "assistant",
+        "content": "A creature to be bound must be visible to the caster and within 100 yards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What bonus can the caster gain with an enchanted whistle?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bonus die on the opposed POW roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What bonus can the caster gain with an enchanted knife?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bonus die to the opposed POW roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the opposed roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "the caster is in trouble!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What bonus die does the caster gain if an enchanted whistle is used?"
+      },
+      {
+        "role": "assistant",
+        "content": "a bonus die on the opposed POW roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Dimensional Shambler is exposed to bright sunlight?"
+      },
+      {
+        "role": "assistant",
+        "content": "a second bonus die may be gained"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What material is the enchanted dagger made from to gain a bonus die?"
+      },
+      {
+        "role": "assistant",
+        "content": "any pure metal such as copper or iron"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster if they stand within a bonfire during a Bind Fire Vampire spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "They gain one bonus die to the opposed POW roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the blood sacrifice in a Bind Hunting Horror spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sentient being is needed as a blood sacrifice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is another name for the Bind Fire Vampire spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Annexation of the Fiery Devil, Authority of the Blazing Tongue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required by the caster in a Bind Hunting Horror spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster does not perform the sacrifice\u2014the hunting horror performs it."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 25,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

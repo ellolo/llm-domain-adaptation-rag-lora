@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game, the Keeper has the flexibility to control the investigators' actions when they fail a Sanity roll, simulating the loss of self-control and potential harm to themselves or others. This allows the Keeper to create a more horror-themed experience, as the investigators' involuntary actions can lead to unexpected and terrifying consequences. The Keeper can also use this opportunity to provide subtle hints to the players, such as cautioning them against rushing into a potentially deadly situation. This approach enables the Keeper to balance player agency with the need to create a frightening atmosphere.",
+  "qa_pairs": [
+    {
+      "question": "What should Keepers give players in terms of chances to avoid death?",
+      "answer": "up to three chances",
+      "rating": 8
+    },
+    {
+      "question": "What should Keepers not do when dealing out damage?",
+      "answer": "pull their punches",
+      "rating": 9
+    },
+    {
+      "question": "What happens to an investigator when a Sanity roll is failed?",
+      "answer": "The investigator loses all self-control and may act in a way that is counter to their best interests.",
+      "rating": 9
+    },
+    {
+      "question": "Who takes control of the investigator after a Sanity roll is failed?",
+      "answer": "The Keeper",
+      "rating": 8
+    },
+    {
+      "question": "What effect can a failed Sanity roll have on an investigator?",
+      "answer": "The investigator may harm themselves or others, or act in a way that is counter to how they would act when rational.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of the Keeper when simulating a failed Sanity roll?",
+      "answer": "To drive the game towards the theme of horror and consider how an involuntary action could contribute to it.",
+      "rating": 8
+    },
+    {
+      "question": "Who is handed control of the investigator for a short time when a Sanity roll is failed?",
+      "answer": "The Keeper",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the Keeper when the Sanity roll results in insanity?",
+      "answer": "The Keeper gains control of the investigator's actions",
+      "rating": 8
+    },
+    {
+      "question": "How long does the bout of madness last?",
+      "answer": "In real time",
+      "rating": 8
+    },
+    {
+      "question": "What controls the investigator during madness, and what controls during insanity?",
+      "answer": "The Keeper controls during madness, the player controls during insanity",
+      "rating": 9
+    },
+    {
+      "question": "What is the difference between madness and insanity in the game?",
+      "answer": "Madness is of short duration, while insanity is longer and the Keeper controls the investigator during madness.",
+      "rating": 8
+    },
+    {
+      "question": "Who controls the investigator during madness?",
+      "answer": "The Keeper controls the investigator during madness.",
+      "rating": 7
+    },
+    {
+      "question": "What does being insane mean for a character's behavior?",
+      "answer": "Being insane does not necessarily mean that the character acts out their madness all of the time.",
+      "rating": 9
+    },
+    {
+      "question": "What is the underlying condition that is referred to as insanity?",
+      "answer": "The underlying in-sanity which is longer.",
+      "rating": 8
+    },
+    {
+      "question": "What is the difference between madness and insanity in the game?",
+      "answer": "Madness is of short duration, while insanity is longer and the Keeper controls the investigator during madness, while the player controls during insanity.",
+      "rating": 9
+    },
+    {
+      "question": "What is a shoggoth in the game?",
+      "answer": "A shoggoth is a powerful creature living in an underground pool that is likely to kill some, if not all, of the investigators if they blunder into it.",
+      "rating": 10
+    },
+    {
+      "question": "Why does the Keeper provide the players with three chances to avoid confronting the shoggoth?",
+      "answer": "The Keeper provides the players with three chances to avoid confronting the shoggoth because the outcome of them blundering into it would likely mean the premature end of the game.",
+      "rating": 9
+    },
+    {
+      "question": "What are the investigators currently doing in the game?",
+      "answer": "The investigators are currently searching the secret base of the Cult of the Whispering Tongue for leads on the cult\u2019s plans to unleash devastation on New York City.",
+      "rating": 8
+    },
+    {
+      "question": "What is living in an underground pool in the cult's hideout?",
+      "answer": "a shoggoth",
+      "rating": 7
+    },
+    {
+      "question": "Why does the Keeper provide the players with three chances to avoid confronting the shoggoth?",
+      "answer": "because it is powerful and likely to kill the investigators",
+      "rating": 6
+    },
+    {
+      "question": "How does the Keeper rephrase the players' plans to give them a hint about caution?",
+      "answer": "by rephrasing their words to suggest they want to rush in with guns blazing, but without evidence",
+      "rating": 9
+    },
+    {
+      "question": "What advice does the Keeper give to the players to gather more information about the cult's activities?",
+      "answer": "to stake out the place first",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper asking the players about their plan?",
+      "answer": "The cultists are hiding out here and you want to rush in with guns blazing, with no evidence that this is indeed the right place?",
+      "rating": 9
+    },
+    {
+      "question": "What advice does the Keeper give to the players?",
+      "answer": "A degree of caution might be advisable.",
+      "rating": 8
+    },
+    {
+      "question": "What have the players done to confirm they have the right hideout?",
+      "answer": "They have recognized some of the cultists.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper suggesting the players do before rushing in?",
+      "answer": "Stake out the place first to gather more information about the cult's activities.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Keepers give players in terms of chances to avoid death?"
+      },
+      {
+        "role": "assistant",
+        "content": "up to three chances"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Keepers not do when dealing out damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "pull their punches"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator when a Sanity roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator loses all self-control and may act in a way that is counter to their best interests."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who takes control of the investigator after a Sanity roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect can a failed Sanity roll have on an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator may harm themselves or others, or act in a way that is counter to how they would act when rational."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Keeper when simulating a failed Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "To drive the game towards the theme of horror and consider how an involuntary action could contribute to it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is handed control of the investigator for a short time when a Sanity roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Keeper when the Sanity roll results in insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper gains control of the investigator's actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the bout of madness last?"
+      },
+      {
+        "role": "assistant",
+        "content": "In real time"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What controls the investigator during madness, and what controls during insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper controls during madness, the player controls during insanity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between madness and insanity in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Madness is of short duration, while insanity is longer and the Keeper controls the investigator during madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who controls the investigator during madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper controls the investigator during madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does being insane mean for a character's behavior?"
+      },
+      {
+        "role": "assistant",
+        "content": "Being insane does not necessarily mean that the character acts out their madness all of the time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the underlying condition that is referred to as insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The underlying in-sanity which is longer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between madness and insanity in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Madness is of short duration, while insanity is longer and the Keeper controls the investigator during madness, while the player controls during insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a shoggoth in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A shoggoth is a powerful creature living in an underground pool that is likely to kill some, if not all, of the investigators if they blunder into it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper provide the players with three chances to avoid confronting the shoggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper provides the players with three chances to avoid confronting the shoggoth because the outcome of them blundering into it would likely mean the premature end of the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the investigators currently doing in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators are currently searching the secret base of the Cult of the Whispering Tongue for leads on the cult\u2019s plans to unleash devastation on New York City."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is living in an underground pool in the cult's hideout?"
+      },
+      {
+        "role": "assistant",
+        "content": "a shoggoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper provide the players with three chances to avoid confronting the shoggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "because it is powerful and likely to kill the investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper rephrase the players' plans to give them a hint about caution?"
+      },
+      {
+        "role": "assistant",
+        "content": "by rephrasing their words to suggest they want to rush in with guns blazing, but without evidence"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What advice does the Keeper give to the players to gather more information about the cult's activities?"
+      },
+      {
+        "role": "assistant",
+        "content": "to stake out the place first"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper asking the players about their plan?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cultists are hiding out here and you want to rush in with guns blazing, with no evidence that this is indeed the right place?"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What advice does the Keeper give to the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "A degree of caution might be advisable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What have the players done to confirm they have the right hideout?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have recognized some of the cultists."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper suggesting the players do before rushing in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stake out the place first to gather more information about the cult's activities."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

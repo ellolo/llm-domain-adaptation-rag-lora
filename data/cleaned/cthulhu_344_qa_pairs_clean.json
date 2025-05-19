@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Great Race of Yith is a species of time-traveling mental entities that originated from a world destroyed by their own destruction. They arrived on Earth and took over the minds and bodies of cone-shaped beings, creating a hybrid species. The Great Race is characterized by their advanced technology, electrical abilities, and preference for using weapons that fire electricity. They are divided into three groups: the Great Race, the mi-go, and Cthulhu's kin, each ruling over different regions of the Earth.",
+  "qa_pairs": [
+    {
+      "question": "What is the species of time-traveling mental entities in the story?",
+      "answer": "Yithians",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus of Yithians?",
+      "answer": "+6D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the average magic points of Yithians?",
+      "answer": "13",
+      "rating": 7
+    },
+    {
+      "question": "How many attacks per round can Yithians make?",
+      "answer": "2",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary method of attack for the Yithians?",
+      "answer": "The Yithians possess great size that they may use to crush or hit an investigator.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a Yithian in combat?",
+      "answer": "Average Damage Bonus: +6D6",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks can a Yithian make per round?",
+      "answer": "Attacks per round: 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the preferred method of combat for the Yithians?",
+      "answer": "However, this civilized race avoids hand-to-hand combat, preferring weapons that fire great gouts of electricity\u2013weapons that were originally created to destroy the flying polyps.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average build of this creature?",
+      "answer": "7",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks per round can a member of this race perform?",
+      "answer": "2",
+      "rating": 9
+    },
+    {
+      "question": "How many charges are in a pack of Yithian gun ammo?",
+      "answer": "32",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for Yithian gun ammo against targets with 40% dodge chance?",
+      "answer": "1D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage bonus for Yithian gun ammo against targets with 30% dodge chance?",
+      "answer": "1D10",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for Yithian gun ammo against targets with 25% dodge chance?",
+      "answer": "1D10 per charge",
+      "rating": 9
+    },
+    {
+      "question": "How much damage a single charge of the Lightning Gun can do?",
+      "answer": "1D10 per charge",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for fighting 40%?",
+      "answer": "damage bonus",
+      "rating": 6
+    },
+    {
+      "question": "What is the basic range of the gun?",
+      "answer": "100 yards",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the population is the mi-go in control of?",
+      "answer": "60%",
+      "rating": 9
+    },
+    {
+      "question": "From which Pacific region did Cthulhu and his kind rule?",
+      "answer": "the Pacific",
+      "rating": 7
+    },
+    {
+      "question": "Where was the greatest city of their kind located?",
+      "answer": "Pnakotus, in modern-day Australia",
+      "rating": 8
+    },
+    {
+      "question": "For how long did this race of beings flourish?",
+      "answer": "four hundred million years",
+      "rating": 9
+    },
+    {
+      "question": "When did the race of Cthulhu and his kind decline?",
+      "answer": "fifty million years ago",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the species of time-traveling mental entities in the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yithians"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of Yithians?"
+      },
+      {
+        "role": "assistant",
+        "content": "+6D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points of Yithians?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round can Yithians make?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary method of attack for the Yithians?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Yithians possess great size that they may use to crush or hit an investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Yithian in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Damage Bonus: +6D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a Yithian make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks per round: 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the preferred method of combat for the Yithians?"
+      },
+      {
+        "role": "assistant",
+        "content": "However, this civilized race avoids hand-to-hand combat, preferring weapons that fire great gouts of electricity\u2013weapons that were originally created to destroy the flying polyps."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of this creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round can a member of this race perform?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many charges are in a pack of Yithian gun ammo?"
+      },
+      {
+        "role": "assistant",
+        "content": "32"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Yithian gun ammo against targets with 40% dodge chance?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Yithian gun ammo against targets with 30% dodge chance?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Yithian gun ammo against targets with 25% dodge chance?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 per charge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage a single charge of the Lightning Gun can do?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 per charge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for fighting 40%?"
+      },
+      {
+        "role": "assistant",
+        "content": "damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the basic range of the gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the population is the mi-go in control of?"
+      },
+      {
+        "role": "assistant",
+        "content": "60%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "From which Pacific region did Cthulhu and his kind rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Pacific"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was the greatest city of their kind located?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pnakotus, in modern-day Australia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "For how long did this race of beings flourish?"
+      },
+      {
+        "role": "assistant",
+        "content": "four hundred million years"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the race of Cthulhu and his kind decline?"
+      },
+      {
+        "role": "assistant",
+        "content": "fifty million years ago"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

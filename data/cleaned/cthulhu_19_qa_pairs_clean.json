@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Cthulhu Mythos, a shared universe created by H.P. Lovecraft, has evolved over time through the contributions of various authors, including Robert Bloch, James Wade, and August Derleth. Derleth's work, particularly his establishment of Arkham House, helped to ensure Lovecraft's stories would not be forgotten. The term \"Cthulhu Mythos\" was coined by Derleth, and fans and scholars have since debated its definition and explored the mythology. The Cthulhu Mythos has also inspired numerous writers, filmmakers, and artists, with many works drawing on Lovecraft's original concepts and expanding upon them.",
+  "qa_pairs": [
+    {
+      "question": "Who contributed the most to the canon?",
+      "answer": "August Derleth",
+      "rating": 9
+    },
+    {
+      "question": "What was established by August Derleth and Don-Wandrei?",
+      "answer": "Arkham House",
+      "rating": 8
+    },
+    {
+      "question": "What event marked a renewed interest in the Cthulhu Mythos in 1964?",
+      "answer": "The appearance of Ramsey Campbell",
+      "rating": 7
+    },
+    {
+      "question": "What was Ramsey Campbell's first published collection?",
+      "answer": "The Inhabitant of the Lake and Other Less Welcome Tenants",
+      "rating": 8
+    },
+    {
+      "question": "When was Arkham House established?",
+      "answer": "It was established to ensure that Lovecraft's stories would not be forgotten.",
+      "rating": 9
+    },
+    {
+      "question": "Who heralded a re-newed interest in the Cthulhu Mythos in 1964?",
+      "answer": "A young British writer named Ramsey Campbell.",
+      "rating": 8
+    },
+    {
+      "question": "What terminology occasionally refers to Lovecraft's Cthulhu and Yog-Sothoth cycles?",
+      "answer": "The Cthulhu Mythos.",
+      "rating": 9
+    },
+    {
+      "question": "Did Lovecraft use the term Cthulhu Mythos?",
+      "answer": "No, Lovecraft never used the term Cthulhu Mythos.",
+      "rating": 8
+    },
+    {
+      "question": "When was the appearance of Ramsey Campbell that heralded a renewed interest in the Cthulhu Mythos?",
+      "answer": "1964",
+      "rating": 8
+    },
+    {
+      "question": "Who is generally attributed to have coined the term Cthulhu Mythos?",
+      "answer": "August Derleth",
+      "rating": 9
+    },
+    {
+      "question": "Who is credited with creating the term 'Cthulhu Mythos'?",
+      "answer": "August Derleth",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary reason for the existence of the Cthulhu Mythos?",
+      "answer": "The Cthulhu Mythos was created by fans and scholars who debated its definition and content.",
+      "rating": 7
+    },
+    {
+      "question": "How has the Cthulhu Mythos evolved over time?",
+      "answer": "The Cthulhu Mythos has been expanded upon by dozens, perhaps hundreds, of writers, both professional and amateur.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Cthulhu Mythos in the Call of Cthulhu game?",
+      "answer": "The Mythos allows Keepers to add or delete particular creatures and conceptions as they will, for the purposes of the game.",
+      "rating": 9
+    },
+    {
+      "question": "Who is generally attributed to the term Cthulhu Mythos?",
+      "answer": "August Derleth",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the 1964 series of Lovecraft-inspired pastiches?",
+      "answer": "Call of Cthulhu",
+      "rating": 8
+    },
+    {
+      "question": "What are some of Lovecraft's most famous Mythos creations?",
+      "answer": "Y\u2019golonac, Gla\u2019aki, the insects from Shagghai",
+      "rating": 9
+    },
+    {
+      "question": "Who brought the underground chthonians to the Mythos?",
+      "answer": "Brian Lumley",
+      "rating": 8
+    },
+    {
+      "question": "Who are some of Lovecraft's most famous Mythos creations?",
+      "answer": "Y\u2019golonac, Gla\u2019aki, the insects from Shagghai, and a host of other creatures and god-like beings.",
+      "rating": 7
+    },
+    {
+      "question": "Who are some other English authors influenced by Lovecraft?",
+      "answer": "Brian Lumley",
+      "rating": 8
+    },
+    {
+      "question": "Who are some notable authors directly influenced by Lovecraft?",
+      "answer": "Gary Myers, Basil Copper, T.E.D. Klein, David Drake, and Thomas Ligotti",
+      "rating": 9
+    },
+    {
+      "question": "Who has made special contributions to anthologies of new Mythos tales?",
+      "answer": "Stephen King",
+      "rating": 8
+    },
+    {
+      "question": "Who are some notable writers that have made special contributions to Lovecraftian anthologies?",
+      "answer": "Pulver Sr., and Laird Barron, as well as Stephen King",
+      "rating": 9
+    },
+    {
+      "question": "How have Lovecraftian inspired tales been adapted beyond print?",
+      "answer": "They have been adapted into feature and short films",
+      "rating": 8
+    },
+    {
+      "question": "What is notable about the film adaptations of Lovecraft's stories?",
+      "answer": "They have been made by notable filmmakers such as Stuart Gordon",
+      "rating": 9
+    },
+    {
+      "question": "Who directed the film adaptation of 'Herbert West\u2013Reanimator'?",
+      "answer": "Stuart Gordon",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who contributed the most to the canon?"
+      },
+      {
+        "role": "assistant",
+        "content": "August Derleth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was established by August Derleth and Don-Wandrei?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arkham House"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What event marked a renewed interest in the Cthulhu Mythos in 1964?"
+      },
+      {
+        "role": "assistant",
+        "content": "The appearance of Ramsey Campbell"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Ramsey Campbell's first published collection?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Inhabitant of the Lake and Other Less Welcome Tenants"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was Arkham House established?"
+      },
+      {
+        "role": "assistant",
+        "content": "It was established to ensure that Lovecraft's stories would not be forgotten."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who heralded a re-newed interest in the Cthulhu Mythos in 1964?"
+      },
+      {
+        "role": "assistant",
+        "content": "A young British writer named Ramsey Campbell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What terminology occasionally refers to Lovecraft's Cthulhu and Yog-Sothoth cycles?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cthulhu Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Did Lovecraft use the term Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Lovecraft never used the term Cthulhu Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the appearance of Ramsey Campbell that heralded a renewed interest in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "1964"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is generally attributed to have coined the term Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "August Derleth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is credited with creating the term 'Cthulhu Mythos'?"
+      },
+      {
+        "role": "assistant",
+        "content": "August Derleth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary reason for the existence of the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cthulhu Mythos was created by fans and scholars who debated its definition and content."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has the Cthulhu Mythos evolved over time?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cthulhu Mythos has been expanded upon by dozens, perhaps hundreds, of writers, both professional and amateur."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Cthulhu Mythos in the Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Mythos allows Keepers to add or delete particular creatures and conceptions as they will, for the purposes of the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is generally attributed to the term Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "August Derleth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the 1964 series of Lovecraft-inspired pastiches?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of Lovecraft's most famous Mythos creations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Y\u2019golonac, Gla\u2019aki, the insects from Shagghai"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who brought the underground chthonians to the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian Lumley"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are some of Lovecraft's most famous Mythos creations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Y\u2019golonac, Gla\u2019aki, the insects from Shagghai, and a host of other creatures and god-like beings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are some other English authors influenced by Lovecraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian Lumley"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are some notable authors directly influenced by Lovecraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gary Myers, Basil Copper, T.E.D. Klein, David Drake, and Thomas Ligotti"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has made special contributions to anthologies of new Mythos tales?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stephen King"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are some notable writers that have made special contributions to Lovecraftian anthologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pulver Sr., and Laird Barron, as well as Stephen King"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have Lovecraftian inspired tales been adapted beyond print?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have been adapted into feature and short films"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is notable about the film adaptations of Lovecraft's stories?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have been made by notable filmmakers such as Stuart Gordon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who directed the film adaptation of 'Herbert West\u2013Reanimator'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stuart Gordon"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "summary": "This document appears to be a table of contents or index for a fantasy or horror-themed book, likely a role-playing game (RPG) or campaign setting. The entries list various spells, magical effects, and creatures from a fictional world, including the Mi-Go, Nightgaunts, and Servitors of the Outer Gods. Key concepts include the use of magical artifacts, bio-web armor, and the creation of barriers, mist, and zombies, as well as curses and toxins. The document provides a glimpse into the world's magical and supernatural elements, suggesting a dark and eerie atmosphere.",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the number 246 in the text?",
+      "answer": "The number 246 appears to be a repeating or significant number in the text, but its exact significance is not clear without further context.",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the deity associated with the 'Call Deity' spell?",
+      "answer": "The text does not explicitly state the name of the deity associated with the 'Call Deity' spell.",
+      "rating": 6
+    },
+    {
+      "question": "What is the name of the Mi-Go, the Fungi from Yuggoth?",
+      "answer": "Mi-Go",
+      "rating": 9
+    },
+    {
+      "question": "What is the significance of the number 247 in the text?",
+      "answer": "Similar to the number 246, the significance of the number 247 is not clear without further context.",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the spell that causes or cures blindness?",
+      "answer": "Cause/Cure Blindness",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the spell that allows Thoth to chant?",
+      "answer": "Chant of Thoth",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the spell that allows Nyogtha to 'clutch' something?",
+      "answer": "Clutch of Nyogtha",
+      "rating": 9
+    },
+    {
+      "question": "What is the significance of the number 250 in the text?",
+      "answer": "Similar to the numbers 246 and 247, the significance of the number 250 is not clear without further context.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of Nightgaunts?",
+      "answer": "302",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of Bio-Web Armor?",
+      "answer": "268",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of Rat-Things?",
+      "answer": "302",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of Create Barrier of Naach-Tith?",
+      "answer": "253",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of Black Lotus Powder?",
+      "answer": "268-269",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of Sand-Dwellers?",
+      "answer": "303",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of Create Mist of R'lyeh?",
+      "answer": "253",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of Brain Cylinder?",
+      "answer": "269",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the number 246 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The number 246 appears to be a repeating or significant number in the text, but its exact significance is not clear without further context."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the deity associated with the 'Call Deity' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not explicitly state the name of the deity associated with the 'Call Deity' spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Mi-Go, the Fungi from Yuggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mi-Go"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the number 247 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Similar to the number 246, the significance of the number 247 is not clear without further context."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the spell that causes or cures blindness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cause/Cure Blindness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the spell that allows Thoth to chant?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chant of Thoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the spell that allows Nyogtha to 'clutch' something?"
+      },
+      {
+        "role": "assistant",
+        "content": "Clutch of Nyogtha"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the number 250 in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Similar to the numbers 246 and 247, the significance of the number 250 is not clear without further context."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Nightgaunts?"
+      },
+      {
+        "role": "assistant",
+        "content": "302"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Bio-Web Armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "268"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Rat-Things?"
+      },
+      {
+        "role": "assistant",
+        "content": "302"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Create Barrier of Naach-Tith?"
+      },
+      {
+        "role": "assistant",
+        "content": "253"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Black Lotus Powder?"
+      },
+      {
+        "role": "assistant",
+        "content": "268-269"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Sand-Dwellers?"
+      },
+      {
+        "role": "assistant",
+        "content": "303"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Create Mist of R'lyeh?"
+      },
+      {
+        "role": "assistant",
+        "content": "253"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of Brain Cylinder?"
+      },
+      {
+        "role": "assistant",
+        "content": "269"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 19,
+    "filtered": 16,
+    "retention_rate": 0.84,
+    "avg_score": 7.0
+  }
+}

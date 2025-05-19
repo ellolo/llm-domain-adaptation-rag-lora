@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes two creatures from the Cthulhu Mythos: Fungi from Yuggoth and Nightgaunts. Fungi from Yuggoth are humanoid creatures with crab-like claws, capable of seizing and flying, dealing moderate damage in hand-to-hand combat. Nightgaunts, on the other hand, are faceless, winged creatures that serve Nodens, attacking in groups and using their paws, horns, and tails to overpower victims. Both creatures have unique abilities and characteristics that make them formidable opponents in combat.",
+  "qa_pairs": [
+    {
+      "question": "What is the average HP of a Fungi from Yuggoth?",
+      "answer": "10",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for Fungi from Yuggoth?",
+      "answer": "none",
+      "rating": 6
+    },
+    {
+      "question": "What is the average magic points for a Fungi from Yuggoth?",
+      "answer": "13",
+      "rating": 9
+    },
+    {
+      "question": "What is the move of a Fungi from Yuggoth?",
+      "answer": "7 / 13 flying",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of attacks do Fungi from Yuggoth have against humans?",
+      "answer": "45%",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of attacks do Fungi from Yuggoth have against piercing weapons?",
+      "answer": "35%",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of nightgaunts in the Dreamlands?",
+      "answer": "Nightgaunts serve Nodens by, among other things, grasping and carrying off intruders, who are unceremoniously dumped in the most dismal and horrible places imaginable, and left to die.",
+      "rating": 9
+    },
+    {
+      "question": "Where are nightgaunts typically stationed?",
+      "answer": "Nightgaunts are stationed at various spots in the lonely parts of the Dreamlands.",
+      "rating": 8
+    },
+    {
+      "question": "When do nightgaunts come out to seek their prey?",
+      "answer": "Nightgaunts come out at night to seek their prey.",
+      "rating": 9
+    },
+    {
+      "question": "What is the behavior of nightgaunts when they encounter prey?",
+      "answer": "All they ever did was clutch and fly and tickle; that was the way of nightgaunts.",
+      "rating": 8
+    },
+    {
+      "question": "Do nightgaunts ever speak or laugh?",
+      "answer": "They never spoke or laughed, and never smiled because they had no faces at all to smile with, but only a suggestive blankness where a face ought to be.",
+      "rating": 9
+    },
+    {
+      "question": "What do Nightgaunts serve Nodens by?",
+      "answer": "grasping and carrying off intruders",
+      "rating": 7
+    },
+    {
+      "question": "Where are Nightgaunts stationed?",
+      "answer": "various spots in the lonely parts of the Dreamlands",
+      "rating": 8
+    },
+    {
+      "question": "What is the intelligence level of Nightgaunts?",
+      "answer": "not very intelligent",
+      "rating": 6
+    },
+    {
+      "question": "Can Nightgaunts understand some languages?",
+      "answer": "some languages, such as the gibberings of ghouls",
+      "rating": 8
+    },
+    {
+      "question": "What is the HP of a Nightgaunt?",
+      "answer": "12",
+      "rating": 8
+    },
+    {
+      "question": "What is the Move of a Nightgaunt?",
+      "answer": "6 / 12 flying",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for nightgaunts?",
+      "answer": "+0",
+      "rating": 7
+    },
+    {
+      "question": "How many nightgaunts attacks per round can a nightgaunt make?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the average magic points for a nightgaunt?",
+      "answer": "10",
+      "rating": 8
+    },
+    {
+      "question": "How does a nightgaunt move?",
+      "answer": "6 / 12 flying",
+      "rating": 9
+    },
+    {
+      "question": "How do nightgaunts typically attack?",
+      "answer": "They usually attack en masse, attempting to sneak up quietly on victims",
+      "rating": 9
+    },
+    {
+      "question": "Can nightgaunts tickle their opponents?",
+      "answer": "Yes, but only if their opponent has already been seized",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average HP of a Fungi from Yuggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for Fungi from Yuggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "none"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a Fungi from Yuggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the move of a Fungi from Yuggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "7 / 13 flying"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of attacks do Fungi from Yuggoth have against humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "45%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of attacks do Fungi from Yuggoth have against piercing weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "35%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of nightgaunts in the Dreamlands?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nightgaunts serve Nodens by, among other things, grasping and carrying off intruders, who are unceremoniously dumped in the most dismal and horrible places imaginable, and left to die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are nightgaunts typically stationed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nightgaunts are stationed at various spots in the lonely parts of the Dreamlands."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When do nightgaunts come out to seek their prey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nightgaunts come out at night to seek their prey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the behavior of nightgaunts when they encounter prey?"
+      },
+      {
+        "role": "assistant",
+        "content": "All they ever did was clutch and fly and tickle; that was the way of nightgaunts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do nightgaunts ever speak or laugh?"
+      },
+      {
+        "role": "assistant",
+        "content": "They never spoke or laughed, and never smiled because they had no faces at all to smile with, but only a suggestive blankness where a face ought to be."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do Nightgaunts serve Nodens by?"
+      },
+      {
+        "role": "assistant",
+        "content": "grasping and carrying off intruders"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are Nightgaunts stationed?"
+      },
+      {
+        "role": "assistant",
+        "content": "various spots in the lonely parts of the Dreamlands"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the intelligence level of Nightgaunts?"
+      },
+      {
+        "role": "assistant",
+        "content": "not very intelligent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Nightgaunts understand some languages?"
+      },
+      {
+        "role": "assistant",
+        "content": "some languages, such as the gibberings of ghouls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the HP of a Nightgaunt?"
+      },
+      {
+        "role": "assistant",
+        "content": "12"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Move of a Nightgaunt?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 / 12 flying"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for nightgaunts?"
+      },
+      {
+        "role": "assistant",
+        "content": "+0"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many nightgaunts attacks per round can a nightgaunt make?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a nightgaunt?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a nightgaunt move?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 / 12 flying"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do nightgaunts typically attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "They usually attack en masse, attempting to sneak up quietly on victims"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can nightgaunts tickle their opponents?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but only if their opponent has already been seized"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.9
+  }
+}

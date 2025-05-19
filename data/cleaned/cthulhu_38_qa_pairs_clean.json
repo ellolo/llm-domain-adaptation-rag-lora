@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines the process of creating investigators in a Lovecraftian setting, specifically for the game \"Call of Cthulhu.\" It provides guidelines for assigning occupation skill points, credit ratings, and background entries to investigators, with a focus on creating a sense of personal and emotional depth. The document also emphasizes the importance of crafting background entries that are specific, emotional, and emphatic, and that reflect the investigator's growing knowledge of the Mythos and their loss of sanity. Additionally, it highlights the role of the Keeper in adding or amending background entries during episodes of insanity or major wounds.",
+  "qa_pairs": [
+    {
+      "question": "What skills can a character choose from for the PILOT occupation?",
+      "answer": "Electrical Repair, Mechanical Repair, Navigate, Operate Heavy Machinery, Pilot (aircraft), Science (Astronomy), any two other skills.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Credit Rating range for the PILOT occupation?",
+      "answer": "20\u201370",
+      "rating": 8
+    },
+    {
+      "question": "How are Occupation Skill Points calculated for the PILOT occupation?",
+      "answer": "EDU \u00d7 4",
+      "rating": 9
+    },
+    {
+      "question": "What is the Credit Rating range for the POLICE DETECTIVE occupation?",
+      "answer": "20\u201350",
+      "rating": 8
+    },
+    {
+      "question": "How are Occupation Skill Points calculated for the POLICE DETECTIVE occupation?",
+      "answer": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2",
+      "rating": 9
+    },
+    {
+      "question": "What is the Credit Rating range for the POLICE OFFICER occupation?",
+      "answer": "9\u201330",
+      "rating": 8
+    },
+    {
+      "question": "What are the possible skills for a Private Investigator?",
+      "answer": "Art/Craft, Disguise, Law, Library Use, one interpersonal skill, Psychology, and Spot Hidden",
+      "rating": 9
+    },
+    {
+      "question": "How is Occupation Skill Points calculated for a Private Investigator?",
+      "answer": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the Credit Rating range for a Private Investigator?",
+      "answer": "9\u201330",
+      "rating": 8
+    },
+    {
+      "question": "What are the possible skills for a Professor?",
+      "answer": "Library Use, Other Language, Own Language, Psychology, and any four other skills",
+      "rating": 9
+    },
+    {
+      "question": "How is Occupation Skill Points calculated for a Professor?",
+      "answer": "EDU \u00d7 4",
+      "rating": 8
+    },
+    {
+      "question": "What is the Credit Rating range for a Professor?",
+      "answer": "20\u201370",
+      "rating": 7
+    },
+    {
+      "question": "What skills are required for a ZEALOT?",
+      "answer": "Charm, Fast Talk, Intimidate, or Persuade, and any three other skills.",
+      "rating": 8
+    },
+    {
+      "question": "How is an investigator's credit rating calculated?",
+      "answer": "EDU \u00d7 2 + either APP \u00d7 2 or POW \u00d7 2",
+      "rating": 9
+    },
+    {
+      "question": "When can the investigator's background be modified?",
+      "answer": "During episodes of insanity or as a result of major wounds",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator's connections to the world during episodes of insanity?",
+      "answer": "Madness and pain",
+      "rating": 9
+    },
+    {
+      "question": "How should background entries be crafted?",
+      "answer": "Specific, emotional, and emphatic",
+      "rating": 9
+    },
+    {
+      "question": "What is the ultimate connection to the world for a ZEALOT?",
+      "answer": "Madness and pain",
+      "rating": 8
+    },
+    {
+      "question": "Who is the subject of 'my wife'?",
+      "answer": "The person being referred to as 'my wife'",
+      "rating": 7
+    },
+    {
+      "question": "What does 'my wife' tell us about the subject?",
+      "answer": "Nothing about the nature of the subject",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills can a character choose from for the PILOT occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Electrical Repair, Mechanical Repair, Navigate, Operate Heavy Machinery, Pilot (aircraft), Science (Astronomy), any two other skills."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Credit Rating range for the PILOT occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "20\u201370"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Occupation Skill Points calculated for the PILOT occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Credit Rating range for the POLICE DETECTIVE occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "20\u201350"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are Occupation Skill Points calculated for the POLICE DETECTIVE occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Credit Rating range for the POLICE OFFICER occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "9\u201330"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible skills for a Private Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Art/Craft, Disguise, Law, Library Use, one interpersonal skill, Psychology, and Spot Hidden"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Occupation Skill Points calculated for a Private Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Credit Rating range for a Private Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "9\u201330"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible skills for a Professor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Library Use, Other Language, Own Language, Psychology, and any four other skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Occupation Skill Points calculated for a Professor?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Credit Rating range for a Professor?"
+      },
+      {
+        "role": "assistant",
+        "content": "20\u201370"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills are required for a ZEALOT?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charm, Fast Talk, Intimidate, or Persuade, and any three other skills."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is an investigator's credit rating calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either APP \u00d7 2 or POW \u00d7 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When can the investigator's background be modified?"
+      },
+      {
+        "role": "assistant",
+        "content": "During episodes of insanity or as a result of major wounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's connections to the world during episodes of insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Madness and pain"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should background entries be crafted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Specific, emotional, and emphatic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate connection to the world for a ZEALOT?"
+      },
+      {
+        "role": "assistant",
+        "content": "Madness and pain"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the subject of 'my wife'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The person being referred to as 'my wife'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'my wife' tell us about the subject?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing about the nature of the subject"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

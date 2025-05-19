@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, the Mythos rating of a book is compared to the player's Cthulhu Mythos skill level. If the player's skill is below the book's rating, they gain Cthulhu Mythos points equal to the book's full study (CMF) number. If the player's skill is equal to or above the book's rating, they gain Cthulhu Mythos points equal to the book's initial reading (CMI) number. The player can then use these points to increase their Cthulhu Mythos skill, with each study taking progressively longer and with diminishing returns.",
+  "qa_pairs": [
+    {
+      "question": "What is the Mythos rating used to compare a reader's Cthulhu Mythos skill?",
+      "answer": "the book's Mythos rating",
+      "rating": 9
+    },
+    {
+      "question": "How long does a full study of a book take, compared to the initial reading?",
+      "answer": "twice as long as the previous one",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a reader's Cthulhu Mythos skill if it is below the book's Mythos rating?",
+      "answer": "they gain Cthulhu Mythos points equal to the full study (CMF) number",
+      "rating": 7
+    },
+    {
+      "question": "What happens to a reader's Cthulhu Mythos skill if it is equal to or above the book's Mythos rating?",
+      "answer": "they receive Cthulhu Mythos skill points equal to the initial reading (CMI) number",
+      "rating": 8
+    },
+    {
+      "question": "How long does each subsequent study take compared to the previous one?",
+      "answer": "Twice as long",
+      "rating": 6
+    },
+    {
+      "question": "What should the Keeper do with the given reading times?",
+      "answer": "Shrink or increase them as appropriate",
+      "rating": 9
+    },
+    {
+      "question": "What is required for a subsequent study of a book?",
+      "answer": "The full reading time should be doubled.",
+      "rating": 8
+    },
+    {
+      "question": "Can multiple books be studied at the same time?",
+      "answer": "No, only one tome may be studied at a time.",
+      "rating": 9
+    },
+    {
+      "question": "What is the total percentage increase in Cthulhu Mythos skill for a full study of the Book of Eibon?",
+      "answer": "+8%",
+      "rating": 9
+    },
+    {
+      "question": "How many weeks does it take to study the Book of Eibon for the third time?",
+      "answer": "128 weeks",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take to complete a full study of the Book of Eibon?",
+      "answer": "128 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the Mythos Rating of the Book of Eibon after a full study?",
+      "answer": "Its Cthulhu Mythos Rating",
+      "rating": 7
+    },
+    {
+      "question": "How many Sanity points does Harvey lose after a third full study of the Book of Eibon?",
+      "answer": "2D4 Sanity points",
+      "rating": 6
+    },
+    {
+      "question": "What percentage of points of Cthulhu Mythos skill does Harvey gain after a full study of the Book of Eibon?",
+      "answer": "+8%",
+      "rating": 9
+    },
+    {
+      "question": "How long would a further study of the Book of Eibon take?",
+      "answer": "64 weeks",
+      "rating": 8
+    },
+    {
+      "question": "What is the reward for gaining the full study's worth of +8% points of Cthulhu Mythos skill?",
+      "answer": "Loss of another 2D4 Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "How would a third full study of a tome be calculated?",
+      "answer": "Harvey would have to wait 128 weeks",
+      "rating": 8
+    },
+    {
+      "question": "How much time does the investigator spend researching a specific piece of information from a book?",
+      "answer": "1D4 game hours",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos rating used to compare a reader's Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "the book's Mythos rating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does a full study of a book take, compared to the initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "twice as long as the previous one"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a reader's Cthulhu Mythos skill if it is below the book's Mythos rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "they gain Cthulhu Mythos points equal to the full study (CMF) number"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a reader's Cthulhu Mythos skill if it is equal to or above the book's Mythos rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "they receive Cthulhu Mythos skill points equal to the initial reading (CMI) number"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does each subsequent study take compared to the previous one?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twice as long"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do with the given reading times?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shrink or increase them as appropriate"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a subsequent study of a book?"
+      },
+      {
+        "role": "assistant",
+        "content": "The full reading time should be doubled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can multiple books be studied at the same time?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, only one tome may be studied at a time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total percentage increase in Cthulhu Mythos skill for a full study of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "+8%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks does it take to study the Book of Eibon for the third time?"
+      },
+      {
+        "role": "assistant",
+        "content": "128 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to complete a full study of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "128 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating of the Book of Eibon after a full study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its Cthulhu Mythos Rating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does Harvey lose after a third full study of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D4 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of points of Cthulhu Mythos skill does Harvey gain after a full study of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "+8%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long would a further study of the Book of Eibon take?"
+      },
+      {
+        "role": "assistant",
+        "content": "64 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reward for gaining the full study's worth of +8% points of Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Loss of another 2D4 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would a third full study of a tome be calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey would have to wait 128 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much time does the investigator spend researching a specific piece of information from a book?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 game hours"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 18,
+    "retention_rate": 0.69,
+    "avg_score": 5.9
+  }
+}

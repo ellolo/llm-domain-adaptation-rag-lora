@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document lists various phobias, which are irrational fears or anxieties towards specific objects, situations, or concepts. These phobias include a wide range of topics, such as animals (e.g., chickens, dogs, snakes), objects (e.g., garlic, mirrors, flutes), situations (e.g., vehicles, water, crowds), and concepts (e.g., death, sleep, beauty). The list includes over 80 specific phobias, each with its unique definition and characteristics. This document provides a comprehensive overview of the diverse range of phobias that exist.",
+  "qa_pairs": [
+    {
+      "question": "What does kotorophobia refer to?",
+      "answer": "Fear of chickens.",
+      "rating": 8
+    },
+    {
+      "question": "What does Alliumphobia refer to?",
+      "answer": "Fear of garlic",
+      "rating": 9
+    },
+    {
+      "question": "What does Amaxophobia refer to?",
+      "answer": "Fear of being in or riding in vehicles.",
+      "rating": 8
+    },
+    {
+      "question": "What does Ancraophobia refer to?",
+      "answer": "Fear of wind.",
+      "rating": 7
+    },
+    {
+      "question": "What does Androphobia refer to?",
+      "answer": "Fear of men.",
+      "rating": 8
+    },
+    {
+      "question": "What does Anglophobia refer to?",
+      "answer": "Fear of England or English culture, etc.",
+      "rating": 9
+    },
+    {
+      "question": "What does Anthrophobia refer to?",
+      "answer": "Fear of flowers.",
+      "rating": 6
+    },
+    {
+      "question": "What does Apotemnophobia refer to?",
+      "answer": "Fear of people with amputations.",
+      "rating": 8
+    },
+    {
+      "question": "What is Atephobia?",
+      "answer": "Fear of ruin or ruins.",
+      "rating": 8
+    },
+    {
+      "question": "What is Aulophobia?",
+      "answer": "Fear of flutes.",
+      "rating": 9
+    },
+    {
+      "question": "What is Bacteriophobia?",
+      "answer": "Fear of bacteria.",
+      "rating": 8
+    },
+    {
+      "question": "What is Ballistophobia?",
+      "answer": "Fear of missiles or bullets.",
+      "rating": 7
+    },
+    {
+      "question": "What is Basophobia?",
+      "answer": "Fear of falling.",
+      "rating": 6
+    },
+    {
+      "question": "What is Botanophobia?",
+      "answer": "Fear of plants.",
+      "rating": 8
+    },
+    {
+      "question": "What is Caligynephobia?",
+      "answer": "Fear of beautiful women.",
+      "rating": 9
+    },
+    {
+      "question": "What is Mysophobia?",
+      "answer": "Fear of dirt or contamination.",
+      "rating": 8
+    },
+    {
+      "question": "What is Myxophobia?",
+      "answer": "Fear of slime.",
+      "rating": 9
+    },
+    {
+      "question": "What is Necrophobia?",
+      "answer": "Fear of dead things.",
+      "rating": 8
+    },
+    {
+      "question": "What is Octophobia?",
+      "answer": "Fear of the figure 8.",
+      "rating": 7
+    },
+    {
+      "question": "What is Odontophobia?",
+      "answer": "Fear of teeth.",
+      "rating": 8
+    },
+    {
+      "question": "What is Oneirophobia?",
+      "answer": "Fear of dreams.",
+      "rating": 7
+    },
+    {
+      "question": "What is Onomatophobia?",
+      "answer": "Fear of hearing a certain word or words.",
+      "rating": 8
+    },
+    {
+      "question": "What is Ophidiophobia?",
+      "answer": "Fear of snakes.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does kotorophobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of chickens."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Alliumphobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of garlic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Amaxophobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of being in or riding in vehicles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Ancraophobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of wind."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Androphobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of men."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Anglophobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of England or English culture, etc."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Anthrophobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of flowers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Apotemnophobia refer to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of people with amputations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Atephobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of ruin or ruins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Aulophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of flutes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bacteriophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of bacteria."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ballistophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of missiles or bullets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Basophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of falling."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Botanophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of plants."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Caligynephobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of beautiful women."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Mysophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of dirt or contamination."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Myxophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of slime."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Necrophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of dead things."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Octophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of the figure 8."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Odontophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of teeth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Oneirophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of dreams."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Onomatophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of hearing a certain word or words."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ophidiophobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fear of snakes."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

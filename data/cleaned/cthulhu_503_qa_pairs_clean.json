@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for vehicular movement and hazards in a Call of Cthulhu game. Players can move their vehicles up to 5 locations per turn, with options to accelerate or decelerate, and can encounter various hazards such as Regular, Hard, and Extreme hazards. The severity of these hazards is determined by a random roll, and the vehicle's movement speed and armor can affect the outcome. Additionally, the document provides rules for handling vehicular collisions, including damage and destruction of vehicles.",
+  "qa_pairs": [
+    {
+      "question": "What is the threshold below which damage is ignored?",
+      "answer": "10 points",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for regular hazards?",
+      "answer": "60-89",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for hard hazards?",
+      "answer": "85-95",
+      "rating": 9
+    },
+    {
+      "question": "How many locations can a driver move with one movement action?",
+      "answer": "2 or 3",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for open locations?",
+      "answer": "1-59",
+      "rating": 8
+    },
+    {
+      "question": "What is the movement option for a driver in Call of Cthulhu?",
+      "answer": "A driver can elect to move 2 or 3 locations with one movement action.",
+      "rating": 9
+    },
+    {
+      "question": "How many penalty dice are applied to the skill rolls when encountering hazards while moving 4 or 5 locations?",
+      "answer": "Any hazards encountered have two penalty dice applied to the skill rolls.",
+      "rating": 9
+    },
+    {
+      "question": "What is the penalty die for firearms while moving?",
+      "answer": "Penalty die while moving.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if the vehicle's next move is successful on a Spot Hidden or Navigate roll?",
+      "answer": "On the vehicle\u2019s next move, the vehicle can accelerate once with 1 fewer penalty die.",
+      "rating": 8
+    },
+    {
+      "question": "How many penalty dice are applied to the skill rolls when a driver encounters hazards while moving 2 or 3 locations?",
+      "answer": "Any hazards encountered have one penalty die applied to the skill rolls.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the penalty dice for moving vehicles?",
+      "answer": "Penalty die while moving.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if the driver of a moving vehicle takes a major wound?",
+      "answer": "May lose control of their vehicle and must roll immediately as for a Hazard at Hard difficulty level.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of destroying a tire on a vehicle's Build?",
+      "answer": "Reduces vehicle Build by 1.",
+      "rating": 7
+    },
+    {
+      "question": "How does switching between running and driving affect the vehicle?",
+      "answer": "Make a fresh speed roll, recalculate movement actions.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for applying the penalty dice when encountering hazards?",
+      "answer": "Encountered have two penalty dice applied to the skill rolls.",
+      "rating": 9
+    },
+    {
+      "question": "What to do when the monster or non-player character has an implied aptitude?",
+      "answer": "Use their DEX",
+      "rating": 8
+    },
+    {
+      "question": "What to do when the monster or non-player character has neither implied aptitude nor ineptitude?",
+      "answer": "Use half of their DEX",
+      "rating": 9
+    },
+    {
+      "question": "What to do when the monster or non-player character has an implied ineptitude?",
+      "answer": "Use one-fifth of their DEX",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the driver when they take a major wound?",
+      "answer": "They may lose control of their vehicle and must roll immediately as for a Hazard at Hard difficulty level.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three categories of vehicular collisions?",
+      "answer": "Minor incident, Moderate incident, Severe incident.",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome for a 'Mayhem' incident?",
+      "answer": "Likely to wreck a truck outright.",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome for a 'Road kill' incident?",
+      "answer": "Most vehicles will be little more than scattered debris.",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of minor incidents?",
+      "answer": "Examples: Most Regular Hazards, cosmetic damage only, something serious.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the threshold below which damage is ignored?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for regular hazards?"
+      },
+      {
+        "role": "assistant",
+        "content": "60-89"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for hard hazards?"
+      },
+      {
+        "role": "assistant",
+        "content": "85-95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many locations can a driver move with one movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 or 3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for open locations?"
+      },
+      {
+        "role": "assistant",
+        "content": "1-59"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement option for a driver in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "A driver can elect to move 2 or 3 locations with one movement action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are applied to the skill rolls when encountering hazards while moving 4 or 5 locations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any hazards encountered have two penalty dice applied to the skill rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty die for firearms while moving?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penalty die while moving."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the vehicle's next move is successful on a Spot Hidden or Navigate roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "On the vehicle\u2019s next move, the vehicle can accelerate once with 1 fewer penalty die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are applied to the skill rolls when a driver encounters hazards while moving 2 or 3 locations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any hazards encountered have one penalty die applied to the skill rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the penalty dice for moving vehicles?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penalty die while moving."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the driver of a moving vehicle takes a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "May lose control of their vehicle and must roll immediately as for a Hazard at Hard difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of destroying a tire on a vehicle's Build?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reduces vehicle Build by 1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does switching between running and driving affect the vehicle?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a fresh speed roll, recalculate movement actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for applying the penalty dice when encountering hazards?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encountered have two penalty dice applied to the skill rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What to do when the monster or non-player character has an implied aptitude?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use their DEX"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What to do when the monster or non-player character has neither implied aptitude nor ineptitude?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use half of their DEX"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What to do when the monster or non-player character has an implied ineptitude?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use one-fifth of their DEX"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the driver when they take a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may lose control of their vehicle and must roll immediately as for a Hazard at Hard difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three categories of vehicular collisions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Minor incident, Moderate incident, Severe incident."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome for a 'Mayhem' incident?"
+      },
+      {
+        "role": "assistant",
+        "content": "Likely to wreck a truck outright."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome for a 'Road kill' incident?"
+      },
+      {
+        "role": "assistant",
+        "content": "Most vehicles will be little more than scattered debris."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of minor incidents?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples: Most Regular Hazards, cosmetic damage only, something serious."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 23,
+    "retention_rate": 0.92,
+    "avg_score": 7.8
+  }
+}

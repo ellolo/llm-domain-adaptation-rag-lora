@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes the combat mechanics for various sea creatures in the Call of Cthulhu role-playing game, including sharks, snakes, and squid. Sharks are capable of swarming and overwhelming individual victims, while snakes use their attacks to constrict or bite. Snakes, both constrictors and venomous species, have different attack mechanics and damage bonuses. The document provides statistics and rules for each creature, including attacks, damage, armor, skills, and habitats.",
+  "qa_pairs": [
+    {
+      "question": "What is the bonus die shark gains on attack due to their numbers?",
+      "answer": "One",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks can a shark perform per round?",
+      "answer": "2",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for each round a shark holds its victim with its Bite and Hold maneuver?",
+      "answer": "half damage bonus",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage dealt by a shark's Bite and Hold maneuver?",
+      "answer": "2D6 + damage bonus for each round held",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage of fighting attacks that sharks make?",
+      "answer": "75% (37/15)",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks does a constrictor shark perform per round?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for a constrictor shark's fighting attack?",
+      "answer": "None",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage bonus for a venomous shark's fighting attack?",
+      "answer": "Half damage bonus",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks does a venomous shark perform per round?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for a venomous shark's bite and hold attack?",
+      "answer": "Damage bonus for each round held",
+      "rating": 6
+    },
+    {
+      "question": "What is the effect of resisting full effect of snake venom?",
+      "answer": "A successful Extreme CON roll indicates a lesser effect.",
+      "rating": 9
+    },
+    {
+      "question": "How long does a victim of a snake bite have to find antivenin or medical treatment to survive?",
+      "answer": "Within a few hours.",
+      "rating": 7
+    },
+    {
+      "question": "What is the average length of a giant squid's tentacles?",
+      "answer": "Up to an additional sixty feet in length.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average size of a giant squid's body?",
+      "answer": "About twelve feet long.",
+      "rating": 6
+    },
+    {
+      "question": "What is the recommended increase in SIZ and STR for every two feet of increased span from tentacle tip to tip?",
+      "answer": "Add 3D10 of SIZ and STR",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a snake?",
+      "answer": "+1D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage of attacks a snake makes per round?",
+      "answer": "40%",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage done by a constrict attack?",
+      "answer": "1D6 + damage bonus",
+      "rating": 7
+    },
+    {
+      "question": "What is the percentage of dodges a snake makes per round?",
+      "answer": "25%",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a snake?",
+      "answer": "Average Damage Bonus: +1D6",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks per round can a snake make?",
+      "answer": "Attacks per round: 1",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt by a fighting attack?",
+      "answer": "Fighting 40% (20/5)",
+      "rating": 8
+    },
+    {
+      "question": "How much damage is dealt by a constrict attack?",
+      "answer": "Constrict (mnvr) damage 1D6 + damage bonus",
+      "rating": 6
+    },
+    {
+      "question": "What is the snake's armor?",
+      "answer": "Armor: 2-point glistening skin",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus die shark gains on attack due to their numbers?"
+      },
+      {
+        "role": "assistant",
+        "content": "One"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a shark perform per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for each round a shark holds its victim with its Bite and Hold maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "half damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a shark's Bite and Hold maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 + damage bonus for each round held"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of fighting attacks that sharks make?"
+      },
+      {
+        "role": "assistant",
+        "content": "75% (37/15)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does a constrictor shark perform per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a constrictor shark's fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a venomous shark's fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does a venomous shark perform per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a venomous shark's bite and hold attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage bonus for each round held"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of resisting full effect of snake venom?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful Extreme CON roll indicates a lesser effect."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does a victim of a snake bite have to find antivenin or medical treatment to survive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within a few hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average length of a giant squid's tentacles?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to an additional sixty feet in length."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average size of a giant squid's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "About twelve feet long."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended increase in SIZ and STR for every two feet of increased span from tentacle tip to tip?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add 3D10 of SIZ and STR"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a snake?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of attacks a snake makes per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "40%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage done by a constrict attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of dodges a snake makes per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a snake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Damage Bonus: +1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round can a snake make?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks per round: 1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting 40% (20/5)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt by a constrict attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Constrict (mnvr) damage 1D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the snake's armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Armor: 2-point glistening skin"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 7.7
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the investigators' sanity is a crucial aspect of the game, and encounters with strange entities, lost or destroyed items, and other events can trigger bouts of madness. A bout of madness can take two forms: real-time, where the investigator experiences a specific effect for a set number of rounds, or summary, where the Keeper determines the effect based on a roll. The document outlines various effects of madness, including amnesia, psychosomatic disabilities, violence, paranoia, and phobias, among others. The Keeper's discretion plays a significant role in determining the outcome of a bout of madness, and the game master must carefully manage the investigator's sanity to create a thrilling and unpredictable experience.",
+  "qa_pairs": [
+    {
+      "question": "What can happen to an investigator's spells and artifacts?",
+      "answer": "They might be lost or destroyed in a fit of pique.",
+      "rating": 9
+    },
+    {
+      "question": "How can investigators record encounters with Strange Entities?",
+      "answer": "Regardless of whether insanity results or not.",
+      "rating": 8
+    },
+    {
+      "question": "How can a bout of madness affect an investigator?",
+      "answer": "It can take one of two forms, depending on the situation.",
+      "rating": 9
+    },
+    {
+      "question": "How does a bout of madness affect an investigator's memory?",
+      "answer": "The investigator has no memory of events since they were last in a place of safety.",
+      "rating": 8
+    },
+    {
+      "question": "How long does a bout of real-time madness last?",
+      "answer": "For 1D10 rounds.",
+      "rating": 7
+    },
+    {
+      "question": "What is one of the forms a bout of madness can take in real time?",
+      "answer": "Psychosomatic disability",
+      "rating": 9
+    },
+    {
+      "question": "What is the duration of a bout of madness in real time?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of a bout of madness in real time, violence?",
+      "answer": "Uncontrolled violence and destruction",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a bout of madness in real time, psychosomatic disability?",
+      "answer": "Psychosomatic blindness, deafness, or loss of the use of a limb or limbs",
+      "rating": 9
+    },
+    {
+      "question": "What type of information can be recorded to track Sanity points lost?",
+      "answer": "Amount of Sanity points lost to a particular type of entity",
+      "rating": 8
+    },
+    {
+      "question": "How long does the 'one moment they were eating breakfast' phenomenon last?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "What disability does the investigator suffer from 'psychosomatic disability'?",
+      "answer": "blindness, deafness, or loss of the use of a limb or limbs",
+      "rating": 9
+    },
+    {
+      "question": "How long does the investigator act upon the relationship?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "How long does the investigator faint?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "What happens if the investigator is compelled to flee in panic?",
+      "answer": "They travel for 1D10 rounds",
+      "rating": 8
+    },
+    {
+      "question": "How long is the investigator incapacitated from physical hysterics?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "How long does the investigator seek to indulge in their new phobia?",
+      "answer": "1D10 rounds",
+      "rating": 8
+    },
+    {
+      "question": "What is the duration of the effects of a phobia in the game?",
+      "answer": "1D10 rounds",
+      "rating": 8
+    },
+    {
+      "question": "How many points of Sanity does Harvey lose after failing a Sanity roll?",
+      "answer": "6",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome of Harvey becoming temporarily insane?",
+      "answer": "He trashes the room in his search",
+      "rating": 7
+    },
+    {
+      "question": "What is the immediate effect of Harvey realizing what the metallic voice means?",
+      "answer": "He becomes temporarily insane",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to an investigator's spells and artifacts?"
+      },
+      {
+        "role": "assistant",
+        "content": "They might be lost or destroyed in a fit of pique."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can investigators record encounters with Strange Entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regardless of whether insanity results or not."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a bout of madness affect an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can take one of two forms, depending on the situation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a bout of madness affect an investigator's memory?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator has no memory of events since they were last in a place of safety."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does a bout of real-time madness last?"
+      },
+      {
+        "role": "assistant",
+        "content": "For 1D10 rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the forms a bout of madness can take in real time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychosomatic disability"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of a bout of madness in real time?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a bout of madness in real time, violence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Uncontrolled violence and destruction"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a bout of madness in real time, psychosomatic disability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychosomatic blindness, deafness, or loss of the use of a limb or limbs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of information can be recorded to track Sanity points lost?"
+      },
+      {
+        "role": "assistant",
+        "content": "Amount of Sanity points lost to a particular type of entity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the 'one moment they were eating breakfast' phenomenon last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What disability does the investigator suffer from 'psychosomatic disability'?"
+      },
+      {
+        "role": "assistant",
+        "content": "blindness, deafness, or loss of the use of a limb or limbs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator act upon the relationship?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator faint?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator is compelled to flee in panic?"
+      },
+      {
+        "role": "assistant",
+        "content": "They travel for 1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long is the investigator incapacitated from physical hysterics?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator seek to indulge in their new phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the effects of a phobia in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points of Sanity does Harvey lose after failing a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of Harvey becoming temporarily insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "He trashes the room in his search"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the immediate effect of Harvey realizing what the metallic voice means?"
+      },
+      {
+        "role": "assistant",
+        "content": "He becomes temporarily insane"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 21,
+    "filtered": 21,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

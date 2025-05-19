@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIthaqua, a powerful being from the King in Yellow mythos, is a formidable foe in a fantasy setting. He can attack with physical strength, use wind gusts to lift and drop victims, and possess them with his claws. Ithaqua's abilities are fueled by his connection to the Earth and the imprisoned god he represents, and his servants, the burning-ice wind and other minions, can also act independently. His stats and abilities are outlined in the document, making him a powerful and intimidating opponent.",
+  "qa_pairs": [
+    {
+      "question": "What is the number of attacks per round?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What happens if Ithaqua grabs a target?",
+      "answer": "The target is automatically held",
+      "rating": 7
+    },
+    {
+      "question": "What determines the damage Ithaqua deals?",
+      "answer": "The damage is in the lift and drop\u20101D10 x 10 feet.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage bonus does Ithaqua deal when fighting 80% of his STR?",
+      "answer": "He gets a damage bonus",
+      "rating": 6
+    },
+    {
+      "question": "Where does Ithaqua's region of imprisonment supposedly be?",
+      "answer": "The Arctic north",
+      "rating": 8
+    },
+    {
+      "question": "What is the cause of the cry of the Wendigo, according to the text?",
+      "answer": "The anguish of the imprisoned god, combining the hatred of his binding and a jealousy for those living things able to crawl where they will upon the Earth.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage is dealt per 10 feet dropped?",
+      "answer": "1D6 damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for fighting 80% damage?",
+      "answer": "40/16",
+      "rating": 7
+    },
+    {
+      "question": "What is the significance of the Wendigo cry in the text?",
+      "answer": "The cry of the Wendigo is said to be the anguish of the imprisoned god, combining the hatred of his binding and a jealousy for those living things able to crawl where they will upon the Earth.",
+      "rating": 9
+    },
+    {
+      "question": "What is the penalty for seeing Ithaqua?",
+      "answer": "1D10/1D100 Sanity points to see Ithaqua.",
+      "rating": 8
+    },
+    {
+      "question": "What is unique about the appearance of Ithaqua?",
+      "answer": "He has no face, and is twice as tall as a man.",
+      "rating": 8
+    },
+    {
+      "question": "What is special about Ithaqua's armor?",
+      "answer": "Wind Gust 100% (50/20), special (see above)",
+      "rating": 7
+    },
+    {
+      "question": "What is the typical form of the King in Yellow?",
+      "answer": "The King in Yellow might be human-seeming, clad in tattered yellow or particolored rags",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the horrible pseudopods of the King in Yellow?",
+      "answer": "The pseudopods can attach to a target and drain the very life from them (POW)",
+      "rating": 9
+    },
+    {
+      "question": "What can change in the King in Yellow?",
+      "answer": "The being possesses a loathsome plasticity of shape, able to stretch and change at will",
+      "rating": 8
+    },
+    {
+      "question": "What is the most frequently encountered avatar of Hastur the Unnameable?",
+      "answer": "The most frequently encountered avatar of Hastur the Unnameable is the King in Yellow",
+      "rating": 9
+    },
+    {
+      "question": "What can the plasticity of the being's shape do?",
+      "answer": "It can stretch and change at will.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the Yellow Sign on those who see it?",
+      "answer": "It helps to warp the dreams of those who see it.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Yellow Sign often embossed or stamped on?",
+      "answer": "editions of the evil book",
+      "rating": 7
+    },
+    {
+      "question": "What is the Yellow Sign a focus for?",
+      "answer": "madness",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the book the Yellow Sign is associated with?",
+      "answer": "The King in Yellow",
+      "rating": 9
+    },
+    {
+      "question": "What is the Avatar of Hastur in the King in Yellow?",
+      "answer": "Lord of Carcosa, Master of the Yellow Sign, Avatar of Hastur",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of attacks per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Ithaqua grabs a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is automatically held"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the damage Ithaqua deals?"
+      },
+      {
+        "role": "assistant",
+        "content": "The damage is in the lift and drop\u20101D10 x 10 feet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage bonus does Ithaqua deal when fighting 80% of his STR?"
+      },
+      {
+        "role": "assistant",
+        "content": "He gets a damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Ithaqua's region of imprisonment supposedly be?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Arctic north"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cause of the cry of the Wendigo, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The anguish of the imprisoned god, combining the hatred of his binding and a jealousy for those living things able to crawl where they will upon the Earth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt per 10 feet dropped?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for fighting 80% damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "40/16"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the Wendigo cry in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cry of the Wendigo is said to be the anguish of the imprisoned god, combining the hatred of his binding and a jealousy for those living things able to crawl where they will upon the Earth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for seeing Ithaqua?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10/1D100 Sanity points to see Ithaqua."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about the appearance of Ithaqua?"
+      },
+      {
+        "role": "assistant",
+        "content": "He has no face, and is twice as tall as a man."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is special about Ithaqua's armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wind Gust 100% (50/20), special (see above)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical form of the King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "The King in Yellow might be human-seeming, clad in tattered yellow or particolored rags"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the horrible pseudopods of the King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "The pseudopods can attach to a target and drain the very life from them (POW)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can change in the King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "The being possesses a loathsome plasticity of shape, able to stretch and change at will"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the most frequently encountered avatar of Hastur the Unnameable?"
+      },
+      {
+        "role": "assistant",
+        "content": "The most frequently encountered avatar of Hastur the Unnameable is the King in Yellow"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the plasticity of the being's shape do?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can stretch and change at will."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Yellow Sign on those who see it?"
+      },
+      {
+        "role": "assistant",
+        "content": "It helps to warp the dreams of those who see it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Yellow Sign often embossed or stamped on?"
+      },
+      {
+        "role": "assistant",
+        "content": "editions of the evil book"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Yellow Sign a focus for?"
+      },
+      {
+        "role": "assistant",
+        "content": "madness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the book the Yellow Sign is associated with?"
+      },
+      {
+        "role": "assistant",
+        "content": "The King in Yellow"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Avatar of Hastur in the King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lord of Carcosa, Master of the Yellow Sign, Avatar of Hastur"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a catalog of rare and occult texts, including \"The Unausprechlichen Kulten\" (also known as the Black Book), \"The King in Yellow\", and \"Massa di Requiem Per Shuggay\". These texts are associated with the Cthulhu Mythos and are said to be cursed, causing madness and death to those who possess them. The texts are listed with their corresponding sanity loss, mythos rating, and study periods, as well as suggested spells and incantations. The document also mentions other, lesser-known texts such as \"Monstres and their Kynde\", which is believed to be a 16th-century handwritten book.",
+  "qa_pairs": [
+    {
+      "question": "Where is the Black Book located?",
+      "answer": "Hamburg",
+      "rating": 8
+    },
+    {
+      "question": "What is the Black Book rumored to be about?",
+      "answer": "Von Junzt's connections to various cults and secret societies",
+      "rating": 9
+    },
+    {
+      "question": "How many copies of the Black Book are known to exist?",
+      "answer": "Six",
+      "rating": 7
+    },
+    {
+      "question": "What is a notable feature of the original edition of the Black Book?",
+      "answer": "Horrific engravings by Gunther Hasse",
+      "rating": 8
+    },
+    {
+      "question": "How many copies of the book are known to be in major libraries in Europe and America?",
+      "answer": "Six",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the artist who created the horrific engravings for the original edition?",
+      "answer": "Gunther Hasse",
+      "rating": 9
+    },
+    {
+      "question": "When was the text published?",
+      "answer": "1845",
+      "rating": 8
+    },
+    {
+      "question": "How many copies of the translation are held in various collections?",
+      "answer": "At least twenty",
+      "rating": 9
+    },
+    {
+      "question": "Who is believed to have written The King in Yellow?",
+      "answer": "Christopher Marlowe",
+      "rating": 9
+    },
+    {
+      "question": "What was the cause of Marlowe's arrest warrant?",
+      "answer": "Allegations of blasphemy for a manuscript containing 'vile heretical concepts'",
+      "rating": 8
+    },
+    {
+      "question": "How long is the study period for The King in Yellow?",
+      "answer": "48 weeks",
+      "rating": 7
+    },
+    {
+      "question": "What is the suggested Mythos Rating for The King in Yellow?",
+      "answer": "36",
+      "rating": 6
+    },
+    {
+      "question": "What is the reason for Marlowe's death?",
+      "answer": "Ten days later Marlowe was stabbed by Ingram Frizer.",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of the Italian opera score and libretto?",
+      "answer": "Massa di Requiem Per Shuggay",
+      "rating": 8
+    },
+    {
+      "question": "Where are copies of the Massa di Requiem Per Shuggay held?",
+      "answer": "Copies are held by the British Museum, the Biblioth\u00e8que Nationale in Paris, and probably the Vatican\u2019s Z-collection.",
+      "rating": 9
+    },
+    {
+      "question": "What spell is cast about midway through the third act?",
+      "answer": "Call Azathoth",
+      "rating": 8
+    },
+    {
+      "question": "Who stole a single folio version of the book?",
+      "answer": "author unknown",
+      "rating": 8
+    },
+    {
+      "question": "What is the Mythos Rating of the book?",
+      "answer": "12",
+      "rating": 9
+    },
+    {
+      "question": "Where is a copy of the book held by the British Museum?",
+      "answer": "the British Museum",
+      "rating": 7
+    },
+    {
+      "question": "How many weeks is the study period for the book?",
+      "answer": "2 weeks",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the Black Book located?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hamburg"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Black Book rumored to be about?"
+      },
+      {
+        "role": "assistant",
+        "content": "Von Junzt's connections to various cults and secret societies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the Black Book are known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Six"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a notable feature of the original edition of the Black Book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Horrific engravings by Gunther Hasse"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the book are known to be in major libraries in Europe and America?"
+      },
+      {
+        "role": "assistant",
+        "content": "Six"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the artist who created the horrific engravings for the original edition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunther Hasse"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the text published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1845"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the translation are held in various collections?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least twenty"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is believed to have written The King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Christopher Marlowe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the cause of Marlowe's arrest warrant?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allegations of blasphemy for a manuscript containing 'vile heretical concepts'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long is the study period for The King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "48 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested Mythos Rating for The King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "36"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for Marlowe's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ten days later Marlowe was stabbed by Ingram Frizer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the Italian opera score and libretto?"
+      },
+      {
+        "role": "assistant",
+        "content": "Massa di Requiem Per Shuggay"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are copies of the Massa di Requiem Per Shuggay held?"
+      },
+      {
+        "role": "assistant",
+        "content": "Copies are held by the British Museum, the Biblioth\u00e8que Nationale in Paris, and probably the Vatican\u2019s Z-collection."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What spell is cast about midway through the third act?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call Azathoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who stole a single folio version of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "author unknown"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "12"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is a copy of the book held by the British Museum?"
+      },
+      {
+        "role": "assistant",
+        "content": "the British Museum"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks is the study period for the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 weeks"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

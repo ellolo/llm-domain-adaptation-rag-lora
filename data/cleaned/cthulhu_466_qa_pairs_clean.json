@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document appears to be a character sheet for a tabletop role-playing game, specifically the Call of Cthulhu game. The characters are portrayed as individuals with unique characteristics, skills, and abilities, including Harland Roach, Lucy Stone, and Abner Wick. Each character has a mix of physical and mental attributes, such as Strength, Intelligence, and Charisma, as well as specific skills and abilities, like fighting, stealth, and magic. The characters also have varying levels of experience and education, which can impact their performance in the game. Overall, the characters are designed to be complex and nuanced, with a range of possibilities for gameplay and storytelling.",
+  "qa_pairs": [
+    {
+      "question": "What is the DEX score of the first individual?",
+      "answer": "70",
+      "rating": 8
+    },
+    {
+      "question": "What is the INT score of the second individual?",
+      "answer": "60",
+      "rating": 7
+    },
+    {
+      "question": "What is the SIZ score of the first individual?",
+      "answer": "80",
+      "rating": 9
+    },
+    {
+      "question": "What is the CON score of the second individual?",
+      "answer": "60",
+      "rating": 7
+    },
+    {
+      "question": "What is the STR score of the first individual?",
+      "answer": "75",
+      "rating": 8
+    },
+    {
+      "question": "What is the DEX score of the second individual?",
+      "answer": "40",
+      "rating": 6
+    },
+    {
+      "question": "What is the HP score of the second individual?",
+      "answer": "14",
+      "rating": 8
+    },
+    {
+      "question": "What is the total damage bonus for the first individual?",
+      "answer": "+1D4",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for Harland Roach?",
+      "answer": "+1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is Harland Roach's Education score?",
+      "answer": "96",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for Lucy Stone?",
+      "answer": "0",
+      "rating": 7
+    },
+    {
+      "question": "What is Harland Roach's Size score?",
+      "answer": "80",
+      "rating": 8
+    },
+    {
+      "question": "What is the Dodge percentage for Harland Roach?",
+      "answer": "45%",
+      "rating": 9
+    },
+    {
+      "question": "What is the Armor for Lucy Stone?",
+      "answer": "None",
+      "rating": 8
+    },
+    {
+      "question": "What is the Charisma score for Harland Roach?",
+      "answer": "45",
+      "rating": 8
+    },
+    {
+      "question": "What is the Move score for Abner Wick?",
+      "answer": "8",
+      "rating": 9
+    },
+    {
+      "question": "What is the SIZ attribute value?",
+      "answer": "65",
+      "rating": 8
+    },
+    {
+      "question": "What is the DEX attribute value?",
+      "answer": "70",
+      "rating": 9
+    },
+    {
+      "question": "What is the INT attribute value?",
+      "answer": "85",
+      "rating": 9
+    },
+    {
+      "question": "What is the HP attribute value?",
+      "answer": "15",
+      "rating": 8
+    },
+    {
+      "question": "What is the Dodge percentage?",
+      "answer": "35%",
+      "rating": 8
+    },
+    {
+      "question": "What is the Armor value?",
+      "answer": "1-point semi-rubbery hide",
+      "rating": 7
+    },
+    {
+      "question": "What is the Skills attribute value for Disguise?",
+      "answer": "55%",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX score of the first individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "70"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the INT score of the second individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the SIZ score of the first individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "80"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the CON score of the second individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR score of the first individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "75"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX score of the second individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "40"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the HP score of the second individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "14"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total damage bonus for the first individual?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Harland Roach?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harland Roach's Education score?"
+      },
+      {
+        "role": "assistant",
+        "content": "96"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Lucy Stone?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harland Roach's Size score?"
+      },
+      {
+        "role": "assistant",
+        "content": "80"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage for Harland Roach?"
+      },
+      {
+        "role": "assistant",
+        "content": "45%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Armor for Lucy Stone?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Charisma score for Harland Roach?"
+      },
+      {
+        "role": "assistant",
+        "content": "45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Move score for Abner Wick?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the SIZ attribute value?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX attribute value?"
+      },
+      {
+        "role": "assistant",
+        "content": "70"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the INT attribute value?"
+      },
+      {
+        "role": "assistant",
+        "content": "85"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the HP attribute value?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage?"
+      },
+      {
+        "role": "assistant",
+        "content": "35%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Armor value?"
+      },
+      {
+        "role": "assistant",
+        "content": "1-point semi-rubbery hide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Skills attribute value for Disguise?"
+      },
+      {
+        "role": "assistant",
+        "content": "55%"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

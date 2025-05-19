@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, the dark young is a formidable creature that can use its tentacles, hooves, and massive bulk to attack investigators. Its attacks include a tentacle attack, a grab maneuver that drains the STR of its victims, and a trample attack that deals damage to multiple opponents. The Keeper can use the dark young's attacks to create a challenging and terrifying experience for the investigators. The scenario also includes guidelines for using the dark young's attacks, including how to describe its movements and how to incorporate its grab maneuver into the game.",
+  "qa_pairs": [
+    {
+      "question": "How many attacks can a creature use per round?",
+      "answer": "5",
+      "rating": 8
+    },
+    {
+      "question": "What is the limit on using the Trample attack per round?",
+      "answer": "once",
+      "rating": 9
+    },
+    {
+      "question": "What is the creature's most common attack?",
+      "answer": "tentacle",
+      "rating": 7
+    },
+    {
+      "question": "Can the Keeper use the tentacles every time?",
+      "answer": "no, but it's optional",
+      "rating": 6
+    },
+    {
+      "question": "What is a key feature of the dark young's attacks?",
+      "answer": "It can grab investigators with its tentacles.",
+      "rating": 8
+    },
+    {
+      "question": "How many thicker sinuous tentacles does a typical dark young have to attack with?",
+      "answer": "Four",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a victim being grabbed by the dark young?",
+      "answer": "They are held to one of the horrible sucking mouths and drained of 1D10+5 STR per round.",
+      "rating": 10
+    },
+    {
+      "question": "What is the damage bonus for the dark young's fighting attacks?",
+      "answer": "80%",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a victim while being drained?",
+      "answer": "They are capable only of ineffectual writhing and screaming.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for Fighting and Trample?",
+      "answer": "80% (40/16)",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage for Trample?",
+      "answer": "2D6 + damage bonus",
+      "rating": 7
+    },
+    {
+      "question": "Why should the Idea roll be used occasionally?",
+      "answer": "Because of its far more significant effect on play compared to previous editions.",
+      "rating": 9
+    },
+    {
+      "question": "What should not be asked for to uncover clues in the game?",
+      "answer": "rolls to uncover clues that you want to players to find",
+      "rating": 8
+    },
+    {
+      "question": "When should the Keeper use an Idea roll?",
+      "answer": "when the players have become stuck at a point in the investigation",
+      "rating": 9
+    },
+    {
+      "question": "What should be done with small skill modifiers of +5 or less?",
+      "answer": "ignored",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a bonus die in approximating small skill modifiers?",
+      "answer": "a +1 bonus to the skill",
+      "rating": 8
+    },
+    {
+      "question": "What is an Idea roll?",
+      "answer": "An Idea roll is made when the players have become stuck at a point in the investigation.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of an Idea roll?",
+      "answer": "The purpose of an Idea roll is to get the investigation back on track.",
+      "rating": 9
+    },
+    {
+      "question": "How do small skill modifiers affect the roll?",
+      "answer": "Small skill modifiers (of +5 or less) may be ignored.",
+      "rating": 8
+    },
+    {
+      "question": "How does a listed modifier affect the roll?",
+      "answer": "A listed modifier may cause some skill rolls to become less likely to succeed, but players now have the option to push the roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Idea roll used for?",
+      "answer": "The Idea roll allows the Keeper to get the investigation back on track.",
+      "rating": 8
+    },
+    {
+      "question": "How do small skill modifiers work?",
+      "answer": "Where small skill modifiers (of +5 or less) are listed, these may be ignored.",
+      "rating": 8
+    },
+    {
+      "question": "How do modifiers affect the likelihood of a skill roll succeeding?",
+      "answer": "A listed modifier means a \u201320% chance, while a bonus die means a +20% chance.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a Keeper decides to apply a modifier to a skill roll?",
+      "answer": "Either changing the difficulty level or applying a penalty or bonus die depending on the situation.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a creature use per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the limit on using the Trample attack per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "once"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the creature's most common attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "tentacle"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper use the tentacles every time?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, but it's optional"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key feature of the dark young's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can grab investigators with its tentacles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many thicker sinuous tentacles does a typical dark young have to attack with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Four"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a victim being grabbed by the dark young?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are held to one of the horrible sucking mouths and drained of 1D10+5 STR per round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the dark young's fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "80%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a victim while being drained?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are capable only of ineffectual writhing and screaming."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Fighting and Trample?"
+      },
+      {
+        "role": "assistant",
+        "content": "80% (40/16)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage for Trample?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Idea roll be used occasionally?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because of its far more significant effect on play compared to previous editions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should not be asked for to uncover clues in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "rolls to uncover clues that you want to players to find"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When should the Keeper use an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "when the players have become stuck at a point in the investigation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be done with small skill modifiers of +5 or less?"
+      },
+      {
+        "role": "assistant",
+        "content": "ignored"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a bonus die in approximating small skill modifiers?"
+      },
+      {
+        "role": "assistant",
+        "content": "a +1 bonus to the skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Idea roll is made when the players have become stuck at a point in the investigation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The purpose of an Idea roll is to get the investigation back on track."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do small skill modifiers affect the roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Small skill modifiers (of +5 or less) may be ignored."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a listed modifier affect the roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A listed modifier may cause some skill rolls to become less likely to succeed, but players now have the option to push the roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Idea roll used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Idea roll allows the Keeper to get the investigation back on track."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do small skill modifiers work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Where small skill modifiers (of +5 or less) are listed, these may be ignored."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do modifiers affect the likelihood of a skill roll succeeding?"
+      },
+      {
+        "role": "assistant",
+        "content": "A listed modifier means a \u201320% chance, while a bonus die means a +20% chance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Keeper decides to apply a modifier to a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either changing the difficulty level or applying a penalty or bonus die depending on the situation."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for casting spells and reading tomes in the Magic section of the Call of Cthulhu game. The rules specify the casting time, spell activation, and reading roll requirements for various types of spells and tomes, including those with extreme difficulty levels. The document also explains how characters can gain new phobias, manias, or increased POW through magical means, and how these effects can be resolved through the Keeper's discretion. Additionally, it provides guidelines for reading tomes, including the potential for Sanity point loss and the gain of Cthulhu Mythos skill points.",
+  "qa_pairs": [
+    {
+      "question": "What is the Keeper's role in the investigator's case?",
+      "answer": "The Keeper determines whether the investigator has killed or simply inflicted harm.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of the investigator's extreme ideology or belief?",
+      "answer": "A religious person preaching the gospel loudly on the subway.",
+      "rating": 9
+    },
+    {
+      "question": "What is the investigator's state of mind when they come to their senses?",
+      "answer": "They are either in a psychiatric ward or police cell.",
+      "rating": 7
+    },
+    {
+      "question": "What is the investigator's situation when they come to their senses in panic?",
+      "answer": "They are far away, possibly lost in the wilderness, on a train, or long-distance bus.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a scenario where an investigator might be found later, preaching the gospel loudly?",
+      "answer": "A religious person",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the investigator when they come to their senses and are far away, perhaps lost in the wilderness?",
+      "answer": "They are in a state of panic",
+      "rating": 8
+    },
+    {
+      "question": "How does the investigator avoid their new phobia after gaining it?",
+      "answer": "They take every precaution",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the investigator after coming to their senses?",
+      "answer": "They are far away, perhaps lost in the wilderness or on a train or long-distance bus.",
+      "rating": 8
+    },
+    {
+      "question": "How does the investigator gain a new phobia?",
+      "answer": "By rolling 1D100 on Table IX: Sample Phobias, or the Keeper may choose one.",
+      "rating": 9
+    },
+    {
+      "question": "How does the investigator gain a new mania?",
+      "answer": "By rolling 1D100 on Table X: Sample Manias, or the Keeper may choose one.",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for the investigator to come to their senses after gaining a new phobia or mania?",
+      "answer": "1D10 hours later.",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take for the investigator to come to their senses after a bout of madness?",
+      "answer": "1D10 hours",
+      "rating": 8
+    },
+    {
+      "question": "When does a spell activate in combat, according to the Magic Rules?",
+      "answer": "instantaneous\u2014on the user\u2019s DEX+50",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take to read a tome, according to the Magic Rules?",
+      "answer": "variable duration (hours to weeks at the Keeper\u2019s discretion)",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a reader if they are a believer after reading a tome?",
+      "answer": "Sanity point loss",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Sanity points when a nonbeliever reads Cthulhu Mythos tomes?",
+      "answer": "Sanity points do not lose for reading tomes.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of an opposed POW roll on the target's POW?",
+      "answer": "The target's POW increases by 1D10 points permanently.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a Luck roll on the target's POW?",
+      "answer": "The target's POW increases by 1D10 points permanently.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level of a printed, well-maintained ancient tome?",
+      "answer": "Regular difficulty level.",
+      "rating": 7
+    },
+    {
+      "question": "What is the initial reading requirement for a tome?",
+      "answer": "Reading roll may be required.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if a believer studies a tome with a higher Mythos rating?",
+      "answer": "Sanity point loss.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a believer studies a tome with a higher Cthulhu Mythos skill?",
+      "answer": "Gains the full Cthulhu Mythos benefit.",
+      "rating": 9
+    },
+    {
+      "question": "How does the study time increase with each full study of a tome?",
+      "answer": "Doubles in study time.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role in the investigator's case?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper determines whether the investigator has killed or simply inflicted harm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of the investigator's extreme ideology or belief?"
+      },
+      {
+        "role": "assistant",
+        "content": "A religious person preaching the gospel loudly on the subway."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the investigator's state of mind when they come to their senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are either in a psychiatric ward or police cell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the investigator's situation when they come to their senses in panic?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are far away, possibly lost in the wilderness, on a train, or long-distance bus."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a scenario where an investigator might be found later, preaching the gospel loudly?"
+      },
+      {
+        "role": "assistant",
+        "content": "A religious person"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when they come to their senses and are far away, perhaps lost in the wilderness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are in a state of panic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator avoid their new phobia after gaining it?"
+      },
+      {
+        "role": "assistant",
+        "content": "They take every precaution"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator after coming to their senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are far away, perhaps lost in the wilderness or on a train or long-distance bus."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator gain a new phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "By rolling 1D100 on Table IX: Sample Phobias, or the Keeper may choose one."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator gain a new mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "By rolling 1D100 on Table X: Sample Manias, or the Keeper may choose one."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for the investigator to come to their senses after gaining a new phobia or mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours later."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for the investigator to come to their senses after a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When does a spell activate in combat, according to the Magic Rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "instantaneous\u2014on the user\u2019s DEX+50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to read a tome, according to the Magic Rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "variable duration (hours to weeks at the Keeper\u2019s discretion)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a reader if they are a believer after reading a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity point loss"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Sanity points when a nonbeliever reads Cthulhu Mythos tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity points do not lose for reading tomes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of an opposed POW roll on the target's POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's POW increases by 1D10 points permanently."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a Luck roll on the target's POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's POW increases by 1D10 points permanently."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of a printed, well-maintained ancient tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial reading requirement for a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reading roll may be required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a believer studies a tome with a higher Mythos rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity point loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a believer studies a tome with a higher Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gains the full Cthulhu Mythos benefit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the study time increase with each full study of a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Doubles in study time."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 8.0
+  }
+}

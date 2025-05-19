@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu role-playing game, the Investigator Development Phase is a time for players to improve their skills, gain Sanity points, and manage their finances. Skills above 90% can be improved by rolling 1D10, adding points to the skill, and gaining Sanity points. Additionally, players can also gain Sanity points through spending time with aspects from their backstory, check their Credit Rating, and reduce their Sanity limits. The game also allows players to alter their Investigator's backstory and manage their finances, with guidelines provided for these activities.",
+  "qa_pairs": [
+    {
+      "question": "What happens to a skill if no box for the skill exists on the investigator sheet?",
+      "answer": "Not improving a skill has no other consequence.",
+      "rating": 8
+    },
+    {
+      "question": "What is added to an investigator's current Sanity when they attain 90% or more ability in a skill?",
+      "answer": "2D6 points",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum percentage of ability required to gain a skill reward?",
+      "answer": "90%",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of a 1D10 roll on a skill, when the investigator rolls a 3?",
+      "answer": "The skill remains unchanged",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum skill level required for a reward of 2D6 Sanity points?",
+      "answer": "90%",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Cecil's skill after he successfully employed his Sword skill in play?",
+      "answer": "His skill increases to 97",
+      "rating": 9
+    },
+    {
+      "question": "What is an opportunity for Sanity points during the investigator development phase?",
+      "answer": "Spending time with an aspect from their own backstory",
+      "rating": 8
+    },
+    {
+      "question": "How many Sanity points does Cecil gain after successfully improving his Sword skill?",
+      "answer": "2D6",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points does Cecil gain?",
+      "answer": "2D6",
+      "rating": 8
+    },
+    {
+      "question": "What aspect of Cecil's backstory allows him to gain Sanity points?",
+      "answer": "His own backstory",
+      "rating": 9
+    },
+    {
+      "question": "What other benefit does Cecil gain during the investigator development phase?",
+      "answer": "Reducing all sanity limits by one",
+      "rating": 8
+    },
+    {
+      "question": "What other opportunity does Cecil have during the investigator development phase?",
+      "answer": "Checking his Credit Rating and reviewing his finances",
+      "rating": 7
+    },
+    {
+      "question": "Can players alter or add background entries on their investigator sheet?",
+      "answer": "Yes, a player is free to alter or add background entries on their investigator sheet as and when they please, subject to certain limitations.",
+      "rating": 9
+    },
+    {
+      "question": "What cannot be erased or altered by a player?",
+      "answer": "Entries listed under Injuries and Scars, Phobias and Manias, Encounters with Strange Entities, or anything that has been amended or added by the Keeper without the Keeper\u2019s permission.",
+      "rating": 9
+    },
+    {
+      "question": "How can phobias and manias be erased?",
+      "answer": "Phobias and manias may only be erased through the use of treatment, such as Psychotherapy (see page 167).",
+      "rating": 8
+    },
+    {
+      "question": "Who can alter the investigator\u2019s key connection?",
+      "answer": "The investigator\u2019s key connection (see page 45) may be altered only during the investigator development phase, and only by the player.",
+      "rating": 8
+    },
+    {
+      "question": "What determines an investigator's starting Credit Rating?",
+      "answer": "An investigator's starting Credit Rating is determined during character creation, based upon the investigator's chosen profession.",
+      "rating": 8
+    },
+    {
+      "question": "What expenses are not required to be accounted for?",
+      "answer": "Accommodation, food, and incidental travel expenses.",
+      "rating": 9
+    },
+    {
+      "question": "How is an investigator's starting Credit Rating (CR) determined?",
+      "answer": "During character creation, based upon the investigator's chosen profession.",
+      "rating": 8
+    },
+    {
+      "question": "What expenses do not require accounting for in the game?",
+      "answer": "Accommodation, food, and incidental travel expenses.",
+      "rating": 9
+    },
+    {
+      "question": "What types of expenses may occasionally become an issue in the game?",
+      "answer": "Large amounts of money, such as preparing for a major trip or purchasing expensive items.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a skill if no box for the skill exists on the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not improving a skill has no other consequence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is added to an investigator's current Sanity when they attain 90% or more ability in a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum percentage of ability required to gain a skill reward?"
+      },
+      {
+        "role": "assistant",
+        "content": "90%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a 1D10 roll on a skill, when the investigator rolls a 3?"
+      },
+      {
+        "role": "assistant",
+        "content": "The skill remains unchanged"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum skill level required for a reward of 2D6 Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "90%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Cecil's skill after he successfully employed his Sword skill in play?"
+      },
+      {
+        "role": "assistant",
+        "content": "His skill increases to 97"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an opportunity for Sanity points during the investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spending time with an aspect from their own backstory"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does Cecil gain after successfully improving his Sword skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does Cecil gain?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What aspect of Cecil's backstory allows him to gain Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "His own backstory"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What other benefit does Cecil gain during the investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reducing all sanity limits by one"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What other opportunity does Cecil have during the investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Checking his Credit Rating and reviewing his finances"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can players alter or add background entries on their investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a player is free to alter or add background entries on their investigator sheet as and when they please, subject to certain limitations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What cannot be erased or altered by a player?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entries listed under Injuries and Scars, Phobias and Manias, Encounters with Strange Entities, or anything that has been amended or added by the Keeper without the Keeper\u2019s permission."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can phobias and manias be erased?"
+      },
+      {
+        "role": "assistant",
+        "content": "Phobias and manias may only be erased through the use of treatment, such as Psychotherapy (see page 167)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can alter the investigator\u2019s key connection?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator\u2019s key connection (see page 45) may be altered only during the investigator development phase, and only by the player."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines an investigator's starting Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator's starting Credit Rating is determined during character creation, based upon the investigator's chosen profession."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What expenses are not required to be accounted for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Accommodation, food, and incidental travel expenses."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is an investigator's starting Credit Rating (CR) determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "During character creation, based upon the investigator's chosen profession."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What expenses do not require accounting for in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Accommodation, food, and incidental travel expenses."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of expenses may occasionally become an issue in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Large amounts of money, such as preparing for a major trip or purchasing expensive items."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 21,
+    "retention_rate": 0.88,
+    "avg_score": 7.5
+  }
+}

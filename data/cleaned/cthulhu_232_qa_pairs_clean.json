@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the context of the Call of Cthulhu game, the Keeper's role is to create a terrifying experience for the investigators, using a combination of clues and monster encounters to deduce the identity or purpose of the monsters. The Keeper should aim to provide players with opportunities to avoid death, but not necessarily to make the game too easy. The monsters presented in the game, particularly those of lesser intelligence, should be unpredictable and terrifying, while those of higher intelligence should be more cunning and less willing to engage in combat. The Keeper's decisions can greatly impact the game's balance and outcome, and should be made with the goal of creating a challenging and immersive experience for the players.",
+  "qa_pairs": [
+    {
+      "question": "What is a common trait among most Mythos races?",
+      "answer": "They are of human intelligence or higher, and lead longer lives.",
+      "rating": 9
+    },
+    {
+      "question": "What should investigators avoid doing when interacting with inhuman adversaries?",
+      "answer": "Negotiation, as it suggests that the monsters operate on a human level.",
+      "rating": 8
+    },
+    {
+      "question": "Why would intelligent creatures retreat before danger?",
+      "answer": "Lacking reasons to fight.",
+      "rating": 9
+    },
+    {
+      "question": "What is a characteristic of a monster that might make it seem less threatening?",
+      "answer": "Looking the same whether or not it is alive.",
+      "rating": 8
+    },
+    {
+      "question": "What is true about most Mythos races in terms of their lifespan and knowledge?",
+      "answer": "They are of human intelligence or higher, lead longer lives, and are more knowledgeable of the world and cosmos.",
+      "rating": 9
+    },
+    {
+      "question": "Why do intelligent creatures typically retreat before danger?",
+      "answer": "Lacking reasons to fight, intelligent creatures retreat before danger.",
+      "rating": 7
+    },
+    {
+      "question": "How should investigators approach shoggoths of lesser intelligence?",
+      "answer": "Attacking the shoggoth who lives in the cave can be an episodic problem, one that can be returned to until the investigators can destroy it\u2014should they survive long enough\u2014seal it in, or somehow banish it elsewhere.",
+      "rating": 9
+    },
+    {
+      "question": "What is the key characteristic of shoggoths of lesser intelligence?",
+      "answer": "They are terrifyingly unpredictable and rancorous.",
+      "rating": 8
+    },
+    {
+      "question": "What should the Keeper do if attacked by a shoggoth?",
+      "answer": "The Keeper should give reasonable warning of impending doom.",
+      "rating": 9
+    },
+    {
+      "question": "Can the shoggoth be destroyed, and if so, how?",
+      "answer": "The shoggoth can be destroyed if the investigators survive long enough to do so.",
+      "rating": 8
+    },
+    {
+      "question": "What happened to the narrator as he watched the ripples?",
+      "answer": "The narrator felt a new chill from afar.",
+      "rating": 7
+    },
+    {
+      "question": "What was the narrator's reaction to seeing the writhing worms?",
+      "answer": "The narrator felt a horror before his eyes had seen it.",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of the Keeper in this text?",
+      "answer": "The Keeper is obliged only to give reasonable warning of impending doom.",
+      "rating": 9
+    },
+    {
+      "question": "What can be done to return to the problem of attacking the shoggoth?",
+      "answer": "Attacking the shoggoth can be an episodic problem that can be returned to until the investigators can destroy it\u2014should they survive long enough\u2014",
+      "rating": 9
+    },
+    {
+      "question": "What is the author implying about perceiving the Mythos through primal senses?",
+      "answer": "The author implies that we might even perceive the presence of a Mythos monster through some primal sense beyond the known five that we recognize.",
+      "rating": 8
+    },
+    {
+      "question": "What is the significance of averting one's eyes from the TV screen?",
+      "answer": "Averting one's eyes from the TV screen may shield us from the sight of unwanted scenes of horror, but this is rarely enough when confronted with the tangible, unspeakable presence of a Mythos monster.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary way to perceive a Mythos presence?",
+      "answer": "Beyond the known five senses that we recognize.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Keeper's decisions in Call of Cthulhu?",
+      "answer": "To derive game balance between the Keeper and the players.",
+      "rating": 9
+    },
+    {
+      "question": "What can avert the sight of unwanted scenes of horror in the game?",
+      "answer": "Averting one's eyes from the TV screen.",
+      "rating": 7
+    },
+    {
+      "question": "Who decides the actions of non-player characters in Call of Cthulhu?",
+      "answer": "The Keeper.",
+      "rating": 8
+    },
+    {
+      "question": "What are the key decisions a Keeper must make in Call of Cthulhu?",
+      "answer": "The decisions that you make as Keeper, including what investigators encounter, setting the scene, and setting the actions of non-player characters.",
+      "rating": 9
+    },
+    {
+      "question": "How can the odds be stacked against the players?",
+      "answer": "The odds can easily be stacked against the players through the Keeper's decisions.",
+      "rating": 8
+    },
+    {
+      "question": "What is usually the best option for investigators in Call of Cthulhu?",
+      "answer": "Usually, the best option open to the investigators is to flee and live to fight another day.",
+      "rating": 7
+    },
+    {
+      "question": "What is the goal of a good game in Call of Cthulhu?",
+      "answer": "To make for a good game and happy players.",
+      "rating": 6
+    },
+    {
+      "question": "What is the general approach for Keepers in this game?",
+      "answer": "To provide players with the chance to avoid investigator death wherever possible",
+      "rating": 9
+    },
+    {
+      "question": "How many chances should players have to avoid certain death?",
+      "answer": "Up to three",
+      "rating": 8
+    },
+    {
+      "question": "What should Keepers not do?",
+      "answer": "Diminish the abilities of monsters and villains",
+      "rating": 7
+    },
+    {
+      "question": "What should Keepers do when dealing out damage and injuries?",
+      "answer": "Pull their punches",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common trait among most Mythos races?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are of human intelligence or higher, and lead longer lives."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should investigators avoid doing when interacting with inhuman adversaries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Negotiation, as it suggests that the monsters operate on a human level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why would intelligent creatures retreat before danger?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lacking reasons to fight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of a monster that might make it seem less threatening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Looking the same whether or not it is alive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is true about most Mythos races in terms of their lifespan and knowledge?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are of human intelligence or higher, lead longer lives, and are more knowledgeable of the world and cosmos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do intelligent creatures typically retreat before danger?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lacking reasons to fight, intelligent creatures retreat before danger."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should investigators approach shoggoths of lesser intelligence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacking the shoggoth who lives in the cave can be an episodic problem, one that can be returned to until the investigators can destroy it\u2014should they survive long enough\u2014seal it in, or somehow banish it elsewhere."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key characteristic of shoggoths of lesser intelligence?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are terrifyingly unpredictable and rancorous."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do if attacked by a shoggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should give reasonable warning of impending doom."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the shoggoth be destroyed, and if so, how?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shoggoth can be destroyed if the investigators survive long enough to do so."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the narrator as he watched the ripples?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator felt a new chill from afar."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the narrator's reaction to seeing the writhing worms?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator felt a horror before his eyes had seen it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Keeper in this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is obliged only to give reasonable warning of impending doom."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be done to return to the problem of attacking the shoggoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacking the shoggoth can be an episodic problem that can be returned to until the investigators can destroy it\u2014should they survive long enough\u2014"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the author implying about perceiving the Mythos through primal senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "The author implies that we might even perceive the presence of a Mythos monster through some primal sense beyond the known five that we recognize."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of averting one's eyes from the TV screen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Averting one's eyes from the TV screen may shield us from the sight of unwanted scenes of horror, but this is rarely enough when confronted with the tangible, unspeakable presence of a Mythos monster."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary way to perceive a Mythos presence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Beyond the known five senses that we recognize."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Keeper's decisions in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "To derive game balance between the Keeper and the players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can avert the sight of unwanted scenes of horror in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Averting one's eyes from the TV screen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who decides the actions of non-player characters in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the key decisions a Keeper must make in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The decisions that you make as Keeper, including what investigators encounter, setting the scene, and setting the actions of non-player characters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the odds be stacked against the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "The odds can easily be stacked against the players through the Keeper's decisions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is usually the best option for investigators in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Usually, the best option open to the investigators is to flee and live to fight another day."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of a good game in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make for a good game and happy players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general approach for Keepers in this game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To provide players with the chance to avoid investigator death wherever possible"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many chances should players have to avoid certain death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Keepers not do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Diminish the abilities of monsters and villains"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Keepers do when dealing out damage and injuries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pull their punches"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

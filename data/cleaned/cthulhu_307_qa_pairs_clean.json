@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis grimoire, part of the Call of Cthulhu series, contains spells and incantations for a fantasy world inspired by the Mythos. The spells, such as Wither Limb, Words of Power, and Wrack, are designed to torment and incapacitate targets, while others, like the Wrack spell, can temporarily blind and disorient enemies. The grimoire also touches on the technological and magical capabilities of various Mythos races, including elder things, mi-go, and Yithians, who possess advanced societies and access to ancient and otherworldly artifacts. These advanced technologies and artifacts blur the lines between science and magic, making it difficult for humans to distinguish between them.",
+  "qa_pairs": [
+    {
+      "question": "What is the wave's dimensions if the caster has 30 magic points?",
+      "answer": "The wave is ten feet long, ten feet wide and thirty feet high.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target's arm or leg if the caster succeeds in the opposed POW roll for Wither Limb?",
+      "answer": "The said appendage rapidly and painfully withers and shrivels, causing 1D8 hit points of damage.",
+      "rating": 8
+    },
+    {
+      "question": "What is the total cost for casting Words of Power?",
+      "answer": "3+ magic points; 1D6 Sanity points",
+      "rating": 7
+    },
+    {
+      "question": "How many Sanity points does the target lose if they fail the opposed POW roll for Wither Limb?",
+      "answer": "1D4 Sanity points",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the arm or leg chosen by the caster if successful?",
+      "answer": "It withers and shrivels, causing 1D8 hit points of damage and a permanent loss of 2D10 CON.",
+      "rating": 9
+    },
+    {
+      "question": "What are the costs of the Word of Power 'The Song of Pain' in terms of magic points?",
+      "answer": "3+ magic points",
+      "rating": 8
+    },
+    {
+      "question": "How long does the audience's belief in the caster's words last after a successful speech?",
+      "answer": "1D3 days",
+      "rating": 7
+    },
+    {
+      "question": "How much magic points does the caster need to expend per ten minutes of speech for the Word of Power 'The Song of Pain'?",
+      "answer": "3 magic points",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of casting 'Wrack'?",
+      "answer": "3 magic points",
+      "rating": 8
+    },
+    {
+      "question": "How much time does the audience believe the caster's words for after a successful speech?",
+      "answer": "1D3 days",
+      "rating": 9
+    },
+    {
+      "question": "How many magic points does the caster expend per 10 minutes of speech?",
+      "answer": "3",
+      "rating": 7
+    },
+    {
+      "question": "How many Sanity points does casting 'Wrack' cost?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for this spell?",
+      "answer": "10 yards",
+      "rating": 6
+    },
+    {
+      "question": "How long does the spell's effect last in terms of rounds?",
+      "answer": "1D6 rounds",
+      "rating": 8
+    },
+    {
+      "question": "After how many minutes does the target fully recover?",
+      "answer": "3D10 minutes",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target's Sanity points after experiencing the spell?",
+      "answer": "1/1D6+1 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "After how long do physical corruption traces fade?",
+      "answer": "24 hours",
+      "rating": 8
+    },
+    {
+      "question": "How much Sanity points does each experience cost?",
+      "answer": "1/1D6+1",
+      "rating": 9
+    },
+    {
+      "question": "What is an alternative name for 'The Call of Cthulhu'?",
+      "answer": "Woeful Agony of the Wretched",
+      "rating": 7
+    },
+    {
+      "question": "Which advanced races possess the ability to construct and utilize technology?",
+      "answer": "Elder things, Mi-go, Serpent people, and Yithians",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost for the target in terms of Sanity points for such an experience?",
+      "answer": "1/1D6+1 Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What is an alternative name for the experience of seeing creatures of the Mythos?",
+      "answer": "The Woeful Agony of the Wretched, The Festering Blindness of the Seven Hells, Rend Enemy.",
+      "rating": 8
+    },
+    {
+      "question": "What are some examples of advanced races in the Mythos?",
+      "answer": "elder things, mi-go, serpent people, and Yithians.",
+      "rating": 9
+    },
+    {
+      "question": "How would most humans differentiate between advanced scientific equipment and magical Mythos artifacts?",
+      "answer": "They would be unable to tell the difference, as both are beyond mankind's level of comprehension.",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the wave's dimensions if the caster has 30 magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The wave is ten feet long, ten feet wide and thirty feet high."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's arm or leg if the caster succeeds in the opposed POW roll for Wither Limb?"
+      },
+      {
+        "role": "assistant",
+        "content": "The said appendage rapidly and painfully withers and shrivels, causing 1D8 hit points of damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total cost for casting Words of Power?"
+      },
+      {
+        "role": "assistant",
+        "content": "3+ magic points; 1D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does the target lose if they fail the opposed POW roll for Wither Limb?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the arm or leg chosen by the caster if successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "It withers and shrivels, causing 1D8 hit points of damage and a permanent loss of 2D10 CON."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the costs of the Word of Power 'The Song of Pain' in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "3+ magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the audience's belief in the caster's words last after a successful speech?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much magic points does the caster need to expend per ten minutes of speech for the Word of Power 'The Song of Pain'?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting 'Wrack'?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much time does the audience believe the caster's words for after a successful speech?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points does the caster expend per 10 minutes of speech?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does casting 'Wrack' cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the spell's effect last in terms of rounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "After how many minutes does the target fully recover?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10 minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's Sanity points after experiencing the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D6+1 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "After how long do physical corruption traces fade?"
+      },
+      {
+        "role": "assistant",
+        "content": "24 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points does each experience cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D6+1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative name for 'The Call of Cthulhu'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Woeful Agony of the Wretched"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which advanced races possess the ability to construct and utilize technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elder things, Mi-go, Serpent people, and Yithians"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost for the target in terms of Sanity points for such an experience?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D6+1 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative name for the experience of seeing creatures of the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Woeful Agony of the Wretched, The Festering Blindness of the Seven Hells, Rend Enemy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of advanced races in the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "elder things, mi-go, serpent people, and Yithians."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would most humans differentiate between advanced scientific equipment and magical Mythos artifacts?"
+      },
+      {
+        "role": "assistant",
+        "content": "They would be unable to tell the difference, as both are beyond mankind's level of comprehension."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

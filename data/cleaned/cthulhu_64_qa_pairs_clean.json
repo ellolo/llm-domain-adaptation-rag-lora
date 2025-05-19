@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this game, First Aid is a crucial skill that can save a dying character's life, but only if administered by a successful roll. The skill is opposed by Regular difficulty, and pushing examples can make the situation worse, causing additional damage. If the character survives, they must receive a successful Medicine roll to recover fully. Additionally, the game includes other skills such as Hypnosis, which can induce a trancelike state and reduce mental trauma, and History, which can help recall important information.",
+  "qa_pairs": [
+    {
+      "question": "What happens to a character if they fail a CON roll while receiving First Aid?",
+      "answer": "The character is dying and must make a CON roll per round thereafter to stave-off death.",
+      "rating": 9
+    },
+    {
+      "question": "What skill can save the life of a dying character after First Aid?",
+      "answer": "A successful Medicine roll or being hospitalized.",
+      "rating": 8
+    },
+    {
+      "question": "Is Administering First Aid to an alien being considered of Regular difficulty level?",
+      "answer": "Yes, it is always of Regular difficulty level.",
+      "rating": 7
+    },
+    {
+      "question": "Can First Aid be continued indefinitely?",
+      "answer": "No, it can be continued without constituting a Pushed roll until stabilization or death.",
+      "rating": 8
+    },
+    {
+      "question": "What is an important skill to have alongside Medicine to be an effective medic?",
+      "answer": "First Aid",
+      "rating": 6
+    },
+    {
+      "question": "What is the consequence of an insane investigator failing a pushed roll?",
+      "answer": "Feels compelled to 'heal' the person, potentially leading to murder",
+      "rating": 9
+    },
+    {
+      "question": "What skill enables an investigator to remember the significance of a country, city, region, or person?",
+      "answer": "History",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level for administering First Aid to an alien being whose physiology is unfamiliar?",
+      "answer": "Higher",
+      "rating": 8
+    },
+    {
+      "question": "What constitutes physical attacks in the context of the text?",
+      "answer": "In effect, their endeavors constitute physical attacks which may lead to murder if they are not stopped.",
+      "rating": 9
+    },
+    {
+      "question": "What is the opposing skill/difficulty level to recall some pertinent and useful information?",
+      "answer": "i Regular difficulty: to recall some pertinent and useful information.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if you fail a Pushed roll?",
+      "answer": "Sample Consequences of failing a Pushed roll: consultations alert your adversaries, who become aware of your intent; your facts are erroneous and lead you into danger; much time and money is wasted on fruitless research.",
+      "rating": 8
+    },
+    {
+      "question": "What is a successful roll in the context of the text?",
+      "answer": "A successful roll might be used to help identify tools, techniques, or ideas familiar to ancestors, but little known today.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an investigator fails a pushed roll under hypnosis?",
+      "answer": "They are convinced they are displaced in time or living in a historic period.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of hypnosis on a willing target?",
+      "answer": "They experience heightened suggestibility, relaxation, and possible recall of forgotten memories.",
+      "rating": 9
+    },
+    {
+      "question": "How common is the Hypnosis ability?",
+      "answer": "It is Uncommon.",
+      "rating": 8
+    },
+    {
+      "question": "Can the Hypnosis ability be used on unwilling targets?",
+      "answer": "This is decided by the Keeper to fit their game.",
+      "rating": 9
+    },
+    {
+      "question": "What is the skill used for?",
+      "answer": "hypnotherapy",
+      "rating": 7
+    },
+    {
+      "question": "Who can determine the minimum number of hypnotherapy sessions needed to cure someone?",
+      "answer": "the Keeper",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum number of hypnotherapy sessions needed to cure someone of a phobia?",
+      "answer": "minimum of 1D6 sessions",
+      "rating": 9
+    },
+    {
+      "question": "What is the opposition to hypnosis?",
+      "answer": "Psychology or POW",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character if they fail a CON roll while receiving First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character is dying and must make a CON roll per round thereafter to stave-off death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill can save the life of a dying character after First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful Medicine roll or being hospitalized."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Administering First Aid to an alien being considered of Regular difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it is always of Regular difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can First Aid be continued indefinitely?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it can be continued without constituting a Pushed roll until stabilization or death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an important skill to have alongside Medicine to be an effective medic?"
+      },
+      {
+        "role": "assistant",
+        "content": "First Aid"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of an insane investigator failing a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Feels compelled to 'heal' the person, potentially leading to murder"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill enables an investigator to remember the significance of a country, city, region, or person?"
+      },
+      {
+        "role": "assistant",
+        "content": "History"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for administering First Aid to an alien being whose physiology is unfamiliar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Higher"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What constitutes physical attacks in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "In effect, their endeavors constitute physical attacks which may lead to murder if they are not stopped."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the opposing skill/difficulty level to recall some pertinent and useful information?"
+      },
+      {
+        "role": "assistant",
+        "content": "i Regular difficulty: to recall some pertinent and useful information."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if you fail a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sample Consequences of failing a Pushed roll: consultations alert your adversaries, who become aware of your intent; your facts are erroneous and lead you into danger; much time and money is wasted on fruitless research."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a successful roll in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful roll might be used to help identify tools, techniques, or ideas familiar to ancestors, but little known today."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll under hypnosis?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are convinced they are displaced in time or living in a historic period."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of hypnosis on a willing target?"
+      },
+      {
+        "role": "assistant",
+        "content": "They experience heightened suggestibility, relaxation, and possible recall of forgotten memories."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How common is the Hypnosis ability?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is Uncommon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the Hypnosis ability be used on unwilling targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is decided by the Keeper to fit their game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "hypnotherapy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can determine the minimum number of hypnotherapy sessions needed to cure someone?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of hypnotherapy sessions needed to cure someone of a phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "minimum of 1D6 sessions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the opposition to hypnosis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychology or POW"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 20,
+    "retention_rate": 0.91,
+    "avg_score": 7.8
+  }
+}

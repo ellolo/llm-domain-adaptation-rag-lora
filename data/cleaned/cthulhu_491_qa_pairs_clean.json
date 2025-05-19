@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a table or chart detailing various firearms, including shotguns and assault rifles, with their respective damage, range, and cost. The table lists different firearms, including the Benelli M3, SPAS, and Barrett Model 82, with their respective damage and range values. The cost of each firearm is also listed, with some firearms having multiple cost options depending on the era (1920s, WWII, Modern). The table also includes information on malfunctions and commonality in different eras.",
+  "qa_pairs": [
+    {
+      "question": "What type of gauge is the shotgun?",
+      "answer": "12-gauge",
+      "rating": 9
+    },
+    {
+      "question": "What is the base damage of the shotgun?",
+      "answer": "2D6/1D6/1D3",
+      "rating": 8
+    },
+    {
+      "question": "What is the base range of the shotgun?",
+      "answer": "10/20/50 yards",
+      "rating": 7
+    },
+    {
+      "question": "How many uses per round is the shotgun?",
+      "answer": "1 or 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage of the rifle?",
+      "answer": "2D6+2/1D6+1/1D4",
+      "rating": 9
+    },
+    {
+      "question": "What is the base damage of the rifle?",
+      "answer": "4D6/2D6/1D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the base range of the rifle?",
+      "answer": "10/20/50 yards",
+      "rating": 7
+    },
+    {
+      "question": "How many uses per round is the rifle?",
+      "answer": "1 or 2",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the third firearm mentioned?",
+      "answer": "Barrett Model 82",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the fourth firearm mentioned?",
+      "answer": "FN FAL",
+      "rating": 9
+    },
+    {
+      "question": "How do the firearms cost in 'Cost 20s' era?",
+      "answer": "$20/$200",
+      "rating": 7
+    },
+    {
+      "question": "How do the firearms cost in 'Modern' era?",
+      "answer": "$25/$350, $13/$70, $19/$150, $20/$200, $200, $400, $500, $50/$300, $75/$175",
+      "rating": 9
+    },
+    {
+      "question": "What is the malfunction rate for 'Common in Era'?",
+      "answer": "95",
+      "rating": 8
+    },
+    {
+      "question": "What is the malfunction rate for 'Rare'?",
+      "answer": "99",
+      "rating": 9
+    },
+    {
+      "question": "What is the malfunction rate for 'Modern'?",
+      "answer": "100",
+      "rating": 9
+    },
+    {
+      "question": "In which era are the firearms 'Common in'?",
+      "answer": "1920s",
+      "rating": 8
+    },
+    {
+      "question": "In which era are the firearms 'Rare'?",
+      "answer": "1920s, Modern",
+      "rating": 9
+    },
+    {
+      "question": "What is the malfunction rate for 'WWII, Later'?",
+      "answer": "100",
+      "rating": 8
+    },
+    {
+      "question": "What is the malfunction rate for 'Modern'?",
+      "answer": "100",
+      "rating": 8
+    },
+    {
+      "question": "What is the malfunction rate for '1920s'?",
+      "answer": "100",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of gauge is the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "12-gauge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage of the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6/1D6/1D3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range of the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "10/20/50 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many uses per round is the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 or 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+2/1D6+1/1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6/2D6/1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "10/20/50 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many uses per round is the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 or 2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the third firearm mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Barrett Model 82"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fourth firearm mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "FN FAL"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the firearms cost in 'Cost 20s' era?"
+      },
+      {
+        "role": "assistant",
+        "content": "$20/$200"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the firearms cost in 'Modern' era?"
+      },
+      {
+        "role": "assistant",
+        "content": "$25/$350, $13/$70, $19/$150, $20/$200, $200, $400, $500, $50/$300, $75/$175"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Common in Era'?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Rare'?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Modern'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In which era are the firearms 'Common in'?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In which era are the firearms 'Rare'?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s, Modern"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'WWII, Later'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Modern'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for '1920s'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 29,
+    "filtered": 20,
+    "retention_rate": 0.69,
+    "avg_score": 6.0
+  }
+}

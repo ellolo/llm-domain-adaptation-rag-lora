@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes two skills in a fictional investigative system: Pushed and Listen. Pushed enables investigators to find information in a library, but requires Persuade, Fast Talk, Charm, or other skills to gain access. Failing a Pushed roll can result in various consequences, including finding misleading information or getting into arguments with librarians. Listen, on the other hand, measures an investigator's ability to interpret and understand sound, and can be opposed by Stealth.",
+  "qa_pairs": [
+    {
+      "question": "What happens if a Pushed roll is failed?",
+      "answer": "An investigator will now believe they are above the law.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of wasting valuable time and money on research and legal fees?",
+      "answer": "You are held in contempt of court and thrown in the cells for at least 24 hours.",
+      "rating": 9
+    },
+    {
+      "question": "What can Library Use enable an investigator to do?",
+      "answer": "Find a piece of information, such as a certain book, newspaper, or reference in a library.",
+      "rating": 7
+    },
+    {
+      "question": "What is the duration of continuous search using Library Use?",
+      "answer": "Several hours.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if a Pushed roll is misinterpreted or a law is stepped outside of?",
+      "answer": "You break the law and draws police attention.",
+      "rating": 8
+    },
+    {
+      "question": "What skills are required to locate a locked case or rare-book special collection?",
+      "answer": "This skill can locate a locked case or rare-book special collection, but Persuade, Fast Talk, Charm, Intimidate, Credit Rating, or special credentials may have to be used to get access to the books or information in question.",
+      "rating": 9
+    },
+    {
+      "question": "What is the regular difficulty level of this skill?",
+      "answer": "Regular difficulty: locating a book or piece of information in a library.",
+      "rating": 8
+    },
+    {
+      "question": "What is the hard difficulty level of this skill?",
+      "answer": "Hard difficulty: identifying a piece of information in a disorganized library, or if you are extremely pressed for time.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of pushing the limits of this skill?",
+      "answer": "Pushing examples: pressing the librarian for extensive assistance; taking longer to systematically work through the stacks.",
+      "rating": 9
+    },
+    {
+      "question": "What are some possible consequences of failing a pushed roll?",
+      "answer": "finding a similar book, containing misleading information, which will lead the investigators into danger; entanglement with an adversary; getting into an argument with the librarian",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an insane investigator who fails a pushed roll?",
+      "answer": "he or she hoards books, cutting out pages to stick to their bedroom wall, making copious bizarre notes, linking the pages with threads of cotton and pins",
+      "rating": 9
+    },
+    {
+      "question": "What is the other possible scenario for an investigator who fails a pushed roll?",
+      "answer": "Alternatively, the investigator is obsessed with finding the correct book or piece of information, spending all of their time pilfering and poring over books",
+      "rating": 8
+    },
+    {
+      "question": "What might happen to the investigator's library membership?",
+      "answer": "resulting in their library membership being revoked",
+      "rating": 7
+    },
+    {
+      "question": "What might happen to the investigator's research or actions?",
+      "answer": "leading the investigators into danger, or they check out the book they are searching for (or simply tear out the pages in question)",
+      "rating": 8
+    },
+    {
+      "question": "What does the Listen skill measure?",
+      "answer": "The ability of an investigator to interpret and understand sound.",
+      "rating": 9
+    },
+    {
+      "question": "What can a Keeper use the Listen skill to determine?",
+      "answer": "The course of an impending encounter.",
+      "rating": 8
+    },
+    {
+      "question": "How can Listen be opposed by an opposing skill?",
+      "answer": "Stealth when someone is creeping up on you.",
+      "rating": 8
+    },
+    {
+      "question": "What is the regular difficulty for hearing something approaching?",
+      "answer": "A Stealth skill of below 50.",
+      "rating": 9
+    },
+    {
+      "question": "What is the hard difficulty for hearing something creep up on you?",
+      "answer": "A Stealth skill of 50 to 89.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a 'thing' catches you unawares?",
+      "answer": "You are surprised.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an investigator fails a pushed roll?",
+      "answer": "He or she becomes overly sensitive to all sounds.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an investigator fails a pushed roll, and is insane?",
+      "answer": "He or she becomes overly sensitive to all sounds and is unable to operate without earplugs or similar.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a situation where a person might fail a pushed roll?",
+      "answer": "An embarrassing predicament.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if you are caught trying to eavesdrop?",
+      "answer": "You find yourself in a very embarrassing predicament.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Pushed roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator will now believe they are above the law."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of wasting valuable time and money on research and legal fees?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are held in contempt of court and thrown in the cells for at least 24 hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can Library Use enable an investigator to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Find a piece of information, such as a certain book, newspaper, or reference in a library."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of continuous search using Library Use?"
+      },
+      {
+        "role": "assistant",
+        "content": "Several hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Pushed roll is misinterpreted or a law is stepped outside of?"
+      },
+      {
+        "role": "assistant",
+        "content": "You break the law and draws police attention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills are required to locate a locked case or rare-book special collection?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill can locate a locked case or rare-book special collection, but Persuade, Fast Talk, Charm, Intimidate, Credit Rating, or special credentials may have to be used to get access to the books or information in question."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level of this skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty: locating a book or piece of information in a library."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty level of this skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty: identifying a piece of information in a disorganized library, or if you are extremely pressed for time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of pushing the limits of this skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pushing examples: pressing the librarian for extensive assistance; taking longer to systematically work through the stacks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some possible consequences of failing a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "finding a similar book, containing misleading information, which will lead the investigators into danger; entanglement with an adversary; getting into an argument with the librarian"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an insane investigator who fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "he or she hoards books, cutting out pages to stick to their bedroom wall, making copious bizarre notes, linking the pages with threads of cotton and pins"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the other possible scenario for an investigator who fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alternatively, the investigator is obsessed with finding the correct book or piece of information, spending all of their time pilfering and poring over books"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to the investigator's library membership?"
+      },
+      {
+        "role": "assistant",
+        "content": "resulting in their library membership being revoked"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to the investigator's research or actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "leading the investigators into danger, or they check out the book they are searching for (or simply tear out the pages in question)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Listen skill measure?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability of an investigator to interpret and understand sound."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a Keeper use the Listen skill to determine?"
+      },
+      {
+        "role": "assistant",
+        "content": "The course of an impending encounter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can Listen be opposed by an opposing skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stealth when someone is creeping up on you."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty for hearing something approaching?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Stealth skill of below 50."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty for hearing something creep up on you?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Stealth skill of 50 to 89."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a 'thing' catches you unawares?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are surprised."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "He or she becomes overly sensitive to all sounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll, and is insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "He or she becomes overly sensitive to all sounds and is unable to operate without earplugs or similar."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a situation where a person might fail a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "An embarrassing predicament."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if you are caught trying to eavesdrop?"
+      },
+      {
+        "role": "assistant",
+        "content": "You find yourself in a very embarrassing predicament."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

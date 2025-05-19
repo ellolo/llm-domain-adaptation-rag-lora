@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines the rules for Melee Combat and Fighting Maneuvers in a game, specifically detailing the procedures for resolving conflicts and determining the success of attacks and maneuvers. The rules emphasize the importance of skill rolls, initiative, and the intentions of the characters involved in the combat. The document also provides guidelines for resolving specific scenarios, such as surprise attacks, fighting back, and disarming opponents. Additionally, it outlines the rules for determining damage and the success of attacks, including the use of Extreme levels of success and penalty dice.",
+  "qa_pairs": [
+    {
+      "question": "What determines the order of attack in Melee Combat?",
+      "answer": "DEX order",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the result of a 1D100 roll is higher than the skill or over 95?",
+      "answer": "Add 1D10 skill points",
+      "rating": 8
+    },
+    {
+      "question": "How much is added to the investigator's Sanity points if an increase raises a skill to 90% or more?",
+      "answer": "2D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of the Credit Rating and financial review?",
+      "answer": "To review finances and check Credit Rating",
+      "rating": 7
+    },
+    {
+      "question": "Where can the investigator's background be reviewed?",
+      "answer": "Altering an Investigator\u2019s Background, page 95",
+      "rating": 8
+    },
+    {
+      "question": "What determines whether the target anticipates the attack?",
+      "answer": "A skill roll using Spot Hidden, Listen, or Psychology.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the target anticipates the attack?",
+      "answer": "The attack automatically hits or gains a bonus die.",
+      "rating": 9
+    },
+    {
+      "question": "How many actions can each character make in a combat round?",
+      "answer": "One action.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the intention of an action?",
+      "answer": "Is the intention to cause damage, dodge, or perform a maneuver?",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of a character's Dodge skill?",
+      "answer": "To oppose the attacker's Fighting skill when dodging.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the target chooses to fight back?",
+      "answer": "Use the target's Fighting skill to oppose the attacker's Fighting skill.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the target chooses to dodge?",
+      "answer": "Use the target's Dodge skill to oppose the attacker's Fighting skill.",
+      "rating": 8
+    },
+    {
+      "question": "What to refer to if the target is neither fighting back nor dodging?",
+      "answer": "Striking the first blow (Surprise Attacks) on page 106.",
+      "rating": 7
+    },
+    {
+      "question": "How to determine success in an attack?",
+      "answer": "Determine who was successful, with the side with the better level of success avoiding harm and inflicting damage.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if both characters fail in a fight back scenario?",
+      "answer": "No damage is inflicted.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if both sides succeed in attacking each other?",
+      "answer": "No damage is inflicted.",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome if the attacker gains a higher level of success when attacking a dodging target?",
+      "answer": "The attack is successful and the attacker inflicts damage on the loser.",
+      "rating": 8
+    },
+    {
+      "question": "What is the rule for combat rolls?",
+      "answer": "Combat rolls cannot be pushed.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the attacker gains an Extreme level of success (not if fighting back) when attacking?",
+      "answer": "Greater damage is inflicted.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the attacker gains an Extreme level of success when fighting back?",
+      "answer": "This is not specified in the text.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if both the attacker and the defender fail?",
+      "answer": "No damage is inflicted.",
+      "rating": 9
+    },
+    {
+      "question": "Can combat rolls be pushed?",
+      "answer": "No, combat rolls cannot be pushed.",
+      "rating": 9
+    },
+    {
+      "question": "How is damage rolled for successful attacks?",
+      "answer": "Roll damage for successful attacks (see Table XVII: Weapons, page 401-406, or 1D3 for unarmed human attack).",
+      "rating": 8
+    },
+    {
+      "question": "How does the maximum damage for an impaling weapon differ from a non-impaling weapon?",
+      "answer": "Maximum damage plus maximum damage bonus plus roll weapon damage for impaling, and maximum damage plus maximum damage bonus for non-impaling.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the order of attack in Melee Combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX order"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the result of a 1D100 roll is higher than the skill or over 95?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add 1D10 skill points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is added to the investigator's Sanity points if an increase raises a skill to 90% or more?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Credit Rating and financial review?"
+      },
+      {
+        "role": "assistant",
+        "content": "To review finances and check Credit Rating"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can the investigator's background be reviewed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Altering an Investigator\u2019s Background, page 95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines whether the target anticipates the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skill roll using Spot Hidden, Listen, or Psychology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target anticipates the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attack automatically hits or gains a bonus die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many actions can each character make in a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the intention of an action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Is the intention to cause damage, dodge, or perform a maneuver?"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a character's Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "To oppose the attacker's Fighting skill when dodging."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target chooses to fight back?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use the target's Fighting skill to oppose the attacker's Fighting skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target chooses to dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use the target's Dodge skill to oppose the attacker's Fighting skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What to refer to if the target is neither fighting back nor dodging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Striking the first blow (Surprise Attacks) on page 106."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to determine success in an attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Determine who was successful, with the side with the better level of success avoiding harm and inflicting damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both characters fail in a fight back scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage is inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both sides succeed in attacking each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage is inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if the attacker gains a higher level of success when attacking a dodging target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attack is successful and the attacker inflicts damage on the loser."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for combat rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Combat rolls cannot be pushed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the attacker gains an Extreme level of success (not if fighting back) when attacking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Greater damage is inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the attacker gains an Extreme level of success when fighting back?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is not specified in the text."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both the attacker and the defender fail?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage is inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can combat rolls be pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, combat rolls cannot be pushed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is damage rolled for successful attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll damage for successful attacks (see Table XVII: Weapons, page 401-406, or 1D3 for unarmed human attack)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the maximum damage for an impaling weapon differ from a non-impaling weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maximum damage plus maximum damage bonus plus roll weapon damage for impaling, and maximum damage plus maximum damage bonus for non-impaling."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.2
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nBastet, also known as Bast, is the goddess of cats in ancient Egyptian mythology. She is often depicted with a sistrum, a lion's head, and a small bag, and is associated with the cult of Bubastis. As a goddess, Bast rarely takes action, but can summon felines to aid her or personally intervene if someone is cruel to cats. In the game, Bast is a powerful character with high strength, power, and attack values, and can heal damage to herself or a cat by expending magic points. Her cult may have survived in secret in England, with rumors of rural villages holding stories about cats being the familiar of witches and warlocks.",
+  "qa_pairs": [
+    {
+      "question": "What is Bastet often shown with in ancient Egypt?",
+      "answer": "a sistrum in her right hand, an aegis surmounted with a lion's head in her left hand, and a small bag slung over her left arm.",
+      "rating": 9
+    },
+    {
+      "question": "Where did Bast's cult eventually come to major cities, including?",
+      "answer": "Pompeii",
+      "rating": 8
+    },
+    {
+      "question": "What role does Bastet play in the Dreamlands?",
+      "answer": "a lioness war goddess",
+      "rating": 9
+    },
+    {
+      "question": "What is unique about Bastet's worship among humans?",
+      "answer": "it seems not to have survived among humans, except in the Dreamlands",
+      "rating": 8
+    },
+    {
+      "question": "What is Bast's primary domain?",
+      "answer": "Cats",
+      "rating": 9
+    },
+    {
+      "question": "How does Bast heal damage to herself or a cat?",
+      "answer": "By expending one magic point per point of damage",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus of Bast's attacks?",
+      "answer": "+3D6",
+      "rating": 9
+    },
+    {
+      "question": "What is Bast's current health point total?",
+      "answer": "18",
+      "rating": 7
+    },
+    {
+      "question": "What type of felines does Bast always appear with?",
+      "answer": "large, sleek felines\u2014mostly house cats, but including at least one lioness, tigress, or other big cat.",
+      "rating": 9
+    },
+    {
+      "question": "Can Bast summon any number of cats?",
+      "answer": "no, but she can summon any number of cats, but they must travel normally to her.",
+      "rating": 8
+    },
+    {
+      "question": "How does Bast heal damage to herself or to a cat?",
+      "answer": "by expending one magic point per point of damage.",
+      "rating": 9
+    },
+    {
+      "question": "What is Bast's damage bonus?",
+      "answer": "+3D6",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points does Bast have?",
+      "answer": "30",
+      "rating": 9
+    },
+    {
+      "question": "What is Bast's damage bonus?",
+      "answer": "+3D6",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks does Bast have per round?",
+      "answer": "3",
+      "rating": 9
+    },
+    {
+      "question": "What is Bast's damage per attack?",
+      "answer": "1D8 + damage bonus",
+      "rating": 9
+    },
+    {
+      "question": "What happens to wounds inflicted by the attacker?",
+      "answer": "They do not heal until treated by magic, or by a successful First Aid or Medicine roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt by the attacker in a 100% fight?",
+      "answer": "1D8 + damage bonus.",
+      "rating": 8
+    },
+    {
+      "question": "What type of spells can be used by the attacker?",
+      "answer": "Whatever spells the Keeper wishes.",
+      "rating": 7
+    },
+    {
+      "question": "What is the current status of the Bast cult in England?",
+      "answer": "It is believed that a few individuals escaped with their lives, rituals, and devotions, and whether the cult still exists remains conjecture.",
+      "rating": 9
+    },
+    {
+      "question": "What was the primary method of recruitment for the cult?",
+      "answer": "Working in secret and recruiting those with a natural affinity with cats.",
+      "rating": 8
+    },
+    {
+      "question": "What is believed to have happened to the cult?",
+      "answer": "It is believed the cult learned its lesson and remained underground, fearful of another purge.",
+      "rating": 8
+    },
+    {
+      "question": "Where were some stories concerning cats and witches/warlocks said to originate?",
+      "answer": "certain rural villages in the west of England",
+      "rating": 7
+    },
+    {
+      "question": "What was the appearance of the creature Chaugnar Faugn?",
+      "answer": "The ears were webbed and tentacled, the trunk terminated in a huge flaring disk at least a foot in diameter\u2026Its forelimbs were bent stiffly at the elbow, and its hands\u2014it had human hands\u2014rested palms upward.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bastet often shown with in ancient Egypt?"
+      },
+      {
+        "role": "assistant",
+        "content": "a sistrum in her right hand, an aegis surmounted with a lion's head in her left hand, and a small bag slung over her left arm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where did Bast's cult eventually come to major cities, including?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pompeii"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role does Bastet play in the Dreamlands?"
+      },
+      {
+        "role": "assistant",
+        "content": "a lioness war goddess"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about Bastet's worship among humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "it seems not to have survived among humans, except in the Dreamlands"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bast's primary domain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cats"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Bast heal damage to herself or a cat?"
+      },
+      {
+        "role": "assistant",
+        "content": "By expending one magic point per point of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of Bast's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bast's current health point total?"
+      },
+      {
+        "role": "assistant",
+        "content": "18"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of felines does Bast always appear with?"
+      },
+      {
+        "role": "assistant",
+        "content": "large, sleek felines\u2014mostly house cats, but including at least one lioness, tigress, or other big cat."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Bast summon any number of cats?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, but she can summon any number of cats, but they must travel normally to her."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Bast heal damage to herself or to a cat?"
+      },
+      {
+        "role": "assistant",
+        "content": "by expending one magic point per point of damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bast's damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points does Bast have?"
+      },
+      {
+        "role": "assistant",
+        "content": "30"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bast's damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does Bast have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bast's damage per attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to wounds inflicted by the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "They do not heal until treated by magic, or by a successful First Aid or Medicine roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the attacker in a 100% fight?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 + damage bonus."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of spells can be used by the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whatever spells the Keeper wishes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of the Bast cult in England?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is believed that a few individuals escaped with their lives, rituals, and devotions, and whether the cult still exists remains conjecture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the primary method of recruitment for the cult?"
+      },
+      {
+        "role": "assistant",
+        "content": "Working in secret and recruiting those with a natural affinity with cats."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is believed to have happened to the cult?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is believed the cult learned its lesson and remained underground, fearful of another purge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where were some stories concerning cats and witches/warlocks said to originate?"
+      },
+      {
+        "role": "assistant",
+        "content": "certain rural villages in the west of England"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the appearance of the creature Chaugnar Faugn?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ears were webbed and tentacled, the trunk terminated in a huge flaring disk at least a foot in diameter\u2026Its forelimbs were bent stiffly at the elbow, and its hands\u2014it had human hands\u2014rested palms upward."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

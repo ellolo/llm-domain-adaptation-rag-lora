@@ -1,0 +1,222 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document outlines two skills: Sleight of Hand and Spot Hidden, which are used by investigators to conceal and reveal objects, respectively. Sleight of Hand involves covering up or masking objects, while Spot Hidden involves spotting hidden objects or clues. The difficulty level of these skills can be adjusted based on the size and complexity of the task, with larger objects requiring more difficulty. The skills are often used in a game or simulation to resolve conflicts or challenges, with consequences for failure, such as being caught or noticed by others.",
+  "qa_pairs": [
+    {
+      "question": "What is the difficulty level for items requiring 50% to 89% Spot Hidden skill?",
+      "answer": "Hard difficulty",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a hard difficulty trick?",
+      "answer": "setting up an elaborate rig inside one\u2019s jacket",
+      "rating": 9
+    },
+    {
+      "question": "What happens if an insane investigator fails a pushed roll?",
+      "answer": "They act like a kleptomaniac.",
+      "rating": 7
+    },
+    {
+      "question": "What is the Spot Hidden skill and its importance?",
+      "answer": "This skill allows the user to spot a secret door or compartment, notice a hidden intruder, find an inconspicuous clue, recognize a repainted automobile, become aware of ambushers, notice a bulging pocket, or anything similar. This is an important skill in the armory of an investigator.",
+      "rating": 9
+    },
+    {
+      "question": "What is the consequence of stealing a priceless diamond?",
+      "answer": "You begin to notice that for the last week you have been tailed by a mysterious dark figure, and you're caught red-handed.",
+      "rating": 8
+    },
+    {
+      "question": "What is the punishment for being caught stealing a priceless diamond?",
+      "answer": "You're taken out back and shown the business end of a couple of baseball bats.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if a character spots something briefly?",
+      "answer": "The Keeper may raise the level of difficulty.",
+      "rating": 8
+    },
+    {
+      "question": "How does the Keeper adapt the difficulty level?",
+      "answer": "The difficulty level might be adapted to reflect the environment.",
+      "rating": 9
+    },
+    {
+      "question": "What skill is used to set the difficulty level when searching for a character who is hiding?",
+      "answer": "The opponent\u2019s Stealth skill.",
+      "rating": 7
+    },
+    {
+      "question": "What can increase the difficulty level during a search for something that has been well hidden?",
+      "answer": "Taking more time to observe the area, pulling the place apart, dismantling the furniture and smashing the porcelain statuettes.",
+      "rating": 10
+    },
+    {
+      "question": "What are the consequences of failing a Pushed roll?",
+      "answer": "inadver-tently drop something of your own while searching",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for items requiring 50% to 89% Spot Hidden skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a hard difficulty trick?"
+      },
+      {
+        "role": "assistant",
+        "content": "setting up an elaborate rig inside one\u2019s jacket"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They act like a kleptomaniac."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Spot Hidden skill and its importance?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill allows the user to spot a secret door or compartment, notice a hidden intruder, find an inconspicuous clue, recognize a repainted automobile, become aware of ambushers, notice a bulging pocket, or anything similar. This is an important skill in the armory of an investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of stealing a priceless diamond?"
+      },
+      {
+        "role": "assistant",
+        "content": "You begin to notice that for the last week you have been tailed by a mysterious dark figure, and you're caught red-handed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the punishment for being caught stealing a priceless diamond?"
+      },
+      {
+        "role": "assistant",
+        "content": "You're taken out back and shown the business end of a couple of baseball bats."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character spots something briefly?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may raise the level of difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper adapt the difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level might be adapted to reflect the environment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to set the difficulty level when searching for a character who is hiding?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opponent\u2019s Stealth skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can increase the difficulty level during a search for something that has been well hidden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking more time to observe the area, pulling the place apart, dismantling the furniture and smashing the porcelain statuettes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "inadver-tently drop something of your own while searching"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 11,
+    "retention_rate": 0.46,
+    "avg_score": 4.7
+  }
+}

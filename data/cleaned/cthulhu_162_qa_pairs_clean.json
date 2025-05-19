@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, the Cthulhu Mythos has a corrupting influence on investigators, lowering their maximum Sanity points. Insanity is induced by traumatic experiences and the ghastly comprehension of the Mythos, leading to three states of insanity: temporary, indefinite, and permanent. The duration of insanity depends on the number of Sanity points lost, with temporary insanity requiring a successful Intelligence (INT) roll to recover. The document outlines the point costs for various Sanity-related events, which can contribute to the development of insanity in investigators.",
+  "qa_pairs": [
+    {
+      "question": "What affects an investigator's maximum Sanity points?",
+      "answer": "Knowledge of the Cthulhu Mythos always lowers an investigator\u2019s maximum Sanity points.",
+      "rating": 10
+    },
+    {
+      "question": "How does a player decrease an investigator's maximum Sanity points?",
+      "answer": "By decreasing the investigator\u2019s maximum Sanity by the same amount when gaining Cthulhu Mythos skill points.",
+      "rating": 9
+    },
+    {
+      "question": "How much does Harvey Walters' Cthulhu Mythos skill increase?",
+      "answer": "3% Cthulhu Mythos skill.",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey Walters' initial maximum Sanity points?",
+      "answer": "99",
+      "rating": 7
+    },
+    {
+      "question": "What is the formula to calculate Maximum Sanity points?",
+      "answer": "Maximum Sanity points equal 99 minus current Cthulhu Mythos points",
+      "rating": 6
+    },
+    {
+      "question": "How did Harvey Walters' Cthulhu Mythos skill change?",
+      "answer": "Harvey Walters gained 3% Cthulhu Mythos skill",
+      "rating": 8
+    },
+    {
+      "question": "How did Harvey Walters' maximum Sanity change?",
+      "answer": "His maximum Sanity decreased from 99 to 96",
+      "rating": 9
+    },
+    {
+      "question": "How did the narrator feel about his impressions?",
+      "answer": "His impressions are scarcely to be relied on, and he has a desperate hope they are part of a daemonic dream or illusion",
+      "rating": 10
+    },
+    {
+      "question": "What changes to Harvey\u2019s Cthulhu Mythos skill and Sanity in the game?",
+      "answer": "Adds 3 points to Harvey\u2019s Cthulhu Mythos skill and decreases his maximum Sanity from 99 to 96.",
+      "rating": 9
+    },
+    {
+      "question": "How is insanity induced in Call of Cthulhu?",
+      "answer": "By traumatic experiences and the ghastly comprehension that connects to the Cthulhu Mythos.",
+      "rating": 8
+    },
+    {
+      "question": "How many distinct game phases are there in the insanity states?",
+      "answer": "Three: temporary, indefinite, and permanent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of losing Sanity points in Call of Cthulhu?",
+      "answer": "Induces temporary, indefinite, or permanent insanity.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cause of insanity in Call of Cthulhu?",
+      "answer": "Traumatic experiences and the ghastly comprehension that connects to the Cthulhu Mythos",
+      "rating": 7
+    },
+    {
+      "question": "How many distinct game phases can result in insanity?",
+      "answer": "Three",
+      "rating": 8
+    },
+    {
+      "question": "What are the three states of insanity?",
+      "answer": "temporary, indefinite, and permanent",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the player\u2019s control during the first phase?",
+      "answer": "it is compromised",
+      "rating": 6
+    },
+    {
+      "question": "What happens if an investigator loses 5 or more Sanity points as the result of one Sanity roll?",
+      "answer": "The Keeper must test the investigator\u2019s sanity.",
+      "rating": 8
+    },
+    {
+      "question": "What is the required roll for the Keeper to test the investigator\u2019s sanity?",
+      "answer": "An Intelligence (INT) roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the point cost for seeing a ghoul?",
+      "answer": "1/1D6+1",
+      "rating": 7
+    },
+    {
+      "question": "What is the required roll for the Keeper to test the investigator\u2019s sanity in case of seeing a corpse rise from its grave?",
+      "answer": "0/1D10",
+      "rating": 8
+    },
+    {
+      "question": "What triggered the investigator's sanity test?",
+      "answer": "See gigantic severed head fall from sky.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the investigator's INT roll succeeds?",
+      "answer": "Perversely, if the INT roll succeeds, the investigator recognizes the",
+      "rating": 8
+    },
+    {
+      "question": "What is the penalty for failing the sanity test?",
+      "answer": "chapter 8: sanity failed, the investigator has repressed the memory (a trick the mind uses to protect itself), and does not become insane.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship between the investigator's INT roll and the sanity test?",
+      "answer": "Perversely, if the INT roll succeeds, the investigator recognizes the",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What affects an investigator's maximum Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Knowledge of the Cthulhu Mythos always lowers an investigator\u2019s maximum Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a player decrease an investigator's maximum Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "By decreasing the investigator\u2019s maximum Sanity by the same amount when gaining Cthulhu Mythos skill points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does Harvey Walters' Cthulhu Mythos skill increase?"
+      },
+      {
+        "role": "assistant",
+        "content": "3% Cthulhu Mythos skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey Walters' initial maximum Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the formula to calculate Maximum Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maximum Sanity points equal 99 minus current Cthulhu Mythos points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Harvey Walters' Cthulhu Mythos skill change?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey Walters gained 3% Cthulhu Mythos skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Harvey Walters' maximum Sanity change?"
+      },
+      {
+        "role": "assistant",
+        "content": "His maximum Sanity decreased from 99 to 96"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the narrator feel about his impressions?"
+      },
+      {
+        "role": "assistant",
+        "content": "His impressions are scarcely to be relied on, and he has a desperate hope they are part of a daemonic dream or illusion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What changes to Harvey\u2019s Cthulhu Mythos skill and Sanity in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Adds 3 points to Harvey\u2019s Cthulhu Mythos skill and decreases his maximum Sanity from 99 to 96."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is insanity induced in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "By traumatic experiences and the ghastly comprehension that connects to the Cthulhu Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many distinct game phases are there in the insanity states?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three: temporary, indefinite, and permanent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of losing Sanity points in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Induces temporary, indefinite, or permanent insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cause of insanity in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Traumatic experiences and the ghastly comprehension that connects to the Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many distinct game phases can result in insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three states of insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "temporary, indefinite, and permanent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the player\u2019s control during the first phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "it is compromised"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator loses 5 or more Sanity points as the result of one Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper must test the investigator\u2019s sanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required roll for the Keeper to test the investigator\u2019s sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Intelligence (INT) roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the point cost for seeing a ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D6+1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required roll for the Keeper to test the investigator\u2019s sanity in case of seeing a corpse rise from its grave?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What triggered the investigator's sanity test?"
+      },
+      {
+        "role": "assistant",
+        "content": "See gigantic severed head fall from sky."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the investigator's INT roll succeeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perversely, if the INT roll succeeds, the investigator recognizes the"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for failing the sanity test?"
+      },
+      {
+        "role": "assistant",
+        "content": "chapter 8: sanity failed, the investigator has repressed the memory (a trick the mind uses to protect itself), and does not become insane."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between the investigator's INT roll and the sanity test?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perversely, if the INT roll succeeds, the investigator recognizes the"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

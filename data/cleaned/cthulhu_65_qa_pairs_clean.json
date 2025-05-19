@@ -1,0 +1,374 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the topic of \"Pushing\" is discussed, which refers to a skill used by investigators to intimidate or coerce individuals into revealing information or complying with their demands. Pushing involves taking extreme measures, such as physical harm or threats, to achieve the desired outcome. The consequences of failing a Pushed roll can be severe, including physical harm to the investigator or the target, mental trauma, or even possession by a malevolent entity. The skill of Pushing is opposed by skills such as Psychology, Charm, and Persuade, and requires a high level of difficulty and risk.",
+  "qa_pairs": [
+    {
+      "question": "How many hypnotherapy sessions are needed to fully cure someone of a phobia?",
+      "answer": "minimum of 1D6 sessions",
+      "rating": 8
+    },
+    {
+      "question": "What is an opposing skill/Difficulty level to Hypnosis?",
+      "answer": "Psychology or POW for an unwilling subject",
+      "rating": 9
+    },
+    {
+      "question": "What is intimidation used for?",
+      "answer": "Intimidation is used to frighten or compel a person to act in a certain way.",
+      "rating": 7
+    },
+    {
+      "question": "What is a possible consequence of failure in Intimidation?",
+      "answer": "Carrying out one\u2019s threat, perhaps beyond the level of that which was intended.",
+      "rating": 8
+    },
+    {
+      "question": "What is a possible consequence of failure in an Intimidation roll?",
+      "answer": "Carrying out one's threat, perhaps beyond the level of that which was intended.",
+      "rating": 8
+    },
+    {
+      "question": "What can be achieved with a successful Intimidation roll?",
+      "answer": "The seller may reduce the price, or hand the item over free of charge.",
+      "rating": 6
+    },
+    {
+      "question": "What is an opposing skill to Intimidate?",
+      "answer": "Charm",
+      "rating": 9
+    },
+    {
+      "question": "What is a possible consequence of failing an Intimidation roll?",
+      "answer": "Carrying out one's threat, perhaps beyond the level of that which was intended.",
+      "rating": 8
+    },
+    {
+      "question": "What can a successful Intimidation roll result in?",
+      "answer": "The seller may reduce the price, or hand the item over free of charge.",
+      "rating": 9
+    },
+    {
+      "question": "How may a successful Intimidation roll be reported?",
+      "answer": "To the police or to members of the local organized crime gang.",
+      "rating": 7
+    },
+    {
+      "question": "What constitutes a Pushed roll in this context?",
+      "answer": "Switching from one skill to another to gain a second roll, such as switching from Intimidation to Charm or Persuade.",
+      "rating": 8
+    },
+    {
+      "question": "What is a Pushed roll in Intimidation?",
+      "answer": "Switching from one skill to another to gain a second roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is a consequence of failing a Pushed roll?",
+      "answer": "Accidentally pulling the trigger of the gun you're waving in the target's face",
+      "rating": 8
+    },
+    {
+      "question": "What is a consequence of failing a Pushed roll?",
+      "answer": "The target's mind snaps, resulting in violence or inane babbling",
+      "rating": 9
+    },
+    {
+      "question": "What is a consequence of failing a Pushed roll?",
+      "answer": "The target laughs in your face and won't break no matter what you do",
+      "rating": 8
+    },
+    {
+      "question": "What does a Pushed roll involve?",
+      "answer": "Taking things to the limit, which could involve days of interrogation or an ultimatum with a gun to the head.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if an insane investigator fails a Pushed roll?",
+      "answer": "He or she becomes intensely fearful of the target and does their bidding.",
+      "rating": 8
+    },
+    {
+      "question": "What is the success rate of the Jump action?",
+      "answer": "20%",
+      "rating": 7
+    },
+    {
+      "question": "Can Jump be used to lessen fall damage?",
+      "answer": "Yes, when falling.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hypnotherapy sessions are needed to fully cure someone of a phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "minimum of 1D6 sessions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an opposing skill/Difficulty level to Hypnosis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychology or POW for an unwilling subject"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is intimidation used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Intimidation is used to frighten or compel a person to act in a certain way."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible consequence of failure in Intimidation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carrying out one\u2019s threat, perhaps beyond the level of that which was intended."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible consequence of failure in an Intimidation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carrying out one's threat, perhaps beyond the level of that which was intended."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be achieved with a successful Intimidation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seller may reduce the price, or hand the item over free of charge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an opposing skill to Intimidate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charm"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible consequence of failing an Intimidation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carrying out one's threat, perhaps beyond the level of that which was intended."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a successful Intimidation roll result in?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seller may reduce the price, or hand the item over free of charge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How may a successful Intimidation roll be reported?"
+      },
+      {
+        "role": "assistant",
+        "content": "To the police or to members of the local organized crime gang."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What constitutes a Pushed roll in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Switching from one skill to another to gain a second roll, such as switching from Intimidation to Charm or Persuade."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll in Intimidation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Switching from one skill to another to gain a second roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a consequence of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Accidentally pulling the trigger of the gun you're waving in the target's face"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a consequence of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's mind snaps, resulting in violence or inane babbling"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a consequence of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target laughs in your face and won't break no matter what you do"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a Pushed roll involve?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking things to the limit, which could involve days of interrogation or an ultimatum with a gun to the head."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "He or she becomes intensely fearful of the target and does their bidding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the success rate of the Jump action?"
+      },
+      {
+        "role": "assistant",
+        "content": "20%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Jump be used to lessen fall damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, when falling."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 19,
+    "retention_rate": 0.95,
+    "avg_score": 7.9
+  }
+}

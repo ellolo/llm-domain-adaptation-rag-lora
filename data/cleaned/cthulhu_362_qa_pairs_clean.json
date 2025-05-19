@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu universe, the Star Spawn of Cthulhu and Star Vampires are powerful, otherworldly beings that serve as minions of the Great Old One, Cthulhu. These entities are capable of immense destruction, with the Star Spawn possessing magical powers and the ability to regenerate from injuries. They are normally invisible, but can be summoned and controlled by powerful wizards, and their presence is often signaled by a ghoulish tittering sound. The Star Spawn are also capable of feeding on human blood, which can reveal their presence and make them visible for a short time.",
+  "qa_pairs": [
+    {
+      "question": "What percentage of a Keeper's desired level is required to witness a shoggoth lord change from human to shoggoth form?",
+      "answer": "1/1D20",
+      "rating": 8
+    },
+    {
+      "question": "How many 3D6 spells do each Star Spawn of Cthulhu know?",
+      "answer": "3D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the habitat of some of R'lyeh's inhabitants?",
+      "answer": "the deep trenches beneath the ocean",
+      "rating": 7
+    },
+    {
+      "question": "What is the average damage bonus for a star-spawn?",
+      "answer": "+10D6",
+      "rating": 6
+    },
+    {
+      "question": "What is the percentage of attacks that have a chance to dodge?",
+      "answer": "26%",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks can a star-spawn make per round?",
+      "answer": "4",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the star that a star-spawn near is associated with?",
+      "answer": "Aldebaran",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a star-spawn?",
+      "answer": "+10D6",
+      "rating": 6
+    },
+    {
+      "question": "What does the 'shambler from the stars' appear as after feeding?",
+      "answer": "a scarlet blob with myriad tentacular trunks",
+      "rating": 9
+    },
+    {
+      "question": "How are the loathsome things normally signaled?",
+      "answer": "by a sort of ghoulish tittering sound",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the loathsome things after feeding?",
+      "answer": "they become visible through the blood they drink",
+      "rating": 9
+    },
+    {
+      "question": "What can be summoned from the depths of space?",
+      "answer": "some can be controlled to serve powerful wizards or other beings",
+      "rating": 8
+    },
+    {
+      "question": "What do star vampires normally do before they are visible?",
+      "answer": "They become invisible, their presence signaled only by a sort of ghoulish tittering sound.",
+      "rating": 7
+    },
+    {
+      "question": "How long do star vampires remain visible after feeding?",
+      "answer": "For six rounds.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the blood star vampires drink?",
+      "answer": "It metabolizes into a transparent equivalent.",
+      "rating": 8
+    },
+    {
+      "question": "Can star vampires be controlled by powerful wizards or other beings?",
+      "answer": "Yes, they can be controlled to serve powerful wizards or other beings.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to star vampires after feeding?",
+      "answer": "They remain visible for six rounds",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect on attackers if they target a star vampire?",
+      "answer": "They suffer a penalty die to hit",
+      "rating": 9
+    },
+    {
+      "question": "How long does the blood metabolize after feeding?",
+      "answer": "Into a transparent equivalent",
+      "rating": 7
+    },
+    {
+      "question": "Can star vampires be attacked while they are visible?",
+      "answer": "Yes, attacks can be made at a normal chance to hit",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of a Keeper's desired level is required to witness a shoggoth lord change from human to shoggoth form?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many 3D6 spells do each Star Spawn of Cthulhu know?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the habitat of some of R'lyeh's inhabitants?"
+      },
+      {
+        "role": "assistant",
+        "content": "the deep trenches beneath the ocean"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a star-spawn?"
+      },
+      {
+        "role": "assistant",
+        "content": "+10D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of attacks that have a chance to dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "26%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a star-spawn make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the star that a star-spawn near is associated with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aldebaran"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a star-spawn?"
+      },
+      {
+        "role": "assistant",
+        "content": "+10D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the 'shambler from the stars' appear as after feeding?"
+      },
+      {
+        "role": "assistant",
+        "content": "a scarlet blob with myriad tentacular trunks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are the loathsome things normally signaled?"
+      },
+      {
+        "role": "assistant",
+        "content": "by a sort of ghoulish tittering sound"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the loathsome things after feeding?"
+      },
+      {
+        "role": "assistant",
+        "content": "they become visible through the blood they drink"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be summoned from the depths of space?"
+      },
+      {
+        "role": "assistant",
+        "content": "some can be controlled to serve powerful wizards or other beings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do star vampires normally do before they are visible?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become invisible, their presence signaled only by a sort of ghoulish tittering sound."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long do star vampires remain visible after feeding?"
+      },
+      {
+        "role": "assistant",
+        "content": "For six rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the blood star vampires drink?"
+      },
+      {
+        "role": "assistant",
+        "content": "It metabolizes into a transparent equivalent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can star vampires be controlled by powerful wizards or other beings?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can be controlled to serve powerful wizards or other beings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to star vampires after feeding?"
+      },
+      {
+        "role": "assistant",
+        "content": "They remain visible for six rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect on attackers if they target a star vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "They suffer a penalty die to hit"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the blood metabolize after feeding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Into a transparent equivalent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can star vampires be attacked while they are visible?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, attacks can be made at a normal chance to hit"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.0
+  }
+}

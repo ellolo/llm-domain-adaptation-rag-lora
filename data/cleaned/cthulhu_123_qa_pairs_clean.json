@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the rules for resolving combat attacks in a tabletop role-playing game. The rules cover various aspects of combat, including aiming, shooting, and reloading firearms, as well as the mechanics of resolving attack rolls and dealing damage. The document also introduces a system for tracking penalty dice and adjusting difficulty levels based on the number of attacks made. Additionally, it provides guidelines for resolving attacks, including the probability of hitting a target and the amount of damage dealt. The rules aim to create a more realistic and immersive combat experience for players.",
+  "qa_pairs": [
+    {
+      "question": "What can Harvey see in the room before he checks if the creature is dead?",
+      "answer": "Two more creatures lurking in the shadows at the far side of the room.",
+      "rating": 9
+    },
+    {
+      "question": "What is Harvey doing before firing on the creature?",
+      "answer": "Spending a round aiming",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level of Harvey's shot on the creature?",
+      "answer": "Regular",
+      "rating": 7
+    },
+    {
+      "question": "Why does Harvey choose to shoot through the table?",
+      "answer": "Because the table is flimsy and the nearest creature is mostly concealed by it.",
+      "rating": 9
+    },
+    {
+      "question": "What is the range of the shot for Harvey?",
+      "answer": "around 20 feet",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level of the shot for Harvey?",
+      "answer": "Regular",
+      "rating": 7
+    },
+    {
+      "question": "What damage is dealt by the shot?",
+      "answer": "5 points of damage",
+      "rating": 8
+    },
+    {
+      "question": "How many shots can Harvey take?",
+      "answer": "six",
+      "rating": 9
+    },
+    {
+      "question": "How many shots has Harvey taken so far?",
+      "answer": "six",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of Harvey's shot in round six?",
+      "answer": "40 yards",
+      "rating": 9
+    },
+    {
+      "question": "Why is a penalty die added to Harvey's roll?",
+      "answer": "Because Harvey is loading and firing a shot on the same round.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the remaining creature after the attack?",
+      "answer": "The remaining creature escapes unharmed.",
+      "rating": 9
+    },
+    {
+      "question": "How does the penalty die change for multiple attack rolls?",
+      "answer": "Add one penalty die (or remove a bonus die) for each additional attack roll.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the penalty dice total three?",
+      "answer": "Stick with two penalty dice and raise the difficulty level by one step.",
+      "rating": 8
+    },
+    {
+      "question": "What is the final damage dealt by a critical at very long range?",
+      "answer": "1D10 + 10",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the remaining creature after a critical attack?",
+      "answer": "It escapes unharmed",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for ammunition to be expended?",
+      "answer": "When moving between targets, one bullet per meter/yard.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to shots that hit the target in a successful attack roll?",
+      "answer": "Half of the shots fired hit the target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome when an attack roll is an Extreme success?",
+      "answer": "All shots fired hit the target.",
+      "rating": 10
+    },
+    {
+      "question": "What happens to the shots hit by an Extreme success?",
+      "answer": "The first half of the shots hit the target.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can Harvey see in the room before he checks if the creature is dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two more creatures lurking in the shadows at the far side of the room."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey doing before firing on the creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spending a round aiming"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of Harvey's shot on the creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does Harvey choose to shoot through the table?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the table is flimsy and the nearest creature is mostly concealed by it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the shot for Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "around 20 feet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of the shot for Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What damage is dealt by the shot?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many shots can Harvey take?"
+      },
+      {
+        "role": "assistant",
+        "content": "six"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many shots has Harvey taken so far?"
+      },
+      {
+        "role": "assistant",
+        "content": "six"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of Harvey's shot in round six?"
+      },
+      {
+        "role": "assistant",
+        "content": "40 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is a penalty die added to Harvey's roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because Harvey is loading and firing a shot on the same round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the remaining creature after the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The remaining creature escapes unharmed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the penalty die change for multiple attack rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add one penalty die (or remove a bonus die) for each additional attack roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the penalty dice total three?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stick with two penalty dice and raise the difficulty level by one step."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the final damage dealt by a critical at very long range?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 + 10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the remaining creature after a critical attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "It escapes unharmed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for ammunition to be expended?"
+      },
+      {
+        "role": "assistant",
+        "content": "When moving between targets, one bullet per meter/yard."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to shots that hit the target in a successful attack roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half of the shots fired hit the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when an attack roll is an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "All shots fired hit the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the shots hit by an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "The first half of the shots hit the target."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

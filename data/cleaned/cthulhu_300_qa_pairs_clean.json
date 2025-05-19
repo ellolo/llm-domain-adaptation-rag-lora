@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document describes three spells from the Mythos system: \"Dust of Seeing\", \"Sigil of Banishment\", and \"Red Sign of Shudde M'ell\". The \"Dust of Seeing\" spell makes magical invisible things visible, while the \"Sigil of Banishment\" spell creates an ankh that can banish individual Mythos creatures. The \"Red Sign of Shudde M'ell\" spell is a more malevolent spell that causes victims to die horribly. These spells involve the use of magic points, Sanity points, and specific ingredients, and can have significant effects on the game world and its inhabitants.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of the spell on invisible things?",
+      "answer": "Makes visible magically invisible things",
+      "rating": 9
+    },
+    {
+      "question": "How long does the effect of the spell last?",
+      "answer": "No more than ten heartbeats",
+      "rating": 8
+    },
+    {
+      "question": "What determines the special ingredients in the powder?",
+      "answer": "The Keeper",
+      "rating": 7
+    },
+    {
+      "question": "How long does the thing that is dusted stay visible?",
+      "answer": "ten heartbeats",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the powder in the spell?",
+      "answer": "The powder makes things visible that would normally be invisible.",
+      "rating": 9
+    },
+    {
+      "question": "How long does the visibility from the powder last?",
+      "answer": "The visibility lasts for no more than ten heartbeats.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary function of the ankh created by the spell?",
+      "answer": "It can temporally or permanently banish individual Mythos creatures.",
+      "rating": 9
+    },
+    {
+      "question": "What must the object be made of to function properly?",
+      "answer": "An unalloyed metal\u2014pure copper, iron, silver, gold, or lead.",
+      "rating": 9
+    },
+    {
+      "question": "What is the required outcome for the spell to take effect?",
+      "answer": "The caster must succeed in an opposed POW roll with the target.",
+      "rating": 8
+    },
+    {
+      "question": "What is the bonus die the caster gains on the opposed POW roll if a certain number of magic points are spent?",
+      "answer": "A bonus die on the opposed POW roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition that increases the limitation of affecting beings of higher POW?",
+      "answer": "The caster may challenge a being with POW equal to his or hers plus 200.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the creature if the ankh-wielder and companions fail to dispel it?",
+      "answer": "It attacks the ankh-wielder first before turning its attention to others present.",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition for a caster to challenge a being of higher POW?",
+      "answer": "The caster may challenge a being with POW equal to his or hers plus 200.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a creature if the ankh-wielder and companions overcome it?",
+      "answer": "It is dispelled to its home plane.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the Sigil of Banishment spell on victims?",
+      "answer": "It causes one or several victims to die horribly.",
+      "rating": 6
+    },
+    {
+      "question": "How long does the Sigil of Banishment spell's effect last?",
+      "answer": "The effect lasts for one round after its creation.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the spell on invisible things?"
+      },
+      {
+        "role": "assistant",
+        "content": "Makes visible magically invisible things"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the effect of the spell last?"
+      },
+      {
+        "role": "assistant",
+        "content": "No more than ten heartbeats"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the special ingredients in the powder?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the thing that is dusted stay visible?"
+      },
+      {
+        "role": "assistant",
+        "content": "ten heartbeats"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the powder in the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The powder makes things visible that would normally be invisible."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the visibility from the powder last?"
+      },
+      {
+        "role": "assistant",
+        "content": "The visibility lasts for no more than ten heartbeats."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of the ankh created by the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can temporally or permanently banish individual Mythos creatures."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the object be made of to function properly?"
+      },
+      {
+        "role": "assistant",
+        "content": "An unalloyed metal\u2014pure copper, iron, silver, gold, or lead."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required outcome for the spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must succeed in an opposed POW roll with the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus die the caster gains on the opposed POW roll if a certain number of magic points are spent?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bonus die on the opposed POW roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that increases the limitation of affecting beings of higher POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster may challenge a being with POW equal to his or hers plus 200."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the creature if the ankh-wielder and companions fail to dispel it?"
+      },
+      {
+        "role": "assistant",
+        "content": "It attacks the ankh-wielder first before turning its attention to others present."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a caster to challenge a being of higher POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster may challenge a being with POW equal to his or hers plus 200."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a creature if the ankh-wielder and companions overcome it?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is dispelled to its home plane."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Sigil of Banishment spell on victims?"
+      },
+      {
+        "role": "assistant",
+        "content": "It causes one or several victims to die horribly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the Sigil of Banishment spell's effect last?"
+      },
+      {
+        "role": "assistant",
+        "content": "The effect lasts for one round after its creation."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 16,
+    "filtered": 16,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

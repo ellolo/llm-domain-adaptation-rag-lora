@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, magic casting can have unintended consequences, including physical damage and Sanity point loss. When a spell is cast, the Keeper can use a set of rules to determine the physical harm inflicted on the caster, such as damage to hit points or physical injuries. Additionally, the casting of a spell can also have a psychological impact, potentially leading to Sanity point loss and even insanity. The Keeper can use these rules to create a more immersive and realistic experience for the players.",
+  "qa_pairs": [
+    {
+      "question": "How many Magic points does Matthew owe after the explosion?",
+      "answer": "11",
+      "rating": 8
+    },
+    {
+      "question": "How many hit points does Matthew have left after the explosion?",
+      "answer": "2",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of the Sanity point loss to Matthew?",
+      "answer": "insanity",
+      "rating": 7
+    },
+    {
+      "question": "How many hit points does Matthew lose in one blow?",
+      "answer": "over half his hit points",
+      "rating": 6
+    },
+    {
+      "question": "What is the consequence of Matthew losing over half his hit points in one blow?",
+      "answer": "He must make a CON roll to remain conscious.",
+      "rating": 8
+    },
+    {
+      "question": "What will happen to Matthew's Sanity points after he recovers?",
+      "answer": "He will have resulted in insanity.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper's action after recovering from the spell's effects?",
+      "answer": "The Keeper amends two of his background entries, one for the wound and one for the insanity.",
+      "rating": 9
+    },
+    {
+      "question": "What is the consequence of the caster's unnatural aging?",
+      "answer": "The caster ages unnaturally (+2D10 years and apply characteristic modifiers, see Age, page 32).",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the Keeper loses hit points as a result of overspending Magic points?",
+      "answer": "The Keeper should narrate the physical harm as a part of the physical consequence of the casting.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the spell on the Keeper's Sanity point?",
+      "answer": "When he recovers, the Sanity point loss will have resulted in insanity.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the casting roll is pushed?",
+      "answer": "time for a Sanity roll!",
+      "rating": 7
+    },
+    {
+      "question": "What happens when the Keeper narrates the physical harm as a result of losing Magic points?",
+      "answer": "the physical harm is a part of the physical consequence of the casting.",
+      "rating": 8
+    },
+    {
+      "question": "What happens when a spell is cast in a way that its effects are noticeable?",
+      "answer": "one might spot a peculiar hand gesture or body movement, or notice some unusual item or necessary ingredient.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when Magic points are lost as a result of overspending?",
+      "answer": "hit points are lost as a result.",
+      "rating": 8
+    },
+    {
+      "question": "What are some effects of Mythos magic in the text?",
+      "answer": "wide-ranging effects including gouts of fire, lines of electrical force, pale nimbuses and auroras of various colors, and more",
+      "rating": 9
+    },
+    {
+      "question": "What should Keepers do to keep certain effects low-key?",
+      "answer": "Keepers should keep such effects low-key",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a wide-ranging effect of Mythos magic?",
+      "answer": "Call of Cthulhu-esque roars from beyond",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a prickly sensation caused by a Mythos magic effect?",
+      "answer": "prickly sensations",
+      "rating": 8
+    },
+    {
+      "question": "What is a disrupted spell casting?",
+      "answer": "A disrupted spell casting is when the casting of a spell is interrupted due to significant distraction.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a caster if they fail a pushed casting roll?",
+      "answer": "They must pay the Sanity point.",
+      "rating": 8
+    },
+    {
+      "question": "What is considered a significant distraction to a caster?",
+      "answer": "A caster can be significantly distracted by being physically struck or shot.",
+      "rating": 9
+    },
+    {
+      "question": "Who can consult the charts for the consequences of failing a pushed casting roll?",
+      "answer": "The Keeper can consult the charts for the consequences of failing a pushed casting roll.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Magic points does Matthew owe after the explosion?"
+      },
+      {
+        "role": "assistant",
+        "content": "11"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does Matthew have left after the explosion?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the Sanity point loss to Matthew?"
+      },
+      {
+        "role": "assistant",
+        "content": "insanity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does Matthew lose in one blow?"
+      },
+      {
+        "role": "assistant",
+        "content": "over half his hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of Matthew losing over half his hit points in one blow?"
+      },
+      {
+        "role": "assistant",
+        "content": "He must make a CON roll to remain conscious."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to Matthew's Sanity points after he recovers?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will have resulted in insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's action after recovering from the spell's effects?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper amends two of his background entries, one for the wound and one for the insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of the caster's unnatural aging?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster ages unnaturally (+2D10 years and apply characteristic modifiers, see Age, page 32)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Keeper loses hit points as a result of overspending Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should narrate the physical harm as a part of the physical consequence of the casting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the spell on the Keeper's Sanity point?"
+      },
+      {
+        "role": "assistant",
+        "content": "When he recovers, the Sanity point loss will have resulted in insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the casting roll is pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "time for a Sanity roll!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Keeper narrates the physical harm as a result of losing Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "the physical harm is a part of the physical consequence of the casting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a spell is cast in a way that its effects are noticeable?"
+      },
+      {
+        "role": "assistant",
+        "content": "one might spot a peculiar hand gesture or body movement, or notice some unusual item or necessary ingredient."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Magic points are lost as a result of overspending?"
+      },
+      {
+        "role": "assistant",
+        "content": "hit points are lost as a result."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some effects of Mythos magic in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "wide-ranging effects including gouts of fire, lines of electrical force, pale nimbuses and auroras of various colors, and more"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should Keepers do to keep certain effects low-key?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keepers should keep such effects low-key"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a wide-ranging effect of Mythos magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu-esque roars from beyond"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a prickly sensation caused by a Mythos magic effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "prickly sensations"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a disrupted spell casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "A disrupted spell casting is when the casting of a spell is interrupted due to significant distraction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a caster if they fail a pushed casting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They must pay the Sanity point."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is considered a significant distraction to a caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "A caster can be significantly distracted by being physically struck or shot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can consult the charts for the consequences of failing a pushed casting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can consult the charts for the consequences of failing a pushed casting roll."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

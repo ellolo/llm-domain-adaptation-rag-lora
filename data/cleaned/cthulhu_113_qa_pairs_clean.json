@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the context of a Call of Cthulhu combat, a \"maneuver\" is a deliberate action taken by a character to achieve a specific goal, such as disarming an opponent or inflicting damage. A successful maneuver allows a character to achieve one goal, which can be a physical action like disarming or restraining an opponent, or a more strategic action like placing an enemy at a disadvantage. The Keeper can also use maneuvers to inflict damage on characters engaged in combat. The document also discusses the concept of \"striking the first blow\" or \"surprise,\" where an attack is made without warning, and the rules for determining whether a character anticipates the attack.",
+  "qa_pairs": [
+    {
+      "question": "What does a successful maneuver attack roll entail?",
+      "answer": "The attacker's Fighting skill is opposed by the target's Fighting skill, and the character achieves a higher level of success",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the target is dodging during a maneuver attack roll?",
+      "answer": "The attacker's Fighting skill is opposed by the target's Dodge skill, and the maneuver is successful if the attacker achieves a higher level of success",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the target is fighting back during a maneuver attack roll?",
+      "answer": "The attacker's Fighting skill is opposed by the target's Fighting skill, and the maneuver fails if the character fighting back achieves a higher level of success",
+      "rating": 7
+    },
+    {
+      "question": "What constitutes a goal in a maneuver attack?",
+      "answer": "A goal is something definite, such as 'I\u2019m knocking the gun from his hand', 'I\u2019m seizing the pistol from him', or 'I\u2019m grabbing the gun arm and keeping it pointed away from me'",
+      "rating": 9
+    },
+    {
+      "question": "What determines a successful maneuver in a fighting scenario?",
+      "answer": "The character performing the maneuver achieves a higher level of success than the character dodging",
+      "rating": 8
+    },
+    {
+      "question": "How is the outcome of a maneuver determined when both characters fight back?",
+      "answer": "The attacker's Fighting skill is opposed by the target's Fighting skill",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the target of an attack uses their own maneuver?",
+      "answer": "The target applies the effect of their maneuver, rather than inflicting damage",
+      "rating": 9
+    },
+    {
+      "question": "What is one goal that a successful maneuver can help a character achieve?",
+      "answer": "A character can achieve one goal, such as disarming an opponent",
+      "rating": 8
+    },
+    {
+      "question": "What is a way to place the enemy at a disadvantage?",
+      "answer": "Inflicting one penalty die on the opponent\u2019s future actions or granting one bonus die to allies\u2019 actions",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a restrained character if their attacker is incapacitated or suffers a major wound?",
+      "answer": "They are automatically released",
+      "rating": 9
+    },
+    {
+      "question": "What can a restrained character use to escape on their turn?",
+      "answer": "A maneuver of their own, such as a bear hug or neck lock",
+      "rating": 7
+    },
+    {
+      "question": "What is a way to place the enemy at a disadvantage in a physical manner?",
+      "answer": "Pushing the opponent over a cliff, out of a large window, or simply knocking them to the floor",
+      "rating": 9
+    },
+    {
+      "question": "What is an advantage that may result from physical restraint or being knocked to the floor?",
+      "answer": "This disadvantage may be as a result of physical restraint or of having been knocked to the floor.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a restrained character if their attacker is incapacitated or suffers a major wound?",
+      "answer": "They are automatically held until their attacker releases them.",
+      "rating": 6
+    },
+    {
+      "question": "What can the Keeper inflict damage on if it is appropriate to the story?",
+      "answer": "Those engaged in a maneuver.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a character who falls from a second-story window without a safety net?",
+      "answer": "They will take damage unless they land in a safety net or similar.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to start a combat?",
+      "answer": "Someone must strike the first blow.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the Keeper starts a combat round when opponents square up?",
+      "answer": "The Keeper should start a combat round.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if someone states a sudden, unexpected attack?",
+      "answer": "They should have the opportunity to surprise their opponent.",
+      "rating": 8
+    },
+    {
+      "question": "What would happen to the person who declared the first attack if the Keeper automatically switches to combat rounds?",
+      "answer": "They may end up acting last in the DEX order.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the Keeper automatically switches to combat rounds?",
+      "answer": "The person who declared the first attack may end up acting last in the DEX order.",
+      "rating": 9
+    },
+    {
+      "question": "How can the target anticipate the attack?",
+      "answer": "Using either Listen, Spot Hidden, or Psychology to determine if they can hear, see, or perceive the attacker's intent.",
+      "rating": 9
+    },
+    {
+      "question": "Why is it not narrative sense if the person who declared the first attack acts last?",
+      "answer": "Because it would make no narrative sense.",
+      "rating": 8
+    },
+    {
+      "question": "What skill roll can be used to determine if the target anticipates the attack?",
+      "answer": "A skill roll can be used, with options including Listen, Spot Hidden, or Psychology.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a successful maneuver attack roll entail?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker's Fighting skill is opposed by the target's Fighting skill, and the character achieves a higher level of success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target is dodging during a maneuver attack roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker's Fighting skill is opposed by the target's Dodge skill, and the maneuver is successful if the attacker achieves a higher level of success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target is fighting back during a maneuver attack roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker's Fighting skill is opposed by the target's Fighting skill, and the maneuver fails if the character fighting back achieves a higher level of success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What constitutes a goal in a maneuver attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A goal is something definite, such as 'I\u2019m knocking the gun from his hand', 'I\u2019m seizing the pistol from him', or 'I\u2019m grabbing the gun arm and keeping it pointed away from me'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines a successful maneuver in a fighting scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character performing the maneuver achieves a higher level of success than the character dodging"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the outcome of a maneuver determined when both characters fight back?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker's Fighting skill is opposed by the target's Fighting skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the target of an attack uses their own maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target applies the effect of their maneuver, rather than inflicting damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one goal that a successful maneuver can help a character achieve?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character can achieve one goal, such as disarming an opponent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a way to place the enemy at a disadvantage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inflicting one penalty die on the opponent\u2019s future actions or granting one bonus die to allies\u2019 actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a restrained character if their attacker is incapacitated or suffers a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are automatically released"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a restrained character use to escape on their turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "A maneuver of their own, such as a bear hug or neck lock"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a way to place the enemy at a disadvantage in a physical manner?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pushing the opponent over a cliff, out of a large window, or simply knocking them to the floor"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an advantage that may result from physical restraint or being knocked to the floor?"
+      },
+      {
+        "role": "assistant",
+        "content": "This disadvantage may be as a result of physical restraint or of having been knocked to the floor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a restrained character if their attacker is incapacitated or suffers a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are automatically held until their attacker releases them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the Keeper inflict damage on if it is appropriate to the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Those engaged in a maneuver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character who falls from a second-story window without a safety net?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will take damage unless they land in a safety net or similar."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to start a combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Someone must strike the first blow."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Keeper starts a combat round when opponents square up?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should start a combat round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if someone states a sudden, unexpected attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "They should have the opportunity to surprise their opponent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen to the person who declared the first attack if the Keeper automatically switches to combat rounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may end up acting last in the DEX order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Keeper automatically switches to combat rounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "The person who declared the first attack may end up acting last in the DEX order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the target anticipate the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using either Listen, Spot Hidden, or Psychology to determine if they can hear, see, or perceive the attacker's intent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it not narrative sense if the person who declared the first attack acts last?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it would make no narrative sense."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill roll can be used to determine if the target anticipates the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skill roll can be used, with options including Listen, Spot Hidden, or Psychology."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

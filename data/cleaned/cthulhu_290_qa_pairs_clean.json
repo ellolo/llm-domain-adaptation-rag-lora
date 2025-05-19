@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines three spells from the Call of Cthulhu and Elder Sign tabletop role-playing games: Death Spell, Deeper Version of Death Spell, and Dominate. The Death Spell causes a victim to burst into flames, while the Deeper Version prolongs the suffering over several days. The Dominate spell bends the will of a target to the caster's commands. These spells are reserved for powerful sorcerers and are designed to harm or control extraterrestrial and other planar beings.",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum age of an Egyptian mummy required for the powder?",
+      "answer": "at least 2,000 years old",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of sprinkling the powder over a being not of this Earth?",
+      "answer": "the entity loses 1D20 hit points per dose",
+      "rating": 9
+    },
+    {
+      "question": "What types of beings are affected by the powder?",
+      "answer": "extraterrestrial and other planar beings",
+      "rating": 8
+    },
+    {
+      "question": "What would happen if the powder was used against a shoggoth or a deep one?",
+      "answer": "it would be useless",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of the Death Spell in magic points?",
+      "answer": "24 magic points",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the Death Spell in magic points?",
+      "answer": "24 magic points",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points does the victim lose in the first round of the Death Spell?",
+      "answer": "1D3 hit points",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the victim on the third round?",
+      "answer": "The victim bursts into flames, losing 1D10 hit points then and each round thereafter.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the stench of burning hair and flesh?",
+      "answer": "The stench of burning hair and flesh is overwhelming, requiring all witnesses to make SAN rolls or lose 1/1D6 SAN.",
+      "rating": 9
+    },
+    {
+      "question": "Is it possible to render aid to the victim?",
+      "answer": "It is impossible to render aid, since the horrified victim burns from the inside out.",
+      "rating": 8
+    },
+    {
+      "question": "What are some alternative names for this event?",
+      "answer": "Alternative names: Ye Dreadful Pricking, The Curse of Fiery Doom, Cthugha\u2019s Embrace.",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect on witnesses who fail to make SAN rolls?",
+      "answer": "Witnesses who fail to make SAN rolls lose 1/1D6 SAN.",
+      "rating": 8
+    },
+    {
+      "question": "How many magic points are spent by the caster?",
+      "answer": "34",
+      "rating": 6
+    },
+    {
+      "question": "What is the duration of the spell?",
+      "answer": "7 days",
+      "rating": 8
+    },
+    {
+      "question": "How does the caster cast the spell?",
+      "answer": "The caster must possess a piece of the victim",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of the spell on the victim on the second day?",
+      "answer": "A 4 hit point wound",
+      "rating": 9
+    },
+    {
+      "question": "What is the fate of the victim's body on the last day of the spell?",
+      "answer": "Consumed in a ball of flame",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the wound size each day?",
+      "answer": "The wound size increases by 2 hit points each day.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target's Sanity each day?",
+      "answer": "An equal amount of Sanity is lost each day.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the victim's body when hit points are reduced to zero?",
+      "answer": "The victim's body is consumed in a ball of flame.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for the spell Dominate to take effect?",
+      "answer": "The caster must succeed in an opposed POW roll with the target.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the spell Dominate?",
+      "answer": "1 magic point; 1 Sanity point",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum age of an Egyptian mummy required for the powder?"
+      },
+      {
+        "role": "assistant",
+        "content": "at least 2,000 years old"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of sprinkling the powder over a being not of this Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "the entity loses 1D20 hit points per dose"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of beings are affected by the powder?"
+      },
+      {
+        "role": "assistant",
+        "content": "extraterrestrial and other planar beings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen if the powder was used against a shoggoth or a deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "it would be useless"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Death Spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "24 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Death Spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "24 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does the victim lose in the first round of the Death Spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim on the third round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim bursts into flames, losing 1D10 hit points then and each round thereafter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the stench of burning hair and flesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "The stench of burning hair and flesh is overwhelming, requiring all witnesses to make SAN rolls or lose 1/1D6 SAN."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is it possible to render aid to the victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is impossible to render aid, since the horrified victim burns from the inside out."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some alternative names for this event?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alternative names: Ye Dreadful Pricking, The Curse of Fiery Doom, Cthugha\u2019s Embrace."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect on witnesses who fail to make SAN rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Witnesses who fail to make SAN rolls lose 1/1D6 SAN."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points are spent by the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "34"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "7 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the caster cast the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must possess a piece of the victim"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the spell on the victim on the second day?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 4 hit point wound"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fate of the victim's body on the last day of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consumed in a ball of flame"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the wound size each day?"
+      },
+      {
+        "role": "assistant",
+        "content": "The wound size increases by 2 hit points each day."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's Sanity each day?"
+      },
+      {
+        "role": "assistant",
+        "content": "An equal amount of Sanity is lost each day."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's body when hit points are reduced to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim's body is consumed in a ball of flame."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the spell Dominate to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must succeed in an opposed POW roll with the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell Dominate?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point; 1 Sanity point"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

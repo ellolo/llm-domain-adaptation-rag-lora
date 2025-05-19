@@ -1,0 +1,564 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for a \"Cut to the Chase\" chase scene are outlined, where characters or vehicles are pursued by others. The chase is resolved through a series of skill rolls, movement actions, and combat encounters. The pursuers are placed in order of speed, and the fleeing characters/vehicles are positioned accordingly. Hazards, barriers, and combat are also resolved through skill rolls and combat encounters, with specific rules for vehicles and combat. The environment can also affect the chase, with random locations and penalties added to the roll.",
+  "qa_pairs": [
+    {
+      "question": "How should movement actions be allocated to each participant?",
+      "answer": "Every character and vehicle gets one movement action by default, plus the difference between their movement rating (MOV) and the movement rating of the slowest participant in the chase.",
+      "rating": 9
+    },
+    {
+      "question": "How should fleeing characters be placed in order?",
+      "answer": "Slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV.",
+      "rating": 8
+    },
+    {
+      "question": "How should pursuers be placed in order?",
+      "answer": "Slowest at the rear, others a number of locations ahead equal to their difference in MOV.",
+      "rating": 8
+    },
+    {
+      "question": "What is the rule for updating a character's speed after a speed roll?",
+      "answer": "MOV remains unchanged if passed, MOV +1 if an Extreme success, and MOV \u20131 if failed.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a fleeing character's speed is greater than that of their pursuers?",
+      "answer": "They may escape completely.",
+      "rating": 7
+    },
+    {
+      "question": "How do pursuers with a lower speed than the slowest fleeing character fare?",
+      "answer": "They are completely out of the chase.",
+      "rating": 8
+    },
+    {
+      "question": "What is the rule for determining the order of pursuers in a chase?",
+      "answer": "Place the pursuers in order, slowest at the rear, others a number of locations ahead equal to their difference in MOV.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to pursuers if their speed is lower than the slowest fleeing character?",
+      "answer": "They are completely out of the chase.",
+      "rating": 8
+    },
+    {
+      "question": "How should movement actions be allocated to each participant?",
+      "answer": "Every character and vehicle gets one movement action by default, plus the difference between their movement rating (MOV) and the movement rating of the slowest participant in the chase.",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition for a pursuer to be 'completely out of the chase'?",
+      "answer": "Pursuers with a speed that is lower than the slowest fleeing character.",
+      "rating": 9
+    },
+    {
+      "question": "How should pursuers be placed in order?",
+      "answer": "Slowest at the rear, others a number of locations ahead equal to their difference in MOV.",
+      "rating": 8
+    },
+    {
+      "question": "How should fleeing characters be placed in order?",
+      "answer": "Slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV.",
+      "rating": 9
+    },
+    {
+      "question": "How many movement actions are given to each participant, by default?",
+      "answer": "One movement action by default.",
+      "rating": 7
+    },
+    {
+      "question": "What is the order of pursuers in the chase?",
+      "answer": "slowest at the rear, others a number of locations ahead equal to their difference in MOV.",
+      "rating": 8
+    },
+    {
+      "question": "How do fleeing characters/vehicles position themselves in the chase?",
+      "answer": "slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV.",
+      "rating": 9
+    },
+    {
+      "question": "How are hazards and barriers positioned in the game?",
+      "answer": "Hazards: Make a skill roll to move through a hazard.",
+      "rating": 6
+    },
+    {
+      "question": "How can characters buy bonus dice to negotiate hazards?",
+      "answer": "1 or 2 movement actions may be spent to buy 1 or 2 bonus dice for the skill roll to negotiate a hazard.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a vehicle attacks a barrier and fails to destroy it?",
+      "answer": "The vehicle is wrecked.",
+      "rating": 8
+    },
+    {
+      "question": "How much damage a vehicle inflicts on a barrier if it attacks and fails to destroy it?",
+      "answer": "1D10 damage",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage suffered by a vehicle if the barrier it attacked is destroyed?",
+      "answer": "Half the barrier's hit points prior to impact",
+      "rating": 9
+    },
+    {
+      "question": "How many hit points does a mature tree have?",
+      "answer": "50 hit points",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a vehicle's damage if the barrier is destroyed?",
+      "answer": "The vehicle suffers an amount of damage equal to half the barrier's hit points prior to impact.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage does a strong domestic external door deal?",
+      "answer": "15 hit points.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a vehicle's build points after taking damage?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle's build by one point (round down); damage below 10 points is ignored.",
+      "rating": 9
+    },
+    {
+      "question": "How does a vehicle's damage affect its build points?",
+      "answer": "Whenever a vehicle is used to inflict damage, it also suffers an amount of damage equal to half (round down) that which it delivers, but never enough to cause it to lose a greater amount of build points than the thing which it hit originally possessed.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage a vehicle can inflict on an enemy?",
+      "answer": "1D10 damage per listed build point",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a vehicle after it inflicts damage on an enemy?",
+      "answer": "A vehicle also suffers an amount of damage equal to half (round down) that which it delivers",
+      "rating": 8
+    },
+    {
+      "question": "How does a vehicle's build points decrease after taking damage?",
+      "answer": "Each full 10 hit points of damage decreases a vehicle's build by one point (round down)",
+      "rating": 9
+    },
+    {
+      "question": "What is the roll required to determine a random location in the environment?",
+      "answer": "Roll 1D100, with 01-59 = 1 open location, 60+ = 1 Regular hazard, 85+ = 1 Hard hazard, and 96+ = 1 Extreme hazard",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should movement actions be allocated to each participant?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every character and vehicle gets one movement action by default, plus the difference between their movement rating (MOV) and the movement rating of the slowest participant in the chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should fleeing characters be placed in order?"
+      },
+      {
+        "role": "assistant",
+        "content": "Slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should pursuers be placed in order?"
+      },
+      {
+        "role": "assistant",
+        "content": "Slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for updating a character's speed after a speed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOV remains unchanged if passed, MOV +1 if an Extreme success, and MOV \u20131 if failed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a fleeing character's speed is greater than that of their pursuers?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may escape completely."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do pursuers with a lower speed than the slowest fleeing character fare?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are completely out of the chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for determining the order of pursuers in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Place the pursuers in order, slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to pursuers if their speed is lower than the slowest fleeing character?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are completely out of the chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should movement actions be allocated to each participant?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every character and vehicle gets one movement action by default, plus the difference between their movement rating (MOV) and the movement rating of the slowest participant in the chase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a pursuer to be 'completely out of the chase'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pursuers with a speed that is lower than the slowest fleeing character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should pursuers be placed in order?"
+      },
+      {
+        "role": "assistant",
+        "content": "Slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should fleeing characters be placed in order?"
+      },
+      {
+        "role": "assistant",
+        "content": "Slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions are given to each participant, by default?"
+      },
+      {
+        "role": "assistant",
+        "content": "One movement action by default."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the order of pursuers in the chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "slowest at the rear, others a number of locations ahead equal to their difference in MOV."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do fleeing characters/vehicles position themselves in the chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "slowest at the rear (2 locations ahead of the lead pursuer), others a number of locations ahead equal to their difference in MOV."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are hazards and barriers positioned in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hazards: Make a skill roll to move through a hazard."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can characters buy bonus dice to negotiate hazards?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 or 2 movement actions may be spent to buy 1 or 2 bonus dice for the skill roll to negotiate a hazard."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a vehicle attacks a barrier and fails to destroy it?"
+      },
+      {
+        "role": "assistant",
+        "content": "The vehicle is wrecked."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage a vehicle inflicts on a barrier if it attacks and fails to destroy it?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage suffered by a vehicle if the barrier it attacked is destroyed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half the barrier's hit points prior to impact"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does a mature tree have?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle's damage if the barrier is destroyed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The vehicle suffers an amount of damage equal to half the barrier's hit points prior to impact."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a strong domestic external door deal?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle's build points after taking damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full 10 hit points of damage decreases a vehicle's build by one point (round down); damage below 10 points is ignored."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a vehicle's damage affect its build points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whenever a vehicle is used to inflict damage, it also suffers an amount of damage equal to half (round down) that which it delivers, but never enough to cause it to lose a greater amount of build points than the thing which it hit originally possessed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage a vehicle can inflict on an enemy?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 damage per listed build point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle after it inflicts damage on an enemy?"
+      },
+      {
+        "role": "assistant",
+        "content": "A vehicle also suffers an amount of damage equal to half (round down) that which it delivers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a vehicle's build points decrease after taking damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full 10 hit points of damage decreases a vehicle's build by one point (round down)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the roll required to determine a random location in the environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll 1D100, with 01-59 = 1 open location, 60+ = 1 Regular hazard, 85+ = 1 Hard hazard, and 96+ = 1 Extreme hazard"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 29,
+    "retention_rate": 1.04,
+    "avg_score": 8.3
+  }
+}

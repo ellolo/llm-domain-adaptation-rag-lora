@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses two ancient tomes related to the Cthulhu Mythos: \"Cthaat Aquadingen\" and \"De Vermiis Mysteriis\". These texts are considered to be of great importance in understanding the deep ones, a concept central to the Cthulhu Mythos. Both tomes are said to hold powerful knowledge and spells, including those for contacting deities, summoning entities, and manipulating reality. The texts are shrouded in mystery, with some copies allegedly written in a cipher, and their authenticity and contents are subject to debate among scholars.",
+  "qa_pairs": [
+    {
+      "question": "What is the title of the Latin book about the deep ones?",
+      "answer": "Cthaat Aquadingen",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the creature in the Cthulhu Mythos that is said to be the father of the Star-Spawn of Cthulhu?",
+      "answer": "Father Dagon",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the spell that is a reversal of the Resurrection spell, used to destroy revenants?",
+      "answer": "Nyhargo Dirge",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the deep one that is said to be the mother of the Star-Spawn of Cthulhu?",
+      "answer": "Mother Hydra",
+      "rating": 9
+    },
+    {
+      "question": "When was William Tedworth, an eccectric occult scholar, allegedly seen a copy of the Cthaat Aquadingen?",
+      "answer": "1935",
+      "rating": 8
+    },
+    {
+      "question": "Where was one allegedly held copy of the Cthaat Aquadingen, according to the text?",
+      "answer": "British Museum",
+      "rating": 8
+    },
+    {
+      "question": "What was the duration of the Study for the Cthaat Aquadingen?",
+      "answer": "46 weeks",
+      "rating": 8
+    },
+    {
+      "question": "How many copies of the Cthaat Aquadingen are allegedly known to exist?",
+      "answer": "Three",
+      "rating": 7
+    },
+    {
+      "question": "What is the alleged location of one copy of the Cthaat Aquadingen?",
+      "answer": "The British Museum",
+      "rating": 8
+    },
+    {
+      "question": "Who claimed to have seen a copy of the Cthaat Aquadingen in 1935?",
+      "answer": "William Tedworth",
+      "rating": 9
+    },
+    {
+      "question": "What is the duration of the Study required for the Cthaat Aquadingen?",
+      "answer": "46 weeks",
+      "rating": 7
+    },
+    {
+      "question": "What is the Mythos Rating of the Cthaat Aquadingen?",
+      "answer": "39",
+      "rating": 6
+    },
+    {
+      "question": "What year was the book 'De Vermiis Mysteriis' printed?",
+      "answer": "1542",
+      "rating": 8
+    },
+    {
+      "question": "How many copies of 'De Vermiis Mysteriis' have survived?",
+      "answer": "Fifteen",
+      "rating": 9
+    },
+    {
+      "question": "What is the Mythos Rating of 'De Vermiis Mysteriis'?",
+      "answer": "36",
+      "rating": 7
+    },
+    {
+      "question": "How many weeks is the Study for 'De Vermiis Mysteriis'?",
+      "answer": "48",
+      "rating": 8
+    },
+    {
+      "question": "How many copies of De Vermiis Mysteriis have survived?",
+      "answer": "Fifteen",
+      "rating": 8
+    },
+    {
+      "question": "How many chapters does De Vermiis Mysteriis divide into?",
+      "answer": "Sixteen",
+      "rating": 9
+    },
+    {
+      "question": "What was the alleged purpose of the Esoteric Order of Dagon?",
+      "answer": "to hasten the metamorphosis of a human into a deep one",
+      "rating": 7
+    },
+    {
+      "question": "Where were the Eltdown Shards discovered?",
+      "answer": "near Eltdown, Southern England",
+      "rating": 6
+    },
+    {
+      "question": "What was the most prominent translation of the Eltdown Shards?",
+      "answer": "the Winters-Hall version",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the Latin book about the deep ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthaat Aquadingen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the creature in the Cthulhu Mythos that is said to be the father of the Star-Spawn of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Father Dagon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the spell that is a reversal of the Resurrection spell, used to destroy revenants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nyhargo Dirge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the deep one that is said to be the mother of the Star-Spawn of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mother Hydra"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was William Tedworth, an eccectric occult scholar, allegedly seen a copy of the Cthaat Aquadingen?"
+      },
+      {
+        "role": "assistant",
+        "content": "1935"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was one allegedly held copy of the Cthaat Aquadingen, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "British Museum"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the duration of the Study for the Cthaat Aquadingen?"
+      },
+      {
+        "role": "assistant",
+        "content": "46 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the Cthaat Aquadingen are allegedly known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alleged location of one copy of the Cthaat Aquadingen?"
+      },
+      {
+        "role": "assistant",
+        "content": "The British Museum"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who claimed to have seen a copy of the Cthaat Aquadingen in 1935?"
+      },
+      {
+        "role": "assistant",
+        "content": "William Tedworth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the Study required for the Cthaat Aquadingen?"
+      },
+      {
+        "role": "assistant",
+        "content": "46 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating of the Cthaat Aquadingen?"
+      },
+      {
+        "role": "assistant",
+        "content": "39"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What year was the book 'De Vermiis Mysteriis' printed?"
+      },
+      {
+        "role": "assistant",
+        "content": "1542"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of 'De Vermiis Mysteriis' have survived?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fifteen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating of 'De Vermiis Mysteriis'?"
+      },
+      {
+        "role": "assistant",
+        "content": "36"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks is the Study for 'De Vermiis Mysteriis'?"
+      },
+      {
+        "role": "assistant",
+        "content": "48"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of De Vermiis Mysteriis have survived?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fifteen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many chapters does De Vermiis Mysteriis divide into?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sixteen"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the alleged purpose of the Esoteric Order of Dagon?"
+      },
+      {
+        "role": "assistant",
+        "content": "to hasten the metamorphosis of a human into a deep one"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where were the Eltdown Shards discovered?"
+      },
+      {
+        "role": "assistant",
+        "content": "near Eltdown, Southern England"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the most prominent translation of the Eltdown Shards?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Winters-Hall version"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 21,
+    "retention_rate": 0.95,
+    "avg_score": 7.8
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a tabletop role-playing game, the Keeper's role is to facilitate the game by asking questions and guiding the players' actions. To encourage descriptive storytelling, the Keeper should ask players to elaborate on their actions, rather than simply stating the outcome of a roll. This approach allows the Keeper to differentiate between descriptive color and mechanical effect, and to encourage players to create their own narrative. By doing so, the Keeper can create a more immersive and engaging game experience.",
+  "qa_pairs": [
+    {
+      "question": "What is the goal of the Keeper's question?",
+      "answer": "To coax extra description and story from the player.",
+      "rating": 9
+    },
+    {
+      "question": "What terminology should the players avoid using?",
+      "answer": "Rules terminology.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Keeper's responsibility when a player proposes an action?",
+      "answer": "To ask the player to make a roll.",
+      "rating": 9
+    },
+    {
+      "question": "What does asking to make a roll convey?",
+      "answer": "The drama of the situation.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Keeper asking the player to make a roll?",
+      "answer": "To ask the player to make a roll, as it does not convey the drama of the situation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of allowing a player to narrate their actions?",
+      "answer": "To allow the player to describe the way in which their goals are achieved when they win the roll.",
+      "rating": 9
+    },
+    {
+      "question": "Why should the Keeper avoid restating or rephrasing the player's description?",
+      "answer": "Because it is unnecessary and may undermine the player's contribution.",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper do if the player has enjoyed describing their investigator's actions?",
+      "answer": "Smile and say 'Yes!'",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary goal of allowing a player to narrate?",
+      "answer": "To 'break the door down'",
+      "rating": 9
+    },
+    {
+      "question": "How should a game master handle player descriptions of actions?",
+      "answer": "Smile and accept the description, avoiding restatement or rephrasing",
+      "rating": 8
+    },
+    {
+      "question": "What should a game master do if a player asks for clarification on a specific action?",
+      "answer": "Encourage the player to elaborate on the action",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a player asking for help with a specific action?",
+      "answer": "Rolling the dice and asking 'What happens?'",
+      "rating": 8
+    },
+    {
+      "question": "What happens after a player completes a goal?",
+      "answer": "The dice were rolled, the goal was achieved, and the door is broken down.",
+      "rating": 9
+    },
+    {
+      "question": "How far should players be allowed to describe how their goal is achieved?",
+      "answer": "It's up to you, and you will develop a feel for what 'too far' means.",
+      "rating": 8
+    },
+    {
+      "question": "What is the difference between descriptive color and mechanical effect?",
+      "answer": "Descriptive color is just color, while mechanical effect is the actual action (e.g., breaking down a door).",
+      "rating": 9
+    },
+    {
+      "question": "Can players describe non-player characters' reactions?",
+      "answer": "Some players may go to the other extreme and describe everything, including non-player characters' reactions, but it's up to you to decide.",
+      "rating": 7
+    },
+    {
+      "question": "What is the result of rolling dice in this scenario?",
+      "answer": "The goal was achieved.",
+      "rating": 8
+    },
+    {
+      "question": "Who wins a skill roll to break a door down?",
+      "answer": "Harvey",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the guard after being surprised?",
+      "answer": "He cowers and drops his weapon.",
+      "rating": 8
+    },
+    {
+      "question": "How does the player describe Harvey breaking down the door?",
+      "answer": "The player describes Harvey as 'charging the door and smashing it'.",
+      "rating": 7
+    },
+    {
+      "question": "Who is the Keeper?",
+      "answer": "The Keeper",
+      "rating": 9
+    },
+    {
+      "question": "What does the Keeper decide to do?",
+      "answer": "Rewind the action a little",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the guard's weapon?",
+      "answer": "The guard drops his weapon",
+      "rating": 8
+    },
+    {
+      "question": "What does the guard do when he sees the investigator?",
+      "answer": "Makes a grab for his fallen weapon and rolls away",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Keeper's question?"
+      },
+      {
+        "role": "assistant",
+        "content": "To coax extra description and story from the player."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What terminology should the players avoid using?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rules terminology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's responsibility when a player proposes an action?"
+      },
+      {
+        "role": "assistant",
+        "content": "To ask the player to make a roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does asking to make a roll convey?"
+      },
+      {
+        "role": "assistant",
+        "content": "The drama of the situation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Keeper asking the player to make a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "To ask the player to make a roll, as it does not convey the drama of the situation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of allowing a player to narrate their actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "To allow the player to describe the way in which their goals are achieved when they win the roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper avoid restating or rephrasing the player's description?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it is unnecessary and may undermine the player's contribution."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do if the player has enjoyed describing their investigator's actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Smile and say 'Yes!'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of allowing a player to narrate?"
+      },
+      {
+        "role": "assistant",
+        "content": "To 'break the door down'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should a game master handle player descriptions of actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Smile and accept the description, avoiding restatement or rephrasing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a game master do if a player asks for clarification on a specific action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encourage the player to elaborate on the action"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a player asking for help with a specific action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rolling the dice and asking 'What happens?'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens after a player completes a goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "The dice were rolled, the goal was achieved, and the door is broken down."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far should players be allowed to describe how their goal is achieved?"
+      },
+      {
+        "role": "assistant",
+        "content": "It's up to you, and you will develop a feel for what 'too far' means."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between descriptive color and mechanical effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "Descriptive color is just color, while mechanical effect is the actual action (e.g., breaking down a door)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can players describe non-player characters' reactions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some players may go to the other extreme and describe everything, including non-player characters' reactions, but it's up to you to decide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of rolling dice in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal was achieved."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wins a skill roll to break a door down?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the guard after being surprised?"
+      },
+      {
+        "role": "assistant",
+        "content": "He cowers and drops his weapon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the player describe Harvey breaking down the door?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player describes Harvey as 'charging the door and smashing it'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper decide to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rewind the action a little"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the guard's weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The guard drops his weapon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the guard do when he sees the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Makes a grab for his fallen weapon and rolls away"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

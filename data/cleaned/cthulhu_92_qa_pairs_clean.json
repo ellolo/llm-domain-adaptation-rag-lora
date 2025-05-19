@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, investigators are attempting to lift a heavy rafter that is too heavy for one person to lift. The physical human limits of the investigators are crucial in determining their ability to lift the rafter, and exceeding these limits requires multiple investigators combining their efforts. The Keeper rules that subtracting the investigators' characteristics from the rafter's SIZ can reduce the difficulty level, allowing multiple investigators to attempt the lift. This scenario highlights the importance of teamwork and strategy in overcoming physical limitations.",
+  "qa_pairs": [
+    {
+      "question": "What happens if a patient's condition is critical?",
+      "answer": "Each attempt to administer first aid takes time, and this may be crucial if the patient is at death\u2019s door.",
+      "rating": 8
+    },
+    {
+      "question": "What method do investigators use to interrogate a cultist?",
+      "answer": "They use the classic good cop, bad cop routine.",
+      "rating": 9
+    },
+    {
+      "question": "How do the investigators take turns in the good cop, bad cop routine?",
+      "answer": "They take it in turns to play their roles, each rolling dice to test if the cultist cracks.",
+      "rating": 7
+    },
+    {
+      "question": "Can only one investigator attempt to interrogate the cultist?",
+      "answer": "No, up to two at a time can attempt it.",
+      "rating": 8
+    },
+    {
+      "question": "What are the rules for playing roles in the game?",
+      "answer": "They take it in turns to play their roles, each rolling dice to test if the cultist cracks.",
+      "rating": 7
+    },
+    {
+      "question": "What physical limits do the investigators face?",
+      "answer": "The investigators are only human, and there are limits to what they can achieve physically.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if an investigator's roll is Extreme and opposed by a high characteristic?",
+      "answer": "Anything beyond this is impossible for that character, and no dice roll is allowed.",
+      "rating": 9
+    },
+    {
+      "question": "What is the upper limit of what can be faced with an Extreme success?",
+      "answer": "100 + the investigator\u2019s skill or characteristic.",
+      "rating": 9
+    },
+    {
+      "question": "What is the upper limit for physical human strength in an Extreme success test?",
+      "answer": "100 plus the investigator's skill or characteristic",
+      "rating": 8
+    },
+    {
+      "question": "How do multiple investigators combine their efforts to exceed human limits?",
+      "answer": "By combining their characteristics to reduce the opponent's characteristic",
+      "rating": 9
+    },
+    {
+      "question": "Why can Cecil not lift the fallen rafter on his own?",
+      "answer": "Because his STR is only 40, which is more than 100 below the rafter's SIZ",
+      "rating": 8
+    },
+    {
+      "question": "Can Cecil lift the rafter on his own?",
+      "answer": "No, according to the rule on physical human limits.",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum SIZ that Cecil can attempt to lift?",
+      "answer": "140",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum SIZ that Martin can attempt to lift?",
+      "answer": "145",
+      "rating": 9
+    },
+    {
+      "question": "What is the initial SIZ of the rafter?",
+      "answer": "110",
+      "rating": 8
+    },
+    {
+      "question": "What is the most Cecil can attempt to lift?",
+      "answer": "SIZ 140",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum weight Cecil can lift?",
+      "answer": "SIZ 140",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum weight Martin can lift?",
+      "answer": "SIZ 145",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a patient's condition is critical?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each attempt to administer first aid takes time, and this may be crucial if the patient is at death\u2019s door."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What method do investigators use to interrogate a cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "They use the classic good cop, bad cop routine."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the investigators take turns in the good cop, bad cop routine?"
+      },
+      {
+        "role": "assistant",
+        "content": "They take it in turns to play their roles, each rolling dice to test if the cultist cracks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can only one investigator attempt to interrogate the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, up to two at a time can attempt it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the rules for playing roles in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "They take it in turns to play their roles, each rolling dice to test if the cultist cracks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What physical limits do the investigators face?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators are only human, and there are limits to what they can achieve physically."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator's roll is Extreme and opposed by a high characteristic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anything beyond this is impossible for that character, and no dice roll is allowed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the upper limit of what can be faced with an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 + the investigator\u2019s skill or characteristic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the upper limit for physical human strength in an Extreme success test?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 plus the investigator's skill or characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do multiple investigators combine their efforts to exceed human limits?"
+      },
+      {
+        "role": "assistant",
+        "content": "By combining their characteristics to reduce the opponent's characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can Cecil not lift the fallen rafter on his own?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because his STR is only 40, which is more than 100 below the rafter's SIZ"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Cecil lift the rafter on his own?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, according to the rule on physical human limits."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum SIZ that Cecil can attempt to lift?"
+      },
+      {
+        "role": "assistant",
+        "content": "140"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum SIZ that Martin can attempt to lift?"
+      },
+      {
+        "role": "assistant",
+        "content": "145"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial SIZ of the rafter?"
+      },
+      {
+        "role": "assistant",
+        "content": "110"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the most Cecil can attempt to lift?"
+      },
+      {
+        "role": "assistant",
+        "content": "SIZ 140"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum weight Cecil can lift?"
+      },
+      {
+        "role": "assistant",
+        "content": "SIZ 140"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum weight Martin can lift?"
+      },
+      {
+        "role": "assistant",
+        "content": "SIZ 145"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 18,
+    "retention_rate": 0.9,
+    "avg_score": 7.6
+  }
+}

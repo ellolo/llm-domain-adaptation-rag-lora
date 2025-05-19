@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nCecil Hunter, a former student of Miskatonic University, is currently a patient at the Arkham Sanatorium due to a nervous breakdown. He was admitted by Professor Charles Leiter, who claimed to have found him in a troubled state and promised to inform his family, but no family has come forward. Hunter is now in a fragile mental state, having experienced a horrific event while attempting to copy the occult text within the Witch Trial Papers, and is desperate to complete his work and escape the sanatorium. He may attempt to escape and seek out the investigators' company if they show sympathy.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the investigators react violently towards the duo?",
+      "answer": "They will not shirk from a fight.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the investigators are unable to find Leiter?",
+      "answer": "They are just as good a source for the cash.",
+      "rating": 7
+    },
+    {
+      "question": "What is Cecil Hunter's current living situation?",
+      "answer": "He resides within the Admissions Ward of the Arkham Sanatorium.",
+      "rating": 9
+    },
+    {
+      "question": "Who placed Cecil Hunter in the Arkham Sanatorium?",
+      "answer": "He was placed there by Leiter, who claimed to have visited a troubled student to find him a degenerate state.",
+      "rating": 9
+    },
+    {
+      "question": "Where does Hunter currently reside?",
+      "answer": "the Admissions Ward of the Arkham Sanatorium",
+      "rating": 8
+    },
+    {
+      "question": "Why was Hunter placed in the Arkham Sanatorium?",
+      "answer": "by Leiter, who stalling for time on Leiter's part",
+      "rating": 6
+    },
+    {
+      "question": "What was the reason for Hunter's initial meeting with the doctor?",
+      "answer": "Leiter claimed to have visited a troubled student to find him in a degenerate state, thus stalling for time on Leiter's part.",
+      "rating": 9
+    },
+    {
+      "question": "What was Hunter's sole income, which allowed him to hold court with dissolute types?",
+      "answer": "The proceeds of forgery.",
+      "rating": 8
+    },
+    {
+      "question": "Who was admitted to Arkham Sanatorium?",
+      "answer": "Cecil Hunter",
+      "rating": 9
+    },
+    {
+      "question": "What caused Cecil Hunter's nervous breakdown?",
+      "answer": "Partly chewing through the tendons on the backs of his own hands",
+      "rating": 8
+    },
+    {
+      "question": "When was Cecil Hunter admitted to Arkham Sanatorium?",
+      "answer": "September 17th",
+      "rating": 9
+    },
+    {
+      "question": "Who admitted Cecil Hunter to Arkham Sanatorium?",
+      "answer": "Professor Charles Leiter",
+      "rating": 8
+    },
+    {
+      "question": "What was Cecil Hunter admitted to Arkham Sanatorium for?",
+      "answer": "A profound nervous breakdown",
+      "rating": 9
+    },
+    {
+      "question": "Why is Cecil Hunter considered a danger to himself?",
+      "answer": "Having partly chewed through the tendons on the backs of his own hands.",
+      "rating": 8
+    },
+    {
+      "question": "What state has Hunter been found in?",
+      "answer": "he has been found in a state of withdrawal, incoherent, and easily agitated.",
+      "rating": 7
+    },
+    {
+      "question": "Who admitted Hunter to the sanatorium?",
+      "answer": "Professor Charles Leiter, a self-professed former tutor.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigators react violently towards the duo?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will not shirk from a fight."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigators are unable to find Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are just as good a source for the cash."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Cecil Hunter's current living situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "He resides within the Admissions Ward of the Arkham Sanatorium."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who placed Cecil Hunter in the Arkham Sanatorium?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was placed there by Leiter, who claimed to have visited a troubled student to find him a degenerate state."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Hunter currently reside?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Admissions Ward of the Arkham Sanatorium"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why was Hunter placed in the Arkham Sanatorium?"
+      },
+      {
+        "role": "assistant",
+        "content": "by Leiter, who stalling for time on Leiter's part"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the reason for Hunter's initial meeting with the doctor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leiter claimed to have visited a troubled student to find him in a degenerate state, thus stalling for time on Leiter's part."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Hunter's sole income, which allowed him to hold court with dissolute types?"
+      },
+      {
+        "role": "assistant",
+        "content": "The proceeds of forgery."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was admitted to Arkham Sanatorium?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cecil Hunter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What caused Cecil Hunter's nervous breakdown?"
+      },
+      {
+        "role": "assistant",
+        "content": "Partly chewing through the tendons on the backs of his own hands"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was Cecil Hunter admitted to Arkham Sanatorium?"
+      },
+      {
+        "role": "assistant",
+        "content": "September 17th"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who admitted Cecil Hunter to Arkham Sanatorium?"
+      },
+      {
+        "role": "assistant",
+        "content": "Professor Charles Leiter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Cecil Hunter admitted to Arkham Sanatorium for?"
+      },
+      {
+        "role": "assistant",
+        "content": "A profound nervous breakdown"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is Cecil Hunter considered a danger to himself?"
+      },
+      {
+        "role": "assistant",
+        "content": "Having partly chewed through the tendons on the backs of his own hands."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What state has Hunter been found in?"
+      },
+      {
+        "role": "assistant",
+        "content": "he has been found in a state of withdrawal, incoherent, and easily agitated."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who admitted Hunter to the sanatorium?"
+      },
+      {
+        "role": "assistant",
+        "content": "Professor Charles Leiter, a self-professed former tutor."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 16,
+    "filtered": 16,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

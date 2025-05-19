@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the context of the game, researching a specific piece of information can be done by spending game hours studying a book, with the outcome determined by a roll of 1D100. The book's Cthulhu Mythos Rating determines the success of the investigation, and a full study of a tome can grant increases in other skills, including language skills and skills such as History, Archaeology, and Occult. Additionally, reading occult books can grant points to the Occult skill, while learning Mythos spells requires Magic points and can bring the character closer to insanity.",
+  "qa_pairs": [
+    {
+      "question": "How much time does the investigator spend researching a specific piece of information?",
+      "answer": "1D4 game hours",
+      "rating": 8
+    },
+    {
+      "question": "What does the investigator do if they fail to locate the information?",
+      "answer": "Either the book does not hold the information or the reader failed to locate it",
+      "rating": 7
+    },
+    {
+      "question": "What is the outcome if the investigator finds the fact?",
+      "answer": "The investigator finds the fact or an allusion to the fact",
+      "rating": 9
+    },
+    {
+      "question": "What is the investigator required to roll to find the fact?",
+      "answer": "1D100",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome of rolling 1D100 equal to or less than the book's Cthulhu Mythos Rating?",
+      "answer": "The investigator finds the fact or an allusion to the fact.",
+      "rating": 9
+    },
+    {
+      "question": "What benefits can a reader gain from conducting a full study of a tome?",
+      "answer": "An increase in other skills, as well as Cthulhu Mythos",
+      "rating": 8
+    },
+    {
+      "question": "How can an investigator improve their skill in a language after studying a tome?",
+      "answer": "By gaining a skill tick for the language in which the book is written.",
+      "rating": 9
+    },
+    {
+      "question": "What types of skills can be improved as a result of reading Mythos tomes?",
+      "answer": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences.",
+      "rating": 8
+    },
+    {
+      "question": "What are the two options for increasing skill points in Mythos books?",
+      "answer": "Either limited to +1D6 to +1D10 skill points per skill or awarded as a skill tick to be rolled during the next investigator development phase.",
+      "rating": 8
+    },
+    {
+      "question": "Which skills can be improved as a result of reading Mythos tomes?",
+      "answer": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences like Chemistry, Biology, and Physics.",
+      "rating": 9
+    },
+    {
+      "question": "What type of book grants points to the Occult skill after being read?",
+      "answer": "An occult book.",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of reading a book that contains knowledge warranting a loss of Sanity points?",
+      "answer": "A cost of Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What defines an occult book in the Cthulhu Mythos?",
+      "answer": "An occult book does not contain knowledge increasing the Cthulhu Mythos skill.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Sanity points if an occult book's contents warrant it?",
+      "answer": "An occult book may cost Sanity points if its contents warrant it.",
+      "rating": 8
+    },
+    {
+      "question": "How does increasing the Cthulhu Mythos skill affect the scholar?",
+      "answer": "Increasing the Cthulhu Mythos skill widens the horizons of the student but chips away at mental reserves (reducing maximum Sanity points).",
+      "rating": 9
+    },
+    {
+      "question": "How are spells organized in the game?",
+      "answer": "Spells are organized as packets of information, presented alphabetically in Chapter 12: Grimoire.",
+      "rating": 8
+    },
+    {
+      "question": "What are the 'packets of information' in the Mythos organized as?",
+      "answer": "spells",
+      "rating": 9
+    },
+    {
+      "question": "Does learning a Mythos spell cost Sanity points?",
+      "answer": "no",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary method of learning spells?",
+      "answer": "Learning from a book",
+      "rating": 7
+    },
+    {
+      "question": "How do Magic Points (MP) relate to casting spells?",
+      "answer": "Must be expended to cast spells",
+      "rating": 9
+    },
+    {
+      "question": "What determines the amount of Magic Points (MP) an investigator begins with?",
+      "answer": "One-fifth of their POW",
+      "rating": 8
+    },
+    {
+      "question": "Who does not begin with Magic Points equal to one-fifth of their POW?",
+      "answer": "Cultists",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much time does the investigator spend researching a specific piece of information?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 game hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the investigator do if they fail to locate the information?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either the book does not hold the information or the reader failed to locate it"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if the investigator finds the fact?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator finds the fact or an allusion to the fact"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the investigator required to roll to find the fact?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of rolling 1D100 equal to or less than the book's Cthulhu Mythos Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator finds the fact or an allusion to the fact."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What benefits can a reader gain from conducting a full study of a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "An increase in other skills, as well as Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can an investigator improve their skill in a language after studying a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "By gaining a skill tick for the language in which the book is written."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of skills can be improved as a result of reading Mythos tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two options for increasing skill points in Mythos books?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either limited to +1D6 to +1D10 skill points per skill or awarded as a skill tick to be rolled during the next investigator development phase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which skills can be improved as a result of reading Mythos tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences like Chemistry, Biology, and Physics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of book grants points to the Occult skill after being read?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occult book."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of reading a book that contains knowledge warranting a loss of Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "A cost of Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What defines an occult book in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occult book does not contain knowledge increasing the Cthulhu Mythos skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Sanity points if an occult book's contents warrant it?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occult book may cost Sanity points if its contents warrant it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does increasing the Cthulhu Mythos skill affect the scholar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increasing the Cthulhu Mythos skill widens the horizons of the student but chips away at mental reserves (reducing maximum Sanity points)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are spells organized in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spells are organized as packets of information, presented alphabetically in Chapter 12: Grimoire."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the 'packets of information' in the Mythos organized as?"
+      },
+      {
+        "role": "assistant",
+        "content": "spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Does learning a Mythos spell cost Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary method of learning spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Learning from a book"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Magic Points (MP) relate to casting spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Must be expended to cast spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the amount of Magic Points (MP) an investigator begins with?"
+      },
+      {
+        "role": "assistant",
+        "content": "One-fifth of their POW"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who does not begin with Magic Points equal to one-fifth of their POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cultists"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

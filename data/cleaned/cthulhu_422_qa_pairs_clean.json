@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, investigators are tasked with tracking down two kidnappers, Sidney Harris and Eugene Clayton, who have escaped into a forest. To progress, the investigators must make tracking rolls to follow the kidnappers' trail, which may be hazardous and slow. The investigators will encounter various obstacles, such as disturbed foliage and bloodstains, which they must navigate through. Successful tracking rolls will provide advantages, while failed rolls may result in exhaustion or other negative outcomes. The investigators must ultimately find the kidnappers, who are likely to be hiding in the forest.",
+  "qa_pairs": [
+    {
+      "question": "Where are the investigators directed to head?",
+      "answer": "Northeast",
+      "rating": 8
+    },
+    {
+      "question": "What are the tracks left by Sidney Harris and Eugene Clayton?",
+      "answer": "Tracks left in the forest",
+      "rating": 9
+    },
+    {
+      "question": "What will be the investigators' progress if they constantly fail the tracking rolls?",
+      "answer": "Slow and hazardous",
+      "rating": 8
+    },
+    {
+      "question": "What will the investigators gain from successful tracking rolls?",
+      "answer": "A slight advantage to anticipate encounters",
+      "rating": 9
+    },
+    {
+      "question": "What is the outcome of failing to find the tracks?",
+      "answer": "There will be no scenario.",
+      "rating": 7
+    },
+    {
+      "question": "What can successful tracking rolls provide to the players?",
+      "answer": "A slight advantage, allowing them to anticipate encounters.",
+      "rating": 8
+    },
+    {
+      "question": "What do the investigators see for the first few hours of trekking through the forest?",
+      "answer": "The occasional glimpse of deer running between the thickets.",
+      "rating": 9
+    },
+    {
+      "question": "What should each player describe at this point in the scenario?",
+      "answer": "How their investigator is dressed, if they have not done so already.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary goal of successful tracking rolls?",
+      "answer": "to provide a slight advantage to the players, allowing them to anticipate encounters",
+      "rating": 8
+    },
+    {
+      "question": "What can investigators see in the forest during the first few hours of trekking?",
+      "answer": "occasional glimpses of deer running between the thickets",
+      "rating": 7
+    },
+    {
+      "question": "Who is shooting at one of the passing undead servants?",
+      "answer": "Eugene Clayton",
+      "rating": 9
+    },
+    {
+      "question": "What happens if an investigator is awake around midnight and makes a Listen roll?",
+      "answer": "success means that the investigator can make out the faint sound of a truck engine in the far distance",
+      "rating": 8
+    },
+    {
+      "question": "What is happening when the investigators hear the sound of rifle fire in the middle of the night?",
+      "answer": "They are being shot at by Eugene Clayton, one of the passing undead servants.",
+      "rating": 9
+    },
+    {
+      "question": "What will happen if the investigators fail a Hard CON roll while moving forwards after hearing the rifle fire?",
+      "answer": "They will be unable to continue due to exhaustion.",
+      "rating": 8
+    },
+    {
+      "question": "What unusual situation will the investigators encounter in the forest?",
+      "answer": "There are fewer signs or sounds of animals this far in.",
+      "rating": 6
+    },
+    {
+      "question": "What night might the Keeper choose to have another encounter if the investigators wander far?",
+      "answer": "Either Day 2: The artist's body or Day 2: The Truck.",
+      "rating": 8
+    },
+    {
+      "question": "What is the possible outcome if the posse chooses to have another encounter with the Keeper on the same night?",
+      "answer": "The Keeper may choose to have another encounter that night.",
+      "rating": 8
+    },
+    {
+      "question": "What unusual environment do the posse enter on the next day?",
+      "answer": "The heart of the forest",
+      "rating": 9
+    },
+    {
+      "question": "What do those who succeed with Spot Hidden rolls notice on the ground?",
+      "answer": "Blood-spatters across their path upon the ground",
+      "rating": 8
+    },
+    {
+      "question": "What do those who pass Tracking rolls notice about the foliage?",
+      "answer": "That the foliage has been disturbed, with broken twigs and branches that imply someone was running while injured through here recently",
+      "rating": 9
+    },
+    {
+      "question": "What can be found on the trail after a half-mile?",
+      "answer": "A discarded hunting knife",
+      "rating": 7
+    },
+    {
+      "question": "How much SAN does the male body's corpse cost for those not accustomed to the sight of death?",
+      "answer": "0/1D3 SAN",
+      "rating": 8
+    },
+    {
+      "question": "Why does the trail detour away from the intended path?",
+      "answer": "Because of the disturbance of foliage, broken twigs, and branches",
+      "rating": 9
+    },
+    {
+      "question": "What happened to one of the artists who escaped the raid?",
+      "answer": "They were killed",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are the investigators directed to head?"
+      },
+      {
+        "role": "assistant",
+        "content": "Northeast"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the tracks left by Sidney Harris and Eugene Clayton?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tracks left in the forest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will be the investigators' progress if they constantly fail the tracking rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Slow and hazardous"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will the investigators gain from successful tracking rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "A slight advantage to anticipate encounters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of failing to find the tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "There will be no scenario."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can successful tracking rolls provide to the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "A slight advantage, allowing them to anticipate encounters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the investigators see for the first few hours of trekking through the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "The occasional glimpse of deer running between the thickets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should each player describe at this point in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "How their investigator is dressed, if they have not done so already."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of successful tracking rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "to provide a slight advantage to the players, allowing them to anticipate encounters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can investigators see in the forest during the first few hours of trekking?"
+      },
+      {
+        "role": "assistant",
+        "content": "occasional glimpses of deer running between the thickets"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is shooting at one of the passing undead servants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eugene Clayton"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator is awake around midnight and makes a Listen roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "success means that the investigator can make out the faint sound of a truck engine in the far distance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening when the investigators hear the sound of rifle fire in the middle of the night?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are being shot at by Eugene Clayton, one of the passing undead servants."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen if the investigators fail a Hard CON roll while moving forwards after hearing the rifle fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will be unable to continue due to exhaustion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What unusual situation will the investigators encounter in the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are fewer signs or sounds of animals this far in."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What night might the Keeper choose to have another encounter if the investigators wander far?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either Day 2: The artist's body or Day 2: The Truck."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the possible outcome if the posse chooses to have another encounter with the Keeper on the same night?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may choose to have another encounter that night."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What unusual environment do the posse enter on the next day?"
+      },
+      {
+        "role": "assistant",
+        "content": "The heart of the forest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do those who succeed with Spot Hidden rolls notice on the ground?"
+      },
+      {
+        "role": "assistant",
+        "content": "Blood-spatters across their path upon the ground"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do those who pass Tracking rolls notice about the foliage?"
+      },
+      {
+        "role": "assistant",
+        "content": "That the foliage has been disturbed, with broken twigs and branches that imply someone was running while injured through here recently"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be found on the trail after a half-mile?"
+      },
+      {
+        "role": "assistant",
+        "content": "A discarded hunting knife"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much SAN does the male body's corpse cost for those not accustomed to the sight of death?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D3 SAN"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the trail detour away from the intended path?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because of the disturbance of foliage, broken twigs, and branches"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to one of the artists who escaped the raid?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were killed"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

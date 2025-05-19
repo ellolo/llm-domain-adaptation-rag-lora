@@ -1,0 +1,412 @@
+{
+  "summary": "This document appears to be a price list for various goods and services, likely from a fictional or retro-futuristic setting. The list includes prices for ammunition, melee weapons, tents and campers, tools, motor vehicles, air travel, train fares, sea voyages, clothing, and other items. The prices range from a few cents to hundreds of thousands of dollars, suggesting a vast economic disparity between different classes or groups. The list also includes a section for \"Call of Cthulhu,\" which may be a reference to a popular tabletop role-playing game. Overall, the prices in this list suggest a complex and detailed world with a rich economy.",
+  "qa_pairs": [
+    {
+      "question": "What is the price of 10-Gauge Shell (25)?",
+      "answer": "$3.63",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of 16-Gauge Shell (100)?",
+      "answer": "$85\u00a2",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of 20-Gauge Shell (100)?",
+      "answer": "$1.90",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of 10-Gauge Shell (100)?",
+      "answer": "93\u00a2",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of 12-Gauge Shell (100)?",
+      "answer": "86\u00a2",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of 20-Gauge Shell (25)?",
+      "answer": "$3.30",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of Brass Knuckles?",
+      "answer": "$1.98",
+      "rating": 9
+    },
+    {
+      "question": "What is the starting price of a 3-Room Family Tent?",
+      "answer": "$70.00",
+      "rating": 8
+    },
+    {
+      "question": "How much is the Rolls Royce Ghost Sedan?",
+      "answer": "$260,000.00",
+      "rating": 9
+    },
+    {
+      "question": "What is the starting price of a Ducati Motorcycle?",
+      "answer": "$13,000.00",
+      "rating": 8
+    },
+    {
+      "question": "How much does a 50-mile train fare cost?",
+      "answer": "$6.25",
+      "rating": 9
+    },
+    {
+      "question": "What is the starting price of a BMW 1 Series?",
+      "answer": "$54,000.00",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a standard class sea voyage from the U.S. to England?",
+      "answer": "$1,600.00",
+      "rating": 9
+    },
+    {
+      "question": "How much does a 500-mile train fare cost?",
+      "answer": "$62.50",
+      "rating": 9
+    },
+    {
+      "question": "What is the price range for men's clothing?",
+      "answer": "$1,000+",
+      "rating": 8
+    },
+    {
+      "question": "How much does a Tailored Silk Suit cost?",
+      "answer": "$1,000+",
+      "rating": 8
+    },
+    {
+      "question": "How much does a Wool Pinstripe Suit cost?",
+      "answer": "$1,000+",
+      "rating": 8
+    },
+    {
+      "question": "How much does a Rayon-blend 2-piece Suit cost?",
+      "answer": "$200.00",
+      "rating": 9
+    },
+    {
+      "question": "How much does a Leather Bomber Jacket cost?",
+      "answer": "$250.00",
+      "rating": 8
+    },
+    {
+      "question": "How much does a Trench-Coat, Leather cost?",
+      "answer": "$35.00",
+      "rating": 9
+    },
+    {
+      "question": "How much does a Silk Tie cost?",
+      "answer": "$100.00",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of 10-Gauge Shell (25)?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3.63"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of 16-Gauge Shell (100)?"
+      },
+      {
+        "role": "assistant",
+        "content": "$85\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of 20-Gauge Shell (100)?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.90"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of 10-Gauge Shell (100)?"
+      },
+      {
+        "role": "assistant",
+        "content": "93\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of 12-Gauge Shell (100)?"
+      },
+      {
+        "role": "assistant",
+        "content": "86\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of 20-Gauge Shell (25)?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3.30"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of Brass Knuckles?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.98"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting price of a 3-Room Family Tent?"
+      },
+      {
+        "role": "assistant",
+        "content": "$70.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is the Rolls Royce Ghost Sedan?"
+      },
+      {
+        "role": "assistant",
+        "content": "$260,000.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting price of a Ducati Motorcycle?"
+      },
+      {
+        "role": "assistant",
+        "content": "$13,000.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a 50-mile train fare cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$6.25"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting price of a BMW 1 Series?"
+      },
+      {
+        "role": "assistant",
+        "content": "$54,000.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a standard class sea voyage from the U.S. to England?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,600.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a 500-mile train fare cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$62.50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price range for men's clothing?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,000+"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a Tailored Silk Suit cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,000+"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a Wool Pinstripe Suit cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,000+"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a Rayon-blend 2-piece Suit cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$200.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a Leather Bomber Jacket cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$250.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a Trench-Coat, Leather cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$35.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does a Silk Tie cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$100.00"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 21,
+    "retention_rate": 0.88,
+    "avg_score": 7.8
+  }
+}

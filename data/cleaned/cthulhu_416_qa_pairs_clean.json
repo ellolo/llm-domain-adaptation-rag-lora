@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the scenario, a group of investigators, including Sidney Harris, Eugene Clayton, and Christopher Dobbs, are trying to rescue a kidnapped girl named Jane Strong from a local bigwig named Lucas Strong. Meanwhile, a team of surveyors, led by Lucas Strong, have been taken over by the cult of Gla'aki and are now serving as undead servants, working to uncover a crystal and deliver it to their god. The investigators must navigate the treacherous forest and the cult's minions to reach the cabin where Jane is being held, while also dealing with the cult's increasing power and influence. The scenario is set in 1925, and the timeline of events is provided to help the investigators plan their actions.",
+  "qa_pairs": [
+    {
+      "question": "Who is the local bigwig and father to the kidnapped girl?",
+      "answer": "Lucas Strong",
+      "rating": 8
+    },
+    {
+      "question": "What is the goal of unearthing the crystal and delivering it to their god in the lake?",
+      "answer": "To deliver the crystal to their god in the lake",
+      "rating": 9
+    },
+    {
+      "question": "Who is the kidnapped girl, age 16?",
+      "answer": "Jane Strong",
+      "rating": 7
+    },
+    {
+      "question": "Who is one of the three kidnappers?",
+      "answer": "Eugene Clayton",
+      "rating": 8
+    },
+    {
+      "question": "Who are the kidnappers?",
+      "answer": "Eugene Clayton, Sidney Harris, and Christopher Dobbs.",
+      "rating": 9
+    },
+    {
+      "question": "Who is Jane Strong?",
+      "answer": "The kidnapped girl, age 16.",
+      "rating": 6
+    },
+    {
+      "question": "Who are the hunters?",
+      "answer": "Brian and Arthur Hall, Alistair and George Lawson (two father and son teams)",
+      "rating": 9
+    },
+    {
+      "question": "What is the status of Joseph Turner and his gang?",
+      "answer": "They are civil war deserters",
+      "rating": 8
+    },
+    {
+      "question": "What is Gla'aki's goal?",
+      "answer": "To use its influence to lead its servants to seek out and destroy a fragment of its crystal prison",
+      "rating": 9
+    },
+    {
+      "question": "What is the date of the events of Day 0?",
+      "answer": "Friday, June 19th 1925",
+      "rating": 8
+    },
+    {
+      "question": "Who are the hunters in the scenario?",
+      "answer": "Brian and Arthur Hall, Alistair and George Lawson (two father and son teams)",
+      "rating": 7
+    },
+    {
+      "question": "What are the goals of the servants of Gla'aki?",
+      "answer": "To sacrifice innocent people to Gla'aki and unearth a buried crystal",
+      "rating": 8
+    },
+    {
+      "question": "Who is the manifestation of Gla'aki in the lake?",
+      "answer": "The Thing in the Lake, a manifestation of the Great Old One, Gla'aki",
+      "rating": 9
+    },
+    {
+      "question": "What is the timeline of the major events in the scenario?",
+      "answer": "A timeline of major events, starting from Day 0: Friday, June 19th 1925",
+      "rating": 6
+    },
+    {
+      "question": "Who are the servants of Gla'aki?",
+      "answer": "Joseph Turner and his gang of civil war deserters",
+      "rating": 8
+    },
+    {
+      "question": "When do the servants of Gla'aki raid the Artists' camp?",
+      "answer": "Towards the end of the night, in the forest near the lake",
+      "rating": 7
+    },
+    {
+      "question": "What is the goal of the servants of Gla'aki?",
+      "answer": "To sacrifice innocent people to Gla'aki and unearth a buried crystal",
+      "rating": 8
+    },
+    {
+      "question": "Who kidnaps the players?",
+      "answer": "Sidney Harris runs back into the forest with Eugene Clayton",
+      "rating": 9
+    },
+    {
+      "question": "What were the two hunters captured along with the artists?",
+      "answer": "Brian and Arthur Hall",
+      "rating": 7
+    },
+    {
+      "question": "What happened to the artist who escaped from Hut 4?",
+      "answer": "He was fatally wounded but began to make his way back towards Bennington to seek help.",
+      "rating": 8
+    },
+    {
+      "question": "Who was holding the girl at the hideout?",
+      "answer": "Christoopher Dobbs",
+      "rating": 6
+    },
+    {
+      "question": "Who shot at one of the servants of Gla'aki that night?",
+      "answer": "Eugene Clayton",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the local bigwig and father to the kidnapped girl?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucas Strong"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of unearthing the crystal and delivering it to their god in the lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "To deliver the crystal to their god in the lake"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the kidnapped girl, age 16?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jane Strong"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is one of the three kidnappers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eugene Clayton"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the kidnappers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eugene Clayton, Sidney Harris, and Christopher Dobbs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is Jane Strong?"
+      },
+      {
+        "role": "assistant",
+        "content": "The kidnapped girl, age 16."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the hunters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian and Arthur Hall, Alistair and George Lawson (two father and son teams)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the status of Joseph Turner and his gang?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are civil war deserters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Gla'aki's goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "To use its influence to lead its servants to seek out and destroy a fragment of its crystal prison"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the date of the events of Day 0?"
+      },
+      {
+        "role": "assistant",
+        "content": "Friday, June 19th 1925"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the hunters in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian and Arthur Hall, Alistair and George Lawson (two father and son teams)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the goals of the servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "To sacrifice innocent people to Gla'aki and unearth a buried crystal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the manifestation of Gla'aki in the lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Thing in the Lake, a manifestation of the Great Old One, Gla'aki"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the timeline of the major events in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A timeline of major events, starting from Day 0: Friday, June 19th 1925"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "Joseph Turner and his gang of civil war deserters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When do the servants of Gla'aki raid the Artists' camp?"
+      },
+      {
+        "role": "assistant",
+        "content": "Towards the end of the night, in the forest near the lake"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "To sacrifice innocent people to Gla'aki and unearth a buried crystal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who kidnaps the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sidney Harris runs back into the forest with Eugene Clayton"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the two hunters captured along with the artists?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian and Arthur Hall"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the artist who escaped from Hut 4?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was fatally wounded but began to make his way back towards Bennington to seek help."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who was holding the girl at the hideout?"
+      },
+      {
+        "role": "assistant",
+        "content": "Christoopher Dobbs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who shot at one of the servants of Gla'aki that night?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eugene Clayton"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 22,
+    "retention_rate": 1.0,
+    "avg_score": 7.9
+  }
+}

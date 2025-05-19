@@ -1,0 +1,526 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the scenario, Dr. John Wheatcroft, a part-time professor and coroner at Miskatonic University, is involved in the investigation of Leiter's death. Fallon, the Dean, is anxious to secure the Witch Trial Papers and is willing to shift the blame if necessary. Wheatcroft is loyal to Fallon and the Faculty, but is struggling with the moral implications of covering up the true cause of Leiter's death. The investigators will need to keep Wheatcroft informed and gain his trust in order to uncover the truth behind Leiter's death.",
+  "qa_pairs": [
+    {
+      "question": "What is Fallon's concern about?",
+      "answer": "securing the papers before trouble escalates further between the Cobb family and the university",
+      "rating": 8
+    },
+    {
+      "question": "What will Fallon do if he cannot return the papers?",
+      "answer": "shift the blame to another NPC (or even the investigators), desperate to preserve his own reputation",
+      "rating": 9
+    },
+    {
+      "question": "Who will Fallon discuss the involvement of with Leiter?",
+      "answer": "Harland Roach and Emilia Court",
+      "rating": 7
+    },
+    {
+      "question": "What is Fallon's approach to investigating?",
+      "answer": "He insists on being systematic; evidence must be catalogued, evaluated, and retained until the matter is closed",
+      "rating": 8
+    },
+    {
+      "question": "Who is involved in discussing the papers with Harland Roach and Emilia Court?",
+      "answer": "Fallon",
+      "rating": 6
+    },
+    {
+      "question": "Why does Fallon become anxious about the papers?",
+      "answer": "Because trouble is escalating further between the Cobb family and the university",
+      "rating": 8
+    },
+    {
+      "question": "What is Fallon's approach to handling evidence?",
+      "answer": "He insists on being systematic, cataloguing, evaluating, and retaining evidence, including Leiter's corpse",
+      "rating": 9
+    },
+    {
+      "question": "What is Fallon's ultimate goal if he fails to return the papers?",
+      "answer": "To shift the blame to another NPC or even the investigators",
+      "rating": 8
+    },
+    {
+      "question": "What is Fallon's main goal in the scenario?",
+      "answer": "He wants to secure the papers before trouble escalates further between the Cobb family and the university.",
+      "rating": 8
+    },
+    {
+      "question": "What will happen if Fallon cannot secure the papers?",
+      "answer": "He will seek to shift the blame to another NPC or even the investigators to preserve his own reputation.",
+      "rating": 9
+    },
+    {
+      "question": "What is Fallon's background, according to the Keeper's Notes?",
+      "answer": "He has spent a short stint in the army in his youth and has dealt with 'unfortunate' matters for the Miskatonic University with tact and discretion.",
+      "rating": 8
+    },
+    {
+      "question": "How will Fallon want to receive updates on the investigation?",
+      "answer": "He will want regular private updates from the investigators, and the Dean can act as a conduit for information from the Keeper as needed.",
+      "rating": 7
+    },
+    {
+      "question": "What is one of the roles Fallon has handled at Miskatonic University?",
+      "answer": "dealing with 'unfortunate' matters",
+      "rating": 6
+    },
+    {
+      "question": "What will be the initial manifestation of the Horror if the Witch Trial Papers are handed to Fallon?",
+      "answer": "merely terrifying rather than fatal",
+      "rating": 9
+    },
+    {
+      "question": "Who can act as a conduit for information from the Keeper to Fallon?",
+      "answer": "the Dean",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary reason Fallon is a useful contact?",
+      "answer": "Because of his personal experiences, he is quietly informed that sometimes things far from the normal run of existence gather around Arkham and its university.",
+      "rating": 9
+    },
+    {
+      "question": "What can happen if the Witch Trial Papers are handed to Fallon early in the scenario?",
+      "answer": "The Horror will be drawn to him, although its first manifestation will be merely terrifying rather than fatal.",
+      "rating": 8
+    },
+    {
+      "question": "Can the investigators save Fallon if he appeals to them for help?",
+      "answer": "Whether they can save him is another matter!",
+      "rating": 7
+    },
+    {
+      "question": "What can happen to Fallon after he survives the scenario?",
+      "answer": "He can make for a useful contact in the future and a potential source of both information and employment.",
+      "rating": 8
+    },
+    {
+      "question": "How old is Doctor John Wheatcroft?",
+      "answer": "somewhere the wrong side of sixty",
+      "rating": 6
+    },
+    {
+      "question": "What position did Dr. John Wheatcroft hold in Boston?",
+      "answer": "an assistant coroner",
+      "rating": 9
+    },
+    {
+      "question": "Where did Dr. John Wheatcroft teach part-time?",
+      "answer": "Miskatonic University",
+      "rating": 8
+    },
+    {
+      "question": "How did Dr. John Wheatcroft lose weight?",
+      "answer": "since having a mild heart attack some ten years ago",
+      "rating": 7
+    },
+    {
+      "question": "What can be described about Dr. John Wheatcroft?",
+      "answer": "a dull, prosaic and unimag-inative man",
+      "rating": 9
+    },
+    {
+      "question": "What was Dr. John Wheatcroft's attitude towards exposing the strangeness of Leiter's death?",
+      "answer": "not to expose the strangeness of death and any scandal that might ensue",
+      "rating": 8
+    },
+    {
+      "question": "What did Dr. John Wheatcroft do to Leiter's remains?",
+      "answer": "pronounced Leiter dead and took charge of the body",
+      "rating": 9
+    },
+    {
+      "question": "What is weighing heavily on Dr. John Wheatcroft's conscience?",
+      "answer": "the mild cover-up of Leiter's death",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's concern about?"
+      },
+      {
+        "role": "assistant",
+        "content": "securing the papers before trouble escalates further between the Cobb family and the university"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will Fallon do if he cannot return the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "shift the blame to another NPC (or even the investigators), desperate to preserve his own reputation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who will Fallon discuss the involvement of with Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harland Roach and Emilia Court"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's approach to investigating?"
+      },
+      {
+        "role": "assistant",
+        "content": "He insists on being systematic; evidence must be catalogued, evaluated, and retained until the matter is closed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is involved in discussing the papers with Harland Roach and Emilia Court?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fallon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does Fallon become anxious about the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because trouble is escalating further between the Cobb family and the university"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's approach to handling evidence?"
+      },
+      {
+        "role": "assistant",
+        "content": "He insists on being systematic, cataloguing, evaluating, and retaining evidence, including Leiter's corpse"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's ultimate goal if he fails to return the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "To shift the blame to another NPC or even the investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's main goal in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "He wants to secure the papers before trouble escalates further between the Cobb family and the university."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen if Fallon cannot secure the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will seek to shift the blame to another NPC or even the investigators to preserve his own reputation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's background, according to the Keeper's Notes?"
+      },
+      {
+        "role": "assistant",
+        "content": "He has spent a short stint in the army in his youth and has dealt with 'unfortunate' matters for the Miskatonic University with tact and discretion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How will Fallon want to receive updates on the investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will want regular private updates from the investigators, and the Dean can act as a conduit for information from the Keeper as needed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the roles Fallon has handled at Miskatonic University?"
+      },
+      {
+        "role": "assistant",
+        "content": "dealing with 'unfortunate' matters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will be the initial manifestation of the Horror if the Witch Trial Papers are handed to Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "merely terrifying rather than fatal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can act as a conduit for information from the Keeper to Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Dean"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary reason Fallon is a useful contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because of his personal experiences, he is quietly informed that sometimes things far from the normal run of existence gather around Arkham and its university."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if the Witch Trial Papers are handed to Fallon early in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Horror will be drawn to him, although its first manifestation will be merely terrifying rather than fatal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigators save Fallon if he appeals to them for help?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whether they can save him is another matter!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to Fallon after he survives the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "He can make for a useful contact in the future and a potential source of both information and employment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How old is Doctor John Wheatcroft?"
+      },
+      {
+        "role": "assistant",
+        "content": "somewhere the wrong side of sixty"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What position did Dr. John Wheatcroft hold in Boston?"
+      },
+      {
+        "role": "assistant",
+        "content": "an assistant coroner"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where did Dr. John Wheatcroft teach part-time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Miskatonic University"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Dr. John Wheatcroft lose weight?"
+      },
+      {
+        "role": "assistant",
+        "content": "since having a mild heart attack some ten years ago"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be described about Dr. John Wheatcroft?"
+      },
+      {
+        "role": "assistant",
+        "content": "a dull, prosaic and unimag-inative man"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Dr. John Wheatcroft's attitude towards exposing the strangeness of Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "not to expose the strangeness of death and any scandal that might ensue"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did Dr. John Wheatcroft do to Leiter's remains?"
+      },
+      {
+        "role": "assistant",
+        "content": "pronounced Leiter dead and took charge of the body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is weighing heavily on Dr. John Wheatcroft's conscience?"
+      },
+      {
+        "role": "assistant",
+        "content": "the mild cover-up of Leiter's death"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 27,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

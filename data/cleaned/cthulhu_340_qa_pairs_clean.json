@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nGhasts and Ghasts are two types of formless, cannibalistic creatures that inhabit the underworld and vast caverns, where sunlight never reaches. They are restricted to these environments and are sensitive to direct sunlight, which causes them to sicken and eventually die. Ghasts are capable of attacking and swallowing prey, dealing damage and potentially gaining sanity points, while also being vulnerable to physical attacks and able to dodge. They have unique characteristics, such as their ability to swallow prey and digest it, and are often found in conjunction with other, more humanoid creatures.",
+  "qa_pairs": [
+    {
+      "question": "How does a victim take damage from constriction?",
+      "answer": "The victim takes 1 point of damage per round, increasing by 1 point each round.",
+      "rating": 9
+    },
+    {
+      "question": "What can friends do to help a victim being swallowed?",
+      "answer": "Friends can attempt to slay the monster to free the victim.",
+      "rating": 8
+    },
+    {
+      "question": "What is a formless spawn capable of doing while swallowing prey?",
+      "answer": "A formless spawn can make one Bite attack per round and continue to swallow prey until it has swallowed its own SIZ in prey.",
+      "rating": 9
+    },
+    {
+      "question": "What can a formless spawn do after swallowing prey?",
+      "answer": "After swallowing prey, a formless spawn may continue to fight but may not shift location without disgorging what it has swallowed.",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of a monster's Grab attack?",
+      "answer": "The range of a monster's Grab attack is always one-fifth of the monster's SIZ in yards.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a formless spawn when it swallows its own SIZ in prey?",
+      "answer": "It may not shift location without disgorging what it has swallowed.",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of Grab (mnvr) attack?",
+      "answer": "The range is always one-fifth of the monster's SIZ in yards.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the time does a formless spawn deal damage with Bite?",
+      "answer": "30% (15/6),",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of the time does a formless spawn have a Dodge chance?",
+      "answer": "47% (23/9)",
+      "rating": 8
+    },
+    {
+      "question": "What is the source of a formless spawn's Sanity points?",
+      "answer": "1/1D10 Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of damage is dealt by a Ghast's Grab attack?",
+      "answer": "60%",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of damage is dealt by a Ghast's Bite attack?",
+      "answer": "30%",
+      "rating": 8
+    },
+    {
+      "question": "How much damage is dealt by a Ghast's Grab attack?",
+      "answer": "2D6 + damage bonus",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of damage is dealt by a Ghast's Dodge attack?",
+      "answer": "47%",
+      "rating": 8
+    },
+    {
+      "question": "How much Sanity points is a Ghast immune to?",
+      "answer": "1/1D10",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition that causes ghasts to die?",
+      "answer": "Exposed to direct sunlight, they sicken and eventually die.",
+      "rating": 8
+    },
+    {
+      "question": "What do ghasts primarily eat?",
+      "answer": "Each other and other beings they catch.",
+      "rating": 8
+    },
+    {
+      "question": "Are ghasts likely the result of genetic experimentation?",
+      "answer": "If they are relatives of, or examples of, the humans who inhabit the cavern of K\u2019n-Yan.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for ghasts?",
+      "answer": "+2D6.",
+      "rating": 7
+    },
+    {
+      "question": "What is the average hit points for a ghast?",
+      "answer": "20",
+      "rating": 8
+    },
+    {
+      "question": "What is the average HP of a ghast?",
+      "answer": "20",
+      "rating": 8
+    },
+    {
+      "question": "What is the average damage bonus for a ghast?",
+      "answer": "+2D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the average size of a ghast?",
+      "answer": "3",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage of a ghast's unarmed attack?",
+      "answer": "1D6",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a victim take damage from constriction?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim takes 1 point of damage per round, increasing by 1 point each round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can friends do to help a victim being swallowed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Friends can attempt to slay the monster to free the victim."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a formless spawn capable of doing while swallowing prey?"
+      },
+      {
+        "role": "assistant",
+        "content": "A formless spawn can make one Bite attack per round and continue to swallow prey until it has swallowed its own SIZ in prey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can a formless spawn do after swallowing prey?"
+      },
+      {
+        "role": "assistant",
+        "content": "After swallowing prey, a formless spawn may continue to fight but may not shift location without disgorging what it has swallowed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of a monster's Grab attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The range of a monster's Grab attack is always one-fifth of the monster's SIZ in yards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a formless spawn when it swallows its own SIZ in prey?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may not shift location without disgorging what it has swallowed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of Grab (mnvr) attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The range is always one-fifth of the monster's SIZ in yards."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the time does a formless spawn deal damage with Bite?"
+      },
+      {
+        "role": "assistant",
+        "content": "30% (15/6),"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the time does a formless spawn have a Dodge chance?"
+      },
+      {
+        "role": "assistant",
+        "content": "47% (23/9)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of a formless spawn's Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D10 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage is dealt by a Ghast's Grab attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "60%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage is dealt by a Ghast's Bite attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt by a Ghast's Grab attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 + damage bonus"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage is dealt by a Ghast's Dodge attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "47%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points is a Ghast immune to?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that causes ghasts to die?"
+      },
+      {
+        "role": "assistant",
+        "content": "Exposed to direct sunlight, they sicken and eventually die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do ghasts primarily eat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each other and other beings they catch."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are ghasts likely the result of genetic experimentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "If they are relatives of, or examples of, the humans who inhabit the cavern of K\u2019n-Yan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for ghasts?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average hit points for a ghast?"
+      },
+      {
+        "role": "assistant",
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average HP of a ghast?"
+      },
+      {
+        "role": "assistant",
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a ghast?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average size of a ghast?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of a ghast's unarmed attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.1
+  }
+}

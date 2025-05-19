@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this document, the rules for creating an investigator in a role-playing game are outlined. The investigator's day-to-day living standards are determined by their Credit Rating score, which affects their ability to afford basic necessities like accommodation, food, and travel. The Credit Rating score also influences the investigator's wealth and possessions, with higher scores indicating greater luxury and comfort. The investigator's name, picture, and equipment are also customizable, allowing players to create a unique character.",
+  "qa_pairs": [
+    {
+      "question": "What is the condition that requires a Sanity roll when the investigator loses their key connection during play?",
+      "answer": "Losing one's key connection during play requires a Sanity roll.",
+      "rating": 10
+    },
+    {
+      "question": "Can the investigator's sex influence gameplay or advantage in the game?",
+      "answer": "No game rule distinguishes between male and female; neither sex has an advantage over the other.",
+      "rating": 10
+    },
+    {
+      "question": "What should the player do when presented with the opportunity to save their key connection during gameplay?",
+      "answer": "The player must be presented with the opportunity to make at least one dice roll to save the connection.",
+      "rating": 10
+    },
+    {
+      "question": "How is the investigator's name determined during gameplay?",
+      "answer": "The name of the investigator is whatever the player finds entertaining or evocative.",
+      "rating": 8
+    },
+    {
+      "question": "What factors are considered in the name of the investigator?",
+      "answer": "The name of the investigator is whatever the player finds entertaining or evocative.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of drawing a picture of the investigator?",
+      "answer": "A useful way to introduce your investigator to the other players.",
+      "rating": 9
+    },
+    {
+      "question": "What can be used to draw a picture of the investigator?",
+      "answer": "You could cut out a suitable portrait from a magazine or print one from the Internet.",
+      "rating": 9
+    },
+    {
+      "question": "Why is drawing a picture of the investigator useful?",
+      "answer": "Even a small picture can say a lot.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of Step Five: Equip the Investigator?",
+      "answer": "To determine the investigator's day-to-day living standards",
+      "rating": 9
+    },
+    {
+      "question": "How is the investigator's wealth calculated?",
+      "answer": "By the amount of cash and the amount of assets they possess",
+      "rating": 8
+    },
+    {
+      "question": "What determines the likelihood of owning major possessions?",
+      "answer": "The Credit Rating score",
+      "rating": 9
+    },
+    {
+      "question": "What can be spent immediately, and what needs time to be realized?",
+      "answer": "Cash can be spent immediately, while assets tied up in capital can only be spent after realization",
+      "rating": 8
+    },
+    {
+      "question": "What is the definition of a 'penniless' person?",
+      "answer": "A person that cannot even afford the level of \u2017poor\u2017 is considered penniless.",
+      "rating": 7
+    },
+    {
+      "question": "What is the minimum accommodation a 'poor' person can afford?",
+      "answer": "restricted to the cheapest rental housing or fleabag hotel",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum form of travel a 'poor' person can afford?",
+      "answer": "public transport of the cheapest sort",
+      "rating": 7
+    },
+    {
+      "question": "How many points are available in the credit rating system?",
+      "answer": "Credit Rating 0-9",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of a 'penniless' person?",
+      "answer": "A person that cannot even afford the level of 'poor' is considered penniless.",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical accommodation for someone with a credit rating of 1?",
+      "answer": "Restricted to the cheapest rental housing or fleabag hotel.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical form of travel for someone with a credit rating of 10?",
+      "answer": "Standard forms of travel can be used, but not first class.",
+      "rating": 7
+    },
+    {
+      "question": "What can be expected for someone with a credit rating of 10?",
+      "answer": "A reasonable level of comfort, three meals a day and occasional treat.",
+      "rating": 8
+    },
+    {
+      "question": "What type of transport can be used at a credit rating of 50-89?",
+      "answer": "First class",
+      "rating": 6
+    },
+    {
+      "question": "What type of accommodation can be expected at a credit rating of 50-89?",
+      "answer": "A substantial residence, possibly with some domestic help",
+      "rating": 9
+    },
+    {
+      "question": "What type of car can be expected at a credit rating of 50-89?",
+      "answer": "An expensive car or equivalent",
+      "rating": 9
+    },
+    {
+      "question": "What type of travel can be used at a credit rating of 10-49?",
+      "answer": "Standard forms of travel, but not first class",
+      "rating": 7
+    },
+    {
+      "question": "What is the typical accommodation for someone with a Credit Rating 50-89?",
+      "answer": "A substantial residence, perhaps with some domestic help",
+      "rating": 8
+    },
+    {
+      "question": "What is the typical car ownership for someone with a Credit Rating 90+?",
+      "answer": "Numerous luxury cars",
+      "rating": 9
+    },
+    {
+      "question": "What level of wealth affords luxury and comfort?",
+      "answer": "Credit Rating 50-89",
+      "rating": 7
+    },
+    {
+      "question": "What level of wealth affords great luxury and comfort?",
+      "answer": "Credit Rating 90+",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that requires a Sanity roll when the investigator loses their key connection during play?"
+      },
+      {
+        "role": "assistant",
+        "content": "Losing one's key connection during play requires a Sanity roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigator's sex influence gameplay or advantage in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "No game rule distinguishes between male and female; neither sex has an advantage over the other."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the player do when presented with the opportunity to save their key connection during gameplay?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player must be presented with the opportunity to make at least one dice roll to save the connection."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the investigator's name determined during gameplay?"
+      },
+      {
+        "role": "assistant",
+        "content": "The name of the investigator is whatever the player finds entertaining or evocative."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors are considered in the name of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The name of the investigator is whatever the player finds entertaining or evocative."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of drawing a picture of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "A useful way to introduce your investigator to the other players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to draw a picture of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "You could cut out a suitable portrait from a magazine or print one from the Internet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is drawing a picture of the investigator useful?"
+      },
+      {
+        "role": "assistant",
+        "content": "Even a small picture can say a lot."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Step Five: Equip the Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine the investigator's day-to-day living standards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the investigator's wealth calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "By the amount of cash and the amount of assets they possess"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the likelihood of owning major possessions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Credit Rating score"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be spent immediately, and what needs time to be realized?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cash can be spent immediately, while assets tied up in capital can only be spent after realization"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of a 'penniless' person?"
+      },
+      {
+        "role": "assistant",
+        "content": "A person that cannot even afford the level of \u2017poor\u2017 is considered penniless."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum accommodation a 'poor' person can afford?"
+      },
+      {
+        "role": "assistant",
+        "content": "restricted to the cheapest rental housing or fleabag hotel"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum form of travel a 'poor' person can afford?"
+      },
+      {
+        "role": "assistant",
+        "content": "public transport of the cheapest sort"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points are available in the credit rating system?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating 0-9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of a 'penniless' person?"
+      },
+      {
+        "role": "assistant",
+        "content": "A person that cannot even afford the level of 'poor' is considered penniless."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical accommodation for someone with a credit rating of 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restricted to the cheapest rental housing or fleabag hotel."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical form of travel for someone with a credit rating of 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Standard forms of travel can be used, but not first class."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be expected for someone with a credit rating of 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "A reasonable level of comfort, three meals a day and occasional treat."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of transport can be used at a credit rating of 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "First class"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of accommodation can be expected at a credit rating of 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "A substantial residence, possibly with some domestic help"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of car can be expected at a credit rating of 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "An expensive car or equivalent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of travel can be used at a credit rating of 10-49?"
+      },
+      {
+        "role": "assistant",
+        "content": "Standard forms of travel, but not first class"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical accommodation for someone with a Credit Rating 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "A substantial residence, perhaps with some domestic help"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical car ownership for someone with a Credit Rating 90+?"
+      },
+      {
+        "role": "assistant",
+        "content": "Numerous luxury cars"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What level of wealth affords luxury and comfort?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating 50-89"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What level of wealth affords great luxury and comfort?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating 90+"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

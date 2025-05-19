@@ -1,0 +1,374 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document, likely from the Call of Cthulhu tabletop role-playing game, outlines the \"Tomes of Eldritch Lore\" and provides a list of spells with their standard purposes and results. The Keeper of the game is advised to modify these spells according to the needs of the scenario or campaign, as well as to consider the risks of using such powerful and otherworldly forces. The document also emphasizes the importance of maintaining sanity, as the casting of spells will inevitably lead to a gradual disintegration of the caster's link to reality. The goal of a cultist is to relinquish all sanity and replace it with an understanding of the true nature of the universe.",
+  "qa_pairs": [
+    {
+      "question": "Who is the author of 'Tomes of Eldritch Lore'?",
+      "answer": "H Hadley Copeland",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of a book series by various authors?",
+      "answer": "Call of Cthulhu Spells",
+      "rating": 9
+    },
+    {
+      "question": "When was the 'Call of Cthulhu' published?",
+      "answer": "1964",
+      "rating": 8
+    },
+    {
+      "question": "When was the Carnamagos written?",
+      "answer": "1788",
+      "rating": 7
+    },
+    {
+      "question": "Who is the author of the Grimoire?",
+      "answer": "The text does not mention the author's name, but it lists 'Ward Philips' and 'Theophilus Wenn' as authors of other works in the 17th and 20th centuries.",
+      "rating": 6
+    },
+    {
+      "question": "What are Keepers encouraged to do with the spells listed here?",
+      "answer": "Keepers are encouraged to further develop, alter, and enhance the spells listed here.",
+      "rating": 9
+    },
+    {
+      "question": "Should Keepers create more powerful versions of the spells?",
+      "answer": "Care should be taken when creating more powerful versions of the spells.",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of spells in the game?",
+      "answer": "Spells should never be considered mundane within the world of the game.",
+      "rating": 9
+    },
+    {
+      "question": "What can happen to investigators who meddle with magic?",
+      "answer": "Meddling with such forces is likely to cripple the unwary user in both mind and body.",
+      "rating": 9
+    },
+    {
+      "question": "Under what condition might an investigator cast a spell involuntarily?",
+      "answer": "An investigator might cast a spell involuntarily while under the Keeper\u2019s control during a bout of madness.",
+      "rating": 9
+    },
+    {
+      "question": "Where can investigators learn more about altering spells?",
+      "answer": "Further advice on how to alter spells is offered in Spell Variations (see nearby).",
+      "rating": 8
+    },
+    {
+      "question": "What should investigators be cautious about when dealing with these forces?",
+      "answer": "investigators, and meddling with such forces is likely to cripple the unwary user in both mind and body",
+      "rating": 7
+    },
+    {
+      "question": "Can investigators cast a spell involuntarily while under the Keeper's control?",
+      "answer": "An investigator might cast a spell involuntarily while under the Keeper\u2019s control during a bout of madness.",
+      "rating": 9
+    },
+    {
+      "question": "Why should Keepers use more evocative titles for spells?",
+      "answer": "Keepers are strongly advised to use more evocative titles wherever possible.",
+      "rating": 8
+    },
+    {
+      "question": "Can different authors have the same name for a spell?",
+      "answer": "Different spells may even have the same or similar names.",
+      "rating": 9
+    },
+    {
+      "question": "What can cause an investigator to cast a spell involuntarily?",
+      "answer": "A bout of madness while under the Keeper\u2019s control",
+      "rating": 8
+    },
+    {
+      "question": "Why is the casting of spells antithetical and corrosive to human sanity?",
+      "answer": "Because Mythos magic eats away at sanity, gradually disintegrating the caster\u2019s link to the human world",
+      "rating": 9
+    },
+    {
+      "question": "What is the ultimate aim of a cultist in the Cthulhu Mythos?",
+      "answer": "To relinquish all trace of human sanity and replace it with an understanding of the true nature of the universe",
+      "rating": 9
+    },
+    {
+      "question": "How does the path to Mythos wisdom and knowledge affect a person?",
+      "answer": "It leads to insanity, gradually disintegrating the caster\u2019s link to the human world",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the author of 'Tomes of Eldritch Lore'?"
+      },
+      {
+        "role": "assistant",
+        "content": "H Hadley Copeland"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of a book series by various authors?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu Spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the 'Call of Cthulhu' published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1964"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Carnamagos written?"
+      },
+      {
+        "role": "assistant",
+        "content": "1788"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the author of the Grimoire?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not mention the author's name, but it lists 'Ward Philips' and 'Theophilus Wenn' as authors of other works in the 17th and 20th centuries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Keepers encouraged to do with the spells listed here?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keepers are encouraged to further develop, alter, and enhance the spells listed here."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Should Keepers create more powerful versions of the spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care should be taken when creating more powerful versions of the spells."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of spells in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spells should never be considered mundane within the world of the game."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to investigators who meddle with magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meddling with such forces is likely to cripple the unwary user in both mind and body."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition might an investigator cast a spell involuntarily?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator might cast a spell involuntarily while under the Keeper\u2019s control during a bout of madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators learn more about altering spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Further advice on how to alter spells is offered in Spell Variations (see nearby)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should investigators be cautious about when dealing with these forces?"
+      },
+      {
+        "role": "assistant",
+        "content": "investigators, and meddling with such forces is likely to cripple the unwary user in both mind and body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators cast a spell involuntarily while under the Keeper's control?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator might cast a spell involuntarily while under the Keeper\u2019s control during a bout of madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should Keepers use more evocative titles for spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keepers are strongly advised to use more evocative titles wherever possible."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can different authors have the same name for a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Different spells may even have the same or similar names."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can cause an investigator to cast a spell involuntarily?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bout of madness while under the Keeper\u2019s control"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is the casting of spells antithetical and corrosive to human sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because Mythos magic eats away at sanity, gradually disintegrating the caster\u2019s link to the human world"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate aim of a cultist in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "To relinquish all trace of human sanity and replace it with an understanding of the true nature of the universe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the path to Mythos wisdom and knowledge affect a person?"
+      },
+      {
+        "role": "assistant",
+        "content": "It leads to insanity, gradually disintegrating the caster\u2019s link to the human world"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 19,
+    "retention_rate": 0.95,
+    "avg_score": 8.0
+  }
+}

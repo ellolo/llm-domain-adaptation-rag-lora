@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes various substances and devices used by ancient, otherworldly beings in the Mythos, a fictional universe created by H.P. Lovecraft. The substances include the Black Lotus flower, a rare and potent substance that can induce madness and hallucinations, and the Carotid Toxin, a poison that causes slow degeneration and massive internal bleeding. The document also describes the Brain Cylinder, a device used by the Mi-go to preserve and enhance human brains, and the Crystal of the Elder Things, a device used by Elder Things to harness the power needed to bind shoggoths. These substances and devices are used to manipulate and control humans, and can have devastating effects on the victims.",
+  "qa_pairs": [
+    {
+      "question": "What is the effect of the black lotus flower on the victim?",
+      "answer": "The victim goes into spasm until collapsing into unconsciousness.",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points are lost per minute the drug is active?",
+      "answer": "1D4 Sanity points are lost per minute the drug is active.",
+      "rating": 8
+    },
+    {
+      "question": "How long does the victim sleep after collapsing into unconsciousness?",
+      "answer": "The victim sleeps for 1D10 hours.",
+      "rating": 7
+    },
+    {
+      "question": "Is the black lotus flower thought to be extinct today?",
+      "answer": "Yes, it is thought the infamous plant is long extinct.",
+      "rating": 9
+    },
+    {
+      "question": "What is a common outcome for the victim in the described phenomenon?",
+      "answer": "The victim wakes up totally insane.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current status of the black lotus flower?",
+      "answer": "It is thought to be long extinct.",
+      "rating": 9
+    },
+    {
+      "question": "What are ancient vials and jars often found to contain?",
+      "answer": "Quantities of black stygian powder.",
+      "rating": 8
+    },
+    {
+      "question": "How would the Mi-go use a Brain Cylinder?",
+      "answer": "To preserve extracted brains.",
+      "rating": 9
+    },
+    {
+      "question": "What are ancient vials and jars used for?",
+      "answer": "They are used to contain quantities of black stygian powder.",
+      "rating": 9
+    },
+    {
+      "question": "What is the shape of the Brain Cylinder?",
+      "answer": "It is a foot high and somewhat less in diameter, with three curious sockets set in an isosceles triangle.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the nutrient solution in the Brain Cylinder?",
+      "answer": "It sustains the brain within the cylinder.",
+      "rating": 9
+    },
+    {
+      "question": "What do the accessory machines in the Brain Cylinder provide to the mi-go brain?",
+      "answer": "They provide the brain with the faculties of sight, speech, and hearing.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three accessory machines in the mi-go sensing apparatus?",
+      "answer": "a tall rig with twin lenses mounted on front, a box with vacuum-tubes, and a small box with a metal disc on top",
+      "rating": 8
+    },
+    {
+      "question": "What do the mi-go lack in terms of human senses?",
+      "answer": "human senses, specifically sight, speech, and hearing",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition of the brain when the sensory machines are disconnected or deactivated?",
+      "answer": "The brain falls into a semi-insane sleep state filled with strange dreams and hallucinations.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a human brain if it successfully rolls inside a cylinder?",
+      "answer": "The brain remembers it is stuck inside a tin can and loses 1D3 Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of the Carotid Toxin on the human body?",
+      "answer": "The toxin slowly eats away at the carotid arteries, causing massive internal bleeding and almost inevitable death.",
+      "rating": 9
+    },
+    {
+      "question": "Who uses the Carotid Toxin?",
+      "answer": "The Serpent people",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the brain when the sensory machines are disconnected or deactivated?",
+      "answer": "The brain falls into a semi-insane sleep state filled with strange dreams and hallucinations.",
+      "rating": 9
+    },
+    {
+      "question": "How does the Carotid Toxin affect the carotid arteries?",
+      "answer": "The toxin slowly eats away at the carotid arteries, causing massive internal bleeding.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the victim's STR and CON after being poisoned with the Carotid Toxin?",
+      "answer": "STR and CON temporarily drop to 10, and the victim is utterly exhausted and suffers from terrifying hallucinations.",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for the poison to take its full effect?",
+      "answer": "The effect of the poison takes a number of days equal to one-fifth of the victim's CON.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition of STR and CON during the period of terror for a victim?",
+      "answer": "STR and CON temporarily drop to 10\u2013",
+      "rating": 7
+    },
+    {
+      "question": "How much STR and CON a victim regains per day after the period of terror?",
+      "answer": "1D10 points of STR and CON per day",
+      "rating": 9
+    },
+    {
+      "question": "What do the Elder Things use the Crystal of the Elder Things for?",
+      "answer": "to harness the power needed to bind shoggoths to elder thing",
+      "rating": 9
+    },
+    {
+      "question": "What do the Elder Things use the Crystal of the Elder Things to store?",
+      "answer": "magic",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the black lotus flower on the victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim goes into spasm until collapsing into unconsciousness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost per minute the drug is active?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 Sanity points are lost per minute the drug is active."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the victim sleep after collapsing into unconsciousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim sleeps for 1D10 hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the black lotus flower thought to be extinct today?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it is thought the infamous plant is long extinct."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common outcome for the victim in the described phenomenon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim wakes up totally insane."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of the black lotus flower?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is thought to be long extinct."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are ancient vials and jars often found to contain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Quantities of black stygian powder."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How would the Mi-go use a Brain Cylinder?"
+      },
+      {
+        "role": "assistant",
+        "content": "To preserve extracted brains."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are ancient vials and jars used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are used to contain quantities of black stygian powder."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the shape of the Brain Cylinder?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is a foot high and somewhat less in diameter, with three curious sockets set in an isosceles triangle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the nutrient solution in the Brain Cylinder?"
+      },
+      {
+        "role": "assistant",
+        "content": "It sustains the brain within the cylinder."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the accessory machines in the Brain Cylinder provide to the mi-go brain?"
+      },
+      {
+        "role": "assistant",
+        "content": "They provide the brain with the faculties of sight, speech, and hearing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three accessory machines in the mi-go sensing apparatus?"
+      },
+      {
+        "role": "assistant",
+        "content": "a tall rig with twin lenses mounted on front, a box with vacuum-tubes, and a small box with a metal disc on top"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the mi-go lack in terms of human senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "human senses, specifically sight, speech, and hearing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the brain when the sensory machines are disconnected or deactivated?"
+      },
+      {
+        "role": "assistant",
+        "content": "The brain falls into a semi-insane sleep state filled with strange dreams and hallucinations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a human brain if it successfully rolls inside a cylinder?"
+      },
+      {
+        "role": "assistant",
+        "content": "The brain remembers it is stuck inside a tin can and loses 1D3 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Carotid Toxin on the human body?"
+      },
+      {
+        "role": "assistant",
+        "content": "The toxin slowly eats away at the carotid arteries, causing massive internal bleeding and almost inevitable death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who uses the Carotid Toxin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Serpent people"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the brain when the sensory machines are disconnected or deactivated?"
+      },
+      {
+        "role": "assistant",
+        "content": "The brain falls into a semi-insane sleep state filled with strange dreams and hallucinations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Carotid Toxin affect the carotid arteries?"
+      },
+      {
+        "role": "assistant",
+        "content": "The toxin slowly eats away at the carotid arteries, causing massive internal bleeding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's STR and CON after being poisoned with the Carotid Toxin?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR and CON temporarily drop to 10, and the victim is utterly exhausted and suffers from terrifying hallucinations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for the poison to take its full effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The effect of the poison takes a number of days equal to one-fifth of the victim's CON."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of STR and CON during the period of terror for a victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR and CON temporarily drop to 10\u2013"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much STR and CON a victim regains per day after the period of terror?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 points of STR and CON per day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the Elder Things use the Crystal of the Elder Things for?"
+      },
+      {
+        "role": "assistant",
+        "content": "to harness the power needed to bind shoggoths to elder thing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the Elder Things use the Crystal of the Elder Things to store?"
+      },
+      {
+        "role": "assistant",
+        "content": "magic"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

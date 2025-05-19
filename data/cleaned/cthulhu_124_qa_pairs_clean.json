@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, firearms combat is governed by specific rules. When firing at a target, the attacker rolls damage for half of the shots fired, subtracting any armor from each shot. The difficulty level of the shot affects the outcome, with Extreme success guaranteeing a hit and impale, while Regular and Hard success result in a hit and partial damage. The game also allows for partial volleys, where the attacker fires fewer shots at multiple targets, to conserve ammunition and manage the difficulty level of the shot.",
+  "qa_pairs": [
+    {
+      "question": "What happens when an Extreme success attack roll is made?",
+      "answer": "all shots fired hit the target, the first half (round down, minimum of one) of which impale",
+      "rating": 9
+    },
+    {
+      "question": "How many attack rolls are made for a full auto shot at normal range?",
+      "answer": "one attack roll for each volley of 6 shots",
+      "rating": 8
+    },
+    {
+      "question": "What is the penalty for the second volley of 6 bullets?",
+      "answer": "a penalty die",
+      "rating": 7
+    },
+    {
+      "question": "What is the penalty for the third volley of 6 bullets?",
+      "answer": "two penalty dice",
+      "rating": 8
+    },
+    {
+      "question": "What is the minimum number of shots that will be impaled if an Extreme success attack roll is made?",
+      "answer": "the first half (round down, minimum of one)",
+      "rating": 9
+    },
+    {
+      "question": "What is the best possible result for a shooter with a skill of 63% and Extreme difficulty level?",
+      "answer": "a successful hit",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for shots 19-24?",
+      "answer": "Hard",
+      "rating": 7
+    },
+    {
+      "question": "What is the penalty die for the second volley of 6 bullets?",
+      "answer": "a penalty die",
+      "rating": 7
+    },
+    {
+      "question": "How many shots are in each volley of 6 bullets?",
+      "answer": "6",
+      "rating": 10
+    },
+    {
+      "question": "How many penalty dice are for the third volley of 6 bullets?",
+      "answer": "two",
+      "rating": 10
+    },
+    {
+      "question": "How many shots would a character need to fire at each target in a partial volley?",
+      "answer": "4 shots",
+      "rating": 10
+    },
+    {
+      "question": "How many penalty dice would a character have with their second attack roll?",
+      "answer": "One penalty die",
+      "rating": 8
+    },
+    {
+      "question": "How many penalty dice would a character have with their third attack roll?",
+      "answer": "Two penalty dice",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of the character with the high DEX value?",
+      "answer": "To open fire on the investigators, initiating a combat round",
+      "rating": 10
+    },
+    {
+      "question": "Who are the investigators in this scenario?",
+      "answer": "Harvey, Rodger, and Cecil",
+      "rating": 9
+    },
+    {
+      "question": "Why did the attacker fire only three partial volleys of 4 shots?",
+      "answer": "To conserve ammunition.",
+      "rating": 8
+    },
+    {
+      "question": "What was the attacker's firearm skill?",
+      "answer": "40 (Regular)",
+      "rating": 8
+    },
+    {
+      "question": "What was the gangster's Dodge skill?",
+      "answer": "25 (Regular)",
+      "rating": 8
+    },
+    {
+      "question": "What was the gangster's hit points?",
+      "answer": "13",
+      "rating": 9
+    },
+    {
+      "question": "What was Harvey's Fighting (Brawl) skill?",
+      "answer": "25 (Regular)",
+      "rating": 8
+    },
+    {
+      "question": "What is the gangster's action?",
+      "answer": "The gangster goes first, firing on his DEX +50 for using a readied firearm.",
+      "rating": 9
+    },
+    {
+      "question": "How many shots does the gangster fire at each investigator?",
+      "answer": "He chooses to fire 4 shots at each of the three investigators (3 volleys, 12 shots in total).",
+      "rating": 9
+    },
+    {
+      "question": "How many meters are the investigators apart?",
+      "answer": "The Keeper rules that the investigators are each 3 meters apart;",
+      "rating": 7
+    },
+    {
+      "question": "How many extra rounds does the gangster waste moving between his targets?",
+      "answer": "he wastes 6 extra rounds moving between his three targets (his",
+      "rating": 8
+    },
+    {
+      "question": "What is the total number of shots fired by the gangster?",
+      "answer": "He fires 12 shots in total.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an Extreme success attack roll is made?"
+      },
+      {
+        "role": "assistant",
+        "content": "all shots fired hit the target, the first half (round down, minimum of one) of which impale"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attack rolls are made for a full auto shot at normal range?"
+      },
+      {
+        "role": "assistant",
+        "content": "one attack roll for each volley of 6 shots"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for the second volley of 6 bullets?"
+      },
+      {
+        "role": "assistant",
+        "content": "a penalty die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for the third volley of 6 bullets?"
+      },
+      {
+        "role": "assistant",
+        "content": "two penalty dice"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of shots that will be impaled if an Extreme success attack roll is made?"
+      },
+      {
+        "role": "assistant",
+        "content": "the first half (round down, minimum of one)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the best possible result for a shooter with a skill of 63% and Extreme difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "a successful hit"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for shots 19-24?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty die for the second volley of 6 bullets?"
+      },
+      {
+        "role": "assistant",
+        "content": "a penalty die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many shots are in each volley of 6 bullets?"
+      },
+      {
+        "role": "assistant",
+        "content": "6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are for the third volley of 6 bullets?"
+      },
+      {
+        "role": "assistant",
+        "content": "two"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many shots would a character need to fire at each target in a partial volley?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 shots"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice would a character have with their second attack roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice would a character have with their third attack roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two penalty dice"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of the character with the high DEX value?"
+      },
+      {
+        "role": "assistant",
+        "content": "To open fire on the investigators, initiating a combat round"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the investigators in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey, Rodger, and Cecil"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did the attacker fire only three partial volleys of 4 shots?"
+      },
+      {
+        "role": "assistant",
+        "content": "To conserve ammunition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the attacker's firearm skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "40 (Regular)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the gangster's Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 (Regular)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the gangster's hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Harvey's Fighting (Brawl) skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 (Regular)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the gangster's action?"
+      },
+      {
+        "role": "assistant",
+        "content": "The gangster goes first, firing on his DEX +50 for using a readied firearm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many shots does the gangster fire at each investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "He chooses to fire 4 shots at each of the three investigators (3 volleys, 12 shots in total)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many meters are the investigators apart?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper rules that the investigators are each 3 meters apart;"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many extra rounds does the gangster waste moving between his targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "he wastes 6 extra rounds moving between his three targets (his"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total number of shots fired by the gangster?"
+      },
+      {
+        "role": "assistant",
+        "content": "He fires 12 shots in total."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

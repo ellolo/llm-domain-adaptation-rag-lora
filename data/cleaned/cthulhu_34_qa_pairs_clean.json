@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document introduces Harvey Walters, a character in the Call of Cthulhu role-playing game, and guides the player through the process of creating his characteristics. The player rolls dice to determine Harvey's attributes, such as Strength (20%), Constitution (70%), and Intelligence (85%), and assigns values to his other characteristics, including Luck (45) and Education (84). The player then calculates Harvey's damage bonus and build, and determines his movement speed (6) based on his physical attributes. The character sheet is filled out with the calculated values, providing a foundation for the player to begin their adventure as Harvey Walters, a 42-year-old journalist and investigator of the supernatural.",
+  "qa_pairs": [
+    {
+      "question": "What is one of Harvey's starting gear?",
+      "answer": "a notebook, pen and a lucky penny",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of the player in the game?",
+      "answer": "The player takes up a fresh investigator sheet and a pencil",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of Harvey Walters in the game?",
+      "answer": "the noted 1920s New York journalist and investigator of the supernatural",
+      "rating": 9
+    },
+    {
+      "question": "Is the player Harvey Walters?",
+      "answer": "No, the player is female and her investigator is male",
+      "rating": 7
+    },
+    {
+      "question": "What is Harvey Walters' profession in the game?",
+      "answer": "A 1920s New York journalist and investigator of the supernatural",
+      "rating": 8
+    },
+    {
+      "question": "How does the player determine Harvey's Strength?",
+      "answer": "By rolling a 4 and multiplying it by 5, resulting in 20%",
+      "rating": 9
+    },
+    {
+      "question": "What is Harvey's exceptional ability in the game?",
+      "answer": "A CON of 70%, making him fairly hardy",
+      "rating": 8
+    },
+    {
+      "question": "What kind of investigator does the player play?",
+      "answer": "Female",
+      "rating": 6
+    },
+    {
+      "question": "What is Harvey's Constitution (CON) value?",
+      "answer": "70%",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's Luck value?",
+      "answer": "45",
+      "rating": 6
+    },
+    {
+      "question": "What is Harvey's starting age?",
+      "answer": "42",
+      "rating": 7
+    },
+    {
+      "question": "How does Harvey's Education score change after the two experience checks?",
+      "answer": "84",
+      "rating": 9
+    },
+    {
+      "question": "How does Harvey's APP score change after the two experience checks?",
+      "answer": "80",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's Education value after the first roll?",
+      "answer": "84",
+      "rating": 10
+    },
+    {
+      "question": "What are the Fifth value and Half value of Harvey's Education after the calculation?",
+      "answer": "Fifth value: 16%, Half value: 41%",
+      "rating": 10
+    },
+    {
+      "question": "What is Harvey's Damage Bonus?",
+      "answer": "0",
+      "rating": 10
+    },
+    {
+      "question": "What is Harvey's total hit points?",
+      "answer": "15",
+      "rating": 10
+    },
+    {
+      "question": "How many hit points does Harvey Walters have?",
+      "answer": "15",
+      "rating": 10
+    },
+    {
+      "question": "What is Harvey Walters' age?",
+      "answer": "42",
+      "rating": 10
+    },
+    {
+      "question": "What is Harvey Walters' occupation?",
+      "answer": "Journalist",
+      "rating": 10
+    },
+    {
+      "question": "What is Harvey Walters' MOV value?",
+      "answer": "6",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of Harvey's starting gear?"
+      },
+      {
+        "role": "assistant",
+        "content": "a notebook, pen and a lucky penny"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the player in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player takes up a fresh investigator sheet and a pencil"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of Harvey Walters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "the noted 1920s New York journalist and investigator of the supernatural"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the player Harvey Walters?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the player is female and her investigator is male"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey Walters' profession in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 1920s New York journalist and investigator of the supernatural"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the player determine Harvey's Strength?"
+      },
+      {
+        "role": "assistant",
+        "content": "By rolling a 4 and multiplying it by 5, resulting in 20%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's exceptional ability in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A CON of 70%, making him fairly hardy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of investigator does the player play?"
+      },
+      {
+        "role": "assistant",
+        "content": "Female"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Constitution (CON) value?"
+      },
+      {
+        "role": "assistant",
+        "content": "70%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Luck value?"
+      },
+      {
+        "role": "assistant",
+        "content": "45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's starting age?"
+      },
+      {
+        "role": "assistant",
+        "content": "42"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Harvey's Education score change after the two experience checks?"
+      },
+      {
+        "role": "assistant",
+        "content": "84"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Harvey's APP score change after the two experience checks?"
+      },
+      {
+        "role": "assistant",
+        "content": "80"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Education value after the first roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "84"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the Fifth value and Half value of Harvey's Education after the calculation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fifth value: 16%, Half value: 41%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's Damage Bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's total hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does Harvey Walters have?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey Walters' age?"
+      },
+      {
+        "role": "assistant",
+        "content": "42"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey Walters' occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Journalist"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey Walters' MOV value?"
+      },
+      {
+        "role": "assistant",
+        "content": "6"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 21,
+    "retention_rate": 0.88,
+    "avg_score": 8.0
+  }
+}

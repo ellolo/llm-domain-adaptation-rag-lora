@@ -1,0 +1,336 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, investigators can use a skill called \"Occult\" to recognize and understand occult paraphernalia, folklore, and secret knowledge. This skill can be pushed to a higher level, but failing a pushed roll can have disastrous consequences, such as misremembering information or performing a ritual incorrectly. The skill is opposed by other skills like Charm, Fast Talk, and Intimidate, and pushing examples include taking more time to study a site or item, conducting further research, or consulting an expert.",
+  "qa_pairs": [
+    {
+      "question": "What is the difficulty level for navigation in the wilderness?",
+      "answer": "Regular difficulty: keep on the right route; use the sun and stars to identify compass positions; map a small area of terrain.",
+      "rating": 8
+    },
+    {
+      "question": "What type of magic does the skill not apply to?",
+      "answer": "Spells, books, and magic of the Cthulhu Mythos",
+      "rating": 9
+    },
+    {
+      "question": "What is the responsibility of the Keeper in determining the validity of non-Mythos magic?",
+      "answer": "To determine (see Chapter 9: Magic)",
+      "rating": 8
+    },
+    {
+      "question": "What does comprehending certain books provide in terms of Occult skill?",
+      "answer": "percentiles of Occult",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper determine regarding non-Mythos magic?",
+      "answer": "whether it is real or fraudulent",
+      "rating": 8
+    },
+    {
+      "question": "What is the regular difficulty level for Occult skill?",
+      "answer": "recall information from folklore or occult theories",
+      "rating": 7
+    },
+    {
+      "question": "What is the hard difficulty level for Occult skill?",
+      "answer": "identify rare or unique occult tomes",
+      "rating": 9
+    },
+    {
+      "question": "What should a player do to gain more time to study a site or item?",
+      "answer": "taking more time to study the site or item",
+      "rating": 8
+    },
+    {
+      "question": "What are some possible consequences of failing a Pushed roll?",
+      "answer": "Information is misremembered, and the ritual is performed incorrectly with disastrous consequences",
+      "rating": 9
+    },
+    {
+      "question": "What might happen if an investigator fails a pushed roll in terms of their behavior?",
+      "answer": "The investigator may manifest in some form as obsession, such as tattooing occult symbols or using a scrying crystal",
+      "rating": 9
+    },
+    {
+      "question": "What could be the result of using the wrong ingredients in preparing the circle of protection?",
+      "answer": "You use the wrong ingredients, and rather than warding off the spirits you genuinely summon something malevolent",
+      "rating": 8
+    },
+    {
+      "question": "What is a possible physical manifestation of failing a pushed roll in terms of obsession?",
+      "answer": "The investigator may tattoo occult symbols upon their cheeks and palms",
+      "rating": 9
+    },
+    {
+      "question": "What could happen to the investigator's mental state if they fail a pushed roll and uncover a new Mythos link?",
+      "answer": "Their realization shatters their mind (SAN loss)",
+      "rating": 8
+    },
+    {
+      "question": "What does 'Persuade' entail?",
+      "answer": "Bargaining, to haggle the price of an item or service down",
+      "rating": 7
+    },
+    {
+      "question": "What happens if 'Persuade' is successful?",
+      "answer": "The seller is thoroughly convinced they have struck a good deal",
+      "rating": 6
+    },
+    {
+      "question": "What does 'Persuade' involve in terms of argumentation?",
+      "answer": "Getting close and personal to advance your argument or appeal to the target's reason",
+      "rating": 8
+    },
+    {
+      "question": "What is a key aspect of 'Persuade'?",
+      "answer": "Demonstrating through logical reasoning and examples",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for navigation in the wilderness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty: keep on the right route; use the sun and stars to identify compass positions; map a small area of terrain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of magic does the skill not apply to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spells, books, and magic of the Cthulhu Mythos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the responsibility of the Keeper in determining the validity of non-Mythos magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine (see Chapter 9: Magic)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does comprehending certain books provide in terms of Occult skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "percentiles of Occult"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper determine regarding non-Mythos magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "whether it is real or fraudulent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level for Occult skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "recall information from folklore or occult theories"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty level for Occult skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "identify rare or unique occult tomes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a player do to gain more time to study a site or item?"
+      },
+      {
+        "role": "assistant",
+        "content": "taking more time to study the site or item"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some possible consequences of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Information is misremembered, and the ritual is performed incorrectly with disastrous consequences"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What might happen if an investigator fails a pushed roll in terms of their behavior?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator may manifest in some form as obsession, such as tattooing occult symbols or using a scrying crystal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could be the result of using the wrong ingredients in preparing the circle of protection?"
+      },
+      {
+        "role": "assistant",
+        "content": "You use the wrong ingredients, and rather than warding off the spirits you genuinely summon something malevolent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible physical manifestation of failing a pushed roll in terms of obsession?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator may tattoo occult symbols upon their cheeks and palms"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could happen to the investigator's mental state if they fail a pushed roll and uncover a new Mythos link?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their realization shatters their mind (SAN loss)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Persuade' entail?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bargaining, to haggle the price of an item or service down"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if 'Persuade' is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seller is thoroughly convinced they have struck a good deal"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Persuade' involve in terms of argumentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Getting close and personal to advance your argument or appeal to the target's reason"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key aspect of 'Persuade'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Demonstrating through logical reasoning and examples"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 17,
+    "retention_rate": 0.68,
+    "avg_score": 8.0
+  }
+}

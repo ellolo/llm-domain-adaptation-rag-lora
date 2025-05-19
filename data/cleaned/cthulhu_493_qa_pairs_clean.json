@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a list of various explosives, heavy weapons, and miscellaneous items in the Call of Cthulhu tabletop role-playing game. The list includes different types of firearms, such as machine guns, grenade launchers, and flamethrowers, as well as explosives like pipe bombs, Molotov cocktails, and dynamite. The document also includes information on the cost, malfunction rates, and common eras in which these items were used. Additionally, some items have specific skills or uses, such as the electrical repair skill for repairing firearms. Overall, this list provides a comprehensive overview of the various explosives and heavy weapons available in the game.",
+  "qa_pairs": [
+    {
+      "question": "What is the base damage range for the auto firing damage in the Call of Cthulhu?",
+      "answer": "2D6+4",
+      "rating": 8
+    },
+    {
+      "question": "What is the base damage range for the M79 Grenade Launcher in the Call of Cthulhu?",
+      "answer": "3D10/2 yards",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the M79 Grenade Launcher in the Call of Cthulhu?",
+      "answer": "$15/$75",
+      "rating": 7
+    },
+    {
+      "question": "What is the common era for the Malfunction in the Call of Cthulhu?",
+      "answer": "1920s",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of the Malfunction in the Call of Cthulhu?",
+      "answer": "$3,000/$30,000",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage type for the Throw skill in the Call of Cthulhu?",
+      "answer": "2D6+burn",
+      "rating": 8
+    },
+    {
+      "question": "What is the base damage range for the Throw skill in the Call of Cthulhu?",
+      "answer": "1D10+1D3 burn",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of the Firearms skill in the Call of Cthulhu?",
+      "answer": "20",
+      "rating": 6
+    },
+    {
+      "question": "What is the range for the 81mm Mortar?",
+      "answer": "6 yards",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for the 120mm Tank Gun?",
+      "answer": "stabilized",
+      "rating": 9
+    },
+    {
+      "question": "How many uses is the Pipe Bomb?",
+      "answer": "1 only",
+      "rating": 7
+    },
+    {
+      "question": "What is the range for the Signal Handgun?",
+      "answer": "25 yards",
+      "rating": 8
+    },
+    {
+      "question": "What does an Anti-Personnel Mine primarily function as?",
+      "answer": "Anti-Personnel",
+      "rating": 9
+    },
+    {
+      "question": "What type of weapon is a Claymore Mine?",
+      "answer": "Anti-Personnel Mine",
+      "rating": 8
+    },
+    {
+      "question": "What type of weapon is a Flamethrower?",
+      "answer": "Anti-Personnel Mine",
+      "rating": 7
+    },
+    {
+      "question": "What type of weapon is a LAW?",
+      "answer": "Anti-Personnel Mine",
+      "rating": 8
+    },
+    {
+      "question": "When was the Anti-Personnel Mine first developed?",
+      "answer": "1920s",
+      "rating": 9
+    },
+    {
+      "question": "Is the Anti-Personnel Mine a modern weapon?",
+      "answer": "Modern",
+      "rating": 8
+    },
+    {
+      "question": "How old is the Anti-Personnel Mine as a concept?",
+      "answer": "1920",
+      "rating": 9
+    },
+    {
+      "question": "Is the Anti-Personnel Mine an ancient weapon?",
+      "answer": "No",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage range for the auto firing damage in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage range for the M79 Grenade Launcher in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10/2 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the M79 Grenade Launcher in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "$15/$75"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the common era for the Malfunction in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Malfunction in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3,000/$30,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for the Throw skill in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+burn"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage range for the Throw skill in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10+1D3 burn"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Firearms skill in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the 81mm Mortar?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the 120mm Tank Gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "stabilized"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many uses is the Pipe Bomb?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 only"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Signal Handgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 yards"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does an Anti-Personnel Mine primarily function as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of weapon is a Claymore Mine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel Mine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of weapon is a Flamethrower?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel Mine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of weapon is a LAW?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel Mine"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Anti-Personnel Mine first developed?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the Anti-Personnel Mine a modern weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modern"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How old is the Anti-Personnel Mine as a concept?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the Anti-Personnel Mine an ancient weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 20,
+    "retention_rate": 0.83,
+    "avg_score": 7.0
+  }
+}

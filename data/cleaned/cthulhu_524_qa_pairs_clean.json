@@ -1,0 +1,355 @@
+{
+  "summary": "This document appears to be a rules guide for the Call of Cthulhu tabletop role-playing game. The main topic is the mechanics of sanity, a key concept in the game, and how it is affected by various events and skills. Key concepts include the different levels of sanity loss, the optional rules for increasing or decreasing sanity, and the consequences of losing one's sanity, such as temporary insanity and the potential for complete breakdown. The document also covers other skills and mechanics, such as combat damage, vehicular collisions, and verbal conflicts.",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum roll required for a Sanity Roll?",
+      "answer": "85",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum roll required for a Sanity Skill?",
+      "answer": "76",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for Temporary Insanity?",
+      "answer": "155-156",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for an Increasing Sanity?",
+      "answer": "167-169",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for a Semi-Automatic Fire?",
+      "answer": "114",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for a Throw Skill?",
+      "answer": "77-78",
+      "rating": 9
+    },
+    {
+      "question": "What is the starting point for a Sanity Quiz?",
+      "answer": "77",
+      "rating": 8
+    },
+    {
+      "question": "What is the starting point for a Swim Skill?",
+      "answer": "77",
+      "rating": 9
+    },
+    {
+      "question": "What is the value for Tomes in the given text?",
+      "answer": "173, 212, 224ff",
+      "rating": 8
+    },
+    {
+      "question": "What is the value for Training in the given text?",
+      "answer": "98",
+      "rating": 9
+    },
+    {
+      "question": "What is the value for Unconsciousness in the given text?",
+      "answer": "123",
+      "rating": 8
+    },
+    {
+      "question": "What is the value for Vehicular Collision, Chase in the given text?",
+      "answer": "146",
+      "rating": 7
+    },
+    {
+      "question": "What is the value for Verbal Conflicts in the given text?",
+      "answer": "197-198",
+      "rating": 6
+    },
+    {
+      "question": "What is the value for Monstres and their Kynde in the given text?",
+      "answer": "229",
+      "rating": 9
+    },
+    {
+      "question": "What is the value for Unausprechlichen Kulten in the given text?",
+      "answer": "229",
+      "rating": 9
+    },
+    {
+      "question": "What is the value for Chaosium Pronunciations of Mythos Names in the given text?",
+      "answer": "280",
+      "rating": 8
+    },
+    {
+      "question": "What year is the 'Nameless Cults' publication?",
+      "answer": "1845",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of the chart 'Combat Damage Flow Chart'?",
+      "answer": "Combat Damage Flow Chart",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum roll required for a Sanity Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "85"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum roll required for a Sanity Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "76"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for Temporary Insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "155-156"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for an Increasing Sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "167-169"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for a Semi-Automatic Fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "114"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for a Throw Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "77-78"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting point for a Sanity Quiz?"
+      },
+      {
+        "role": "assistant",
+        "content": "77"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting point for a Swim Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "77"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Tomes in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "173, 212, 224ff"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Training in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "98"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Unconsciousness in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "123"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Vehicular Collision, Chase in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "146"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Verbal Conflicts in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "197-198"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Monstres and their Kynde in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "229"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Unausprechlichen Kulten in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "229"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the value for Chaosium Pronunciations of Mythos Names in the given text?"
+      },
+      {
+        "role": "assistant",
+        "content": "280"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What year is the 'Nameless Cults' publication?"
+      },
+      {
+        "role": "assistant",
+        "content": "1845"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the chart 'Combat Damage Flow Chart'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Combat Damage Flow Chart"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 18,
+    "filtered": 18,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

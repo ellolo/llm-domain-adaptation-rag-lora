@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines various mind control spells in a fictional system, including Domination of the Will, Mindblast, Mind Exchange, and Mind Transfer. These spells allow the caster to influence or control the target's mind, with varying costs in magic points and Sanity points. The effectiveness of these spells depends on the caster's POW roll against the target's, with additional requirements for more extreme suggestions or for casting on investigators. The costs and effects of these spells also vary depending on the target's INT and the caster's own INT.",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum number of magic points required for ordinary unthreatening suggestions?",
+      "answer": "5",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of using the spell on an investigator?",
+      "answer": "The effects last for 1 round for each point of INT the caster possesses",
+      "rating": 9
+    },
+    {
+      "question": "What are the costs of using the 'Dangerous' spell?",
+      "answer": "15 magic points and 3D3 Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the caster fails the 'Dangerous' spell?",
+      "answer": "The spell is broken.",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of the 'Mindblast' spell?",
+      "answer": "10 magic points; 1D3 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What must the caster do to make the 'Mindblast' spell take effect?",
+      "answer": "Succeed in an opposed POW roll with the target.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the caster fails the spell?",
+      "answer": "The spell is broken.",
+      "rating": 7
+    },
+    {
+      "question": "What is the target affected by, and for how long?",
+      "answer": "The target suffers from temporary insanity, beginning with a bout of madness, and may continue to suffer from flashbacks and/or nightmares for days following.",
+      "rating": 9
+    },
+    {
+      "question": "What is the minimum magic points cost of the Mind Exchange spell?",
+      "answer": "10+1D6 magic points",
+      "rating": 8
+    },
+    {
+      "question": "How long does the Mind Exchange spell take to cast?",
+      "answer": "1 hour",
+      "rating": 9
+    },
+    {
+      "question": "What is required for the spell Mind Exchange to take effect?",
+      "answer": "The caster must succeed in an opposed POW roll with the target.",
+      "rating": 8
+    },
+    {
+      "question": "What is the initial Sanity point cost of the spell Mind Exchange?",
+      "answer": "1D3 Sanity points",
+      "rating": 7
+    },
+    {
+      "question": "What is the initial magic point cost of the spell Mind Exchange?",
+      "answer": "10+1D6 magic points",
+      "rating": 8
+    },
+    {
+      "question": "How long does the casting time of the spell Mind Exchange take?",
+      "answer": "1 hour",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the cost of casting the spell after each casting?",
+      "answer": "The cost goes down 1 magic point per casting until it reaches 1, where it remains.",
+      "rating": 9
+    },
+    {
+      "question": "What must the target know or feel about the spell caster for the spell to take effect?",
+      "answer": "The target must know the spell caster and love or strongly favor him or her.",
+      "rating": 8
+    },
+    {
+      "question": "What is the initial limitation on the spell caster's stay inside the target's body?",
+      "answer": "A few minutes",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the opposed POW roll requirement once the magic point cost for casting the spell has been reduced to 1?",
+      "answer": "It is no longer required",
+      "rating": 9
+    },
+    {
+      "question": "At what cost can the spell caster stay inside the target's body indefinitely?",
+      "answer": "10 magic points",
+      "rating": 7
+    },
+    {
+      "question": "What is an alternative name for the Mind Transfer spell?",
+      "answer": "Vice Versa Incantation",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of magic points required for ordinary unthreatening suggestions?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of using the spell on an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The effects last for 1 round for each point of INT the caster possesses"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the costs of using the 'Dangerous' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 magic points and 3D3 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster fails the 'Dangerous' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell is broken."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the 'Mindblast' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points; 1D3 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the caster do to make the 'Mindblast' spell take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "Succeed in an opposed POW roll with the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster fails the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell is broken."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target affected by, and for how long?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target suffers from temporary insanity, beginning with a bout of madness, and may continue to suffer from flashbacks and/or nightmares for days following."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum magic points cost of the Mind Exchange spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "10+1D6 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the Mind Exchange spell take to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the spell Mind Exchange to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must succeed in an opposed POW roll with the target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial Sanity point cost of the spell Mind Exchange?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial magic point cost of the spell Mind Exchange?"
+      },
+      {
+        "role": "assistant",
+        "content": "10+1D6 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the casting time of the spell Mind Exchange take?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the cost of casting the spell after each casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost goes down 1 magic point per casting until it reaches 1, where it remains."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What must the target know or feel about the spell caster for the spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target must know the spell caster and love or strongly favor him or her."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial limitation on the spell caster's stay inside the target's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "A few minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the opposed POW roll requirement once the magic point cost for casting the spell has been reduced to 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is no longer required"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what cost can the spell caster stay inside the target's body indefinitely?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative name for the Mind Transfer spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vice Versa Incantation"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

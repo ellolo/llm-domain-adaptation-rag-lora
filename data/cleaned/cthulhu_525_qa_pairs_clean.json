@@ -1,0 +1,165 @@
+{
+  "summary": "This document appears to be a collection of tables, charts, and references related to the Call of Cthulhu tabletop role-playing game, specifically focusing on combat, damage, and other mechanics. The main topic is the game's mechanics, with various charts and tables providing information on damage, hit locations, and other game-related concepts. Key concepts include the use of charts to determine damage and hit locations, as well as references to specific mythos names and terms.",
+  "qa_pairs": [
+    {
+      "question": "When was 'Nameless Cults' published?",
+      "answer": "1845",
+      "rating": 8
+    },
+    {
+      "question": "What is the page number for 'Combat Damage Flow Chart'?",
+      "answer": "122",
+      "rating": 9
+    },
+    {
+      "question": "When was 'Nameless Cults' published again?",
+      "answer": "1909",
+      "rating": 8
+    },
+    {
+      "question": "What is the page number for 'Necronomicon (Greek)'?",
+      "answer": "230",
+      "rating": 9
+    },
+    {
+      "question": "What is the page number for 'Investigator Sheet: 1920s'?",
+      "answer": "430-431",
+      "rating": 7
+    },
+    {
+      "question": "When was 'Necronomicon (English)' published?",
+      "answer": "230",
+      "rating": 9
+    },
+    {
+      "question": "What is the page number for 'Sussex Manuscript'?",
+      "answer": "230",
+      "rating": 9
+    },
+    {
+      "question": "What is the page number for 'People of the Monolith'?",
+      "answer": "233",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was 'Nameless Cults' published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1845"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for 'Combat Damage Flow Chart'?"
+      },
+      {
+        "role": "assistant",
+        "content": "122"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was 'Nameless Cults' published again?"
+      },
+      {
+        "role": "assistant",
+        "content": "1909"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for 'Necronomicon (Greek)'?"
+      },
+      {
+        "role": "assistant",
+        "content": "230"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for 'Investigator Sheet: 1920s'?"
+      },
+      {
+        "role": "assistant",
+        "content": "430-431"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was 'Necronomicon (English)' published?"
+      },
+      {
+        "role": "assistant",
+        "content": "230"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for 'Sussex Manuscript'?"
+      },
+      {
+        "role": "assistant",
+        "content": "230"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number for 'People of the Monolith'?"
+      },
+      {
+        "role": "assistant",
+        "content": "233"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 8,
+    "retention_rate": 0.33,
+    "avg_score": 3.5
+  }
+}

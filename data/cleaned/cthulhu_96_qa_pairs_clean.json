@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game system, opposed rolls are used to determine the outcome of events, such as wooing a lady or resolving a conflict. When one player makes an opposed roll, the Keeper may award a bonus die or penalty die to the other player's roll, depending on the circumstances. The use of bonus and penalty dice is intended to add nuance and realism to the game, but should be used sparingly and only when the factor is significant enough to impact the outcome. The Keeper's discretion is key in determining when to award bonus or penalty dice, and the game system emphasizes setting difficulty levels for skill rolls rather than using dice.",
+  "qa_pairs": [
+    {
+      "question": "What type of roll are Malcolm and Hugh making against each other?",
+      "answer": "an opposed Charm roll",
+      "rating": 8
+    },
+    {
+      "question": "What skill is Hugh's player rolling against?",
+      "answer": "Hugh's Charm skill of 55",
+      "rating": 9
+    },
+    {
+      "question": "What result did Hugh's player achieve on the roll?",
+      "answer": "a Regular success",
+      "rating": 8
+    },
+    {
+      "question": "What advantage does Malcolm have over Hugh in the opposed roll?",
+      "answer": "Malcolm has an advantage, and will get a bonus die",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Hugh's opposed Charm roll?",
+      "answer": "Regular success",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of Malcolm's opposed Charm roll?",
+      "answer": "Hard success",
+      "rating": 9
+    },
+    {
+      "question": "How many times has Malcolm visited Lady Greene?",
+      "answer": "Twice",
+      "rating": 7
+    },
+    {
+      "question": "What is the bonus die for Malcolm's opposed roll?",
+      "answer": "One",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome of Malcolm's opposed roll against Lady Greene?",
+      "answer": "Malcolm wins the opposed roll, and his proposal of marriage to Lady Greene is accepted.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of Hugh's player roll against his Charm skill?",
+      "answer": "Hugh's player rolls against his Charm skill of 55, getting 45\u2014a Regular success.",
+      "rating": 8
+    },
+    {
+      "question": "What type of roll result does Malcolm's player get?",
+      "answer": "Malcolm's player takes the lower result 24\u2014a Hard success.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of bonus dice in a game?",
+      "answer": "Bonus Dice and Penalty Dice are primarily for use with opposed dice rolls.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary reason for using Bonus Dice and Penalty Dice?",
+      "answer": "for Opposed Dice Rolls",
+      "rating": 7
+    },
+    {
+      "question": "Can Bonus Dice and Penalty Dice be used for any factor?",
+      "answer": "no, only with good cause",
+      "rating": 8
+    },
+    {
+      "question": "What should be done with bonus or penalty dice that only modify a roll by a few percentage points?",
+      "answer": "Don't bother with it.",
+      "rating": 9
+    },
+    {
+      "question": "What additional dice are rolled when a penalty die is used?",
+      "answer": "Three separate dice: one 'units' die and two 'tens' dice.",
+      "rating": 8
+    },
+    {
+      "question": "What is done with the 'tens' die that yields the worse (highest) result?",
+      "answer": "Use it for a penalty.",
+      "rating": 9
+    },
+    {
+      "question": "What should not be used as a penalty die?",
+      "answer": "Driving in light rain.",
+      "rating": 8
+    },
+    {
+      "question": "What type of dice are rolled in this scenario?",
+      "answer": "Three separate dice: one 'units' die and two 'tens' dice.",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of using the 'tens' die that yields the worse (highest) result?",
+      "answer": "To incur a penalty.",
+      "rating": 8
+    },
+    {
+      "question": "What is the role of difficulty levels in the game?",
+      "answer": "To set the level of difficulty for a skill roll.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the level of difficulty in an opposed roll?",
+      "answer": "It is determined by the level of success achieved by one side.",
+      "rating": 9
+    },
+    {
+      "question": "Under what circumstances should difficulty levels be set?",
+      "answer": "When factors provide an advantage or disadvantage for the investigator.",
+      "rating": 8
+    },
+    {
+      "question": "In what cases should bonus or penalty dice be awarded?",
+      "answer": "When factors provide a distinct advantage or disadvantage for one of the characters involved.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll are Malcolm and Hugh making against each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "an opposed Charm roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is Hugh's player rolling against?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hugh's Charm skill of 55"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What result did Hugh's player achieve on the roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "a Regular success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What advantage does Malcolm have over Hugh in the opposed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Malcolm has an advantage, and will get a bonus die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Hugh's opposed Charm roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Malcolm's opposed Charm roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many times has Malcolm visited Lady Greene?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twice"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus die for Malcolm's opposed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "One"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of Malcolm's opposed roll against Lady Greene?"
+      },
+      {
+        "role": "assistant",
+        "content": "Malcolm wins the opposed roll, and his proposal of marriage to Lady Greene is accepted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Hugh's player roll against his Charm skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hugh's player rolls against his Charm skill of 55, getting 45\u2014a Regular success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll result does Malcolm's player get?"
+      },
+      {
+        "role": "assistant",
+        "content": "Malcolm's player takes the lower result 24\u2014a Hard success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of bonus dice in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bonus Dice and Penalty Dice are primarily for use with opposed dice rolls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary reason for using Bonus Dice and Penalty Dice?"
+      },
+      {
+        "role": "assistant",
+        "content": "for Opposed Dice Rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Bonus Dice and Penalty Dice be used for any factor?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, only with good cause"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be done with bonus or penalty dice that only modify a roll by a few percentage points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Don't bother with it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What additional dice are rolled when a penalty die is used?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three separate dice: one 'units' die and two 'tens' dice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is done with the 'tens' die that yields the worse (highest) result?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use it for a penalty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should not be used as a penalty die?"
+      },
+      {
+        "role": "assistant",
+        "content": "Driving in light rain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of dice are rolled in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three separate dice: one 'units' die and two 'tens' dice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of using the 'tens' die that yields the worse (highest) result?"
+      },
+      {
+        "role": "assistant",
+        "content": "To incur a penalty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of difficulty levels in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To set the level of difficulty for a skill roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the level of difficulty in an opposed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is determined by the level of success achieved by one side."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what circumstances should difficulty levels be set?"
+      },
+      {
+        "role": "assistant",
+        "content": "When factors provide an advantage or disadvantage for the investigator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what cases should bonus or penalty dice be awarded?"
+      },
+      {
+        "role": "assistant",
+        "content": "When factors provide a distinct advantage or disadvantage for one of the characters involved."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

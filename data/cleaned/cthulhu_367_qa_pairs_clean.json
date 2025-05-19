@@ -1,0 +1,298 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes two mythological entities: Abhoth and Azathoth. Abhoth is a creature that withdraws to the earth when reduced to 0 hit points, while Azathoth is a powerful, nuclear chaos deity that can destroy entire areas with its pseudopods. Azathoth is said to rule all spiders and has the power to command other gods, but its true nature and secrets are shrouded in madness-inducing forbidden knowledge. Seeing either entity can cause significant sanity loss, with Azathoth being particularly terrifying.",
+  "qa_pairs": [
+    {
+      "question": "What happens to Abhoth if it is reduced to 0 hit points?",
+      "answer": "It withdraws and sinks far away down into the earth.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the person who sees Abhoth?",
+      "answer": "It costs 1D3/1D20 Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What is the physical appearance of Atlach-Nacha?",
+      "answer": "A darksome form, big as a crouching man but with long spider-like members",
+      "rating": 9
+    },
+    {
+      "question": "Can Abhoth give someone a portion of its body to create a creature?",
+      "answer": "Yes, it may give someone a portion of its own body",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the person who takes a portion of Abhoth's body?",
+      "answer": "They can create a creature identical to the spawn of Abhoth",
+      "rating": 9
+    },
+    {
+      "question": "Where does Abhoth withdraw to if it reduces to 0 hit points?",
+      "answer": "It withdraws and sinks far away down into the earth",
+      "rating": 9
+    },
+    {
+      "question": "What can someone gain from taking a portion of Abhoth's body?",
+      "answer": "A creature identical to the spawn of Abhoth",
+      "rating": 9
+    },
+    {
+      "question": "How much Sanity points is seeing Abhoth worth?",
+      "answer": "1D3/1D20 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "How do sorcerers sometimes summon Atlach-Nacha?",
+      "answer": "via chapter 14: monsters, beasts, and alien gods",
+      "rating": 8
+    },
+    {
+      "question": "What is Azathoth's damage to investigators?",
+      "answer": "specific pseudopod",
+      "rating": 9
+    },
+    {
+      "question": "What is Azathoth's HP?",
+      "answer": "300",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage an Elder Sign deals to Azathoth?",
+      "answer": "3D6",
+      "rating": 8
+    },
+    {
+      "question": "How much damage Azathoth takes per hour if he is at 0 hit points?",
+      "answer": "3D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Azathoth returning at full strength after being dispelled?",
+      "answer": "He returns at full strength in 1D6 hours",
+      "rating": 9
+    },
+    {
+      "question": "How much Sanity points are lost when seeing Azathoth?",
+      "answer": "1D10/1D100",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Abhoth if it is reduced to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "It withdraws and sinks far away down into the earth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the person who sees Abhoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "It costs 1D3/1D20 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the physical appearance of Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "A darksome form, big as a crouching man but with long spider-like members"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Abhoth give someone a portion of its body to create a creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it may give someone a portion of its own body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the person who takes a portion of Abhoth's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can create a creature identical to the spawn of Abhoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Abhoth withdraw to if it reduces to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "It withdraws and sinks far away down into the earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can someone gain from taking a portion of Abhoth's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "A creature identical to the spawn of Abhoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points is seeing Abhoth worth?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3/1D20 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do sorcerers sometimes summon Atlach-Nacha?"
+      },
+      {
+        "role": "assistant",
+        "content": "via chapter 14: monsters, beasts, and alien gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Azathoth's damage to investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "specific pseudopod"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Azathoth's HP?"
+      },
+      {
+        "role": "assistant",
+        "content": "300"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage an Elder Sign deals to Azathoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage Azathoth takes per hour if he is at 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Azathoth returning at full strength after being dispelled?"
+      },
+      {
+        "role": "assistant",
+        "content": "He returns at full strength in 1D6 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points are lost when seeing Azathoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10/1D100"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 15,
+    "retention_rate": 0.6,
+    "avg_score": 5.5
+  }
+}

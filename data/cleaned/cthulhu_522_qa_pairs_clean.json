@@ -1,0 +1,469 @@
+{
+  "summary": "This document appears to be a ruleset for a tabletop role-playing game, likely a fantasy or science fiction setting. The main topic is outlining various skills, abilities, and rules for gameplay, including:\n\n* Skill levels and proficiency (e.g., 90%+ success, base chance)\n* Combat and chase mechanics (e.g., Round, Combat, Round, Chase)\n* Special skills and abilities (e.g., Perception Rolls, Pilot Skill, Read Lips Skill)\n* Injury and damage mechanics (e.g., Recovery, Major Wound, Regular Damage)\n* Optional rules and exceptions (e.g., Phobia, Reality Check, Permanent Insanity)\n\nKey concepts include the use of percentile dice, skill levels, and chance-based outcomes to determine success or failure in various game scenarios.",
+  "qa_pairs": [
+    {
+      "question": "What is the range for the Range rule?",
+      "answer": "112",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for the Pilot Skill rule?",
+      "answer": "71-72",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for the Penalty rule?",
+      "answer": "91-92",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for the Physical Human Limits rule?",
+      "answer": "88-89",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for the Picture, Investigators rule?",
+      "answer": "45",
+      "rating": 7
+    },
+    {
+      "question": "What is the range for the Percentile Dice rule?",
+      "answer": "17",
+      "rating": 8
+    },
+    {
+      "question": "What is the range for the Phobia rule?",
+      "answer": "159-162",
+      "rating": 9
+    },
+    {
+      "question": "What is the range for the Permanent Insanity rule?",
+      "answer": "156",
+      "rating": 9
+    },
+    {
+      "question": "What is the rating for Ranged Weapons?",
+      "answer": "108",
+      "rating": 8
+    },
+    {
+      "question": "What is the rating for Read Lips Skill?",
+      "answer": "73",
+      "rating": 6
+    },
+    {
+      "question": "What are the ratings for Recovery, Major Wound?",
+      "answer": "121-122",
+      "rating": 9
+    },
+    {
+      "question": "What are the ratings for Recovery, Regular Damage?",
+      "answer": "121",
+      "rating": 8
+    },
+    {
+      "question": "What are the ratings for Regular Damage?",
+      "answer": "119-120, 121",
+      "rating": 9
+    },
+    {
+      "question": "What are the ratings for Regular, Difficulty?",
+      "answer": "54, 82",
+      "rating": 8
+    },
+    {
+      "question": "What is the rating for Regular, Success?",
+      "answer": "91",
+      "rating": 8
+    },
+    {
+      "question": "What is the rating for Results, Comparing?",
+      "answer": "91",
+      "rating": 8
+    },
+    {
+      "question": "What is the concept of skill and base chance used for in tabletop role-playing games?",
+      "answer": "In tabletop role-playing games, such as Dungeons & Dragons, the concept of skill and base chance is often used.",
+      "rating": 9
+    },
+    {
+      "question": "What type of games typically use the concept of skill and base chance?",
+      "answer": "Tabletop role-playing games, such as Dungeons & Dragons, use the concept of skill and base chance.",
+      "rating": 8
+    },
+    {
+      "question": "What are some key factors that affect the outcomes of actions in tabletop role-playing games?",
+      "answer": "Characters have abilities and attributes that affect the outcomes of their actions in tabletop role-playing games.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a tabletop role-playing game that uses the concept of skill and base chance?",
+      "answer": "Dungeons & Dragons is an example of a tabletop role-playing game that uses the concept of skill and base chance.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the concept of skill and base chance in tabletop role-playing games?",
+      "answer": "The concept of skill and base chance is used to determine the outcomes of characters' actions in tabletop role-playing games.",
+      "rating": 9
+    },
+    {
+      "question": "What other factors might affect the outcomes of actions in tabletop role-playing games?",
+      "answer": "Other factors that might affect the outcomes of actions in tabletop role-playing games include environment, NPCs, and player choice.",
+      "rating": 9
+    },
+    {
+      "question": "How do characters' abilities and attributes affect the outcomes of their actions?",
+      "answer": "Characters' abilities and attributes determine the outcomes of their actions in tabletop role-playing games.",
+      "rating": 8
+    },
+    {
+      "question": "What role do player choice and environment play in determining outcomes in tabletop role-playing games?",
+      "answer": "Player choice and environment can also affect the outcomes of characters' actions in tabletop role-playing games.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Range rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "112"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Pilot Skill rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "71-72"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Penalty rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "91-92"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Physical Human Limits rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "88-89"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Picture, Investigators rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Percentile Dice rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "17"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Phobia rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "159-162"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Permanent Insanity rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "156"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rating for Ranged Weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "108"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rating for Read Lips Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "73"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the ratings for Recovery, Major Wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "121-122"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the ratings for Recovery, Regular Damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "121"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the ratings for Regular Damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "119-120, 121"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the ratings for Regular, Difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "54, 82"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rating for Regular, Success?"
+      },
+      {
+        "role": "assistant",
+        "content": "91"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rating for Results, Comparing?"
+      },
+      {
+        "role": "assistant",
+        "content": "91"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the concept of skill and base chance used for in tabletop role-playing games?"
+      },
+      {
+        "role": "assistant",
+        "content": "In tabletop role-playing games, such as Dungeons & Dragons, the concept of skill and base chance is often used."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of games typically use the concept of skill and base chance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tabletop role-playing games, such as Dungeons & Dragons, use the concept of skill and base chance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some key factors that affect the outcomes of actions in tabletop role-playing games?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters have abilities and attributes that affect the outcomes of their actions in tabletop role-playing games."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a tabletop role-playing game that uses the concept of skill and base chance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dungeons & Dragons is an example of a tabletop role-playing game that uses the concept of skill and base chance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the concept of skill and base chance in tabletop role-playing games?"
+      },
+      {
+        "role": "assistant",
+        "content": "The concept of skill and base chance is used to determine the outcomes of characters' actions in tabletop role-playing games."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What other factors might affect the outcomes of actions in tabletop role-playing games?"
+      },
+      {
+        "role": "assistant",
+        "content": "Other factors that might affect the outcomes of actions in tabletop role-playing games include environment, NPCs, and player choice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do characters' abilities and attributes affect the outcomes of their actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters' abilities and attributes determine the outcomes of their actions in tabletop role-playing games."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role do player choice and environment play in determining outcomes in tabletop role-playing games?"
+      },
+      {
+        "role": "assistant",
+        "content": "Player choice and environment can also affect the outcomes of characters' actions in tabletop role-playing games."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

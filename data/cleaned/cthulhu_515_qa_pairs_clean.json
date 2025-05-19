@@ -1,0 +1,317 @@
+{
+  "summary": "This document appears to be a summary of rules and concepts for a tabletop role-playing game, likely Call of Cthulhu. The main topic is the game mechanics, specifically the rules for character skills, abilities, and challenges. Key concepts include the use of dice rolls to determine success or failure, the difficulty level of tasks, and the various skills and abilities that characters can possess, such as Disguise Skill, Dodge Skill, and Electrical Repair Skill. Additionally, the document touches on themes and mechanics related to extreme damage, range, and success, as well as the importance of failure and foreshadowing in the game.",
+  "qa_pairs": [
+    {
+      "question": "What is the Difficulty Level range?",
+      "answer": "54, 82, 92, 93, 112, 195",
+      "rating": 8
+    },
+    {
+      "question": "What is the Dice, Rolling range?",
+      "answer": "82, 83-84, 194-195",
+      "rating": 9
+    },
+    {
+      "question": "What is the Dice, When To Roll range?",
+      "answer": "82",
+      "rating": 8
+    },
+    {
+      "question": "What is the Disarming range?",
+      "answer": "106",
+      "rating": 7
+    },
+    {
+      "question": "What is the Disguise Skill?",
+      "answer": "62",
+      "rating": 6
+    },
+    {
+      "question": "What is the Disrupted Spell Casting?",
+      "answer": "179",
+      "rating": 8
+    },
+    {
+      "question": "What is the Distasteful Historical Themes?",
+      "answer": "185",
+      "rating": 8
+    },
+    {
+      "question": "What is the Diving For Cover range?",
+      "answer": "108, 113",
+      "rating": 7
+    },
+    {
+      "question": "What is the skill code for Electronics?",
+      "answer": "63",
+      "rating": 8
+    },
+    {
+      "question": "What are the skill codes for Equipment, Investigator?",
+      "answer": "45, 46, 396ff",
+      "rating": 9
+    },
+    {
+      "question": "What is the skill code for Extreme Range?",
+      "answer": "112",
+      "rating": 8
+    },
+    {
+      "question": "What are the skill codes for Extreme, Difficulty?",
+      "answer": "55, 82-83",
+      "rating": 9
+    },
+    {
+      "question": "What are the skill codes for Extreme, Success?",
+      "answer": "91, 121",
+      "rating": 9
+    },
+    {
+      "question": "What is the skill code for Electrical Repair Skill?",
+      "answer": "63",
+      "rating": 8
+    },
+    {
+      "question": "What is the skill code for Example of play?",
+      "answer": "13",
+      "rating": 7
+    },
+    {
+      "question": "What are the skill codes for Expenditure, Investigator?",
+      "answer": "95-97",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Difficulty Level range?"
+      },
+      {
+        "role": "assistant",
+        "content": "54, 82, 92, 93, 112, 195"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dice, Rolling range?"
+      },
+      {
+        "role": "assistant",
+        "content": "82, 83-84, 194-195"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dice, When To Roll range?"
+      },
+      {
+        "role": "assistant",
+        "content": "82"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Disarming range?"
+      },
+      {
+        "role": "assistant",
+        "content": "106"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Disguise Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "62"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Disrupted Spell Casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "179"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Distasteful Historical Themes?"
+      },
+      {
+        "role": "assistant",
+        "content": "185"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Diving For Cover range?"
+      },
+      {
+        "role": "assistant",
+        "content": "108, 113"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Electronics?"
+      },
+      {
+        "role": "assistant",
+        "content": "63"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Equipment, Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "45, 46, 396ff"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Extreme Range?"
+      },
+      {
+        "role": "assistant",
+        "content": "112"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Extreme, Difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "55, 82-83"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Extreme, Success?"
+      },
+      {
+        "role": "assistant",
+        "content": "91, 121"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Electrical Repair Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "63"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Example of play?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Expenditure, Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "95-97"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 21,
+    "filtered": 16,
+    "retention_rate": 0.76,
+    "avg_score": 6.3
+  }
+}

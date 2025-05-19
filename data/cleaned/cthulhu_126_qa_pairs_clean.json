@@ -1,0 +1,355 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, firearms malfunctions can occur when a character attempts to fire a weapon and rolls a result equal to or higher than the weapon's malfunction number. This can result in a jammed or misfiring weapon, which can be fixed with a successful Mechanical Repair roll or Firearms skill roll. The Keeper should describe the effects of damage and try to avoid simply stating the number of hit points lost, instead using descriptive language to convey the severity of the injury. The document also provides guidelines for tracking damage and differentiating between regular and major wounds.",
+  "qa_pairs": [
+    {
+      "question": "What was the outcome of the Keeper's rolls?",
+      "answer": "the Keeper rolls 08, 38 and 98",
+      "rating": 8
+    },
+    {
+      "question": "What was the outcome of the Keeper's roll of 98?",
+      "answer": "98 is both a fumble and a malfunction",
+      "rating": 9
+    },
+    {
+      "question": "What was the outcome of Harvey's action against the gangster?",
+      "answer": "Harvey breaks cover, runs in and punches the gangster, but the gangster dodges and Harvey misses.",
+      "rating": 8
+    },
+    {
+      "question": "What was the outcome of the gangster's action after his gun jammed?",
+      "answer": "the gangster flees the scene.",
+      "rating": 7
+    },
+    {
+      "question": "What does the gangster do when his machine gun is jammed?",
+      "answer": "He flees the scene.",
+      "rating": 6
+    },
+    {
+      "question": "What does Harvey do after the gangster flees?",
+      "answer": "He holds his bleeding side and looks in disbelief.",
+      "rating": 9
+    },
+    {
+      "question": "What does Rodger do after the gangster flees?",
+      "answer": "He looks aghast.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the roll is a fumble in a round?",
+      "answer": "The Keeper can choose whether the gun malfunctions or some other outcome occurs.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the gangster's gun jamming number is matched or exceeded?",
+      "answer": "The shooter's weapon does not fire, and the problem is a jam.",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take to fix a jam in a lever-action rifle?",
+      "answer": "1D6 combat rounds, plus a successful Mechanical Repair roll or Firearms skill roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cause of malfunction for a lever-action weapon in the Call of Cthulhu game?",
+      "answer": "A jam",
+      "rating": 7
+    },
+    {
+      "question": "How long does it take to fix a jam in a lever-action weapon?",
+      "answer": "1D6 combat rounds",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of taking the great black stone with unknown hieroglyphics?",
+      "answer": "Everything became different",
+      "rating": 6
+    },
+    {
+      "question": "What is the reason the narrator believes he is being targeted by unknown entities?",
+      "answer": "He has discovered something about a great black stone",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of suspecting too much in the human world according to H.P. Lovecraft?",
+      "answer": "They will either kill me or take me off the earth to where they come from.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of damage on the investigator in the game?",
+      "answer": "The investigator should describe the effects of damage and try to avoid simply saying, 'You lost 3 hit points'.",
+      "rating": 9
+    },
+    {
+      "question": "How can tracking damage be used?",
+      "answer": "Tracking damage can be used to differentiate between regular damage and major wounds.",
+      "rating": 9
+    },
+    {
+      "question": "Is major damage the same as regular damage in terms of recovery time?",
+      "answer": "No, major wounds may result in someone being beaten unconscious and taking a full day to recover, while regular damage may only cause someone to be battered and bruised but able to act the next day.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of the Keeper's rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper rolls 08, 38 and 98"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of the Keeper's roll of 98?"
+      },
+      {
+        "role": "assistant",
+        "content": "98 is both a fumble and a malfunction"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of Harvey's action against the gangster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey breaks cover, runs in and punches the gangster, but the gangster dodges and Harvey misses."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of the gangster's action after his gun jammed?"
+      },
+      {
+        "role": "assistant",
+        "content": "the gangster flees the scene."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the gangster do when his machine gun is jammed?"
+      },
+      {
+        "role": "assistant",
+        "content": "He flees the scene."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Harvey do after the gangster flees?"
+      },
+      {
+        "role": "assistant",
+        "content": "He holds his bleeding side and looks in disbelief."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Rodger do after the gangster flees?"
+      },
+      {
+        "role": "assistant",
+        "content": "He looks aghast."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the roll is a fumble in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can choose whether the gun malfunctions or some other outcome occurs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the gangster's gun jamming number is matched or exceeded?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shooter's weapon does not fire, and the problem is a jam."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to fix a jam in a lever-action rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 combat rounds, plus a successful Mechanical Repair roll or Firearms skill roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cause of malfunction for a lever-action weapon in the Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A jam"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to fix a jam in a lever-action weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 combat rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of taking the great black stone with unknown hieroglyphics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Everything became different"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason the narrator believes he is being targeted by unknown entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "He has discovered something about a great black stone"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of suspecting too much in the human world according to H.P. Lovecraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will either kill me or take me off the earth to where they come from."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of damage on the investigator in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator should describe the effects of damage and try to avoid simply saying, 'You lost 3 hit points'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can tracking damage be used?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tracking damage can be used to differentiate between regular damage and major wounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is major damage the same as regular damage in terms of recovery time?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, major wounds may result in someone being beaten unconscious and taking a full day to recover, while regular damage may only cause someone to be battered and bruised but able to act the next day."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 18,
+    "retention_rate": 0.69,
+    "avg_score": 8.1
+  }
+}

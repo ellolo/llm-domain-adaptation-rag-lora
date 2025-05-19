@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Call of Cthulhu game system provides a framework for investigators to navigate the Cthulhu Mythos, a shared universe of horror created by H.P. Lovecraft. Key concepts include the Keeper's role in guiding the game, the use of percentile dice to determine skill and characteristic success, and the application of rules such as the Point-Blank rule and the Sanity system to simulate the psychological effects of horror on investigators. The game also includes mechanics for combat, chase, and exploration, as well as optional rules for enhancing gameplay.",
+  "qa_pairs": [
+    {
+      "question": "What is Mythos Rating?",
+      "answer": "A measure of the depth of Cthulhu Mythos knowledge contained within each tome",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of the Keeper in Mythos?",
+      "answer": "The Keeper plays the Non-Player Character (NPC)",
+      "rating": 8
+    },
+    {
+      "question": "What happens if players fail their Perception skill rolls?",
+      "answer": "The Keeper may decide to withhold a clue",
+      "rating": 7
+    },
+    {
+      "question": "What is the Keeper's role in delivering a clue?",
+      "answer": "The Keeper may decide that a clue is essential and will simply deliver it to a player",
+      "rating": 8
+    },
+    {
+      "question": "How do players resolve a contest?",
+      "answer": "Both sides roll and compare levels of success; the higher level of success wins the contest",
+      "rating": 9
+    },
+    {
+      "question": "What type of rules are optional in Mythos?",
+      "answer": "Such rules are available as enhancements or alternatives to the standard rules",
+      "rating": 8
+    },
+    {
+      "question": "What is the bonus die applied to subsequent attacks on a character that has fought back or dodged in the present combat round?",
+      "answer": "One",
+      "rating": 9
+    },
+    {
+      "question": "Can characters and monsters dodge or fight back multiple times before the bonus die is applied?",
+      "answer": "Yes, that number of times",
+      "rating": 8
+    },
+    {
+      "question": "How are skill or characteristic rolls affected by the Penalty rule?",
+      "answer": "By rolling an additional 'tens' percentile die alongside the usual pair of percentile dice",
+      "rating": 9
+    },
+    {
+      "question": "What is the type of die used for Percentage, Percentage Dice rolls?",
+      "answer": "1D100 (percentage)",
+      "rating": 8
+    },
+    {
+      "question": "What skills are included in a Perception, Perception Roll?",
+      "answer": "Spot Hidden, Psychology, Listen, and Track",
+      "rating": 9
+    },
+    {
+      "question": "Where can you find more information about applying the bonus die and using the 'tens' die?",
+      "answer": "On pages 108 and 91, respectively",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of rolls are used in the game?",
+      "answer": "1D100 (percentage) rolls",
+      "rating": 8
+    },
+    {
+      "question": "What skill rolls can include Perception, Psychology, and Listen?",
+      "answer": "Spot Hidden, Psychology, and Listen skills",
+      "rating": 8
+    },
+    {
+      "question": "How many skill points can the player spend on desired skills?",
+      "answer": "INT x 2 skill points",
+      "rating": 7
+    },
+    {
+      "question": "What bonus is gained for firearms attacks made within a fifth of the shooter's DEX in feet?",
+      "answer": "A bonus die",
+      "rating": 9
+    },
+    {
+      "question": "What is POW in the game?",
+      "answer": "Power, a Characteristic",
+      "rating": 9
+    },
+    {
+      "question": "Can Pushing be applied to Combat, Chase, Sanity, and Luck rolls?",
+      "answer": "No, these rolls cannot be pushed",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a combat roll is pushed?",
+      "answer": "Combat rolls cannot be pushed (see page 84).",
+      "rating": 7
+    },
+    {
+      "question": "How does a character die?",
+      "answer": "A character cannot die as a result of regular damage (see page 119).",
+      "rating": 9
+    },
+    {
+      "question": "What is a Regular success?",
+      "answer": "A Regular success is a result equal to or below the full skill or characteristic value (see page 82).",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a character if they fail a Sanity roll?",
+      "answer": "A failure always costs more and leads toward insanity (see page 154).",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a character's Sanity if they lose it?",
+      "answer": "Through the loss of Sanity points, a character may become temporarily, indefinitely, or permanently insane.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of a single attack that deals damage less than half the character\u2019s maximum hit points?",
+      "answer": "The result of any single attack that deals damage less than half the character\u2019s maximum hit points is regular damage (see page 119).",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Mythos Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "A measure of the depth of Cthulhu Mythos knowledge contained within each tome"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the Keeper in Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper plays the Non-Player Character (NPC)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if players fail their Perception skill rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may decide to withhold a clue"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role in delivering a clue?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may decide that a clue is essential and will simply deliver it to a player"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do players resolve a contest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both sides roll and compare levels of success; the higher level of success wins the contest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of rules are optional in Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Such rules are available as enhancements or alternatives to the standard rules"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus die applied to subsequent attacks on a character that has fought back or dodged in the present combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can characters and monsters dodge or fight back multiple times before the bonus die is applied?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, that number of times"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are skill or characteristic rolls affected by the Penalty rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "By rolling an additional 'tens' percentile die alongside the usual pair of percentile dice"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the type of die used for Percentage, Percentage Dice rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D100 (percentage)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills are included in a Perception, Perception Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spot Hidden, Psychology, Listen, and Track"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find more information about applying the bonus die and using the 'tens' die?"
+      },
+      {
+        "role": "assistant",
+        "content": "On pages 108 and 91, respectively"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of rolls are used in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D100 (percentage) rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill rolls can include Perception, Psychology, and Listen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spot Hidden, Psychology, and Listen skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many skill points can the player spend on desired skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "INT x 2 skill points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What bonus is gained for firearms attacks made within a fifth of the shooter's DEX in feet?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bonus die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is POW in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Power, a Characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Pushing be applied to Combat, Chase, Sanity, and Luck rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, these rolls cannot be pushed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a combat roll is pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Combat rolls cannot be pushed (see page 84)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character die?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character cannot die as a result of regular damage (see page 119)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Regular success?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Regular success is a result equal to or below the full skill or characteristic value (see page 82)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character if they fail a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A failure always costs more and leads toward insanity (see page 154)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's Sanity if they lose it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through the loss of Sanity points, a character may become temporarily, indefinitely, or permanently insane."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a single attack that deals damage less than half the character\u2019s maximum hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The result of any single attack that deals damage less than half the character\u2019s maximum hit points is regular damage (see page 119)."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

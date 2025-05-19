@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, the Keeper decides what to translate from a mysterious book, determining the language, translation speed, and accuracy. The investigator must make a Language skill roll to read the book, with the Keeper setting a difficulty level based on the book's age, form, and condition. If the investigator fails, they may gain some insight but also risk losing Sanity points, potentially triggering temporary insanity. The Keeper can also withhold information, as seen in Harvey's case, where he loses his mind and awakens in a cornfield.",
+  "qa_pairs": [
+    {
+      "question": "What should the Keeper decide on regarding the translation of the book?",
+      "answer": "what gets translated, how quickly, and how accurately",
+      "rating": 8
+    },
+    {
+      "question": "What is the next step after looking at the cover and determining the language?",
+      "answer": "making an initial reading",
+      "rating": 9
+    },
+    {
+      "question": "What does the initial reading represent for the investigator?",
+      "answer": "exposure to the fire within",
+      "rating": 7
+    },
+    {
+      "question": "How much time the Keeper wants the initial reading to take can vary from?",
+      "answer": "minutes, hours, days, or weeks",
+      "rating": 6
+    },
+    {
+      "question": "Why does the Keeper have control over the speed of the initial reading?",
+      "answer": "to convince the investigators or else the book baffles them",
+      "rating": 8
+    },
+    {
+      "question": "How does the Keeper decide on a difficulty level for reading a book?",
+      "answer": "The Keeper decides based on the book's age, form, and condition",
+      "rating": 9
+    },
+    {
+      "question": "What skill is required to make a reading roll?",
+      "answer": "an appropriate Language skill roll",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for a book printed within the last century and in good condition?",
+      "answer": "Regular",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for a handwritten work, especially if it is old?",
+      "answer": "Hard",
+      "rating": 9
+    },
+    {
+      "question": "What is the Keeper's role in determining the success of a reading roll?",
+      "answer": "The Keeper may choose to grant automatic success to anyone with a modicum of skill in the appropriate language.",
+      "rating": 8
+    },
+    {
+      "question": "How does the Keeper determine the difficulty level of a reading roll?",
+      "answer": "The Keeper decides on a difficulty level for reading the book based upon its age, form, and condition.",
+      "rating": 7
+    },
+    {
+      "question": "What is the difficulty level for a book printed within the last century and in good condition?",
+      "answer": "Regular difficulty.",
+      "rating": 6
+    },
+    {
+      "question": "What is the difficulty level for an ancient, moldering tome with a mix of print and handwritten annotation?",
+      "answer": "Extreme difficulty level.",
+      "rating": 10
+    },
+    {
+      "question": "What is the penalty for failing the reading roll for the Book of Eibon?",
+      "answer": "Sanity point loss 2D4.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level for a book printed within the last century and in good condition?",
+      "answer": "Regular",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for an ancient, moldering tome with print and handwritten annotation?",
+      "answer": "Extreme",
+      "rating": 10
+    },
+    {
+      "question": "What is the potential sanity point loss for reading the Book of Eibon?",
+      "answer": "2D4",
+      "rating": 8
+    },
+    {
+      "question": "How many weeks is required to complete a full study of the Book of Eibon?",
+      "answer": "32 weeks",
+      "rating": 6
+    },
+    {
+      "question": "What is the Mythos rating of the Book of Eibon?",
+      "answer": "33%",
+      "rating": 9
+    },
+    {
+      "question": "What is the duration of the full study for the Cthulhu Mythos?",
+      "answer": "32 weeks.",
+      "rating": 7
+    },
+    {
+      "question": "What is the current Mythos rating for Harvey?",
+      "answer": "33%.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey's Sanity points after the reading roll?",
+      "answer": "Harvey's Sanity points are reduced by a corresponding amount.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper decide on regarding the translation of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "what gets translated, how quickly, and how accurately"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the next step after looking at the cover and determining the language?"
+      },
+      {
+        "role": "assistant",
+        "content": "making an initial reading"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the initial reading represent for the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "exposure to the fire within"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much time the Keeper wants the initial reading to take can vary from?"
+      },
+      {
+        "role": "assistant",
+        "content": "minutes, hours, days, or weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper have control over the speed of the initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "to convince the investigators or else the book baffles them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper decide on a difficulty level for reading a book?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides based on the book's age, form, and condition"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill is required to make a reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "an appropriate Language skill roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a book printed within the last century and in good condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a handwritten work, especially if it is old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role in determining the success of a reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may choose to grant automatic success to anyone with a modicum of skill in the appropriate language."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine the difficulty level of a reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides on a difficulty level for reading the book based upon its age, form, and condition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a book printed within the last century and in good condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for an ancient, moldering tome with a mix of print and handwritten annotation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for failing the reading roll for the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity point loss 2D4."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a book printed within the last century and in good condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for an ancient, moldering tome with print and handwritten annotation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential sanity point loss for reading the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks is required to complete a full study of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "32 weeks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos rating of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "33%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the full study for the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "32 weeks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current Mythos rating for Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "33%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Sanity points after the reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey's Sanity points are reduced by a corresponding amount."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 22,
+    "retention_rate": 0.88,
+    "avg_score": 7.6
+  }
+}

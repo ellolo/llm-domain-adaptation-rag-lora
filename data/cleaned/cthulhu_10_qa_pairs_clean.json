@@ -1,0 +1,412 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu game, players encounter a terrifying and grotesque creature, described as having a mass of wrinkles, sickly brown-green skin, and decaying flesh. To cope with this horror, players must make Sanity rolls, with success resulting in a loss of 1 point and failure resulting in a significant loss of Sanity points (1D10). The Keeper of the game must also manage the Sanity of their investigators, as excessive horror can cause them to faint or become temporarily insane. The game requires players to navigate the horrors of the Cthulhu Mythos, and the Keeper must be prepared to manage the psychological effects of these encounters.",
+  "qa_pairs": [
+    {
+      "question": "What is the condition of the creature's face?",
+      "answer": "Its face is a mass of wrinkles.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if Joe fails his Sanity roll?",
+      "answer": "It\u2019s going to be 1D10 points!",
+      "rating": 9
+    },
+    {
+      "question": "How many investigators are involved in the Listen rolls?",
+      "answer": "Joe, Arnold, and Cathy.",
+      "rating": 7
+    },
+    {
+      "question": "What is the main purpose of this book?",
+      "answer": "This book contains everything that you need to play Call of Cthulhu\u2014except for dice, pencils, notepaper, and some friends.",
+      "rating": 8
+    },
+    {
+      "question": "Who are the investigators mentioned in the text?",
+      "answer": "Joe, Arnold, and Cathy",
+      "rating": 6
+    },
+    {
+      "question": "What does the text suggest players should have before running the game for the first time?",
+      "answer": "The rules and concepts of Call of Cthulhu",
+      "rating": 9
+    },
+    {
+      "question": "Where is the Rulebook section located?",
+      "answer": "At the beginning of the book",
+      "rating": 8
+    },
+    {
+      "question": "What does the text mention other support material for Call of Cthulhu exists?",
+      "answer": "Short, quick-play scenarios, world-encompassing campaigns, setting books, online forums, and so on.",
+      "rating": 9
+    },
+    {
+      "question": "What type of material supports the game Call of Cthulhu?",
+      "answer": "short, quick-play scenarios, world-encompassing campaigns, setting books, online forums, and so on.",
+      "rating": 9
+    },
+    {
+      "question": "What section of the rulebook is for the Keeper?",
+      "answer": "Keeper\u2019s Reference Section",
+      "rating": 8
+    },
+    {
+      "question": "What is the main focus of Call of Cthulhu?",
+      "answer": "mysteries and secrets",
+      "rating": 7
+    },
+    {
+      "question": "Who should not read the Keeper\u2019s Reference Section?",
+      "answer": "those who are not planning on being the Keeper of Arcane Lore",
+      "rating": 9
+    },
+    {
+      "question": "What is the main purpose of the Rules Section?",
+      "answer": "The Rules Section contains everything you need to know to play the game, including creating investigators and the game's rules.",
+      "rating": 8
+    },
+    {
+      "question": "Who should read the Keeper's Reference Section?",
+      "answer": "The Keeper should read the Keeper's Reference Section.",
+      "rating": 9
+    },
+    {
+      "question": "What should new players do before running the game?",
+      "answer": "Read the Introduction, the rules, and the recommended scenarios.",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommended starting scenario for new players?",
+      "answer": "One of the scenarios from the back of the book, such as 'Amidst the Ancient Trees'.",
+      "rating": 9
+    },
+    {
+      "question": "What chapter should players read before running their first game?",
+      "answer": "Chapter 10: Playing the Game",
+      "rating": 8
+    },
+    {
+      "question": "What chapter can players jump straight into if they are familiar with H.P. Lovecraft and previous versions of the Call of Cthulhu game?",
+      "answer": "Chapter 3: Creating Investigators",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points did Paula's investigator lose?",
+      "answer": "9",
+      "rating": 7
+    },
+    {
+      "question": "How many Sanity points did Paula lose before her investigator fainted?",
+      "answer": "5",
+      "rating": 6
+    },
+    {
+      "question": "What would happen if Paula's investigator rolls higher than Keeper's Intelligence on 1D100?",
+      "answer": "The investigator would not faint",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the creature's face?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its face is a mass of wrinkles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Joe fails his Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "It\u2019s going to be 1D10 points!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many investigators are involved in the Listen rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Joe, Arnold, and Cathy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of this book?"
+      },
+      {
+        "role": "assistant",
+        "content": "This book contains everything that you need to play Call of Cthulhu\u2014except for dice, pencils, notepaper, and some friends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the investigators mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Joe, Arnold, and Cathy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the text suggest players should have before running the game for the first time?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rules and concepts of Call of Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the Rulebook section located?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the beginning of the book"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the text mention other support material for Call of Cthulhu exists?"
+      },
+      {
+        "role": "assistant",
+        "content": "Short, quick-play scenarios, world-encompassing campaigns, setting books, online forums, and so on."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of material supports the game Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "short, quick-play scenarios, world-encompassing campaigns, setting books, online forums, and so on."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What section of the rulebook is for the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keeper\u2019s Reference Section"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "mysteries and secrets"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who should not read the Keeper\u2019s Reference Section?"
+      },
+      {
+        "role": "assistant",
+        "content": "those who are not planning on being the Keeper of Arcane Lore"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the Rules Section?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Rules Section contains everything you need to know to play the game, including creating investigators and the game's rules."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who should read the Keeper's Reference Section?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should read the Keeper's Reference Section."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should new players do before running the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Read the Introduction, the rules, and the recommended scenarios."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended starting scenario for new players?"
+      },
+      {
+        "role": "assistant",
+        "content": "One of the scenarios from the back of the book, such as 'Amidst the Ancient Trees'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What chapter should players read before running their first game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chapter 10: Playing the Game"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What chapter can players jump straight into if they are familiar with H.P. Lovecraft and previous versions of the Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chapter 3: Creating Investigators"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points did Paula's investigator lose?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points did Paula lose before her investigator fainted?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What would happen if Paula's investigator rolls higher than Keeper's Intelligence on 1D100?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator would not faint"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 22,
+    "filtered": 21,
+    "retention_rate": 0.95,
+    "avg_score": 7.9
+  }
+}

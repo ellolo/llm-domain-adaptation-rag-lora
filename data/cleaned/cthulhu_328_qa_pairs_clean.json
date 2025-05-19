@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nA \"Crawling One\" is a monstrous entity composed of thousands of worms and maggots, each with a collective mind driven by the \"will\" of a dead sorcerer. These creatures possess special powers, including the ability to cast spells, use weapons, and communicate through written messages. They are vulnerable to physical attacks, but can dodge them with a 20% chance. The Crawling Ones are also susceptible to mental attacks, which can drain their magic points and sanity, and can be defeated with a successful opposed roll.",
+  "qa_pairs": [
+    {
+      "question": "What happens to the victim's face after being affected by the colour?",
+      "answer": "The victim's face sinks, with skin ageing and hideous cracks and wrinkles.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect on magic points if a colour's influence is reduced by 50%?",
+      "answer": "Magic points are reduced by half, making it half POW to leave the area.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of failing an opposed INT roll while in the colour's vicinity?",
+      "answer": "Each person must make an opposed INT roll, losing 1D6 magic points and 1D6 Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What is required to leave the area of the colour's influence?",
+      "answer": "A successful Hard or Extreme POW roll, or being inexplicably compelled to stay.",
+      "rating": 8
+    },
+    {
+      "question": "Can destroyed magic points be regained?",
+      "answer": "No, magic points so destroyed cannot be regained without leaving the area.",
+      "rating": 7
+    },
+    {
+      "question": "How is the victim of a colour affected?",
+      "answer": "The victim is vulnerable to magic and can see a victim of a colour with 1/1D8 Sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Dodge value for the Crawling One?",
+      "answer": "47% (23/9)",
+      "rating": 9
+    },
+    {
+      "question": "What can imprison the Crawling One?",
+      "answer": "Strong magnetic fields, which can imprison it.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage for a successful Mental Attack against a colour?",
+      "answer": "1D6 magic points + 1D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "How vulnerable is the Crawling One to physical attacks?",
+      "answer": "None\u2014invulnerable to physical attack except by strong magnetic fields",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt by the colour 'colour's POW'?",
+      "answer": "1D6 magic points + 1D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What is the Crawling One vulnerable to, apart from strong magnetic fields?",
+      "answer": "Magic",
+      "rating": 7
+    },
+    {
+      "question": "What is the outcome of seeing a victim of a colour, according to the Sanity Loss table?",
+      "answer": "1/1D8 Sanity points",
+      "rating": 6
+    },
+    {
+      "question": "Who is quoted in the text as saying that happy the town at night whose wizards are all ashes?",
+      "answer": "Ibn Schacabao",
+      "rating": 9
+    },
+    {
+      "question": "What is the supposed behavior of the soul of a devil-bought creature?",
+      "answer": "The soul of the devil-bought hastens not from his charnel clay, but instructs the worm that gnaws.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of the corruption and decay of a creature born from it?",
+      "answer": "Corruption leads to the birth of a monstrous, horrid life.",
+      "rating": 8
+    },
+    {
+      "question": "What is said about the wizards in the town where the poem takes place?",
+      "answer": "Wisely, happy is the town at night whose wizards are all ashes.",
+      "rating": 9
+    },
+    {
+      "question": "Who is quoted in the poem?",
+      "answer": "Ibn Schacabao",
+      "rating": 8
+    },
+    {
+      "question": "What is composed of thousands of worms and maggots?",
+      "answer": "A crawling one",
+      "rating": 7
+    },
+    {
+      "question": "What is the collective mass of wriggling creatures capable of doing?",
+      "answer": "Perform deeds and actions",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage type for unarmed attacks by crawling ones?",
+      "answer": "1D3",
+      "rating": 8
+    },
+    {
+      "question": "What is the armor rating of crawling ones?",
+      "answer": "None",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's face after being affected by the colour?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim's face sinks, with skin ageing and hideous cracks and wrinkles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect on magic points if a colour's influence is reduced by 50%?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magic points are reduced by half, making it half POW to leave the area."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failing an opposed INT roll while in the colour's vicinity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each person must make an opposed INT roll, losing 1D6 magic points and 1D6 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to leave the area of the colour's influence?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful Hard or Extreme POW roll, or being inexplicably compelled to stay."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can destroyed magic points be regained?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, magic points so destroyed cannot be regained without leaving the area."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the victim of a colour affected?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim is vulnerable to magic and can see a victim of a colour with 1/1D8 Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge value for the Crawling One?"
+      },
+      {
+        "role": "assistant",
+        "content": "47% (23/9)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can imprison the Crawling One?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strong magnetic fields, which can imprison it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage for a successful Mental Attack against a colour?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 magic points + 1D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How vulnerable is the Crawling One to physical attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "None\u2014invulnerable to physical attack except by strong magnetic fields"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the colour 'colour's POW'?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 magic points + 1D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Crawling One vulnerable to, apart from strong magnetic fields?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of seeing a victim of a colour, according to the Sanity Loss table?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D8 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is quoted in the text as saying that happy the town at night whose wizards are all ashes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ibn Schacabao"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the supposed behavior of the soul of a devil-bought creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "The soul of the devil-bought hastens not from his charnel clay, but instructs the worm that gnaws."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the corruption and decay of a creature born from it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Corruption leads to the birth of a monstrous, horrid life."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is said about the wizards in the town where the poem takes place?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wisely, happy is the town at night whose wizards are all ashes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is quoted in the poem?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ibn Schacabao"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is composed of thousands of worms and maggots?"
+      },
+      {
+        "role": "assistant",
+        "content": "A crawling one"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the collective mass of wriggling creatures capable of doing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perform deeds and actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for unarmed attacks by crawling ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor rating of crawling ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 22,
+    "retention_rate": 0.85,
+    "avg_score": 7.3
+  }
+}

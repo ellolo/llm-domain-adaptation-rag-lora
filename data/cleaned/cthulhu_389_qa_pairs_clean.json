@@ -1,0 +1,317 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nShub-Niggurath, also known as the Black Goat of the Woods with a Thousand Young, is a deity in the Cthulhu Mythos, often referred to in rituals and spells as a perverse fertility goddess. She is described as a massive, cloudy mass that can take on various forms, including body parts, tentacles, and hooves, and is said to have the power to bud off dark young. Shub-Niggurath is also associated with the cult of the Chthonians, a group of ancient, evil beings that are said to be worshiped by some druids and Stone Age tribes. Her worship is believed to be connected to the yearly cycle of death and rebirth, and her presence can cause earthquakes and destruction.",
+  "qa_pairs": [
+    {
+      "question": "What is Shub-Niggurath often referred to in rituals and spells?",
+      "answer": "A perverse fertility deity",
+      "rating": 9
+    },
+    {
+      "question": "What does Shub-Niggurath's milk supposedly have remarkable properties?",
+      "answer": "Establish its properties by the Keepers",
+      "rating": 8
+    },
+    {
+      "question": "What forms part of the mist in this text?",
+      "answer": "body parts, ropy black tentacles, slime-dripping mouths, or short writhing legs",
+      "rating": 9
+    },
+    {
+      "question": "What is the likely effect of her arrival?",
+      "answer": "budding-off dark young",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of damage is considered 'trample 75% damage'?",
+      "answer": "75%",
+      "rating": 9
+    },
+    {
+      "question": "What type of damage can Shub-Niggurath's slimy mist body resist?",
+      "answer": "physical weapons",
+      "rating": 8
+    },
+    {
+      "question": "What type of energies damage Shub-Niggurath?",
+      "answer": "Magical weapons or fire, electricity, or similar energies",
+      "rating": 9
+    },
+    {
+      "question": "How many points of damage does Shub-Niggurath heal for each magic point expended?",
+      "answer": "2 points of damage",
+      "rating": 8
+    },
+    {
+      "question": "Who is the primary deity being referenced in the text?",
+      "answer": "Eostre",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the large, evil chthonian being in the second passage?",
+      "answer": "The Burrowers Beneath's creature, but no name is given in the passage",
+      "rating": 7
+    },
+    {
+      "question": "What are the true origins of the old practices of Eostre, Lammas, or Samhain?",
+      "answer": "The true origins of the old practices of Eostre, Lammas, or Samhain are doubtful, as only certain wise folk dwelling at the edges of society understand their meaning.",
+      "rating": 6
+    },
+    {
+      "question": "What is Shudde M'ell, according to the text?",
+      "answer": "Shudde M'ell is a great gray thing a mile long, chanting and exuding strange acids, known as the largest and most evil of its kind among the chthonians.",
+      "rating": 9
+    },
+    {
+      "question": "What is Shudde M'ell?",
+      "answer": "a great gray thing a mile long",
+      "rating": 8
+    },
+    {
+      "question": "What can Shudde M'ell cause by himself?",
+      "answer": "a local earthquake of shocking intensity",
+      "rating": 9
+    },
+    {
+      "question": "What is the current status of Shudde M'ell according to legends?",
+      "answer": "He is now free to wander the Earth with his kin.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Shudde M'ell on a local scale?",
+      "answer": "He can cause a local earthquake of shocking intensity.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shub-Niggurath often referred to in rituals and spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "A perverse fertility deity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Shub-Niggurath's milk supposedly have remarkable properties?"
+      },
+      {
+        "role": "assistant",
+        "content": "Establish its properties by the Keepers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What forms part of the mist in this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "body parts, ropy black tentacles, slime-dripping mouths, or short writhing legs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the likely effect of her arrival?"
+      },
+      {
+        "role": "assistant",
+        "content": "budding-off dark young"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage is considered 'trample 75% damage'?"
+      },
+      {
+        "role": "assistant",
+        "content": "75%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage can Shub-Niggurath's slimy mist body resist?"
+      },
+      {
+        "role": "assistant",
+        "content": "physical weapons"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of energies damage Shub-Niggurath?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magical weapons or fire, electricity, or similar energies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many points of damage does Shub-Niggurath heal for each magic point expended?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the primary deity being referenced in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eostre"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the large, evil chthonian being in the second passage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Burrowers Beneath's creature, but no name is given in the passage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the true origins of the old practices of Eostre, Lammas, or Samhain?"
+      },
+      {
+        "role": "assistant",
+        "content": "The true origins of the old practices of Eostre, Lammas, or Samhain are doubtful, as only certain wise folk dwelling at the edges of society understand their meaning."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shudde M'ell, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shudde M'ell is a great gray thing a mile long, chanting and exuding strange acids, known as the largest and most evil of its kind among the chthonians."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Shudde M'ell?"
+      },
+      {
+        "role": "assistant",
+        "content": "a great gray thing a mile long"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can Shudde M'ell cause by himself?"
+      },
+      {
+        "role": "assistant",
+        "content": "a local earthquake of shocking intensity"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of Shudde M'ell according to legends?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is now free to wander the Earth with his kin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Shudde M'ell on a local scale?"
+      },
+      {
+        "role": "assistant",
+        "content": "He can cause a local earthquake of shocking intensity."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 16,
+    "filtered": 16,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

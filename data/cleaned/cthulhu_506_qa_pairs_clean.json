@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document outlines the mechanics for \"Bouts of Madness\" in a role-playing game, which simulate the effects of insanity on investigators. A Bout of Madness can be triggered by various events, such as a roll of 1D10, and can result in a range of effects, including amnesia, psychosomatic disabilities, paranoia, and violent outbursts. The severity and duration of the Bout of Madness are determined by a roll of 1D10, with different outcomes corresponding to different numbers. The document also provides guidelines for resolving the effects of a Bout of Madness, including how to determine the outcome of violent outbursts and the recovery of the investigator.",
+  "qa_pairs": [
+    {
+      "question": "What is the range for success in a Sanity roll?",
+      "answer": "96\u2013100",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of failure in a Sanity roll for care (roll 1D100 per month)?",
+      "answer": "lose 1D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of failure in a Sanity roll for Treatment at institution (roll 1D100 per month)?",
+      "answer": "lose 1D6 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "How long does a bout of psychosomatic disability last?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "What is the duration of each bout of madness?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition of the investigator in 'Violence' bout?",
+      "answer": "A red mist descends on the investigator and they explode in a spree of uncontrolled violence and destruction",
+      "rating": 10
+    },
+    {
+      "question": "What is the condition of the investigator in 'Paranoia' bout?",
+      "answer": "The investigator suffers severe paranoia",
+      "rating": 9
+    },
+    {
+      "question": "What is the condition of the investigator in 'Psychosomatic disability' bout?",
+      "answer": "The investigator suffers psychosomatic blindness, deafness, or loss of the use of a limb or limbs",
+      "rating": 9
+    },
+    {
+      "question": "How long does the investigator suffer from psychosomatic disability?",
+      "answer": "1D10 rounds",
+      "rating": 8
+    },
+    {
+      "question": "How long does the investigator explode in a spree of uncontrolled violence and destruction?",
+      "answer": "1D10 rounds",
+      "rating": 9
+    },
+    {
+      "question": "How long does the investigator suffer from severe paranoia?",
+      "answer": "1D10 rounds",
+      "rating": 8
+    },
+    {
+      "question": "How long does the investigator mistake another person for their Significant Person?",
+      "answer": "1D10 rounds",
+      "rating": 7
+    },
+    {
+      "question": "How long does the investigator act upon the relationship?",
+      "answer": "1D10 rounds.",
+      "rating": 6
+    },
+    {
+      "question": "How long the investigator is incapacitated from laughing, crying, screaming, etc. after physical hysterics or emotional outburst?",
+      "answer": "1D10 rounds.",
+      "rating": 8
+    },
+    {
+      "question": "How long the investigator seeks to indulge in their new mania after gaining one?",
+      "answer": "1D10 rounds.",
+      "rating": 9
+    },
+    {
+      "question": "How long does the investigator stay in each bout of madness?",
+      "answer": "1D10 rounds",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator's memories after being robbed?",
+      "answer": "They slowly return over time",
+      "rating": 7
+    },
+    {
+      "question": "How often does the investigator experience bouts of madness?",
+      "answer": "1D10 rounds",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Treasured Possessions when the investigator is robbed?",
+      "answer": "Everything else of value is automatically missing",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the investigator is carrying a Treasured Possession?",
+      "answer": "Make a Luck roll to see if it was stolen.",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the investigator's hit points if they are battered?",
+      "answer": "Hit points are reduced to half of what they were before going insane.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the investigator's actions if they are violent?",
+      "answer": "The Keeper decides whether the investigator has killed or simply inflicted harm.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when the investigator manifests an ideology or belief?",
+      "answer": "The investigator manifests one of these in an extreme, crazed and demonstrative manner.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for success in a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "96\u2013100"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of failure in a Sanity roll for care (roll 1D100 per month)?"
+      },
+      {
+        "role": "assistant",
+        "content": "lose 1D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of failure in a Sanity roll for Treatment at institution (roll 1D100 per month)?"
+      },
+      {
+        "role": "assistant",
+        "content": "lose 1D6 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does a bout of psychosomatic disability last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of each bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the investigator in 'Violence' bout?"
+      },
+      {
+        "role": "assistant",
+        "content": "A red mist descends on the investigator and they explode in a spree of uncontrolled violence and destruction"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the investigator in 'Paranoia' bout?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator suffers severe paranoia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the investigator in 'Psychosomatic disability' bout?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator suffers psychosomatic blindness, deafness, or loss of the use of a limb or limbs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator suffer from psychosomatic disability?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator explode in a spree of uncontrolled violence and destruction?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator suffer from severe paranoia?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator mistake another person for their Significant Person?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator act upon the relationship?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long the investigator is incapacitated from laughing, crying, screaming, etc. after physical hysterics or emotional outburst?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long the investigator seeks to indulge in their new mania after gaining one?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator stay in each bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's memories after being robbed?"
+      },
+      {
+        "role": "assistant",
+        "content": "They slowly return over time"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often does the investigator experience bouts of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Treasured Possessions when the investigator is robbed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Everything else of value is automatically missing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator is carrying a Treasured Possession?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a Luck roll to see if it was stolen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's hit points if they are battered?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hit points are reduced to half of what they were before going insane."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's actions if they are violent?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides whether the investigator has killed or simply inflicted harm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the investigator manifests an ideology or belief?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator manifests one of these in an extreme, crazed and demonstrative manner."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.9
+  }
+}

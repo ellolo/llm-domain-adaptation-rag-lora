@@ -1,0 +1,507 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis scenario, likely part of the Call of Cthulhu tabletop role-playing game, involves investigating the mysterious death of a character named Leiter. The scenario provides a list of potential culprits, each initially described as an innocent party, but with a hidden role if chosen as the culprit. The main character, Bryce Fallon, is a senior administrative officer at Miskatonic University, who will provide information and assistance to the investigators, but may also have his own agenda and motivations. The scenario also includes a list of characters, including Bryce Fallon, Harland Roach, and Emilia Court, who will be encountered by the investigators.",
+  "qa_pairs": [
+    {
+      "question": "What is the main purpose of the Chaosium publications in this scenario?",
+      "answer": "Determining locations of the various non-player characters who live outside of Miskatonic University.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship of the investigator to Leiter?",
+      "answer": "Not specified",
+      "rating": 8
+    },
+    {
+      "question": "Which source books are not essential for running this scenario?",
+      "answer": "Call of Cthulhu source books",
+      "rating": 9
+    },
+    {
+      "question": "Where can Game statistics for each character be found?",
+      "answer": "Appendix at the end of the scenario",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the Arkham setting in Lovecraft's works?",
+      "answer": "Arkham",
+      "rating": 9
+    },
+    {
+      "question": "Where can investigators find game statistics for each character in the scenario?",
+      "answer": "In the Appendix at the end of the scenario.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the Arkham Witch Trial Papers in the scenario?",
+      "answer": "To describe each potential culprit as an innocent party.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the rest of the entry for a chosen culprit after the Keeper has selected one?",
+      "answer": "It may be necessary to rework the rest of the entry, making alterations to the character as required.",
+      "rating": 9
+    },
+    {
+      "question": "Who is Bryce Fallon?",
+      "answer": "Bryce Fallon, the Dean of Administration at the Miskatonic University.",
+      "rating": 9
+    },
+    {
+      "question": "How old is Bryce Fallon?",
+      "answer": "Bryce Fallon is in his early fifties.",
+      "rating": 8
+    },
+    {
+      "question": "What is Bryce Fallon's occupation?",
+      "answer": "Bryce Fallon is the Dean of Administration at the Miskatonic University.",
+      "rating": 9
+    },
+    {
+      "question": "How is Bryce Fallon described?",
+      "answer": "Bryce Fallon is a charming, immaculately turned-out man.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal of Bryce Fallon's interest in the missing papers?",
+      "answer": "The preservation of the reputation of the Miskatonic University",
+      "rating": 8
+    },
+    {
+      "question": "What is Bryce Fallon's former specialty?",
+      "answer": "Mathematics",
+      "rating": 7
+    },
+    {
+      "question": "What motivates Bryce Fallon to turn a blind eye to certain actions?",
+      "answer": "The preservation of the reputation of the Miskatonic University",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary goal of the University's administration, according to the text?",
+      "answer": "Pure academia",
+      "rating": 6
+    },
+    {
+      "question": "What is Bryce Fallon's primary goal in dealing with the Witch Trial Papers?",
+      "answer": "The preservation of the reputation of the Miskatonic University is his primary goal.",
+      "rating": 8
+    },
+    {
+      "question": "How does Bryce Fallon feel about Leiter's personal life?",
+      "answer": "He will greet any revelations about Leiter's personal life with disdain but not surprise.",
+      "rating": 9
+    },
+    {
+      "question": "What does Bryce Fallon think of Leiter's personality?",
+      "answer": "He knows him to be competent and ambitious, and more than a little bit oily.",
+      "rating": 8
+    },
+    {
+      "question": "What is Bryce Fallon's relationship like with Leiter outside of work?",
+      "answer": "He knew Leiter professionally but not personally outside of work.",
+      "rating": 7
+    },
+    {
+      "question": "What is Fallon's attitude towards the Witch Trial Papers?",
+      "answer": "He will quite happily go along with anything that will see the matter of the Witch Trial Papers 'dealt with satisfactorily'.",
+      "rating": 6
+    },
+    {
+      "question": "How does Fallon perceive Leiter?",
+      "answer": "He knows Leiter to be competent and ambitious, and more than a little bit oily.",
+      "rating": 8
+    },
+    {
+      "question": "What is the general attitude of T. Fallon towards Leiter's personal life?",
+      "answer": "He will greet any revelations about Leiter's personal life with distain but not surprise",
+      "rating": 9
+    },
+    {
+      "question": "What information does T. Fallon have about the cause of the mysterious death?",
+      "answer": "He has no idea of the cause other than 'violent seizure'.",
+      "rating": 8
+    },
+    {
+      "question": "What was Leiter's prior career, according to T. Fallon?",
+      "answer": "Prior career as an art student at MU",
+      "rating": 8
+    },
+    {
+      "question": "What contact information can T. Fallon provide to the investigators?",
+      "answer": "Keys to Leiter's office and home, as well as contact with any relevant members of the Faculty",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the Chaosium publications in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Determining locations of the various non-player characters who live outside of Miskatonic University."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship of the investigator to Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which source books are not essential for running this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu source books"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can Game statistics for each character be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appendix at the end of the scenario"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Arkham setting in Lovecraft's works?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arkham"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators find game statistics for each character in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the Appendix at the end of the scenario."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Arkham Witch Trial Papers in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To describe each potential culprit as an innocent party."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the rest of the entry for a chosen culprit after the Keeper has selected one?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may be necessary to rework the rest of the entry, making alterations to the character as required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is Bryce Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon, the Dean of Administration at the Miskatonic University."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How old is Bryce Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon is in his early fifties."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon is the Dean of Administration at the Miskatonic University."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Bryce Fallon described?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon is a charming, immaculately turned-out man."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of Bryce Fallon's interest in the missing papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The preservation of the reputation of the Miskatonic University"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's former specialty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mathematics"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What motivates Bryce Fallon to turn a blind eye to certain actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The preservation of the reputation of the Miskatonic University"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of the University's administration, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pure academia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's primary goal in dealing with the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The preservation of the reputation of the Miskatonic University is his primary goal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Bryce Fallon feel about Leiter's personal life?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will greet any revelations about Leiter's personal life with disdain but not surprise."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Bryce Fallon think of Leiter's personality?"
+      },
+      {
+        "role": "assistant",
+        "content": "He knows him to be competent and ambitious, and more than a little bit oily."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's relationship like with Leiter outside of work?"
+      },
+      {
+        "role": "assistant",
+        "content": "He knew Leiter professionally but not personally outside of work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's attitude towards the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will quite happily go along with anything that will see the matter of the Witch Trial Papers 'dealt with satisfactorily'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Fallon perceive Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "He knows Leiter to be competent and ambitious, and more than a little bit oily."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general attitude of T. Fallon towards Leiter's personal life?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will greet any revelations about Leiter's personal life with distain but not surprise"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What information does T. Fallon have about the cause of the mysterious death?"
+      },
+      {
+        "role": "assistant",
+        "content": "He has no idea of the cause other than 'violent seizure'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter's prior career, according to T. Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prior career as an art student at MU"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What contact information can T. Fallon provide to the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keys to Leiter's office and home, as well as contact with any relevant members of the Faculty"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 26,
+    "filtered": 26,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

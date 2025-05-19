@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nDimensional Shamblers, also known as Elder Things, are entities capable of walking between planes and worlds, often serving a god or Great Old One. They possess unique abilities, including trans-dimensional travel, which allows them to leave one plane of existence and enter another, and spells, which they can cast with a high probability. These entities are described in the Lovecraftian mythos, specifically in the story \"At the Mountains of Madness,\" where they are referred to as the Old Ones. They are known to have created the shoggoths as slaves and have been driven back to Antarctica, but may still have colonies in the deepest waters.",
+  "qa_pairs": [
+    {
+      "question": "What is the nature of shambler entities?",
+      "answer": "They are assumed to be entities capable of walking between planes and worlds of the universe",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of shambler entities?",
+      "answer": "Their individual motivations and purpose remain a mystery",
+      "rating": 7
+    },
+    {
+      "question": "What is the cost of trans-dimensional travel for shamblers?",
+      "answer": "4 magic points",
+      "rating": 9
+    },
+    {
+      "question": "Can shamblers inflict damage on attackers during transit?",
+      "answer": "No, they cannot",
+      "rating": 8
+    },
+    {
+      "question": "Can shamblers take objects or beings with them during transit?",
+      "answer": "Yes, they can take objects or beings with them when they fade into another dimension",
+      "rating": 9
+    },
+    {
+      "question": "What happens to objects or beings that are attacked by a shambler?",
+      "answer": "They cannot inflict damage on their attackers.",
+      "rating": 8
+    },
+    {
+      "question": "What does a shambler do with objects or beings it takes with it?",
+      "answer": "It takes them into another dimension.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to lost objects and victims of a shambler?",
+      "answer": "They are never found again.",
+      "rating": 8
+    },
+    {
+      "question": "What is the chance of a dimensional shambler knowing a spell?",
+      "answer": "A 40% chance.",
+      "rating": 8
+    },
+    {
+      "question": "How tall is an Elder thing according to Lovecraft's At the Mountains of Madness?",
+      "answer": "About eight feet tall.",
+      "rating": 9
+    },
+    {
+      "question": "What is the chance that dimensional shamblers know 1D3 spells?",
+      "answer": "40%",
+      "rating": 7
+    },
+    {
+      "question": "How long ago did elder things come to Earth?",
+      "answer": "A billion years ago",
+      "rating": 8
+    },
+    {
+      "question": "What was the result of elder things' civilisation being wiped out?",
+      "answer": "The cold of the ice age",
+      "rating": 9
+    },
+    {
+      "question": "What is the current status of elder things on land?",
+      "answer": "Extinct",
+      "rating": 8
+    },
+    {
+      "question": "What happened to shoggoths after the wars with other races?",
+      "answer": "They were driven back to Antarctica",
+      "rating": 9
+    },
+    {
+      "question": "What led to the extinction of the elder civilization?",
+      "answer": "The cold of the ice age",
+      "rating": 9
+    },
+    {
+      "question": "What is the chance that an elder thing knows a spell?",
+      "answer": "70%",
+      "rating": 8
+    },
+    {
+      "question": "What is the average strength of an elder thing?",
+      "answer": "95",
+      "rating": 9
+    },
+    {
+      "question": "What is the average size of an elder thing?",
+      "answer": "95",
+      "rating": 9
+    },
+    {
+      "question": "What is the average intelligence of an elder thing?",
+      "answer": "95",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of elder things have a chance of knowing spells?",
+      "answer": "70% chance",
+      "rating": 8
+    },
+    {
+      "question": "What are the average damage bonus and build for dimensional shamblers?",
+      "answer": "+1D6 and 2 respectively",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for elder things?",
+      "answer": "Not specified",
+      "rating": 6
+    },
+    {
+      "question": "What is the average damage bonus for dimensional shammers?",
+      "answer": "+1D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the average move for dimensional shamblers?",
+      "answer": "7",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of shambler entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are assumed to be entities capable of walking between planes and worlds of the universe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of shambler entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their individual motivations and purpose remain a mystery"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of trans-dimensional travel for shamblers?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 magic points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can shamblers inflict damage on attackers during transit?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they cannot"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can shamblers take objects or beings with them during transit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can take objects or beings with them when they fade into another dimension"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to objects or beings that are attacked by a shambler?"
+      },
+      {
+        "role": "assistant",
+        "content": "They cannot inflict damage on their attackers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does a shambler do with objects or beings it takes with it?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes them into another dimension."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to lost objects and victims of a shambler?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are never found again."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a dimensional shambler knowing a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 40% chance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How tall is an Elder thing according to Lovecraft's At the Mountains of Madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "About eight feet tall."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance that dimensional shamblers know 1D3 spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "40%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long ago did elder things come to Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "A billion years ago"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of elder things' civilisation being wiped out?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cold of the ice age"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of elder things on land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extinct"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to shoggoths after the wars with other races?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were driven back to Antarctica"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What led to the extinction of the elder civilization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cold of the ice age"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance that an elder thing knows a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "70%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average strength of an elder thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average size of an elder thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average intelligence of an elder thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of elder things have a chance of knowing spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "70% chance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the average damage bonus and build for dimensional shamblers?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6 and 2 respectively"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for elder things?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for dimensional shammers?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average move for dimensional shamblers?"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

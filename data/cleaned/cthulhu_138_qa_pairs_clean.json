@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a list of poisons used in fiction, particularly in the Call of Cthulhu role-playing game. The list includes various toxins, such as Amanita mushrooms, arsenic, belladonna, and strychnine, along with their effects, duration of action, and damage levels. The document also touches on the use of these poisons in fictional scenarios, highlighting their dramatic potential and the challenges of determining their effects in real-life situations. The examples provided are drawn from literature, such as H.P. Lovecraft's \"The Shadow Over Innsmouth\".",
+  "qa_pairs": [
+    {
+      "question": "What is the primary effect of the death cap mushroom?",
+      "answer": "Violent stomach pains, vomiting, jaundice, and 1D10 damage",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for arsenic poisoning to occur?",
+      "answer": "30 minutes to 24 hours",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary symptom of belladonna poisoning?",
+      "answer": "Chills, sweats, nausea",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for black widow spider venom to take effect?",
+      "answer": "2 hours to 2 days",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary effect of latrotoxin, the venom from the black widow spider?",
+      "answer": "Rapid heartbeat, impaired vision, convulsions, and 4D10 damage",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of fatalities from mushroom poisoning are caused by the death cap mushroom?",
+      "answer": "95%",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for arsenic poisoning to become detectable after ingestion?",
+      "answer": "1836, when the Marsh Test was invented",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of consuming 10-20 berries of the deadly nightshade plant on an adult?",
+      "answer": "Probably cause death",
+      "rating": 6
+    },
+    {
+      "question": "What is the typical duration of black widow spider venom poisoning?",
+      "answer": "2 hours to 2 days",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of consuming the berries of the deadly nightshade plant on an adult?",
+      "answer": "Chills, sweats, nausea",
+      "rating": 9
+    },
+    {
+      "question": "How long is the unconsciousness from chloroform?",
+      "answer": "1 hour.",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage from a 4D10 hit with cobra venom?",
+      "answer": "4D10 damage.",
+      "rating": 6
+    },
+    {
+      "question": "What is the common name for poison administered to arrows in South America?",
+      "answer": "Curare.",
+      "rating": 8
+    },
+    {
+      "question": "How long does the effect of rattlesnake venom last?",
+      "answer": "6 to 24 hours.",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage from a 4D10 hit with cyanide?",
+      "answer": "4D10 damage.",
+      "rating": 8
+    },
+    {
+      "question": "What is a common name for the poison administered to arrows in South America?",
+      "answer": "Cyanide.",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for Cobra Venom to cause death?",
+      "answer": "60 minutes",
+      "rating": 8
+    },
+    {
+      "question": "What is the common name for the poison administered to arrows in South America?",
+      "answer": "Cyanide",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take for Rattlesnake Venom to cause death?",
+      "answer": "24 hours",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Rohypnol on human tissue?",
+      "answer": "Muscular paralysis",
+      "rating": 9
+    },
+    {
+      "question": "How long is unconsciousness for Strychnine?",
+      "answer": "4-8 hours",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage type of Strychnine?",
+      "answer": "4D10 damage",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical onset time of Strychnine's effects?",
+      "answer": "10 to 20 minutes",
+      "rating": 8
+    },
+    {
+      "question": "Is Strychnine odorless, colorless, and only available in modern game settings?",
+      "answer": "Yes",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary effect of the death cap mushroom?"
+      },
+      {
+        "role": "assistant",
+        "content": "Violent stomach pains, vomiting, jaundice, and 1D10 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for arsenic poisoning to occur?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 minutes to 24 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary symptom of belladonna poisoning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chills, sweats, nausea"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for black widow spider venom to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 hours to 2 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary effect of latrotoxin, the venom from the black widow spider?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rapid heartbeat, impaired vision, convulsions, and 4D10 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of fatalities from mushroom poisoning are caused by the death cap mushroom?"
+      },
+      {
+        "role": "assistant",
+        "content": "95%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for arsenic poisoning to become detectable after ingestion?"
+      },
+      {
+        "role": "assistant",
+        "content": "1836, when the Marsh Test was invented"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of consuming 10-20 berries of the deadly nightshade plant on an adult?"
+      },
+      {
+        "role": "assistant",
+        "content": "Probably cause death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical duration of black widow spider venom poisoning?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 hours to 2 days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of consuming the berries of the deadly nightshade plant on an adult?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chills, sweats, nausea"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long is the unconsciousness from chloroform?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage from a 4D10 hit with cobra venom?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D10 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the common name for poison administered to arrows in South America?"
+      },
+      {
+        "role": "assistant",
+        "content": "Curare."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the effect of rattlesnake venom last?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 to 24 hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage from a 4D10 hit with cyanide?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D10 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common name for the poison administered to arrows in South America?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cyanide."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for Cobra Venom to cause death?"
+      },
+      {
+        "role": "assistant",
+        "content": "60 minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the common name for the poison administered to arrows in South America?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cyanide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for Rattlesnake Venom to cause death?"
+      },
+      {
+        "role": "assistant",
+        "content": "24 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Rohypnol on human tissue?"
+      },
+      {
+        "role": "assistant",
+        "content": "Muscular paralysis"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long is unconsciousness for Strychnine?"
+      },
+      {
+        "role": "assistant",
+        "content": "4-8 hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type of Strychnine?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D10 damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical onset time of Strychnine's effects?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 to 20 minutes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Strychnine odorless, colorless, and only available in modern game settings?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}

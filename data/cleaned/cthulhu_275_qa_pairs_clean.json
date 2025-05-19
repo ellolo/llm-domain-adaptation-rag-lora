@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"Create Zombi\" spell is a variant of the \"Create Zombie\" spell, which corrupts a living person into a zombie servant. The spell costs 10 magic points and 10 Sanity points, and requires a paralyzing powder to be inhaled, followed by a successful POW roll to resist the effects of the spell. The spell can be used to create a zombie servant, which can obey simple commands, but can also be opposed by the target's CON and POW rolls. The spell's effects can be adjusted based on the game's balance and the caster's resources.",
+  "qa_pairs": [
+    {
+      "question": "What is the Sanity cost for the 'Zombi' spell?",
+      "answer": "10 points",
+      "rating": 9
+    },
+    {
+      "question": "What does the 'Zombi' spell primarily do to a corpse?",
+      "answer": "Corrupt a corpse",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of the spell in magic points and Sanity points?",
+      "answer": "10 magic points; 10 Sanity points",
+      "rating": 9
+    },
+    {
+      "question": "How does the target resist the poison?",
+      "answer": "Succeed in an Extreme CON roll (equal to or under one-fifth CON)",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the target if it fails to resist the poison?",
+      "answer": "Falls into a deep trance indistinguishable from death",
+      "rating": 9
+    },
+    {
+      "question": "How often does the target have to pass a Sanity roll?",
+      "answer": "Every three game hours",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the target's Sanity if they fail a Sanity roll every three game hours?",
+      "answer": "They lose 1D6 SAN.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to the target's POW if the Create Zombi spell is successful?",
+      "answer": "It is drained away to 1 POW.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the Create Zombi spell fails?",
+      "answer": "The caster may cover up the breathing hole and leave the victim to suffocate.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the caster perceives mental resistance from the target during the Create Zombi spell?",
+      "answer": "An opposed POW roll is made between the caster and target.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of a successful spell casting?",
+      "answer": "The sorcerer has created a zombie servant, able to obey simple commands.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if the spell fails?",
+      "answer": "The caster may simply cover up the breathing hole and leave the victim to suffocate.",
+      "rating": 8
+    },
+    {
+      "question": "What is the justification to decrease the magic point cost from 16 to 10?",
+      "answer": "A living person is deemed justification to decrease the magic point cost from 16 to 10.",
+      "rating": 7
+    },
+    {
+      "question": "What is the result of the zombie being released?",
+      "answer": "The zombie remains under the spell of the sorcerer until such a time as the zombie is released\u2014usually meaning the true death of the victim or the death of its master.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the victim if the spell fails?",
+      "answer": "The caster may simply cover up the breathing hole and leave the victim to suffocate.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a successful casting of the spell?",
+      "answer": "The sorcerer has created a zombie servant, able to obey simple commands.",
+      "rating": 9
+    },
+    {
+      "question": "How does the magic point cost decrease for a living person?",
+      "answer": "The spell still takes a number of days to cast, and the magic point cost is decreased from 16 to 10.",
+      "rating": 9
+    },
+    {
+      "question": "How can a living person oppose the spell?",
+      "answer": "Two rolls may be used, first a CON roll to resist the poison and second a POW roll to resist the effects of the spell.",
+      "rating": 8
+    },
+    {
+      "question": "How long does the spell take to cast?",
+      "answer": "a number of days",
+      "rating": 7
+    },
+    {
+      "question": "What can be used to oppose the spell targeting a living person?",
+      "answer": "two rolls, first a CON roll and second a POW roll",
+      "rating": 8
+    },
+    {
+      "question": "What is the general rule for introducing new spells into a game?",
+      "answer": "You should not do so thoughtlessly.",
+      "rating": 6
+    },
+    {
+      "question": "How to find a suitable cost for a new spell?",
+      "answer": "Look at the spells in this book and find one that approximates the magnitude of effect of your new spell.",
+      "rating": 8
+    },
+    {
+      "question": "What factors determine the cost of a spell?",
+      "answer": "Cost in magic points, POW and Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a caster spending POW?",
+      "answer": "Some spells require POW to be spent.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity cost for the 'Zombi' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the 'Zombi' spell primarily do to a corpse?"
+      },
+      {
+        "role": "assistant",
+        "content": "Corrupt a corpse"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell in magic points and Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points; 10 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the target resist the poison?"
+      },
+      {
+        "role": "assistant",
+        "content": "Succeed in an Extreme CON roll (equal to or under one-fifth CON)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target if it fails to resist the poison?"
+      },
+      {
+        "role": "assistant",
+        "content": "Falls into a deep trance indistinguishable from death"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often does the target have to pass a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every three game hours"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's Sanity if they fail a Sanity roll every three game hours?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose 1D6 SAN."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's POW if the Create Zombi spell is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is drained away to 1 POW."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Create Zombi spell fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster may cover up the breathing hole and leave the victim to suffocate."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster perceives mental resistance from the target during the Create Zombi spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed POW roll is made between the caster and target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a successful spell casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sorcerer has created a zombie servant, able to obey simple commands."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the spell fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster may simply cover up the breathing hole and leave the victim to suffocate."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the justification to decrease the magic point cost from 16 to 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "A living person is deemed justification to decrease the magic point cost from 16 to 10."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the zombie being released?"
+      },
+      {
+        "role": "assistant",
+        "content": "The zombie remains under the spell of the sorcerer until such a time as the zombie is released\u2014usually meaning the true death of the victim or the death of its master."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim if the spell fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster may simply cover up the breathing hole and leave the victim to suffocate."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a successful casting of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sorcerer has created a zombie servant, able to obey simple commands."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the magic point cost decrease for a living person?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell still takes a number of days to cast, and the magic point cost is decreased from 16 to 10."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a living person oppose the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two rolls may be used, first a CON roll to resist the poison and second a POW roll to resist the effects of the spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the spell take to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "a number of days"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to oppose the spell targeting a living person?"
+      },
+      {
+        "role": "assistant",
+        "content": "two rolls, first a CON roll and second a POW roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general rule for introducing new spells into a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "You should not do so thoughtlessly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to find a suitable cost for a new spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Look at the spells in this book and find one that approximates the magnitude of effect of your new spell."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors determine the cost of a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cost in magic points, POW and Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a caster spending POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some spells require POW to be spent."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

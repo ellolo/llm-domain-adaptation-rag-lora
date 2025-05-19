@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, Chthonians are powerful, near-invulnerable creatures that can attack and drain the life force of their victims. They have two primary methods of attack: \"Hold and Drain\" (seizing tentacles) and \"Crush\" (using their immense bulk to crush a group). Chthonians are vulnerable to certain magical effects, such as the Vach-Viraj Chant and the Elder Sign, and can be repelled by total immersion in water. They also have a unique, sentient color that can feed on victims and leave a trail of radiation.",
+  "qa_pairs": [
+    {
+      "question": "How many times a chthonian can attack per round?",
+      "answer": "Once",
+      "rating": 8
+    },
+    {
+      "question": "How does a chthonian's attack with tentacles work?",
+      "answer": "Each of which cause damage equal to half the creature\u2019s damage bonus (round down).",
+      "rating": 9
+    },
+    {
+      "question": "How much damage does a chthonian's tentacles do to a target's CON each round?",
+      "answer": "3D10 CON",
+      "rating": 8
+    },
+    {
+      "question": "What happens to a target if a chthonian's tentacles drain its CON to 0?",
+      "answer": "The victim dies",
+      "rating": 9
+    },
+    {
+      "question": "Can a chthonian's tentacles drain one target while attacking another?",
+      "answer": "Yes, they could all attack the same one or each attack a different target",
+      "rating": 8
+    },
+    {
+      "question": "How can a tentacle attack other targets while draining a victim?",
+      "answer": "It could still be used to fight-back, swinging the poor held victim like a ball on a chain at its attacker.",
+      "rating": 9
+    },
+    {
+      "question": "Can multiple tentacles attack different targets or the same one?",
+      "answer": "They could all attack the same one.",
+      "rating": 8
+    },
+    {
+      "question": "How does a chthonian determine the size of its crush area?",
+      "answer": "The crush area equals a diameter in yards of the chthonian\u2019s SIZ divided by fifty.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of failing to dodge, jump, or succeed with DEX in the crush area?",
+      "answer": "An investigator must succeed with DEX, Dodge, or Jump, or lose hit points equal to the creature\u2019s full damage bonus.",
+      "rating": 9
+    },
+    {
+      "question": "Can a chthonian hold and drain victims within its crush area?",
+      "answer": "Yes, it can continue to hold and drain victims that are already caught.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the size of the crush area on a chthonian?",
+      "answer": "The chthonian's SIZ divided by fifty",
+      "rating": 7
+    },
+    {
+      "question": "How does the armor on a chthonian regenerate?",
+      "answer": "5 hit points per round after wounded, but ceases to work when below 1 hit point",
+      "rating": 8
+    },
+    {
+      "question": "What is the required percentage to successfully dodge a chthonian's attack?",
+      "answer": "17% (8/3)",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage dealt by a chthonian's thrashing tentacles?",
+      "answer": "2D6 (damage)",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus of a chthonian's bulk, group attack?",
+      "answer": "damage bonus (bulk, group)",
+      "rating": 7
+    },
+    {
+      "question": "What are the purported vulnerabilities of Cthonians according to the text?",
+      "answer": "The Vach-Viraj Chant, the Elder Sign, and total immersion in a body of water.",
+      "rating": 9
+    },
+    {
+      "question": "What is a colour in the context of the text?",
+      "answer": "A sentient organism that manifests as pure colour.",
+      "rating": 9
+    },
+    {
+      "question": "How does the colour move when it is present?",
+      "answer": "As an amorphous, glistening patch of colour, rolling and shining in shades of its pale colours.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a victim's skin and face when a colour feeds?",
+      "answer": "They glow with the colour.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the shaft of phosphorescence from the well on the characters?",
+      "answer": "It brings a sense of doom and abnormality.",
+      "rating": 9
+    },
+    {
+      "question": "What is the appearance of the entity when it moves?",
+      "answer": "an amorphous, glistening patch of colour",
+      "rating": 8
+    },
+    {
+      "question": "How does the entity's presence affect Geiger counters?",
+      "answer": "a distinctive burst of radiation",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the victim's skin and face when the entity feeds?",
+      "answer": "they glow with the colour",
+      "rating": 8
+    },
+    {
+      "question": "Can the entity be detected using today's light-intensification gear?",
+      "answer": "yes, it shows as a bright patch of lumin",
+      "rating": 7
+    },
+    {
+      "question": "Is the entity visible or incorporeal?",
+      "answer": "incorporeal",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many times a chthonian can attack per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Once"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a chthonian's attack with tentacles work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each of which cause damage equal to half the creature\u2019s damage bonus (round down)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a chthonian's tentacles do to a target's CON each round?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10 CON"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target if a chthonian's tentacles drain its CON to 0?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim dies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a chthonian's tentacles drain one target while attacking another?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they could all attack the same one or each attack a different target"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a tentacle attack other targets while draining a victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "It could still be used to fight-back, swinging the poor held victim like a ball on a chain at its attacker."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can multiple tentacles attack different targets or the same one?"
+      },
+      {
+        "role": "assistant",
+        "content": "They could all attack the same one."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a chthonian determine the size of its crush area?"
+      },
+      {
+        "role": "assistant",
+        "content": "The crush area equals a diameter in yards of the chthonian\u2019s SIZ divided by fifty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of failing to dodge, jump, or succeed with DEX in the crush area?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator must succeed with DEX, Dodge, or Jump, or lose hit points equal to the creature\u2019s full damage bonus."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a chthonian hold and drain victims within its crush area?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it can continue to hold and drain victims that are already caught."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the size of the crush area on a chthonian?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chthonian's SIZ divided by fifty"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the armor on a chthonian regenerate?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 hit points per round after wounded, but ceases to work when below 1 hit point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the required percentage to successfully dodge a chthonian's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "17% (8/3)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a chthonian's thrashing tentacles?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 (damage)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of a chthonian's bulk, group attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "damage bonus (bulk, group)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the purported vulnerabilities of Cthonians according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Vach-Viraj Chant, the Elder Sign, and total immersion in a body of water."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a colour in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sentient organism that manifests as pure colour."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the colour move when it is present?"
+      },
+      {
+        "role": "assistant",
+        "content": "As an amorphous, glistening patch of colour, rolling and shining in shades of its pale colours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a victim's skin and face when a colour feeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "They glow with the colour."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the shaft of phosphorescence from the well on the characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "It brings a sense of doom and abnormality."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the appearance of the entity when it moves?"
+      },
+      {
+        "role": "assistant",
+        "content": "an amorphous, glistening patch of colour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the entity's presence affect Geiger counters?"
+      },
+      {
+        "role": "assistant",
+        "content": "a distinctive burst of radiation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's skin and face when the entity feeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "they glow with the colour"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the entity be detected using today's light-intensification gear?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it shows as a bright patch of lumin"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the entity visible or incorporeal?"
+      },
+      {
+        "role": "assistant",
+        "content": "incorporeal"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

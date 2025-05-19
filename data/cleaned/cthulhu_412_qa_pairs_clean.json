@@ -1,0 +1,488 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Cthulhu Mythos, Great Old Ones are powerful, supernatural beings that are worshipped by humans, but are often isolated from human affairs. Each Great Old One is independent and has its own unique abilities, with some being temporarily imprisoned or sleeping in vast tombs. The worship of Great Old Ones is often secretive and concentrated in remote areas, with some, like Cthulhu, being more prominent than others. Servitor species, such as byakhee and nightgaunts, are often associated with specific Great Old Ones and can serve as assassins, messengers, or spies. The worship of Outer Gods is less common, but still present, with some, like Hastur, being more prominent than others.",
+  "qa_pairs": [
+    {
+      "question": "What are the Great Old Ones compared to in terms of worship?",
+      "answer": "They are relatively near at hand and occasionally participate in human affairs or contact individual humans, compared to the Outer Gods.",
+      "rating": 8
+    },
+    {
+      "question": "How do lone madmen prefer to worship?",
+      "answer": "They prefer the Outer Gods.",
+      "rating": 9
+    },
+    {
+      "question": "Where do beings serving the Great Old Ones typically inhabit?",
+      "answer": "The remote fastness of the Earth.",
+      "rating": 8
+    },
+    {
+      "question": "What is the nature of the Great Old Ones in terms of their power and divinity?",
+      "answer": "They are immensely powerful alien beings with supernatural-seeming abilities, but not true gods in the sense that the Outer Gods are reported.",
+      "rating": 9
+    },
+    {
+      "question": "What is the status of many Great Old Ones?",
+      "answer": "Many seem to be temporarily imprisoned in some way.",
+      "rating": 8
+    },
+    {
+      "question": "What do beings serving the Great Old Ones often inhabit?",
+      "answer": "the remote fastness of the Earth",
+      "rating": 7
+    },
+    {
+      "question": "What can be said about the Great Old Ones in terms of their power and abilities?",
+      "answer": "immensely powerful alien beings with supernatural-seeming abilities",
+      "rating": 9
+    },
+    {
+      "question": "Are the Great Old Ones considered to be true gods?",
+      "answer": "no, they are not considered to be true gods",
+      "rating": 8
+    },
+    {
+      "question": "Under what conditions do the Great Old Ones seem to be able to move from world to world?",
+      "answer": "when the stars are right",
+      "rating": 9
+    },
+    {
+      "question": "What is the significance of the phrase 'cannot live' in relation to the Great Old Ones?",
+      "answer": "it means they cannot exist or survive when the stars are not right",
+      "rating": 9
+    },
+    {
+      "question": "What is unique about each Great Old One?",
+      "answer": "They are independent of the rest",
+      "rating": 8
+    },
+    {
+      "question": "What condition must be met for Great Old Ones to plunge from world to world?",
+      "answer": "When the stars are right",
+      "rating": 9
+    },
+    {
+      "question": "What does the famous couplet from the Necronomicon suggest about what is not dead?",
+      "answer": "It can eternal lie",
+      "rating": 8
+    },
+    {
+      "question": "Is Cthulhu the most important Great Old One on Earth?",
+      "answer": "Yes, he is",
+      "rating": 10
+    },
+    {
+      "question": "Can minor Great Old Ones be worshiped by humans?",
+      "answer": "No, usually they have no worshipers",
+      "rating": 8
+    },
+    {
+      "question": "Who is worshiped more than the rest put together?",
+      "answer": "Cthulhu",
+      "rating": 9
+    },
+    {
+      "question": "What is the case with minor Great Old Ones?",
+      "answer": "They usually have no worshipers",
+      "rating": 9
+    },
+    {
+      "question": "Can wizards summon minor Great Old Ones?",
+      "answer": "Yes, wizards may summon them",
+      "rating": 8
+    },
+    {
+      "question": "How often do Great Old Ones intervene in human affairs?",
+      "answer": "They intervene isolatedly",
+      "rating": 7
+    },
+    {
+      "question": "How do commentators perceive humanity in relation to Great Old Ones?",
+      "answer": "They perceive humanity as negligible and unimportant",
+      "rating": 9
+    },
+    {
+      "question": "Who are the Great Old Ones mentioned in the text?",
+      "answer": "The Great Old Ones mentioned in the text are: Atlach-Nacha, Chaugnar Faugn, Cthugha, Cthulhu, Cyaegha, Eihort, Ghatanothoa, Gla'aki, Hastur, Ithaqua, Nyogtha, Quachil Uttaus, Rhan-Tegoth, Shudde M\u2019ell, Tsathoggua, Y\u2019golonac, Yig, Zhar, and Zoth-Ommog.",
+      "rating": 8
+    },
+    {
+      "question": "What role do servitor species play in relation to Great Old Ones and Outer Gods?",
+      "answer": "Servitor species are often associated with particular Great Old Ones or Outer Gods, and they can act as assassins, messengers, spies, and delivery boys, frequently accompanying an Outer God or Great Old One.",
+      "rating": 9
+    },
+    {
+      "question": "Who is an example of a servitor species associated with a Great Old One?",
+      "answer": "Byakhee is an example of a servitor species associated with Hastur.",
+      "rating": 8
+    },
+    {
+      "question": "What is the general attitude of Great Old Ones towards humanity?",
+      "answer": "Great Old Ones rarely think about human beings or take them into account, considering humanity to be negligible and unimportant.",
+      "rating": 8
+    },
+    {
+      "question": "How do Great Old Ones typically manifest?",
+      "answer": "Great Old Ones often manifest accompanied by several servitor species, which can frighten off investigators and bulk out confrontations.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the Great Old Ones compared to in terms of worship?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are relatively near at hand and occasionally participate in human affairs or contact individual humans, compared to the Outer Gods."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do lone madmen prefer to worship?"
+      },
+      {
+        "role": "assistant",
+        "content": "They prefer the Outer Gods."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do beings serving the Great Old Ones typically inhabit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The remote fastness of the Earth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the Great Old Ones in terms of their power and divinity?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are immensely powerful alien beings with supernatural-seeming abilities, but not true gods in the sense that the Outer Gods are reported."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the status of many Great Old Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many seem to be temporarily imprisoned in some way."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do beings serving the Great Old Ones often inhabit?"
+      },
+      {
+        "role": "assistant",
+        "content": "the remote fastness of the Earth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be said about the Great Old Ones in terms of their power and abilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "immensely powerful alien beings with supernatural-seeming abilities"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are the Great Old Ones considered to be true gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, they are not considered to be true gods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions do the Great Old Ones seem to be able to move from world to world?"
+      },
+      {
+        "role": "assistant",
+        "content": "when the stars are right"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the phrase 'cannot live' in relation to the Great Old Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "it means they cannot exist or survive when the stars are not right"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about each Great Old One?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are independent of the rest"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What condition must be met for Great Old Ones to plunge from world to world?"
+      },
+      {
+        "role": "assistant",
+        "content": "When the stars are right"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the famous couplet from the Necronomicon suggest about what is not dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can eternal lie"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Cthulhu the most important Great Old One on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, he is"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can minor Great Old Ones be worshiped by humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, usually they have no worshipers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is worshiped more than the rest put together?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthulhu"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the case with minor Great Old Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "They usually have no worshipers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can wizards summon minor Great Old Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, wizards may summon them"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often do Great Old Ones intervene in human affairs?"
+      },
+      {
+        "role": "assistant",
+        "content": "They intervene isolatedly"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do commentators perceive humanity in relation to Great Old Ones?"
+      },
+      {
+        "role": "assistant",
+        "content": "They perceive humanity as negligible and unimportant"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the Great Old Ones mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Great Old Ones mentioned in the text are: Atlach-Nacha, Chaugnar Faugn, Cthugha, Cthulhu, Cyaegha, Eihort, Ghatanothoa, Gla'aki, Hastur, Ithaqua, Nyogtha, Quachil Uttaus, Rhan-Tegoth, Shudde M\u2019ell, Tsathoggua, Y\u2019golonac, Yig, Zhar, and Zoth-Ommog."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role do servitor species play in relation to Great Old Ones and Outer Gods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Servitor species are often associated with particular Great Old Ones or Outer Gods, and they can act as assassins, messengers, spies, and delivery boys, frequently accompanying an Outer God or Great Old One."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is an example of a servitor species associated with a Great Old One?"
+      },
+      {
+        "role": "assistant",
+        "content": "Byakhee is an example of a servitor species associated with Hastur."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the general attitude of Great Old Ones towards humanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Great Old Ones rarely think about human beings or take them into account, considering humanity to be negligible and unimportant."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Great Old Ones typically manifest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Great Old Ones often manifest accompanied by several servitor species, which can frighten off investigators and bulk out confrontations."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 8.4
+  }
+}

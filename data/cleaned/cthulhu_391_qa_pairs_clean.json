@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes three alien gods from a fantasy setting: Tulzscha, Tsathoggua, and Ubbo-Sathla. These entities are worshipped by cultists and are associated with death, decay, and transformation. Tsathoggua, in particular, is a powerful and malevolent deity who can change his shape and feed on the life force of his victims, while Ubbo-Sathla is a massive, regenerating entity that can absorb and assimilate other beings. Each of these gods has unique abilities and characteristics that make them formidable opponents in combat.",
+  "qa_pairs": [
+    {
+      "question": "From where does Tulzscha emerge?",
+      "answer": "A few pockets of cultists worship this obscure entity in subterranean temples.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a successful attack with Flame Gout?",
+      "answer": "The target ages 2D10 years",
+      "rating": 9
+    },
+    {
+      "question": "What are Tulzscha's base stats?",
+      "answer": "STR 300, CON 180, POW 75, HP 57",
+      "rating": 8
+    },
+    {
+      "question": "What is Tsathoggua's CON score?",
+      "answer": "600",
+      "rating": 9
+    },
+    {
+      "question": "What is Tsathoggua's SIZ score?",
+      "answer": "150",
+      "rating": 8
+    },
+    {
+      "question": "What is Tsathoggua's STR score?",
+      "answer": "250",
+      "rating": 9
+    },
+    {
+      "question": "What is Tsathoggua's POW score?",
+      "answer": "175",
+      "rating": 10
+    },
+    {
+      "question": "What is Tsathoggua's HP score?",
+      "answer": "75",
+      "rating": 8
+    },
+    {
+      "question": "What is Tsathoggua's nickname?",
+      "answer": "the formless spawn",
+      "rating": 9
+    },
+    {
+      "question": "Where does Tsathoggua primarily dwell?",
+      "answer": "N\u2019Kai and his temples",
+      "rating": 7
+    },
+    {
+      "question": "How many attacks does Tsathoggua make per round?",
+      "answer": "1",
+      "rating": 6
+    },
+    {
+      "question": "What happens to a victim if Tsathoggua grabs them and pulls them to him?",
+      "answer": "The victim loses 5 points from each characteristic until they are reduced to zero or until Tsathoggua is driven off",
+      "rating": 10
+    },
+    {
+      "question": "How much damage does Tsathoggua deal with his fighting attacks?",
+      "answer": "+4D6",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for Tsathoggua's fighting attacks?",
+      "answer": "+4D6",
+      "rating": 9
+    },
+    {
+      "question": "What happens to an investigator who is grabbed by Tsathoggua?",
+      "answer": "They lose 5 points from each characteristic until reduced to zero or driven off.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Tsathoggua's characteristics after he grabs an investigator?",
+      "answer": "They lose 5 points per round until reduced to zero or he is driven off.",
+      "rating": 8
+    },
+    {
+      "question": "How many attacks does Tsathoggua make per round?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "How many hit points does the monstrous god regenerate per round?",
+      "answer": "30",
+      "rating": 8
+    },
+    {
+      "question": "What are the effects of fire, electricity, and other forces on the monstrous god?",
+      "answer": "Normal effects",
+      "rating": 6
+    },
+    {
+      "question": "What type of attacks does the monstrous god have?",
+      "answer": "Lashes out with pseudopods",
+      "rating": 7
+    },
+    {
+      "question": "How many attacks does the monstrous god have per round?",
+      "answer": "1",
+      "rating": 7
+    },
+    {
+      "question": "What is the reach of each pseudopod attack?",
+      "answer": "100 yards",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "From where does Tulzscha emerge?"
+      },
+      {
+        "role": "assistant",
+        "content": "A few pockets of cultists worship this obscure entity in subterranean temples."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a successful attack with Flame Gout?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target ages 2D10 years"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Tulzscha's base stats?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR 300, CON 180, POW 75, HP 57"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tsathoggua's CON score?"
+      },
+      {
+        "role": "assistant",
+        "content": "600"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tsathoggua's SIZ score?"
+      },
+      {
+        "role": "assistant",
+        "content": "150"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tsathoggua's STR score?"
+      },
+      {
+        "role": "assistant",
+        "content": "250"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tsathoggua's POW score?"
+      },
+      {
+        "role": "assistant",
+        "content": "175"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tsathoggua's HP score?"
+      },
+      {
+        "role": "assistant",
+        "content": "75"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Tsathoggua's nickname?"
+      },
+      {
+        "role": "assistant",
+        "content": "the formless spawn"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Tsathoggua primarily dwell?"
+      },
+      {
+        "role": "assistant",
+        "content": "N\u2019Kai and his temples"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does Tsathoggua make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a victim if Tsathoggua grabs them and pulls them to him?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim loses 5 points from each characteristic until they are reduced to zero or until Tsathoggua is driven off"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does Tsathoggua deal with his fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+4D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Tsathoggua's fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+4D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator who is grabbed by Tsathoggua?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose 5 points from each characteristic until reduced to zero or driven off."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Tsathoggua's characteristics after he grabs an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose 5 points per round until reduced to zero or he is driven off."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does Tsathoggua make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does the monstrous god regenerate per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "30"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the effects of fire, electricity, and other forces on the monstrous god?"
+      },
+      {
+        "role": "assistant",
+        "content": "Normal effects"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of attacks does the monstrous god have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lashes out with pseudopods"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does the monstrous god have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reach of each pseudopod attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 22,
+    "retention_rate": 0.88,
+    "avg_score": 7.5
+  }
+}

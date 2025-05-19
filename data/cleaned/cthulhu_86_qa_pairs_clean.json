@@ -1,0 +1,298 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn Call of Cthulhu, the Keeper should clearly state a player's goal before determining the difficulty level for skill rolls. The difficulty level is determined by the Keeper, who considers the complexity of the goal and the skills involved, and can range from Regular to Extreme. The Keeper uses the following guidelines to set difficulty levels: Regular (average challenge), Hard (professional-level challenge), and Extreme (expert-level challenge). The Keeper also considers the skills and characteristics of the opponent when setting difficulty levels, and can adjust the difficulty level accordingly.",
+  "qa_pairs": [
+    {
+      "question": "What is the minimum success requirement for an extreme difficulty task?",
+      "answer": "A roll equal to or below a half of their skill or characteristic",
+      "rating": 9
+    },
+    {
+      "question": "What should be reserved for extreme situations in Call of Cthulhu?",
+      "answer": "Dice rolls",
+      "rating": 8
+    },
+    {
+      "question": "What should be set according to the complementary skill or characteristic of a living being?",
+      "answer": "The difficulty level",
+      "rating": 9
+    },
+    {
+      "question": "What should the Keeper decide when determining the skill or characteristic used by an opponent?",
+      "answer": "Which skill or characteristic would be used by the opponent to counter the investigator\u2019s actions",
+      "rating": 8
+    },
+    {
+      "question": "What should be reserved for extreme situations?",
+      "answer": "This should be reserved for extreme situations.",
+      "rating": 7
+    },
+    {
+      "question": "How should difficulty levels be determined for a living being?",
+      "answer": "If the investigator is facing a living being, the difficulty level should be set according to the complementary skill or characteristic belonging to that being (human or otherwise).",
+      "rating": 9
+    },
+    {
+      "question": "What is the threshold for a difficulty level of Hard?",
+      "answer": "If the opponent\u2019s skill or characteristic is equal to or above 50, the difficulty level is Hard.",
+      "rating": 8
+    },
+    {
+      "question": "What is the threshold for a difficulty level of Extreme?",
+      "answer": "If the opponent\u2019s skill or characteristic is equal to or above 90, the difficulty level is Extreme.",
+      "rating": 9
+    },
+    {
+      "question": "What is the criteria for a Regular difficulty level?",
+      "answer": "The opponent's skill or characteristic is below 50.",
+      "rating": 8
+    },
+    {
+      "question": "What is the criteria for an Extreme difficulty level?",
+      "answer": "The opponent's skill or characteristic is equal to or above 90.",
+      "rating": 9
+    },
+    {
+      "question": "Why is Harvey's player's roll required to succeed in persuading the librarian?",
+      "answer": "Because the difficulty level is Regular, requiring a roll equal to or below Harvey's full Persuade skill.",
+      "rating": 9
+    },
+    {
+      "question": "Why is the difficulty level in Harvey's scenario not Extreme?",
+      "answer": "Because the librarian's Psychology skill is below 50, which is below the threshold for an Extreme difficulty level.",
+      "rating": 8
+    },
+    {
+      "question": "What skills are used to oppose Persuade in the Keeper?",
+      "answer": "the librarian\u2019s Persuade and Psychology skills",
+      "rating": 7
+    },
+    {
+      "question": "What is the difficulty level required to force open the library door?",
+      "answer": "Hard",
+      "rating": 6
+    },
+    {
+      "question": "How is the difficulty level set for the back door of the library?",
+      "answer": "based on Harvey\u2019s full Persuade skill",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum success requirement for an extreme difficulty task?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll equal to or below a half of their skill or characteristic"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be reserved for extreme situations in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dice rolls"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be set according to the complementary skill or characteristic of a living being?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper decide when determining the skill or characteristic used by an opponent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Which skill or characteristic would be used by the opponent to counter the investigator\u2019s actions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should be reserved for extreme situations?"
+      },
+      {
+        "role": "assistant",
+        "content": "This should be reserved for extreme situations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should difficulty levels be determined for a living being?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the investigator is facing a living being, the difficulty level should be set according to the complementary skill or characteristic belonging to that being (human or otherwise)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the threshold for a difficulty level of Hard?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the opponent\u2019s skill or characteristic is equal to or above 50, the difficulty level is Hard."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the threshold for a difficulty level of Extreme?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the opponent\u2019s skill or characteristic is equal to or above 90, the difficulty level is Extreme."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the criteria for a Regular difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opponent's skill or characteristic is below 50."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the criteria for an Extreme difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opponent's skill or characteristic is equal to or above 90."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is Harvey's player's roll required to succeed in persuading the librarian?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the difficulty level is Regular, requiring a roll equal to or below Harvey's full Persuade skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is the difficulty level in Harvey's scenario not Extreme?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the librarian's Psychology skill is below 50, which is below the threshold for an Extreme difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills are used to oppose Persuade in the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "the librarian\u2019s Persuade and Psychology skills"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level required to force open the library door?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the difficulty level set for the back door of the library?"
+      },
+      {
+        "role": "assistant",
+        "content": "based on Harvey\u2019s full Persuade skill"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 15,
+    "retention_rate": 0.54,
+    "avg_score": 5.0
+  }
+}

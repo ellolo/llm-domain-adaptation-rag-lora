@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn this scenario, the desert environment will lead to severe conditions, where investigators can suffer from damage and potentially die if they fail to make a CON roll each day. To maintain control and consistency, the Keeper should establish a list of investigators and non-player characters in DEX order, and resolve actions in that order. Additionally, the Keeper should use their judgment to balance realism with dramatic situations, and apply the standard damage rules for non-player characters.",
+  "qa_pairs": [
+    {
+      "question": "What will happen to a player's investigator if they fail a CON roll?",
+      "answer": "Their investigator will take 1D3 damage.",
+      "rating": 9
+    },
+    {
+      "question": "How will a player's hit points be affected if they fail a CON roll?",
+      "answer": "Their hit points will be used to track failure.",
+      "rating": 8
+    },
+    {
+      "question": "What will happen to an investigator's hit points if they fall to zero?",
+      "answer": "They will be unconscious and facing imminent death.",
+      "rating": 9
+    },
+    {
+      "question": "Why is consistency in characteristic generation important?",
+      "answer": "Players expect consistency and should be applied equally for all players.",
+      "rating": 8
+    },
+    {
+      "question": "What should you do if you allow one player to re-roll or juggle characteristics?",
+      "answer": "You should be up front about it and apply the same approach for all players.",
+      "rating": 9
+    },
+    {
+      "question": "What is an effective way to maintain control in scenes involving multiple investigators?",
+      "answer": "You should quickly establish a list of investigators and non-player characters in DEX order.",
+      "rating": 9
+    },
+    {
+      "question": "How should you resolve actions in a scene?",
+      "answer": "Start with the highest DEX (at the top of the list) and resolve that character\u2019s action, then work down the list in turn.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition to end a round?",
+      "answer": "When everyone has had their turn.",
+      "rating": 7
+    },
+    {
+      "question": "How do players resolve their actions in a round?",
+      "answer": "Players resolve their actions in a round by starting with the character with the highest DEX and then working down the list in turn.",
+      "rating": 9
+    },
+    {
+      "question": "How long does it take to pick a lock in this scenario?",
+      "answer": "It takes 3 combat rounds to pick the lock, but it may take more if the roll is pushed.",
+      "rating": 8
+    },
+    {
+      "question": "Why does the Keeper set the time for picking a lock?",
+      "answer": "The Keeper sets the time for picking a lock because some actions take longer to perform than others, and the rules define how long it may take for specific actions.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when everyone has had their turn in a round?",
+      "answer": "The round is over when everyone has had their turn.",
+      "rating": 8
+    },
+    {
+      "question": "How long does it take to pick a lock according to the Keeper's rules?",
+      "answer": "3 combat rounds",
+      "rating": 7
+    },
+    {
+      "question": "What should a Keeper balance when making judgments about in-game events?",
+      "answer": "A sense of reality with what will create a dramatic situation",
+      "rating": 9
+    },
+    {
+      "question": "What phrase should a Keeper use to justify universally undesirable events?",
+      "answer": "But that's how it works in reality",
+      "rating": 8
+    },
+    {
+      "question": "Should a Keeper strive to be realistic in their judgments, or be more creative?",
+      "answer": "More creative",
+      "rating": 6
+    },
+    {
+      "question": "How many combat rounds does the Keeper rule will take to pick a lock?",
+      "answer": "3 combat rounds",
+      "rating": 8
+    },
+    {
+      "question": "How far can a character travel per movement point in one combat round?",
+      "answer": "One meter or yard per movement point (MOV)",
+      "rating": 9
+    },
+    {
+      "question": "How far can an average human travel in one combat round?",
+      "answer": "8 meters",
+      "rating": 8
+    },
+    {
+      "question": "If a character is sprinting, how many times can they cover the distance of one combat round?",
+      "answer": "Five times",
+      "rating": 9
+    },
+    {
+      "question": "What is the standard approach to measuring distances in a combat scenario?",
+      "answer": "Movement distances are approximate and based on narrative description.",
+      "rating": 8
+    },
+    {
+      "question": "How far can a character typically travel in one combat round?",
+      "answer": "A character can cautiously travel 1 meter or 1 yard per movement point (MOV) in one combat round.",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum distance an average human can travel in one combat round while sprinting?",
+      "answer": "An average human can travel 5 times the distance (5 meters) in one combat round while sprinting.",
+      "rating": 9
+    },
+    {
+      "question": "Should non-player characters be given standard damage rules?",
+      "answer": "Yes, non-player characters should use the standard damage rules.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to a player's investigator if they fail a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their investigator will take 1D3 damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How will a player's hit points be affected if they fail a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their hit points will be used to track failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to an investigator's hit points if they fall to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will be unconscious and facing imminent death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is consistency in characteristic generation important?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players expect consistency and should be applied equally for all players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should you do if you allow one player to re-roll or juggle characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "You should be up front about it and apply the same approach for all players."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an effective way to maintain control in scenes involving multiple investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "You should quickly establish a list of investigators and non-player characters in DEX order."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should you resolve actions in a scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "Start with the highest DEX (at the top of the list) and resolve that character\u2019s action, then work down the list in turn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition to end a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "When everyone has had their turn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do players resolve their actions in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players resolve their actions in a round by starting with the character with the highest DEX and then working down the list in turn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to pick a lock in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes 3 combat rounds to pick the lock, but it may take more if the roll is pushed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper set the time for picking a lock?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper sets the time for picking a lock because some actions take longer to perform than others, and the rules define how long it may take for specific actions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when everyone has had their turn in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The round is over when everyone has had their turn."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to pick a lock according to the Keeper's rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 combat rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should a Keeper balance when making judgments about in-game events?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sense of reality with what will create a dramatic situation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What phrase should a Keeper use to justify universally undesirable events?"
+      },
+      {
+        "role": "assistant",
+        "content": "But that's how it works in reality"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Should a Keeper strive to be realistic in their judgments, or be more creative?"
+      },
+      {
+        "role": "assistant",
+        "content": "More creative"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many combat rounds does the Keeper rule will take to pick a lock?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 combat rounds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far can a character travel per movement point in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One meter or yard per movement point (MOV)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far can an average human travel in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 meters"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "If a character is sprinting, how many times can they cover the distance of one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Five times"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard approach to measuring distances in a combat scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Movement distances are approximate and based on narrative description."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far can a character typically travel in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character can cautiously travel 1 meter or 1 yard per movement point (MOV) in one combat round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum distance an average human can travel in one combat round while sprinting?"
+      },
+      {
+        "role": "assistant",
+        "content": "An average human can travel 5 times the distance (5 meters) in one combat round while sprinting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Should non-player characters be given standard damage rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, non-player characters should use the standard damage rules."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

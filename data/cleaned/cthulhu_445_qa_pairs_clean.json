@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe body of Professor Charles Leiter has been discovered in the Medical School facilities at Miskatonic University, and Dean Fallon has ordered its cremation. However, the true cause of Leiter's death is unknown, and the death certificate only mentions \"massive and sudden heart failure.\" The body is now in cold storage, and the university is trying to cover up the circumstances surrounding Leiter's death. The university's doctor, Wheatcroft, is anxious to get rid of the body and is reluctant to discuss the matter, but may become more helpful if convinced by investigators.",
+  "qa_pairs": [
+    {
+      "question": "What is T Wheatcroft's current role in handling Leiter's body?",
+      "answer": "T Wheatcroft took charge of the body",
+      "rating": 9
+    },
+    {
+      "question": "What is the current status of Leiter's body?",
+      "answer": "The body is still in his possession in the Medical School facilities",
+      "rating": 8
+    },
+    {
+      "question": "Who has performed a private autopsy at the behest of Dean Fallon?",
+      "answer": "T Wheatcroft",
+      "rating": 9
+    },
+    {
+      "question": "How did T Wheatcroft know Leiter while alive?",
+      "answer": "He knew Leiter as a face passed occasionally in a corridor or glimpsed at a university ceremony",
+      "rating": 8
+    },
+    {
+      "question": "What is the current state of Leiter's body in the Medical School facilities?",
+      "answer": "The body is in his possession in the Medical School facilities.",
+      "rating": 7
+    },
+    {
+      "question": "Has Wheatcroft already performed an autopsy on Leiter's body?",
+      "answer": "No, he has not, but he has taken charge of the body and has performed a private autopsy at the behest of Dean Fallon.",
+      "rating": 9
+    },
+    {
+      "question": "How does Wheatcroft know Leiter, and is this knowledge relevant to the current situation?",
+      "answer": "Wheatcroft knew Leiter while alive only as a face passed occasionally in a corridor or glimpsed at a university ceremony\u2013a fact he is now heartily glad of.",
+      "rating": 8
+    },
+    {
+      "question": "What does Wheatcroft want the investigators to promise him?",
+      "answer": "Wheatcroft wants a promise from the investigators that they will not tell anyone about the true state of Leiter\u2019s corpse, let alone show it to anyone!",
+      "rating": 9
+    },
+    {
+      "question": "Is Wheatcroft a believer in the supernatural?",
+      "answer": "No, he denies any belief in the supernatural.",
+      "rating": 8
+    },
+    {
+      "question": "What motivates Wheatcroft to be reluctant to talk?",
+      "answer": "Guilt for his part in the cover up.",
+      "rating": 9
+    },
+    {
+      "question": "What is required to make Wheatcroft more helpful?",
+      "answer": "Impressing him with tact and competency, especially displaying medical or police procedural knowledge.",
+      "rating": 8
+    },
+    {
+      "question": "What does Wheatcroft want to transfer to the investigators?",
+      "answer": "Responsibility in the matter.",
+      "rating": 7
+    },
+    {
+      "question": "What task was Emilia Court given?",
+      "answer": "She was tasked to assist Leiter in the cataloguing and research on the Hobbhouse papers.",
+      "rating": 8
+    },
+    {
+      "question": "How did Leiter treat Emilia Court after realizing her immunity to his charms?",
+      "answer": "He treated her with all the attention and care he might accord a useful adding machine.",
+      "rating": 9
+    },
+    {
+      "question": "What was Emilia Court doing when she called a custodian?",
+      "answer": "She was trying to get in to do her assigned work.",
+      "rating": 6
+    },
+    {
+      "question": "Where was Leiter found dead?",
+      "answer": "He was found dead behind his desk in his locked office.",
+      "rating": 9
+    },
+    {
+      "question": "How was Leiter's body discovered?",
+      "answer": "She called a custodian with a passkey",
+      "rating": 8
+    },
+    {
+      "question": "Where is Leiter's body being stored?",
+      "answer": "In the bowels of the Miskatonic University Medical School",
+      "rating": 9
+    },
+    {
+      "question": "What is the stated cause of death on Leiter's death certificate?",
+      "answer": "Massive and sudden heart failure",
+      "rating": 8
+    },
+    {
+      "question": "Who is in charge of Leiter's final disposition?",
+      "answer": "Dean Fallon",
+      "rating": 7
+    },
+    {
+      "question": "Why was Professor Charles Leiter's body moved to the Medical School?",
+      "answer": "The body was moved to the Medical School's locked cold storage until Dean Fallon had it quietly and decently cremated.",
+      "rating": 9
+    },
+    {
+      "question": "What was the stated cause of death on the death certificate?",
+      "answer": "The death certificate stated 'massive and sudden heart failure'.",
+      "rating": 8
+    },
+    {
+      "question": "How was Professor Charles Leiter's face at the moment of death?",
+      "answer": "His face was a screaming visage of horror, frozen in agony and terror at the moment of death.",
+      "rating": 9
+    },
+    {
+      "question": "What effect did viewing the body have on people nearby?",
+      "answer": "Viewing the body had an unnerving effect, putting anyone nearby on edge and giving them the feeling of being watched.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is T Wheatcroft's current role in handling Leiter's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "T Wheatcroft took charge of the body"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of Leiter's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "The body is still in his possession in the Medical School facilities"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who has performed a private autopsy at the behest of Dean Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "T Wheatcroft"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did T Wheatcroft know Leiter while alive?"
+      },
+      {
+        "role": "assistant",
+        "content": "He knew Leiter as a face passed occasionally in a corridor or glimpsed at a university ceremony"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of Leiter's body in the Medical School facilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "The body is in his possession in the Medical School facilities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Has Wheatcroft already performed an autopsy on Leiter's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, he has not, but he has taken charge of the body and has performed a private autopsy at the behest of Dean Fallon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Wheatcroft know Leiter, and is this knowledge relevant to the current situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wheatcroft knew Leiter while alive only as a face passed occasionally in a corridor or glimpsed at a university ceremony\u2013a fact he is now heartily glad of."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Wheatcroft want the investigators to promise him?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wheatcroft wants a promise from the investigators that they will not tell anyone about the true state of Leiter\u2019s corpse, let alone show it to anyone!"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Wheatcroft a believer in the supernatural?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, he denies any belief in the supernatural."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What motivates Wheatcroft to be reluctant to talk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Guilt for his part in the cover up."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to make Wheatcroft more helpful?"
+      },
+      {
+        "role": "assistant",
+        "content": "Impressing him with tact and competency, especially displaying medical or police procedural knowledge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Wheatcroft want to transfer to the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Responsibility in the matter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What task was Emilia Court given?"
+      },
+      {
+        "role": "assistant",
+        "content": "She was tasked to assist Leiter in the cataloguing and research on the Hobbhouse papers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Leiter treat Emilia Court after realizing her immunity to his charms?"
+      },
+      {
+        "role": "assistant",
+        "content": "He treated her with all the attention and care he might accord a useful adding machine."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Emilia Court doing when she called a custodian?"
+      },
+      {
+        "role": "assistant",
+        "content": "She was trying to get in to do her assigned work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where was Leiter found dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was found dead behind his desk in his locked office."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was Leiter's body discovered?"
+      },
+      {
+        "role": "assistant",
+        "content": "She called a custodian with a passkey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Leiter's body being stored?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the bowels of the Miskatonic University Medical School"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the stated cause of death on Leiter's death certificate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Massive and sudden heart failure"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is in charge of Leiter's final disposition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dean Fallon"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why was Professor Charles Leiter's body moved to the Medical School?"
+      },
+      {
+        "role": "assistant",
+        "content": "The body was moved to the Medical School's locked cold storage until Dean Fallon had it quietly and decently cremated."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the stated cause of death on the death certificate?"
+      },
+      {
+        "role": "assistant",
+        "content": "The death certificate stated 'massive and sudden heart failure'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was Professor Charles Leiter's face at the moment of death?"
+      },
+      {
+        "role": "assistant",
+        "content": "His face was a screaming visage of horror, frozen in agony and terror at the moment of death."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect did viewing the body have on people nearby?"
+      },
+      {
+        "role": "assistant",
+        "content": "Viewing the body had an unnerving effect, putting anyone nearby on edge and giving them the feeling of being watched."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

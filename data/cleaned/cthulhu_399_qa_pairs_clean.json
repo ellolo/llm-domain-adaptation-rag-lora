@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu tabletop role-playing game, ghosts are a type of supernatural entity that can be crafted by the Keeper to fit the scenario. Ghosts are typically dim, misty forms that haunt specific locations or objects, and may possess special powers such as manipulating the environment or draining the victim's POW. The Keeper can use ghosts to create unique and challenging mysteries, and can determine how a ghost can be laid to rest through various means such as destroying its source of attachment or exorcising it. Ghosts can also be used to create spooky scenarios and entire campaigns can be devoted to their study and exorcism.",
+  "qa_pairs": [
+    {
+      "question": "What is the primary goal of using traditional monsters in games?",
+      "answer": "Inserting 'red herrings' or ensuring games don't become stale by introducing new Mythos monsters.",
+      "rating": 9
+    },
+    {
+      "question": "What is a benefit of blending traditional and Mythos monsters in games?",
+      "answer": "Creating unique and challenging mysteries where players may think they know what they face, only to discover a new hybrid horror.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of not linking the stories or using a different set of characters?",
+      "answer": "No consistency is required.",
+      "rating": 8
+    },
+    {
+      "question": "What can blending traditional and Mythos monsters do for Keepers?",
+      "answer": "Creating unique and challenging mysteries.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for consistency when using different characters in the story?",
+      "answer": "No consistency is required.",
+      "rating": 7
+    },
+    {
+      "question": "What monsters do Keepers use to insert 'red herrings' or prevent games from becoming stale?",
+      "answer": "Traditional monsters within games.",
+      "rating": 8
+    },
+    {
+      "question": "What can blending traditional and Mythos monsters do for a Keeper's mystery?",
+      "answer": "Create unique and challenging mysteries.",
+      "rating": 9
+    },
+    {
+      "question": "What do ghosts generally possess?",
+      "answer": "INT and POW.",
+      "rating": 6
+    },
+    {
+      "question": "What is the primary function of ghosts in the Call of Cthulhu scenario?",
+      "answer": "To communicate the awfulness that prompted their formation.",
+      "rating": 9
+    },
+    {
+      "question": "What can ghosts do to let the anxious shade dissolve and find peace?",
+      "answer": "Give clues or instructions.",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum loss for seeing a ghost in terms of Sanity points?",
+      "answer": "1D8 Sanity point loss",
+      "rating": 7
+    },
+    {
+      "question": "What are the general properties of ghosts in the Call of Cthulhu scenario?",
+      "answer": "They possess only INT and POW, appearing as dim, misty forms.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main reason ghosts haunt locations?",
+      "answer": "to communicate the awfulness that prompted their formation",
+      "rating": 6
+    },
+    {
+      "question": "What happens when a ghost gives clues or instructions?",
+      "answer": "the anxious shade can dissolve and find peace",
+      "rating": 9
+    },
+    {
+      "question": "How many Sanity points should a player lose for seeing a ghost?",
+      "answer": "1D8",
+      "rating": 7
+    },
+    {
+      "question": "How does a ghost's attack resolve in combat?",
+      "answer": "with an opposed POW roll",
+      "rating": 8
+    },
+    {
+      "question": "What is the maximum loss of Sanity points for seeing a ghost?",
+      "answer": "1D8",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the character fails an opposed POW roll against a ghost?",
+      "answer": "The character loses 2D10 POW.",
+      "rating": 9
+    },
+    {
+      "question": "How much POW does a ghost of greater strength drain from a victim in a single combat round?",
+      "answer": "3D10",
+      "rating": 8
+    },
+    {
+      "question": "What happens to points of POW lost if a ghost is overcome by the victim?",
+      "answer": "Forfeit",
+      "rating": 7
+    },
+    {
+      "question": "What happens to a ghost if it drains 3D10 POW or more from a victim in a single combat round?",
+      "answer": "It loses only 2D10 POW if overcome by the victim in a particular round.",
+      "rating": 9
+    },
+    {
+      "question": "How does the Keeper determine how a ghost can be laid to rest?",
+      "answer": "The Keeper determines how a ghost can be laid to rest.",
+      "rating": 6
+    },
+    {
+      "question": "What is one possible method to lay a ghost to rest?",
+      "answer": "Locating the source of attachment for the ghost and destroying it.",
+      "rating": 8
+    },
+    {
+      "question": "What is another possible method to lay a ghost to rest?",
+      "answer": "Locating the physical remains of the ghost and salt-ing and burning them.",
+      "rating": 8
+    },
+    {
+      "question": "What is a ghost that manipulates the environment around it called?",
+      "answer": "Poltergeist",
+      "rating": 9
+    },
+    {
+      "question": "What skill should investigators use to avoid being hit by thrown items?",
+      "answer": "Dodge",
+      "rating": 8
+    },
+    {
+      "question": "Can entire campaigns be devoted to the study and exorcism of ghosts?",
+      "answer": "Yes",
+      "rating": 7
+    },
+    {
+      "question": "What books are sources for ideas about ghosts?",
+      "answer": "The Haunting of Hill House (novel and book)",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of using traditional monsters in games?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inserting 'red herrings' or ensuring games don't become stale by introducing new Mythos monsters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a benefit of blending traditional and Mythos monsters in games?"
+      },
+      {
+        "role": "assistant",
+        "content": "Creating unique and challenging mysteries where players may think they know what they face, only to discover a new hybrid horror."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of not linking the stories or using a different set of characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "No consistency is required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can blending traditional and Mythos monsters do for Keepers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Creating unique and challenging mysteries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for consistency when using different characters in the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "No consistency is required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What monsters do Keepers use to insert 'red herrings' or prevent games from becoming stale?"
+      },
+      {
+        "role": "assistant",
+        "content": "Traditional monsters within games."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can blending traditional and Mythos monsters do for a Keeper's mystery?"
+      },
+      {
+        "role": "assistant",
+        "content": "Create unique and challenging mysteries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do ghosts generally possess?"
+      },
+      {
+        "role": "assistant",
+        "content": "INT and POW."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of ghosts in the Call of Cthulhu scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To communicate the awfulness that prompted their formation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can ghosts do to let the anxious shade dissolve and find peace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Give clues or instructions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum loss for seeing a ghost in terms of Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 Sanity point loss"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the general properties of ghosts in the Call of Cthulhu scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "They possess only INT and POW, appearing as dim, misty forms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main reason ghosts haunt locations?"
+      },
+      {
+        "role": "assistant",
+        "content": "to communicate the awfulness that prompted their formation"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a ghost gives clues or instructions?"
+      },
+      {
+        "role": "assistant",
+        "content": "the anxious shade can dissolve and find peace"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points should a player lose for seeing a ghost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a ghost's attack resolve in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "with an opposed POW roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum loss of Sanity points for seeing a ghost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the character fails an opposed POW roll against a ghost?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character loses 2D10 POW."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much POW does a ghost of greater strength drain from a victim in a single combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to points of POW lost if a ghost is overcome by the victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forfeit"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a ghost if it drains 3D10 POW or more from a victim in a single combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "It loses only 2D10 POW if overcome by the victim in a particular round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine how a ghost can be laid to rest?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper determines how a ghost can be laid to rest."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one possible method to lay a ghost to rest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Locating the source of attachment for the ghost and destroying it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is another possible method to lay a ghost to rest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Locating the physical remains of the ghost and salt-ing and burning them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a ghost that manipulates the environment around it called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Poltergeist"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill should investigators use to avoid being hit by thrown items?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dodge"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can entire campaigns be devoted to the study and exorcism of ghosts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What books are sources for ideas about ghosts?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Haunting of Hill House (novel and book)"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 7.9
+  }
+}

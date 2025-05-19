@@ -1,0 +1,393 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses the \"Talk, Intimidate, and Persuade\" skills, which are used to manipulate and influence others in a game. A \"Pushed\" roll involves using these skills in a more aggressive or confrontational manner, such as getting up close and personal or using threats. Failing a Pushed roll can have severe consequences, including violence or outrage. The document also covers the \"Fighting\" skill, which can be specialized into various types, such as Brawl, Chainsaw, or Spear, and notes that some weapons, like chainsaws, have unique rules and risks associated with them.",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of a Pushed roll in the context of the game?",
+      "answer": "To gain a second roll by switching from one skill to another.",
+      "rating": 9
+    },
+    {
+      "question": "What can happen if an investigator fails a Pushed roll?",
+      "answer": "Cause great offence leading to violence, outrage, or criminal proceedings.",
+      "rating": 8
+    },
+    {
+      "question": "What can happen if an insane investigator fails a Pushed roll?",
+      "answer": "Begin hurling random abusive phrases at people.",
+      "rating": 7
+    },
+    {
+      "question": "What is the result if the investigator begins to take an alternative approach to the initial skill used?",
+      "answer": "The Keeper may ask for a different skill to be used.",
+      "rating": 8
+    },
+    {
+      "question": "What is a Pushed roll in the context of the text?",
+      "answer": "Switching from one to the other to gain a second roll still constitutes a Pushed roll.",
+      "rating": 9
+    },
+    {
+      "question": "What are the possible consequences of failing a Pushed roll?",
+      "answer": "cause great offence leading to violence, outrage, or criminal proceedings.",
+      "rating": 8
+    },
+    {
+      "question": "What is the 'Fighting' skill in the text?",
+      "answer": "The generic 'Fighting' skill cannot be purchased.",
+      "rating": 8
+    },
+    {
+      "question": "What does spending skill points allow an investigator to do?",
+      "answer": "You may spend skill points to purchase any skill specialization.",
+      "rating": 9
+    },
+    {
+      "question": "Can the 'Fighting' skill be purchased?",
+      "answer": "No, the generic 'Fighting' skill cannot be purchased.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of choosing a fighting specialization?",
+      "answer": "To choose fighting specializations appropriate to your investigator\u2019s occupation and history.",
+      "rating": 9
+    },
+    {
+      "question": "Can martial arts be used to increase the 'Fighting' skill?",
+      "answer": "Yes, martial arts are simply a way of developing a person\u2019s Fighting skill.",
+      "rating": 8
+    },
+    {
+      "question": "Why is the 'Fighting' skill considered a combat skill?",
+      "answer": "Because it cannot be pushed.",
+      "rating": 7
+    },
+    {
+      "question": "How is martial arts defined in the text?",
+      "answer": "A way of developing a person\u2019s fighting skill",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage calculation method for improvised weapons?",
+      "answer": "Refer to the weapon chart and pick something comparable",
+      "rating": 6
+    },
+    {
+      "question": "What is the damage type of the Brawl fighting specialization?",
+      "answer": "unarmed fighting and basic weapons",
+      "rating": 9
+    },
+    {
+      "question": "When did the first gasoline-powered, mass-produced chainsaw appear?",
+      "answer": "1927",
+      "rating": 10
+    },
+    {
+      "question": "What is the skill category for nunchaku, morning stars, and similar medieval weapons?",
+      "answer": "Flail (10%)",
+      "rating": 8
+    },
+    {
+      "question": "What is the skill category for lances and spears?",
+      "answer": "Spear (20%)",
+      "rating": 9
+    },
+    {
+      "question": "What is the skill category for all blades over two feet in length?",
+      "answer": "Sword (20%)",
+      "rating": 8
+    },
+    {
+      "question": "What is the skill category for bolas and whips?",
+      "answer": "Whip (05%)",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a Pushed roll in the context of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To gain a second roll by switching from one skill to another."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if an investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cause great offence leading to violence, outrage, or criminal proceedings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if an insane investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Begin hurling random abusive phrases at people."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result if the investigator begins to take an alternative approach to the initial skill used?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may ask for a different skill to be used."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Switching from one to the other to gain a second roll still constitutes a Pushed roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible consequences of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "cause great offence leading to violence, outrage, or criminal proceedings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Fighting' skill in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The generic 'Fighting' skill cannot be purchased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does spending skill points allow an investigator to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "You may spend skill points to purchase any skill specialization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the 'Fighting' skill be purchased?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the generic 'Fighting' skill cannot be purchased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of choosing a fighting specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "To choose fighting specializations appropriate to your investigator\u2019s occupation and history."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can martial arts be used to increase the 'Fighting' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, martial arts are simply a way of developing a person\u2019s Fighting skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is the 'Fighting' skill considered a combat skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it cannot be pushed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is martial arts defined in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A way of developing a person\u2019s fighting skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage calculation method for improvised weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Refer to the weapon chart and pick something comparable"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type of the Brawl fighting specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "unarmed fighting and basic weapons"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the first gasoline-powered, mass-produced chainsaw appear?"
+      },
+      {
+        "role": "assistant",
+        "content": "1927"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill category for nunchaku, morning stars, and similar medieval weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flail (10%)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill category for lances and spears?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spear (20%)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill category for all blades over two feet in length?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sword (20%)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill category for bolas and whips?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whip (05%)"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 20,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

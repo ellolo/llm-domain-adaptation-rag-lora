@@ -1,0 +1,431 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nYog-Sothoth, also known as the Father of Serpents, is a powerful deity in the Call of Cthulhu universe. He is a massive, eldritch horror that dwells in the interstices between planes, manifesting as a conglomeration of iridescent globes. Yog-Sothoth is revered by sorcerers and wizards, who seek his power to travel between planes and command monsters from distant worlds. As a deity, he is feared and respected, and his mere presence can cause sanity loss and instant death.",
+  "qa_pairs": [
+    {
+      "question": "How long is a sacred snake of Yig in North America?",
+      "answer": "5-6 feet long",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary damage type of the sacred snake of Yig?",
+      "answer": "Bite",
+      "rating": 9
+    },
+    {
+      "question": "Can the sacred snake of Yig survive a successful Dodge attack?",
+      "answer": "No, it will pursue and continue to attack unless it is killed",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus of the sacred snake of Yig's attacks?",
+      "answer": "+2D6",
+      "rating": 7
+    },
+    {
+      "question": "What is the movement speed of the sacred snake of Yig?",
+      "answer": "10",
+      "rating": 6
+    },
+    {
+      "question": "How often does Yig attack its victims?",
+      "answer": "Attacks per round: 1",
+      "rating": 8
+    },
+    {
+      "question": "What type of damage does Yig's grasp deal to an arm or leg?",
+      "answer": "crushing damage to an arm or leg",
+      "rating": 9
+    },
+    {
+      "question": "What is the damage bonus for Yig's bite attack?",
+      "answer": "1D8 +",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition required to avoid being bitten by Yig on subsequent rounds?",
+      "answer": "successful Dodge use",
+      "rating": 9
+    },
+    {
+      "question": "What is Yig's damage bonus for fighting attacks?",
+      "answer": "+2D6",
+      "rating": 8
+    },
+    {
+      "question": "What is Yig's armor made of?",
+      "answer": "6-point scales",
+      "rating": 7
+    },
+    {
+      "question": "What happens to Yig when a critical hit is made?",
+      "answer": "Armor is penetrated",
+      "rating": 9
+    },
+    {
+      "question": "What type of damage is taken from Yig's venomous blood?",
+      "answer": "3D6 points of damage",
+      "rating": 8
+    },
+    {
+      "question": "What type of spells does Yig have?",
+      "answer": "Summon/Bind and Contact spells",
+      "rating": 7
+    },
+    {
+      "question": "How much sanity points can a Keeper lose to see Yig?",
+      "answer": "0/1D8 Sanity points",
+      "rating": 8
+    },
+    {
+      "question": "What is described as Yig's mask?",
+      "answer": "A congeries of iridescent globes",
+      "rating": 9
+    },
+    {
+      "question": "What is Yog-Sothoth's realm?",
+      "answer": "the interstices between the planes that compose the universe",
+      "rating": 9
+    },
+    {
+      "question": "What does Yog-Sothoth manifest as?",
+      "answer": "a conglomeration of iridescent globes",
+      "rating": 8
+    },
+    {
+      "question": "Where does Yog-Sothoth grant power to sorcerers and wizards?",
+      "answer": "between the planes",
+      "rating": 9
+    },
+    {
+      "question": "What does Yog-Sothoth grant his slaves the ability to do?",
+      "answer": "command various monsters from distant worlds",
+      "rating": 8
+    },
+    {
+      "question": "What does Yog-Sothoth grant sorcerers and wizards to travel?",
+      "answer": "between the planes",
+      "rating": 9
+    },
+    {
+      "question": "What is Yog-Sothoth's role in granting power?",
+      "answer": "He grants them the power to travel between the planes, or the power to see into other planes",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long is a sacred snake of Yig in North America?"
+      },
+      {
+        "role": "assistant",
+        "content": "5-6 feet long"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary damage type of the sacred snake of Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bite"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the sacred snake of Yig survive a successful Dodge attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it will pursue and continue to attack unless it is killed"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of the sacred snake of Yig's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement speed of the sacred snake of Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often does Yig attack its victims?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks per round: 1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage does Yig's grasp deal to an arm or leg?"
+      },
+      {
+        "role": "assistant",
+        "content": "crushing damage to an arm or leg"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Yig's bite attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 +"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition required to avoid being bitten by Yig on subsequent rounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "successful Dodge use"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yig's damage bonus for fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yig's armor made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "6-point scales"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Yig when a critical hit is made?"
+      },
+      {
+        "role": "assistant",
+        "content": "Armor is penetrated"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of damage is taken from Yig's venomous blood?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D6 points of damage"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of spells does Yig have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Summon/Bind and Contact spells"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much sanity points can a Keeper lose to see Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D8 Sanity points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is described as Yig's mask?"
+      },
+      {
+        "role": "assistant",
+        "content": "A congeries of iridescent globes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yog-Sothoth's realm?"
+      },
+      {
+        "role": "assistant",
+        "content": "the interstices between the planes that compose the universe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Yog-Sothoth manifest as?"
+      },
+      {
+        "role": "assistant",
+        "content": "a conglomeration of iridescent globes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Yog-Sothoth grant power to sorcerers and wizards?"
+      },
+      {
+        "role": "assistant",
+        "content": "between the planes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Yog-Sothoth grant his slaves the ability to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "command various monsters from distant worlds"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Yog-Sothoth grant sorcerers and wizards to travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "between the planes"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Yog-Sothoth's role in granting power?"
+      },
+      {
+        "role": "assistant",
+        "content": "He grants them the power to travel between the planes, or the power to see into other planes"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 22,
+    "retention_rate": 0.92,
+    "avg_score": 7.6
+  }
+}

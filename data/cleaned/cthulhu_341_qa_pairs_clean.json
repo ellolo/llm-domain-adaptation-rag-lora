@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nGhouls are supernatural humanoids with rubbery skin, canine features, and claws, often found in tunnel systems beneath cities, particularly graveyards and ancient catacombs. They possess a 15% chance of knowing spells and have a unique set of abilities, including the ability to bite and hold victims, causing damage over time. Ghouls are also known to have commerce with witches and those seeking dark pleasures, and are often feared by humans due to their unsettling appearance and deadly attacks. Additionally, ghouls may be the physical manifestation of the myth of the changeling, where humans are replaced by supernatural beings.",
+  "qa_pairs": [
+    {
+      "question": "What are the characteristics of ghouls' skin?",
+      "answer": "unpleasant rubberiness",
+      "rating": 8
+    },
+    {
+      "question": "What are the sounds ghouls make when they speak?",
+      "answer": "gibberings and meepings",
+      "rating": 9
+    },
+    {
+      "question": "Where do ghouls often dwell?",
+      "answer": "tunnel systems beneath many cities, centered on graveyards and ancient catacombs",
+      "rating": 8
+    },
+    {
+      "question": "What is the nature of the commerce ghouls have?",
+      "answer": "commerce with witches and those seeking unspeakable pleasures",
+      "rating": 7
+    },
+    {
+      "question": "Can a human transform into a ghoul over time?",
+      "answer": "Dark lore suggests it is possible for a human to transform into a ghoul over a prolonged period",
+      "rating": 8
+    },
+    {
+      "question": "What do ghouls often encrust themselves with?",
+      "answer": "grave mold",
+      "rating": 6
+    },
+    {
+      "question": "Where do ghouls often dwell?",
+      "answer": "tunnel systems beneath many cities, centered on graveyards and ancient catacombs",
+      "rating": 8
+    },
+    {
+      "question": "Can a human transform into a ghoul over a prolonged period?",
+      "answer": "yes, according to dark lore",
+      "rating": 9
+    },
+    {
+      "question": "What is the average damage bonus for a ghoul?",
+      "answer": "1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is the average magic points for a ghoul?",
+      "answer": "13",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of things that ghouls are known to have commerce with?",
+      "answer": "Witches and those seeking unspeakable pleasures.",
+      "rating": 7
+    },
+    {
+      "question": "What is the chance that a ghoul knows a spell?",
+      "answer": "15% chance of knowing 1D10 spells.",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage bonus for ghouls in combat?",
+      "answer": "Average Damage Bonus: 1D4",
+      "rating": 8
+    },
+    {
+      "question": "What is the average build of a ghoul?",
+      "answer": "Average Build: 1",
+      "rating": 9
+    },
+    {
+      "question": "How many attacks can a ghoul make per round?",
+      "answer": "Attacks per round: 3",
+      "rating": 8
+    },
+    {
+      "question": "What can happen to wounds if they are not treated?",
+      "answer": "They can become diseased.",
+      "rating": 9
+    },
+    {
+      "question": "How much damage is dealt by a ghoul's bite per round?",
+      "answer": "1D4 per round.",
+      "rating": 8
+    },
+    {
+      "question": "What is the percentage chance of successfully dislodging a ghoul from its victim?",
+      "answer": "40% (20/8).",
+      "rating": 9
+    },
+    {
+      "question": "How does damage from firearms and projectiles work?",
+      "answer": "It does half of rolled damage.",
+      "rating": 7
+    },
+    {
+      "question": "How much damage is dealt by a successful STR roll against a ghoul?",
+      "answer": "1D6 + damage bonus.",
+      "rating": 8
+    },
+    {
+      "question": "What is the myth behind changelings?",
+      "answer": "The belief that faeries steal young babies, leaving 'wild things' in their place.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the wild things as they grow older?",
+      "answer": "They become stranger and weirder as they grow older until they disappear around maturity.",
+      "rating": 9
+    },
+    {
+      "question": "What is described as coming up from the lake to lever up a hand?",
+      "answer": "The hand of a corpse, bloodless and skeletal, with impossibly long, cracked nails.",
+      "rating": 8
+    },
+    {
+      "question": "What are Gla'aki's slaves described as?",
+      "answer": "Undead things created by his spines.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the characteristics of ghouls' skin?"
+      },
+      {
+        "role": "assistant",
+        "content": "unpleasant rubberiness"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the sounds ghouls make when they speak?"
+      },
+      {
+        "role": "assistant",
+        "content": "gibberings and meepings"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do ghouls often dwell?"
+      },
+      {
+        "role": "assistant",
+        "content": "tunnel systems beneath many cities, centered on graveyards and ancient catacombs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the commerce ghouls have?"
+      },
+      {
+        "role": "assistant",
+        "content": "commerce with witches and those seeking unspeakable pleasures"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a human transform into a ghoul over time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dark lore suggests it is possible for a human to transform into a ghoul over a prolonged period"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do ghouls often encrust themselves with?"
+      },
+      {
+        "role": "assistant",
+        "content": "grave mold"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do ghouls often dwell?"
+      },
+      {
+        "role": "assistant",
+        "content": "tunnel systems beneath many cities, centered on graveyards and ancient catacombs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a human transform into a ghoul over a prolonged period?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, according to dark lore"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for a ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of things that ghouls are known to have commerce with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Witches and those seeking unspeakable pleasures."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance that a ghoul knows a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "15% chance of knowing 1D10 spells."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for ghouls in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Damage Bonus: 1D4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of a ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Build: 1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a ghoul make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks per round: 3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to wounds if they are not treated?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can become diseased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt by a ghoul's bite per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 per round."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage chance of successfully dislodging a ghoul from its victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "40% (20/8)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does damage from firearms and projectiles work?"
+      },
+      {
+        "role": "assistant",
+        "content": "It does half of rolled damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt by a successful STR roll against a ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the myth behind changelings?"
+      },
+      {
+        "role": "assistant",
+        "content": "The belief that faeries steal young babies, leaving 'wild things' in their place."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the wild things as they grow older?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become stranger and weirder as they grow older until they disappear around maturity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is described as coming up from the lake to lever up a hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "The hand of a corpse, bloodless and skeletal, with impossibly long, cracked nails."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Gla'aki's slaves described as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Undead things created by his spines."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.1
+  }
+}

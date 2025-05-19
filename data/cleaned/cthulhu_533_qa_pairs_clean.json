@@ -1,0 +1,469 @@
+{
+  "summary": "This document appears to be a list of creatures from the Cthulhu Mythos, a shared universe of horror fiction created by H.P. Lovecraft. The list includes various monstrous beings, such as Shub-Niggurath, Tsathoggua, and Yog-Sothoth, as well as traditional horror creatures like ghosts, mummies, and vampires. The document also categorizes these creatures into groups, including \"Traditional Horrors\" and \"Beasts\".",
+  "qa_pairs": [
+    {
+      "question": "Which is the first entity mentioned in the text?",
+      "answer": "Shub-Niggurath",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the second entity?",
+      "answer": "Shudde M'ell",
+      "rating": 9
+    },
+    {
+      "question": "Which is the third entity mentioned?",
+      "answer": "Tsathoggua",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the fourth entity?",
+      "answer": "Tulzscha",
+      "rating": 6
+    },
+    {
+      "question": "Which is the fifth entity mentioned?",
+      "answer": "Ubbo-Sathla",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the sixth entity?",
+      "answer": "Y'golonac",
+      "rating": 9
+    },
+    {
+      "question": "Which is the seventh entity mentioned?",
+      "answer": "Yibb-Tstll",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the eighth entity?",
+      "answer": "Yig",
+      "rating": 8
+    },
+    {
+      "question": "Which is the ninth entity mentioned?",
+      "answer": "Yog-Sothoth",
+      "rating": 9
+    },
+    {
+      "question": "What are the first two entities in the 'Hounds of Tindalos' list?",
+      "answer": "Hounds of Tindalos",
+      "rating": 8
+    },
+    {
+      "question": "Which is the first entity in the 'Hunting Horrors' list?",
+      "answer": "Hunting Horrors",
+      "rating": 7
+    },
+    {
+      "question": "Which is the first entity mentioned in the 'Zoth-Ommog' list?",
+      "answer": "Zoth-Ommog",
+      "rating": 6
+    },
+    {
+      "question": "What is the name of the 324th entity?",
+      "answer": "Shub-Niggurath",
+      "rating": 9
+    },
+    {
+      "question": "What is the total number of creatures in the list?",
+      "answer": "426",
+      "rating": 8
+    },
+    {
+      "question": "How many types of ghosts are listed?",
+      "answer": "Ghosts",
+      "rating": 7
+    },
+    {
+      "question": "How many types of mummies are listed?",
+      "answer": "Mummies, 1 type",
+      "rating": 6
+    },
+    {
+      "question": "How many types of skeletons are listed?",
+      "answer": "Skeletons, 1 type",
+      "rating": 8
+    },
+    {
+      "question": "How many types of vampires are listed?",
+      "answer": "Vampires, 1 type",
+      "rating": 9
+    },
+    {
+      "question": "How many types of werewolves are listed?",
+      "answer": "Werewolves, 1 type",
+      "rating": 8
+    },
+    {
+      "question": "How many types of zombies are listed?",
+      "answer": "Zombies, 1 type",
+      "rating": 7
+    },
+    {
+      "question": "How many types of bats are listed?",
+      "answer": "Bat, 1 type",
+      "rating": 6
+    },
+    {
+      "question": "How many types of bears are listed?",
+      "answer": "Bear, 1 type",
+      "rating": 8
+    },
+    {
+      "question": "How many types of crocodiles are listed?",
+      "answer": "Crocodile, 1 type",
+      "rating": 9
+    },
+    {
+      "question": "How many types of dogs are listed?",
+      "answer": "Dog, 1 type",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which is the first entity mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shub-Niggurath"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the second entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shudde M'ell"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which is the third entity mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tsathoggua"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fourth entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tulzscha"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which is the fifth entity mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ubbo-Sathla"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the sixth entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Y'golonac"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which is the seventh entity mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yibb-Tstll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the eighth entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yig"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which is the ninth entity mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yog-Sothoth"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the first two entities in the 'Hounds of Tindalos' list?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hounds of Tindalos"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which is the first entity in the 'Hunting Horrors' list?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hunting Horrors"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which is the first entity mentioned in the 'Zoth-Ommog' list?"
+      },
+      {
+        "role": "assistant",
+        "content": "Zoth-Ommog"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the 324th entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shub-Niggurath"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total number of creatures in the list?"
+      },
+      {
+        "role": "assistant",
+        "content": "426"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of ghosts are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ghosts"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of mummies are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mummies, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of skeletons are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skeletons, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of vampires are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of werewolves are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Werewolves, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of zombies are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Zombies, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of bats are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bat, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of bears are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bear, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of crocodiles are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crocodile, 1 type"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many types of dogs are listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dog, 1 type"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 7.6
+  }
+}

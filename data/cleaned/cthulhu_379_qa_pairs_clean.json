@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nGla'aki, a Great Old One, is a powerful and malevolent entity that dwells at the bottom of a lake in the Severn River Valley in England. It summons new cultists through hypnotic dreams, known as the \"dream-pull,\" which can draw victims to the lake for initiation. Once initiated, victims are transformed into undead slaves, serving Gla'aki. Gla'aki's powers include attacks with tentacles, summoning and binding spells, and regenerating hit points. Its current weakness makes it unable to send the dream-pull far, but it can still dispatch servants to capture or guide new initiates.",
+  "qa_pairs": [
+    {
+      "question": "What is the condition that renders the Great Old One's curse inoperative?",
+      "answer": "Being at less than 0 hit points",
+      "rating": 8
+    },
+    {
+      "question": "What is the damage dealt by the Great Old One's attacks 80% of the time?",
+      "answer": "7D6",
+      "rating": 9
+    },
+    {
+      "question": "What is the maximum amount of hit points the Great Old One can regenerate per round?",
+      "answer": "10",
+      "rating": 7
+    },
+    {
+      "question": "How many Sanity points are lost to see Ghatanothoa?",
+      "answer": "1D10",
+      "rating": 8
+    },
+    {
+      "question": "What is the shape of the creature Gla'aki?",
+      "answer": "towering",
+      "rating": 9
+    },
+    {
+      "question": "How many white pyramids were around the underside of the body?",
+      "answer": "many",
+      "rating": 6
+    },
+    {
+      "question": "What was the diameter of the body at its least wide?",
+      "answer": "ten feet",
+      "rating": 8
+    },
+    {
+      "question": "What was happening with the spines on the body?",
+      "answer": "a spine stiffened toward a victim",
+      "rating": 9
+    },
+    {
+      "question": "What are the white pyramids on the creature's body for?",
+      "answer": "presumably used for locomotion",
+      "rating": 8
+    },
+    {
+      "question": "Where is Gla'aki currently dwelling?",
+      "answer": "the bottom of a lake in the Severn River Valley in England",
+      "rating": 9
+    },
+    {
+      "question": "What is the process that summons new cultists?",
+      "answer": "the sending of hypnotic dreams to potential initiates",
+      "rating": 9
+    },
+    {
+      "question": "What is the current state of Gla'aki?",
+      "answer": "weak",
+      "rating": 7
+    },
+    {
+      "question": "Where does Gla'aki currently dwell?",
+      "answer": "The bottom of a lake in the Severn River Valley in England",
+      "rating": 9
+    },
+    {
+      "question": "How does Gla'aki summons new cultists?",
+      "answer": "By sending hypnotic dreams to potential initiates",
+      "rating": 9
+    },
+    {
+      "question": "What is the current state of Gla'aki's strength?",
+      "answer": "It is weak",
+      "rating": 7
+    },
+    {
+      "question": "What type of cult is led by Gla'aki?",
+      "answer": "A particularly loathsome cult, mostly comprised of undead members",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for Gla'aki to send dreams to someone near its lair?",
+      "answer": "Someone must come to live nearby.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of distance on the calculation of the dream-pull?",
+      "answer": "For each half-mile of distance between the victim and Gla'aki's lair, add 1 magic point to the victim's total.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result when Gla'aki tries to send the dream-pull to a victim?",
+      "answer": "The target's chance to be overwhelmed by the dream is equal to Gla'aki's magic points minus the victim's magic points on 1D100.",
+      "rating": 9
+    },
+    {
+      "question": "What is the limitation of Gla'aki's dream-pull calculation?",
+      "answer": "Gla'aki can try once per night, for as many nights as desired.",
+      "rating": 8
+    },
+    {
+      "question": "What determines the target's chance to be overwhelmed by the dream?",
+      "answer": "Gla'aki's magic points minus the victim's magic points on 1D100.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the victim's body after the spine drops off?",
+      "answer": "A livid spot that does not bleed and from which emanates a network of red lines.",
+      "rating": 9
+    },
+    {
+      "question": "How many nights can Gla'aki try to initiate the transformation?",
+      "answer": "As many nights as desired.",
+      "rating": 7
+    },
+    {
+      "question": "What is injected into the victim's body by Gla'aki after the spine is driven into the chest?",
+      "answer": "A fluid.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that renders the Great Old One's curse inoperative?"
+      },
+      {
+        "role": "assistant",
+        "content": "Being at less than 0 hit points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the Great Old One's attacks 80% of the time?"
+      },
+      {
+        "role": "assistant",
+        "content": "7D6"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum amount of hit points the Great Old One can regenerate per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost to see Ghatanothoa?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the shape of the creature Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "towering"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many white pyramids were around the underside of the body?"
+      },
+      {
+        "role": "assistant",
+        "content": "many"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the diameter of the body at its least wide?"
+      },
+      {
+        "role": "assistant",
+        "content": "ten feet"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was happening with the spines on the body?"
+      },
+      {
+        "role": "assistant",
+        "content": "a spine stiffened toward a victim"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the white pyramids on the creature's body for?"
+      },
+      {
+        "role": "assistant",
+        "content": "presumably used for locomotion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Gla'aki currently dwelling?"
+      },
+      {
+        "role": "assistant",
+        "content": "the bottom of a lake in the Severn River Valley in England"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the process that summons new cultists?"
+      },
+      {
+        "role": "assistant",
+        "content": "the sending of hypnotic dreams to potential initiates"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "weak"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does Gla'aki currently dwell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The bottom of a lake in the Severn River Valley in England"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Gla'aki summons new cultists?"
+      },
+      {
+        "role": "assistant",
+        "content": "By sending hypnotic dreams to potential initiates"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of Gla'aki's strength?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is weak"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of cult is led by Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "A particularly loathsome cult, mostly comprised of undead members"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for Gla'aki to send dreams to someone near its lair?"
+      },
+      {
+        "role": "assistant",
+        "content": "Someone must come to live nearby."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of distance on the calculation of the dream-pull?"
+      },
+      {
+        "role": "assistant",
+        "content": "For each half-mile of distance between the victim and Gla'aki's lair, add 1 magic point to the victim's total."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result when Gla'aki tries to send the dream-pull to a victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's chance to be overwhelmed by the dream is equal to Gla'aki's magic points minus the victim's magic points on 1D100."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the limitation of Gla'aki's dream-pull calculation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gla'aki can try once per night, for as many nights as desired."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the target's chance to be overwhelmed by the dream?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gla'aki's magic points minus the victim's magic points on 1D100."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's body after the spine drops off?"
+      },
+      {
+        "role": "assistant",
+        "content": "A livid spot that does not bleed and from which emanates a network of red lines."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many nights can Gla'aki try to initiate the transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "As many nights as desired."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is injected into the victim's body by Gla'aki after the spine is driven into the chest?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fluid."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

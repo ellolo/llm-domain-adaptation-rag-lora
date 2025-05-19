@@ -1,0 +1,336 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a ruleset for the Call of Cthulhu tabletop role-playing game, specifically detailing mechanics for combat and firearms attacks. The document explains how to resolve fighting maneuvers, including the use of armor and the resolution of firearms attacks, which involve rolling a 1D100 and comparing the result to the attacker's relevant skill. The document also outlines modifiers that can be applied to firearms attacks, such as diving for cover, which can grant or impose penalty dice. Additionally, it provides examples of armor and firearms, including their respective difficulty levels and potential modifiers.",
+  "qa_pairs": [
+    {
+      "question": "What is the total damage Harvey inflicts on the deep one?",
+      "answer": "4",
+      "rating": 8
+    },
+    {
+      "question": "How much natural armor does the deep one have?",
+      "answer": "1",
+      "rating": 9
+    },
+    {
+      "question": "Who wrote the passage about firearms?",
+      "answer": "H. P. Lovecraft",
+      "rating": 10
+    },
+    {
+      "question": "What is the method to resolve a firearms attack?",
+      "answer": "Make a 1D100 roll and compare the result with the attacker's Firearms skill",
+      "rating": 7
+    },
+    {
+      "question": "What is the total damage of Harvey's strike?",
+      "answer": "4",
+      "rating": 8
+    },
+    {
+      "question": "Who wrote the statement about being not a murderer?",
+      "answer": "H. P. Lovecraft",
+      "rating": 10
+    },
+    {
+      "question": "How does a firearms attack roll compare to the attacker's Firearms skill?",
+      "answer": "Roll and compare the result with the attacker's Firearms skill",
+      "rating": 6
+    },
+    {
+      "question": "What is the DEX order priority for firearms attacks?",
+      "answer": "DEX + 50",
+      "rating": 9
+    },
+    {
+      "question": "What determines the difficulty level of a firearms skill roll?",
+      "answer": "The range of the firearms skill roll",
+      "rating": 9
+    },
+    {
+      "question": "What happens to a roll at very long range if it's not an Extreme success?",
+      "answer": "An impale occurs",
+      "rating": 8
+    },
+    {
+      "question": "How does the difficulty level change for a firearms skill roll at long range?",
+      "answer": "It increases by one step",
+      "rating": 7
+    },
+    {
+      "question": "What is required for an impale to occur at very long range?",
+      "answer": "A critical hit (roll of 01)",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level for firearms within the base range?",
+      "answer": "Regular difficulty level.",
+      "rating": 6
+    },
+    {
+      "question": "How does the difficulty level change when the range is doubled?",
+      "answer": "Increases by one step.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for an impale to occur at very long range?",
+      "answer": "Only with a critical hit (a roll of 01).",
+      "rating": 9
+    },
+    {
+      "question": "How do modifiers affect the difficulty level of a firearms attack?",
+      "answer": "Either a bonus die or a penalty die are used.",
+      "rating": 8
+    },
+    {
+      "question": "What is the base range difficulty level for firearms attacks in Call of Cthulhu?",
+      "answer": "Regular",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total damage Harvey inflicts on the deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much natural armor does the deep one have?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the passage about firearms?"
+      },
+      {
+        "role": "assistant",
+        "content": "H. P. Lovecraft"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the method to resolve a firearms attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a 1D100 roll and compare the result with the attacker's Firearms skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total damage of Harvey's strike?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the statement about being not a murderer?"
+      },
+      {
+        "role": "assistant",
+        "content": "H. P. Lovecraft"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a firearms attack roll compare to the attacker's Firearms skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll and compare the result with the attacker's Firearms skill"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX order priority for firearms attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX + 50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of a firearms skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The range of the firearms skill roll"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a roll at very long range if it's not an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "An impale occurs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level change for a firearms skill roll at long range?"
+      },
+      {
+        "role": "assistant",
+        "content": "It increases by one step"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for an impale to occur at very long range?"
+      },
+      {
+        "role": "assistant",
+        "content": "A critical hit (roll of 01)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for firearms within the base range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level change when the range is doubled?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increases by one step."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for an impale to occur at very long range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only with a critical hit (a roll of 01)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do modifiers affect the difficulty level of a firearms attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either a bonus die or a penalty die are used."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range difficulty level for firearms attacks in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 17,
+    "retention_rate": 0.61,
+    "avg_score": 5.9
+  }
+}

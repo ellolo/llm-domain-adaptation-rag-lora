@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn a Lovecraftian horror game, investigators must be motivated to connect with the plot, and their background and backstory can help drive this motivation. The Keeper can use the investigators' backstories to create connections between the character and the Mythos, and can also introduce non-player characters (NPCs) to create conflicts and challenges for the investigators. NPCs can be created through the investigators' suggestions, existing published scenarios, or improvised by the Keeper, and their skills and characteristics can be used to determine the difficulty level of interactions with the investigators. The Keeper's goal is to create an immersive and challenging experience for the players.",
+  "qa_pairs": [
+    {
+      "question": "What are some common motivations for investigators to connect with the plot?",
+      "answer": "Employment, A social connection, Personal gain, Altruism, Moral code",
+      "rating": 9
+    },
+    {
+      "question": "Why is the investigator's background important?",
+      "answer": "To help build their characters and define their connections to the world",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the initial backstory written by the players in the game?",
+      "answer": "The initial backstory written by the players serves to build their characters and define their connections to the world.",
+      "rating": 9
+    },
+    {
+      "question": "Who controls the non-player characters in the game?",
+      "answer": "The Keeper controls everyone else in the world, known as non-player characters.",
+      "rating": 8
+    },
+    {
+      "question": "What type of connections should the players try to establish in their backstory entries?",
+      "answer": "Try to word backstory entries in a way that might push the character to pursue the Mythos.",
+      "rating": 9
+    },
+    {
+      "question": "What is the significance of the Necronomicon in the game?",
+      "answer": "The answer must lie in the Necronomicon.",
+      "rating": 7
+    },
+    {
+      "question": "What should character backstory entries aim to achieve in the game?",
+      "answer": "Provide connections between that character and the Mythos, especially those that are the result of madness.",
+      "rating": 9
+    },
+    {
+      "question": "How can non-player characters (NPCs) be introduced into the game?",
+      "answer": "In a number of ways, such as suggested by the players when making their investigators.",
+      "rating": 8
+    },
+    {
+      "question": "What drives an investigator to pursue the Mythos?",
+      "answer": "An insatiable appetite for knowledge that man was not meant to know.",
+      "rating": 9
+    },
+    {
+      "question": "How do investigators interact with other characters in the game?",
+      "answer": "The players control their investigators, while the Keeper controls everyone else in the world, known as non-player characters.",
+      "rating": 8
+    },
+    {
+      "question": "Where do investigators often find information about other characters?",
+      "answer": "By referring to the investigators' backstories.",
+      "rating": 7
+    },
+    {
+      "question": "Who controls the non-player characters in the game?",
+      "answer": "The Keeper controls everyone else in the world, known as non-player characters.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of non-player characters in the game?",
+      "answer": "The investigators will encounter non-player characters in every location.",
+      "rating": 6
+    },
+    {
+      "question": "Can investigators create their own non-player characters?",
+      "answer": "Yes, investigators may need to come up with skills and characteristics for improvised non-player characters.",
+      "rating": 9
+    },
+    {
+      "question": "When are skills and characteristics required for non-player characters?",
+      "answer": "Skills and characteristics are required if the non-player character is opposing an investigator in some way.",
+      "rating": 8
+    },
+    {
+      "question": "Can investigators often just play the interaction without skills or characteristics?",
+      "answer": "Yes, often you can just play the interaction without concern for any skill values or numbers.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of coming up with skills and characteristics for non-player characters?",
+      "answer": "To require skills or characteristics for non-player characters if they are opposing an investigator in some way.",
+      "rating": 9
+    },
+    {
+      "question": "How to determine the difficulty level for a skill roll versus a non-player character?",
+      "answer": "By considering the skill or characteristic being used in opposition by the non-player character.",
+      "rating": 8
+    },
+    {
+      "question": "What is the rule for determining the difficulty level if a skill or characteristic directly relates to the non-player character's profession?",
+      "answer": "The difficulty level should be Hard if it directly relates to the non-player character's profession.",
+      "rating": 9
+    },
+    {
+      "question": "How to rate a skill or characteristic if it directly relates to the non-player character's profession?",
+      "answer": "It should be rated at 50% or higher.",
+      "rating": 8
+    },
+    {
+      "question": "What is the criteria for a skill or characteristic to be rated at 50% or higher?",
+      "answer": "If the skill or characteristic directly relates to the non-player character\u2019s profession",
+      "rating": 7
+    },
+    {
+      "question": "What is the difficulty level for a roll when the Keeper figures the opposing factor would be the Spot Hidden skill of the approaching non-player character?",
+      "answer": "Hard",
+      "rating": 9
+    },
+    {
+      "question": "What is the situation where the Keeper asks for a Stealth roll?",
+      "answer": "Walter is creeping about in an old mansion when he hears someone coming and wants to hide",
+      "rating": 8
+    },
+    {
+      "question": "What is the profession of the non-player character that Walter is hiding from?",
+      "answer": "A maid",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some common motivations for investigators to connect with the plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employment, A social connection, Personal gain, Altruism, Moral code"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is the investigator's background important?"
+      },
+      {
+        "role": "assistant",
+        "content": "To help build their characters and define their connections to the world"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the initial backstory written by the players in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The initial backstory written by the players serves to build their characters and define their connections to the world."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who controls the non-player characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper controls everyone else in the world, known as non-player characters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of connections should the players try to establish in their backstory entries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Try to word backstory entries in a way that might push the character to pursue the Mythos."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the Necronomicon in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The answer must lie in the Necronomicon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should character backstory entries aim to achieve in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Provide connections between that character and the Mythos, especially those that are the result of madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can non-player characters (NPCs) be introduced into the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "In a number of ways, such as suggested by the players when making their investigators."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What drives an investigator to pursue the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "An insatiable appetite for knowledge that man was not meant to know."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators interact with other characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players control their investigators, while the Keeper controls everyone else in the world, known as non-player characters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do investigators often find information about other characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "By referring to the investigators' backstories."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who controls the non-player characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper controls everyone else in the world, known as non-player characters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of non-player characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators will encounter non-player characters in every location."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators create their own non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, investigators may need to come up with skills and characteristics for improvised non-player characters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When are skills and characteristics required for non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skills and characteristics are required if the non-player character is opposing an investigator in some way."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators often just play the interaction without skills or characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, often you can just play the interaction without concern for any skill values or numbers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of coming up with skills and characteristics for non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "To require skills or characteristics for non-player characters if they are opposing an investigator in some way."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to determine the difficulty level for a skill roll versus a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "By considering the skill or characteristic being used in opposition by the non-player character."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for determining the difficulty level if a skill or characteristic directly relates to the non-player character's profession?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level should be Hard if it directly relates to the non-player character's profession."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How to rate a skill or characteristic if it directly relates to the non-player character's profession?"
+      },
+      {
+        "role": "assistant",
+        "content": "It should be rated at 50% or higher."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the criteria for a skill or characteristic to be rated at 50% or higher?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the skill or characteristic directly relates to the non-player character\u2019s profession"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a roll when the Keeper figures the opposing factor would be the Spot Hidden skill of the approaching non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the situation where the Keeper asks for a Stealth roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Walter is creeping about in an old mansion when he hears someone coming and wants to hide"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the profession of the non-player character that Walter is hiding from?"
+      },
+      {
+        "role": "assistant",
+        "content": "A maid"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.2
+  }
+}

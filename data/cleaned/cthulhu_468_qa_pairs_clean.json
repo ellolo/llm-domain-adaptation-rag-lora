@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document describes the \"Horror\" from the Call of Cthulhu tabletop role-playing game, a supernatural entity that can possess and terrorize victims. The Horror can manifest in various ways, including immaterial, possessed, or fully manifested, each with its own abilities and weaknesses. Its attacks, such as Soul Burn, can inflict significant damage and sanity loss on victims, making it a formidable foe in the game. The document also provides rules for interacting with the Horror, including its abilities, weaknesses, and the consequences of its attacks.",
+  "qa_pairs": [
+    {
+      "question": "What is the rate of damage dealt by Soul Burn?",
+      "answer": "1D10 per day",
+      "rating": 8
+    },
+    {
+      "question": "What happens if the target stares into the Horror's eyes?",
+      "answer": "The target must succeed in an Extreme POW roll or be unable to look away",
+      "rating": 9
+    },
+    {
+      "question": "What happens to the target's soul if they fail to look away?",
+      "answer": "The target suffers un-imaginable terror and loses Sanity (1D6/1D10 SAN loss)",
+      "rating": 9
+    },
+    {
+      "question": "How can the Horror move through solid objects when not fully manifested?",
+      "answer": "It may pass freely through solid objects",
+      "rating": 8
+    },
+    {
+      "question": "What can the Horror pass through without a challenge?",
+      "answer": "Doors, swords, and bullets",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a target is dead already, and the Horror tries to possess them?",
+      "answer": "No POW roll is required",
+      "rating": 7
+    },
+    {
+      "question": "What is the damage dealt by the Horror's Fighting attack?",
+      "answer": "1D4 plus 1D10 STR and CON drain",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of failing the Extreme POW roll for Soul Burn?",
+      "answer": "Suffer 1D6/1D10 SAN loss",
+      "rating": 8
+    },
+    {
+      "question": "What happens when the target is already dead?",
+      "answer": "No roll required",
+      "rating": 9
+    },
+    {
+      "question": "Can the creature be harmed with physical attacks while immaterial?",
+      "answer": "No, with physical attacks",
+      "rating": 8
+    },
+    {
+      "question": "What are the two spells available to the Keeper?",
+      "answer": "Shrivelling, plus two of the Keeper\u2019s choosing",
+      "rating": 9
+    },
+    {
+      "question": "What is the percentage of dodge success?",
+      "answer": "40% (20/8)",
+      "rating": 8
+    },
+    {
+      "question": "What cannot be harmed physically while immaterial?",
+      "answer": "An entity that cannot be harmed physically while immaterial.",
+      "rating": 7
+    },
+    {
+      "question": "How much sanity points can be lost to see the Horror?",
+      "answer": "1D4/1D8 sanity points.",
+      "rating": 8
+    },
+    {
+      "question": "How many spells are available for the Keeper's choosing?",
+      "answer": "Plus two of the Keeper's choosing.",
+      "rating": 8
+    },
+    {
+      "question": "What is the notation used to indicate a number and type of dice?",
+      "answer": "1D4, 1D6; 1D8; 1D10, etc.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of armor on damage received?",
+      "answer": "Reduces the amount of damage received",
+      "rating": 9
+    },
+    {
+      "question": "How is wealth spent in the game?",
+      "answer": "After time is taken to realize the capital",
+      "rating": 8
+    },
+    {
+      "question": "What defines a character's character in the game?",
+      "answer": "Aspects of the investigator",
+      "rating": 9
+    },
+    {
+      "question": "What is the base chance for untrained investigators to use a skill?",
+      "answer": "A 1% base chance",
+      "rating": 9
+    },
+    {
+      "question": "What is the base chance for some skills?",
+      "answer": "1%",
+      "rating": 7
+    },
+    {
+      "question": "How is a character's accumulated Cthulhu Mythos Skill points affected upon encountering the Mythos first-hand?",
+      "answer": "Sanity loss",
+      "rating": 9
+    },
+    {
+      "question": "What can be applied by the Keeper to a roll?",
+      "answer": "Bonus Die",
+      "rating": 8
+    },
+    {
+      "question": "What percentile die is rolled alongside the usual pair on a roll where the Bonus Die is applied?",
+      "answer": "Additional 'tens' percentile die",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the rate of damage dealt by Soul Burn?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 per day"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target stares into the Horror's eyes?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target must succeed in an Extreme POW roll or be unable to look away"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's soul if they fail to look away?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target suffers un-imaginable terror and loses Sanity (1D6/1D10 SAN loss)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the Horror move through solid objects when not fully manifested?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may pass freely through solid objects"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the Horror pass through without a challenge?"
+      },
+      {
+        "role": "assistant",
+        "content": "Doors, swords, and bullets"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a target is dead already, and the Horror tries to possess them?"
+      },
+      {
+        "role": "assistant",
+        "content": "No POW roll is required"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by the Horror's Fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 plus 1D10 STR and CON drain"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of failing the Extreme POW roll for Soul Burn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Suffer 1D6/1D10 SAN loss"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the target is already dead?"
+      },
+      {
+        "role": "assistant",
+        "content": "No roll required"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can the creature be harmed with physical attacks while immaterial?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, with physical attacks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two spells available to the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shrivelling, plus two of the Keeper\u2019s choosing"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of dodge success?"
+      },
+      {
+        "role": "assistant",
+        "content": "40% (20/8)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What cannot be harmed physically while immaterial?"
+      },
+      {
+        "role": "assistant",
+        "content": "An entity that cannot be harmed physically while immaterial."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much sanity points can be lost to see the Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4/1D8 sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many spells are available for the Keeper's choosing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plus two of the Keeper's choosing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the notation used to indicate a number and type of dice?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4, 1D6; 1D8; 1D10, etc."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of armor on damage received?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reduces the amount of damage received"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is wealth spent in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "After time is taken to realize the capital"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What defines a character's character in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aspects of the investigator"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base chance for untrained investigators to use a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 1% base chance"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the base chance for some skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "1%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is a character's accumulated Cthulhu Mythos Skill points affected upon encountering the Mythos first-hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity loss"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be applied by the Keeper to a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bonus Die"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentile die is rolled alongside the usual pair on a roll where the Bonus Die is applied?"
+      },
+      {
+        "role": "assistant",
+        "content": "Additional 'tens' percentile die"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

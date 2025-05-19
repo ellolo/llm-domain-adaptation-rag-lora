@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThis document appears to be a catalog or inventory list of various items, including investigator tools, vehicles, and accessories. The items range from everyday objects like handcuffs and writing utensils to more specialized equipment like diving suits and microscopes. The catalog also includes a wide range of vehicles, both domestic and international, with prices listed for each model. The document also includes travel-related expenses, such as air travel costs, with prices per distance. Overall, the catalog seems to be a comprehensive resource for an investigator or law enforcement agency.",
+  "qa_pairs": [
+    {
+      "question": "What is the price of the Dictaphone?",
+      "answer": "$129.95",
+      "rating": 9
+    },
+    {
+      "question": "How much does the Umbrella cost?",
+      "answer": "99\u00a2",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of the Self-filling Fountain Pen?",
+      "answer": "$1.80",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of the Writing Tablet?",
+      "answer": "$9.50",
+      "rating": 8
+    },
+    {
+      "question": "How much does the Four Candles cost?",
+      "answer": "Unspecified, only price of one candle is given (10\u00a2)",
+      "rating": 7
+    },
+    {
+      "question": "What is the price of the Glass-Door Oak Bookcase?",
+      "answer": "$24.65",
+      "rating": 9
+    },
+    {
+      "question": "How much does the Bible cost?",
+      "answer": "$1.48",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of the Watchmaker's Eye Glass?",
+      "answer": "45\u00a2",
+      "rating": 7
+    },
+    {
+      "question": "Which American automobile is priced at $95.00?",
+      "answer": "Norton Motorcycle",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of the Chevrolet Capitol?",
+      "answer": "$2240.00",
+      "rating": 9
+    },
+    {
+      "question": "Which American automobile is priced at $1,020.00?",
+      "answer": "Buick Model D-45",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of the Cadillac Type 55?",
+      "answer": "$695.00",
+      "rating": 7
+    },
+    {
+      "question": "Which American automobile is priced at $570.00?",
+      "answer": "Chrysler Model F-58",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of the Ford Model T?",
+      "answer": "$360.00",
+      "rating": 9
+    },
+    {
+      "question": "Which American automobile is priced at $1,750.00?",
+      "answer": "Hudson Super Six Series J",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of the Rolls-Royce Silver Ghost?",
+      "answer": "$20,000",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of a vehicle accessory tire repair kit?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a vehicle accessory portable air pump?",
+      "answer": "2",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of a vehicle accessory auto spot light?",
+      "answer": "1",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a vehicle accessory auto battery?",
+      "answer": "8",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of a vehicle accessory radiator?",
+      "answer": "30",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a vehicle accessory replacement headlamp?",
+      "answer": "3",
+      "rating": 9
+    },
+    {
+      "question": "What is the price of a vehicle accessory tire snow chains?",
+      "answer": "4",
+      "rating": 8
+    },
+    {
+      "question": "What is the price of a vehicle accessory auto luggage carrier?",
+      "answer": "14",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Dictaphone?"
+      },
+      {
+        "role": "assistant",
+        "content": "$129.95"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the Umbrella cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "99\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Self-filling Fountain Pen?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.80"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Writing Tablet?"
+      },
+      {
+        "role": "assistant",
+        "content": "$9.50"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the Four Candles cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unspecified, only price of one candle is given (10\u00a2)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Glass-Door Oak Bookcase?"
+      },
+      {
+        "role": "assistant",
+        "content": "$24.65"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the Bible cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.48"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Watchmaker's Eye Glass?"
+      },
+      {
+        "role": "assistant",
+        "content": "45\u00a2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which American automobile is priced at $95.00?"
+      },
+      {
+        "role": "assistant",
+        "content": "Norton Motorcycle"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Chevrolet Capitol?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2240.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which American automobile is priced at $1,020.00?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buick Model D-45"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Cadillac Type 55?"
+      },
+      {
+        "role": "assistant",
+        "content": "$695.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which American automobile is priced at $570.00?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chrysler Model F-58"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Ford Model T?"
+      },
+      {
+        "role": "assistant",
+        "content": "$360.00"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which American automobile is priced at $1,750.00?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hudson Super Six Series J"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of the Rolls-Royce Silver Ghost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$20,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory tire repair kit?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory portable air pump?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory auto spot light?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory auto battery?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory radiator?"
+      },
+      {
+        "role": "assistant",
+        "content": "30"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory replacement headlamp?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory tire snow chains?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a vehicle accessory auto luggage carrier?"
+      },
+      {
+        "role": "assistant",
+        "content": "14"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.3
+  }
+}

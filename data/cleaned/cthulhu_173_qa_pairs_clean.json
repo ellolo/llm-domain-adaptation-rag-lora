@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the Call of Cthulhu role-playing game, investigators can use Reality Check Rolls to distinguish between reality and delusions or hallucinations. A successful roll allows the investigator to see through delusions, while a failure can lead to a loss of Sanity points and potentially induce madness. Additionally, investigators can be affected by phobias, which can cause rapid symptoms such as anxiety, palpitations, and trembling when exposed to the source of their phobia. Mania is another condition that can affect investigators, characterized by an elevated mood, increased activity, and decreased need for sleep.",
+  "qa_pairs": [
+    {
+      "question": "What happens to an investigator if they fail a Sanity roll during a reality check?",
+      "answer": "They lose 1 Sanity point, which can immediately induce a bout of madness if they are suffering underlying insanity.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to an investigator if they succeed on a Sanity roll during a reality check?",
+      "answer": "They see through any delusions, and the Keeper must describe what the investigator genuinely perceives.",
+      "rating": 9
+    },
+    {
+      "question": "Who usually calls for reality checks in the Call of Cthulhu game?",
+      "answer": "Insane investigators, although players might call for one if they wish to 'see through' a hallucination or illusion.",
+      "rating": 7
+    },
+    {
+      "question": "What is the consequence of failing a Pushed skill roll in the Call of Cthulhu game?",
+      "answer": "It results in great consequences.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if an investigator is suffering from underlying insanity?",
+      "answer": "This will immediately induce a bout of madness.",
+      "rating": 8
+    },
+    {
+      "question": "What does an investigator see when they make a successful reality check roll?",
+      "answer": "Things as they really are.",
+      "rating": 9
+    },
+    {
+      "question": "What skill allows an insane investigator to see a delusion for what it is?",
+      "answer": "Psychoanalysis skill.",
+      "rating": 8
+    },
+    {
+      "question": "How does a successful reality check roll affect the investigator's resistance to delusions?",
+      "answer": "The investigator will be resistant to delusions until losing further Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to an investigator who makes a successful reality check roll?",
+      "answer": "The investigator sees things as they really are and will be resistant to delusions until losing further Sanity points.",
+      "rating": 9
+    },
+    {
+      "question": "How can a successful use of the Psychoanalysis skill help an insane investigator?",
+      "answer": "The insane investigator can see a delusion for what it is.",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's neighbor doing, according to the Keeper?",
+      "answer": "Harvey's neighbor is spying on him, which is a delusion.",
+      "rating": 7
+    },
+    {
+      "question": "What does Harvey's neighbor have in his hand, according to the Keeper?",
+      "answer": "A recording device, pointed at Harvey's house.",
+      "rating": 8
+    },
+    {
+      "question": "What is Harvey's delusion about?",
+      "answer": "Harvey's neighbor is spying on him.",
+      "rating": 6
+    },
+    {
+      "question": "What happens if Harvey fails a reality check roll?",
+      "answer": "Harvey loses 1 Sanity point and suffers a bout of madness.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to Harvey if the reality check is successful?",
+      "answer": "Harvey is free of his delusion.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to Harvey if another investigator arrives?",
+      "answer": "The Keeper fast-forwards to the point where another investigator turns up to find Harvey.",
+      "rating": 7
+    },
+    {
+      "question": "What will happen to Harvey if the player chooses to make a reality check roll and fails?",
+      "answer": "Harvey will lose 1 Sanity point and suffer a bout of madness.",
+      "rating": 9
+    },
+    {
+      "question": "What will happen to Harvey if the player chooses not to ask for a reality check?",
+      "answer": "The Keeper is free to elaborate on the delusion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence of Harvey failing a reality check roll?",
+      "answer": "Harvey will lose a point of Sanity, suffer a bout of madness, and terrible things will no doubt ensue.",
+      "rating": 9
+    },
+    {
+      "question": "What will happen to Harvey if the player succeeds in a reality check roll?",
+      "answer": "Harvey will realize there is no ghoul and that he was imagining it all.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if Harvey succeeds in his reality check?",
+      "answer": "He will realize there is no ghoul and that he was imagining it.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of failing a reality check for Harvey?",
+      "answer": "He will lose a point of Sanity, suffer a bout of madness, and terrible things will ensue.",
+      "rating": 9
+    },
+    {
+      "question": "How quickly can a character's symptoms develop when exposed to their phobia?",
+      "answer": "Within seconds.",
+      "rating": 8
+    },
+    {
+      "question": "What are some symptoms that a character may experience when exposed to their phobia?",
+      "answer": "Palpitations, trembling, choking, and uncontrollable anxiety.",
+      "rating": 9
+    },
+    {
+      "question": "What will happen to Harvey if she fails to overcome her phobia?",
+      "answer": "She will lose a point of Sanity and suffer a bout of madness.",
+      "rating": 9
+    },
+    {
+      "question": "What are some symptoms of a character with mania?",
+      "answer": "A general increase in activity, garrulousness, increased self-esteem to the point of delusion, decreased need for sleep, easily distracted, willingness for dangerous or imprudent activities.",
+      "rating": 8
+    },
+    {
+      "question": "How quickly can a character's symptoms develop when exposed to their phobia?",
+      "answer": "Within seconds, palpitations, trembling, choking, and an uncontrollable anxiety appear.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical mood of a character with mania?",
+      "answer": "A fairly constant euphoric or possibly irritable mood.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator if they fail a Sanity roll during a reality check?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose 1 Sanity point, which can immediately induce a bout of madness if they are suffering underlying insanity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator if they succeed on a Sanity roll during a reality check?"
+      },
+      {
+        "role": "assistant",
+        "content": "They see through any delusions, and the Keeper must describe what the investigator genuinely perceives."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who usually calls for reality checks in the Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Insane investigators, although players might call for one if they wish to 'see through' a hallucination or illusion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failing a Pushed skill roll in the Call of Cthulhu game?"
+      },
+      {
+        "role": "assistant",
+        "content": "It results in great consequences."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator is suffering from underlying insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "This will immediately induce a bout of madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does an investigator see when they make a successful reality check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Things as they really are."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skill allows an insane investigator to see a delusion for what it is?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychoanalysis skill."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a successful reality check roll affect the investigator's resistance to delusions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator will be resistant to delusions until losing further Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator who makes a successful reality check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator sees things as they really are and will be resistant to delusions until losing further Sanity points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a successful use of the Psychoanalysis skill help an insane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The insane investigator can see a delusion for what it is."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's neighbor doing, according to the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey's neighbor is spying on him, which is a delusion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Harvey's neighbor have in his hand, according to the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "A recording device, pointed at Harvey's house."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey's delusion about?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey's neighbor is spying on him."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey fails a reality check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey loses 1 Sanity point and suffers a bout of madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey if the reality check is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey is free of his delusion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey if another investigator arrives?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper fast-forwards to the point where another investigator turns up to find Harvey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to Harvey if the player chooses to make a reality check roll and fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey will lose 1 Sanity point and suffer a bout of madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to Harvey if the player chooses not to ask for a reality check?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is free to elaborate on the delusion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of Harvey failing a reality check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey will lose a point of Sanity, suffer a bout of madness, and terrible things will no doubt ensue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to Harvey if the player succeeds in a reality check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey will realize there is no ghoul and that he was imagining it all."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey succeeds in his reality check?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will realize there is no ghoul and that he was imagining it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of failing a reality check for Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will lose a point of Sanity, suffer a bout of madness, and terrible things will ensue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How quickly can a character's symptoms develop when exposed to their phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within seconds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some symptoms that a character may experience when exposed to their phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Palpitations, trembling, choking, and uncontrollable anxiety."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to Harvey if she fails to overcome her phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "She will lose a point of Sanity and suffer a bout of madness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some symptoms of a character with mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "A general increase in activity, garrulousness, increased self-esteem to the point of delusion, decreased need for sleep, easily distracted, willingness for dangerous or imprudent activities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How quickly can a character's symptoms develop when exposed to their phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within seconds, palpitations, trembling, choking, and an uncontrollable anxiety appear."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical mood of a character with mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fairly constant euphoric or possibly irritable mood."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 28,
+    "filtered": 28,
+    "retention_rate": 1.0,
+    "avg_score": 8.1
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nIn the game of Call of Cthulhu, combat is resolved through a series of rolls and checks, with the attacker and defender making opposed rolls to determine the outcome of an attack. The combat flow chart outlines the order of attack, the resolution of attacks, and the rules for dodging, fighting back, and maneuvering. Additionally, the game includes rules for dealing with damage, including the effects of a Major Wound, which can be healed or worsened over time. The game also includes rules for chases, where fleeing characters or vehicles are pursued by pursuers.",
+  "qa_pairs": [
+    {
+      "question": "What happens if the CON roll is a critical success in certain circumstances?",
+      "answer": "The poison's effects can be shaken off.",
+      "rating": 8
+    },
+    {
+      "question": "Who goes first in DEX Order?",
+      "answer": "Highest ranked individuals",
+      "rating": 9
+    },
+    {
+      "question": "What is the highest level of success required to win in a Fight Back roll?",
+      "answer": "Highest level of success",
+      "rating": 9
+    },
+    {
+      "question": "What happens if both the attacker and defender fail in a DEX order roll?",
+      "answer": "No damage is inflicted.",
+      "rating": 8
+    },
+    {
+      "question": "Can combat rolls be Pushed?",
+      "answer": "No, combat rolls cannot be Pushed.",
+      "rating": 9
+    },
+    {
+      "question": "In what situation does a Maneuver resolve?",
+      "answer": "Instead of inflicting damage, apply the effect of maneuver.",
+      "rating": 8
+    },
+    {
+      "question": "What is the condition for a draw in the game?",
+      "answer": "Both characters fail to inflict damage.",
+      "rating": 8
+    },
+    {
+      "question": "Who wins in a draw?",
+      "answer": "The initiator wins.",
+      "rating": 9
+    },
+    {
+      "question": "What happens if a character is outnumbered?",
+      "answer": "All subsequent attacks on them receive 1 Bonus die.",
+      "rating": 8
+    },
+    {
+      "question": "How does a character with multiple attacks handle being outnumbered?",
+      "answer": "They can Dodge/Fight Back as many times as they have attacks before the Outnumbered rule applies.",
+      "rating": 9
+    },
+    {
+      "question": "What is the penalty for a maneuver if the initiator is smaller?",
+      "answer": "1 Penalty die for each point difference.",
+      "rating": 7
+    },
+    {
+      "question": "What is the condition for a maneuver to be impossible?",
+      "answer": "If the difference is 3 or more, Maneuver is impossible.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of Medicine on a character's hit points?",
+      "answer": "Heal 1D3 points",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of First Aid on a character's hit points?",
+      "answer": "Heal 1 point",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a character's hit points fall to zero?",
+      "answer": "The character dies",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of a Major Wound on a character's health?",
+      "answer": "The character is unconscious",
+      "rating": 8
+    },
+    {
+      "question": "How often must a character take a CON roll?",
+      "answer": "Every round, including the round after falling unconscious",
+      "rating": 10
+    },
+    {
+      "question": "What happens if a character fails a CON roll to stop dying?",
+      "answer": "The character dies",
+      "rating": 10
+    },
+    {
+      "question": "How often do players make a CON roll?",
+      "answer": "At the end of each hour.",
+      "rating": 8
+    },
+    {
+      "question": "What happens if a CON roll fails?",
+      "answer": "No healing.",
+      "rating": 7
+    },
+    {
+      "question": "What is the reward for extreme success in healing a Major Wound?",
+      "answer": "Heal 2D3 hit points and erase Major Wound.",
+      "rating": 10
+    },
+    {
+      "question": "What is the effect of a bonus die in Major Wound healing?",
+      "answer": "Heal +1D3 hit points.",
+      "rating": 9
+    },
+    {
+      "question": "How often do players make a Recovery roll?",
+      "answer": "At the end of each week.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of a penalty die in Major Wound healing?",
+      "answer": "Heal -1D3 hit points.",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the CON roll is a critical success in certain circumstances?"
+      },
+      {
+        "role": "assistant",
+        "content": "The poison's effects can be shaken off."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who goes first in DEX Order?"
+      },
+      {
+        "role": "assistant",
+        "content": "Highest ranked individuals"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest level of success required to win in a Fight Back roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Highest level of success"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both the attacker and defender fail in a DEX order roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage is inflicted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can combat rolls be Pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, combat rolls cannot be Pushed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what situation does a Maneuver resolve?"
+      },
+      {
+        "role": "assistant",
+        "content": "Instead of inflicting damage, apply the effect of maneuver."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a draw in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both characters fail to inflict damage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who wins in a draw?"
+      },
+      {
+        "role": "assistant",
+        "content": "The initiator wins."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character is outnumbered?"
+      },
+      {
+        "role": "assistant",
+        "content": "All subsequent attacks on them receive 1 Bonus die."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does a character with multiple attacks handle being outnumbered?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can Dodge/Fight Back as many times as they have attacks before the Outnumbered rule applies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for a maneuver if the initiator is smaller?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 Penalty die for each point difference."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a maneuver to be impossible?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the difference is 3 or more, Maneuver is impossible."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Medicine on a character's hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heal 1D3 points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of First Aid on a character's hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heal 1 point"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character's hit points fall to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character dies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a Major Wound on a character's health?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character is unconscious"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often must a character take a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every round, including the round after falling unconscious"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character fails a CON roll to stop dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character dies"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often do players make a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the end of each hour."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a CON roll fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "No healing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reward for extreme success in healing a Major Wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heal 2D3 hit points and erase Major Wound."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a bonus die in Major Wound healing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heal +1D3 hit points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often do players make a Recovery roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the end of each week."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a penalty die in Major Wound healing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heal -1D3 hit points."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 8.5
+  }
+}

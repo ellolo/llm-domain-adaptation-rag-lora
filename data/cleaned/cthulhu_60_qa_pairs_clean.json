@@ -1,0 +1,469 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Call of Cthulhu document outlines various skills for investigators in a fictional setting, including Dodge, Drive Auto, and Electrical Repair. Dodge allows characters to evade attacks, while Drive Auto enables them to drive vehicles safely and evade pursuers. Electrical Repair, on the other hand, enables characters to repair and reconfigure electrical equipment, including modern explosives. The skills have different difficulty levels, ranging from regular to hard, and can be pushed to increase the challenge.",
+  "qa_pairs": [
+    {
+      "question": "What is the difficulty level of the task?",
+      "answer": "Regular",
+      "rating": 8
+    },
+    {
+      "question": "What is the outcome if an investigator fails a pushed roll?",
+      "answer": "Become trapped underwater; attacked by sea creatures; suffer the bends.",
+      "rating": 9
+    },
+    {
+      "question": "What is the extreme version of the task?",
+      "answer": "Hard",
+      "rating": 7
+    },
+    {
+      "question": "What happens if an investigator fails a pushed roll in the extreme version?",
+      "answer": "Begin to understand whale-song.",
+      "rating": 8
+    },
+    {
+      "question": "What does Dodge allow a character to do in a combat round?",
+      "answer": "Allows an investigator to instinctively evade blows, thrown missiles and so forth.",
+      "rating": 9
+    },
+    {
+      "question": "Can a character use Dodge more than once in a combat round?",
+      "answer": "A character may attempt to use dodge any number of times in a combat round (but only once against a specific attack).",
+      "rating": 8
+    },
+    {
+      "question": "Can Dodge be increased through experience?",
+      "answer": "Dodge can increase through experience, like other skills.",
+      "rating": 8
+    },
+    {
+      "question": "What is the difficulty level for the Dodge skill in combat?",
+      "answer": "No difficulty level is set.",
+      "rating": 6
+    },
+    {
+      "question": "Is the Dodge skill applicable to ordinary maneuvers?",
+      "answer": "no, it's mostly used in combat",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary use of the Dodge skill?",
+      "answer": "It is used in combat as part of an opposed roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary difficulty level for a Drive roll to successfully weave through light traffic at speed to avoid pursuit?",
+      "answer": "Regular difficulty",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of the Drive skill on ordinary vehicle problems?",
+      "answer": "can cope with ordinary vehicle problems",
+      "rating": 7
+    },
+    {
+      "question": "What is the main purpose of the Dodge skill?",
+      "answer": "It is used in combat as part of an opposed roll.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difficulty level for a successful weave through light traffic?",
+      "answer": "Regular difficulty.",
+      "rating": 8
+    },
+    {
+      "question": "What is the opposing skill for the Inuit culture?",
+      "answer": "Drive Dogsled.",
+      "rating": 6
+    },
+    {
+      "question": "What is the difficulty level for a successful weave through heavy traffic?",
+      "answer": "Hard difficulty.",
+      "rating": 9
+    },
+    {
+      "question": "What are the consequences of failing a pushed roll?",
+      "answer": "crashing; skidding to a halt, unable to proceed; being pursued by the police.",
+      "rating": 9
+    },
+    {
+      "question": "What does the Electrical Repair skill enable the investigator to do?",
+      "answer": "repair or reconfigure electrical equipment, such as auto ignitions, electric motors, fuse boxes, and burglar alarms.",
+      "rating": 8
+    },
+    {
+      "question": "What does the Electrical Repair skill have to do with the present day?",
+      "answer": "This skill has little to do with Electronics.",
+      "rating": 7
+    },
+    {
+      "question": "What skills were needed for jobs in the 1920s?",
+      "answer": "Mechanical Repair in combination with Electrical Repair.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary use of Electrical Repair in the present day?",
+      "answer": "little to do with Electronics",
+      "rating": 6
+    },
+    {
+      "question": "What is the difference in difficulty level between regular and hard Electrical Repair?",
+      "answer": "regular: repairing or creating a standard electrical device, hard: repairing something that is badly damaged; working without the proper tools",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a modern explosive that may require the Electrical Repair skill?",
+      "answer": "blasting caps, C-4 plastic explosives, and mines",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary challenge of defusing explosives?",
+      "answer": "they may be fitted with anti-tamper mechanisms",
+      "rating": 7
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if an investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Become trapped underwater; attacked by sea creatures; suffer the bends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the extreme version of the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll in the extreme version?"
+      },
+      {
+        "role": "assistant",
+        "content": "Begin to understand whale-song."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Dodge allow a character to do in a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allows an investigator to instinctively evade blows, thrown missiles and so forth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can a character use Dodge more than once in a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character may attempt to use dodge any number of times in a combat round (but only once against a specific attack)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can Dodge be increased through experience?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dodge can increase through experience, like other skills."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for the Dodge skill in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "No difficulty level is set."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the Dodge skill applicable to ordinary maneuvers?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, it's mostly used in combat"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary use of the Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is used in combat as part of an opposed roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary difficulty level for a Drive roll to successfully weave through light traffic at speed to avoid pursuit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Drive skill on ordinary vehicle problems?"
+      },
+      {
+        "role": "assistant",
+        "content": "can cope with ordinary vehicle problems"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is used in combat as part of an opposed roll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a successful weave through light traffic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the opposing skill for the Inuit culture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Drive Dogsled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a successful weave through heavy traffic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "crashing; skidding to a halt, unable to proceed; being pursued by the police."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Electrical Repair skill enable the investigator to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "repair or reconfigure electrical equipment, such as auto ignitions, electric motors, fuse boxes, and burglar alarms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the Electrical Repair skill have to do with the present day?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill has little to do with Electronics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills were needed for jobs in the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mechanical Repair in combination with Electrical Repair."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary use of Electrical Repair in the present day?"
+      },
+      {
+        "role": "assistant",
+        "content": "little to do with Electronics"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference in difficulty level between regular and hard Electrical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "regular: repairing or creating a standard electrical device, hard: repairing something that is badly damaged; working without the proper tools"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a modern explosive that may require the Electrical Repair skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "blasting caps, C-4 plastic explosives, and mines"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary challenge of defusing explosives?"
+      },
+      {
+        "role": "assistant",
+        "content": "they may be fitted with anti-tamper mechanisms"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 24,
+    "retention_rate": 1.0,
+    "avg_score": 7.9
+  }
+}

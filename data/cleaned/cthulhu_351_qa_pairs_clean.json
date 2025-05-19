@@ -1,0 +1,374 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Mi-go are a pan-dimensional, otherworldly species that resemble fungi, with brain-like heads that can change colors to communicate. They are able to fly through the interstellar aether on their great wings, but are clumsy in Earth's atmosphere. The Mi-go are inquisitive scientists, capable of advanced surgical feats and possessing special powers such as hypnosis, telepathy, and the creation of void light. They worship ancient deities like Nyarlathotep and Shub-Nigggurath, and often hire human agents to simplify their operations on Earth.",
+  "qa_pairs": [
+    {
+      "question": "What is unique about how mi-go communicate with each other?",
+      "answer": "They communicate by changing the colors of their brain-like heads.",
+      "rating": 8
+    },
+    {
+      "question": "Why can't mi-go eat terrene food?",
+      "answer": "They are unable to eat terrene food, and instead import it from other worlds.",
+      "rating": 9
+    },
+    {
+      "question": "How do mi-go fly through space?",
+      "answer": "They fly through the interstellar aether on their great wings.",
+      "rating": 7
+    },
+    {
+      "question": "What is unusual about the frequencies of the mi-go's bodies?",
+      "answer": "Their bodies resonate at unusual frequencies, possibly making them pan-dimensional beings.",
+      "rating": 8
+    },
+    {
+      "question": "What is unique about the mi-go's bodies?",
+      "answer": "Their bodies seem to resonate at unusual frequencies.",
+      "rating": 6
+    },
+    {
+      "question": "What happens to the mi-go's body after death?",
+      "answer": "It dissolves into a pool of translucent goo within a few hours.",
+      "rating": 9
+    },
+    {
+      "question": "Why can ordinary photographic plates not capture the mi-go?",
+      "answer": "Ordinary photographic plates will not take an image of the mi-go.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to the mi-go's goo after it dries out?",
+      "answer": "It leaves only an oily stain.",
+      "rating": 7
+    },
+    {
+      "question": "What happens to a mi-go after death?",
+      "answer": "It dissolves into a pool of translucent goo within a few hours.",
+      "rating": 8
+    },
+    {
+      "question": "What do mi-go worship, alongside Nyarlathotep and Shub-Niggurath?",
+      "answer": "They worship both Nyarlathotep and Shub-Niggurath, and possibly others.",
+      "rating": 7
+    },
+    {
+      "question": "What is the source of the Abominable Snowman stories?",
+      "answer": "Occasional sightings in remote places have become the source of the Abominable Snowman stories.",
+      "rating": 6
+    },
+    {
+      "question": "What happens to a mi-go when it's injured?",
+      "answer": "It can regrow or attach new limbs as needed.",
+      "rating": 9
+    },
+    {
+      "question": "What can the Mi-go attach to life-sustaining metal tubes containing human brains?",
+      "answer": "speaking, listening, and seeing devices",
+      "rating": 8
+    },
+    {
+      "question": "What can humans do to interact with the mi-go's contained brains?",
+      "answer": "Attach speaking, listening, and seeing devices to the tubes.",
+      "rating": 9
+    },
+    {
+      "question": "What effect does introducing ultra-high and ultra-low frequency tones have on humans?",
+      "answer": "Put humans into a trance state.",
+      "rating": 8
+    },
+    {
+      "question": "How far must humans be from a mi-go to resist its telepathic communication?",
+      "answer": "Within forty-feet.",
+      "rating": 8
+    },
+    {
+      "question": "How much magic point does it cost for a human to communicate telepathically with a mi-go?",
+      "answer": "1 magic point per 5 rounds.",
+      "rating": 7
+    },
+    {
+      "question": "What happens if a human is within 40 feet of a mi-go?",
+      "answer": "The human must succeed in an opposed POW roll or become incapable of action.",
+      "rating": 9
+    },
+    {
+      "question": "How much magic point does the mi-go spend for every cubic yard of blackness desired?",
+      "answer": "1 magic point",
+      "rating": 6
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about how mi-go communicate with each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "They communicate by changing the colors of their brain-like heads."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can't mi-go eat terrene food?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are unable to eat terrene food, and instead import it from other worlds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do mi-go fly through space?"
+      },
+      {
+        "role": "assistant",
+        "content": "They fly through the interstellar aether on their great wings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unusual about the frequencies of the mi-go's bodies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their bodies resonate at unusual frequencies, possibly making them pan-dimensional beings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about the mi-go's bodies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their bodies seem to resonate at unusual frequencies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the mi-go's body after death?"
+      },
+      {
+        "role": "assistant",
+        "content": "It dissolves into a pool of translucent goo within a few hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can ordinary photographic plates not capture the mi-go?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ordinary photographic plates will not take an image of the mi-go."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the mi-go's goo after it dries out?"
+      },
+      {
+        "role": "assistant",
+        "content": "It leaves only an oily stain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a mi-go after death?"
+      },
+      {
+        "role": "assistant",
+        "content": "It dissolves into a pool of translucent goo within a few hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do mi-go worship, alongside Nyarlathotep and Shub-Niggurath?"
+      },
+      {
+        "role": "assistant",
+        "content": "They worship both Nyarlathotep and Shub-Niggurath, and possibly others."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of the Abominable Snowman stories?"
+      },
+      {
+        "role": "assistant",
+        "content": "Occasional sightings in remote places have become the source of the Abominable Snowman stories."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a mi-go when it's injured?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can regrow or attach new limbs as needed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can the Mi-go attach to life-sustaining metal tubes containing human brains?"
+      },
+      {
+        "role": "assistant",
+        "content": "speaking, listening, and seeing devices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can humans do to interact with the mi-go's contained brains?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attach speaking, listening, and seeing devices to the tubes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What effect does introducing ultra-high and ultra-low frequency tones have on humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "Put humans into a trance state."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How far must humans be from a mi-go to resist its telepathic communication?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within forty-feet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much magic point does it cost for a human to communicate telepathically with a mi-go?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point per 5 rounds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a human is within 40 feet of a mi-go?"
+      },
+      {
+        "role": "assistant",
+        "content": "The human must succeed in an opposed POW roll or become incapable of action."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much magic point does the mi-go spend for every cubic yard of blackness desired?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 20,
+    "filtered": 19,
+    "retention_rate": 0.95,
+    "avg_score": 7.6
+  }
+}

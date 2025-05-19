@@ -1,0 +1,450 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document lists various phobias, including those related to objects, situations, and concepts, such as phasmophobia (fear of ghosts), potophobia (fear of alcohol), and xenophobia (fear of strangers). Additionally, it includes a list of manias, which are compulsions or obsessions with specific subjects, such as bibliomania (obsession with books) and choreomania (dancing mania). These phobias and manias can be used to create a character's backstory or personality traits in a fictional setting.",
+  "qa_pairs": [
+    {
+      "question": "What is the fear of ghosts called?",
+      "answer": "Phasmophobia",
+      "rating": 8
+    },
+    {
+      "question": "What is the fear of daylight called?",
+      "answer": "Phenogophobia",
+      "rating": 9
+    },
+    {
+      "question": "What is the fear of beards called?",
+      "answer": "Pogonophobia",
+      "rating": 7
+    },
+    {
+      "question": "What is the fear of rivers called?",
+      "answer": "Potamophobia",
+      "rating": 8
+    },
+    {
+      "question": "What is the fear of alcohol or alcoholic beverages called?",
+      "answer": "Potophobia",
+      "rating": 9
+    },
+    {
+      "question": "What is the fear of fire called?",
+      "answer": "Pyrophobia",
+      "rating": 8
+    },
+    {
+      "question": "What is the fear of magic called?",
+      "answer": "Rhabdophobia",
+      "rating": 7
+    },
+    {
+      "question": "What is the fear of darkness or the night called?",
+      "answer": "Scotophobia",
+      "rating": 9
+    },
+    {
+      "question": "What is the first mania listed in Table X?",
+      "answer": "Symmetrophobia: Fear of symmetry.",
+      "rating": 8
+    },
+    {
+      "question": "What is the fear of being buried alive or of cemeteries?",
+      "answer": "Taphephobia: Fear of being buried alive or of cemeteries.",
+      "rating": 9
+    },
+    {
+      "question": "What is the fear of bulls?",
+      "answer": "Taurophobia: Fear of bulls.",
+      "rating": 7
+    },
+    {
+      "question": "What is the fear of telephones?",
+      "answer": "Telephonophobia: Fear of telephones.",
+      "rating": 6
+    },
+    {
+      "question": "What is the fear of monsters?",
+      "answer": "Teratophobia: Fear of monsters.",
+      "rating": 8
+    },
+    {
+      "question": "What is the fear of the sea?",
+      "answer": "Thalassophobia: Fear of the sea.",
+      "rating": 9
+    },
+    {
+      "question": "What is the fear of surgical operations?",
+      "answer": "Tomophobia: Fear of surgical operations.",
+      "rating": 8
+    },
+    {
+      "question": "What is the fear of the number 13?",
+      "answer": "Triskadekaphobia: Fear of the number 13.",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the fear of the sea?",
+      "answer": "Thalassophobia",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the fear of surgical operations?",
+      "answer": "Tomophobia",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the fear of the number 13?",
+      "answer": "Triskadekaphobia",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the fear of clothing?",
+      "answer": "Vestiphobia",
+      "rating": 6
+    },
+    {
+      "question": "What is the name of the fear of the color yellow or the word \u201cyellow\u201d?",
+      "answer": "Xanthophobia",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the fear of foreign languages?",
+      "answer": "Xenoglossophobia",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the fear of strangers or foreigners?",
+      "answer": "Xenophobia",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of ghosts called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Phasmophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of daylight called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Phenogophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of beards called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pogonophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of rivers called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Potamophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of alcohol or alcoholic beverages called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Potophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of fire called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pyrophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of magic called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rhabdophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of darkness or the night called?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scotophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first mania listed in Table X?"
+      },
+      {
+        "role": "assistant",
+        "content": "Symmetrophobia: Fear of symmetry."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of being buried alive or of cemeteries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taphephobia: Fear of being buried alive or of cemeteries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of bulls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taurophobia: Fear of bulls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of telephones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Telephonophobia: Fear of telephones."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of monsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Teratophobia: Fear of monsters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of the sea?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thalassophobia: Fear of the sea."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of surgical operations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tomophobia: Fear of surgical operations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fear of the number 13?"
+      },
+      {
+        "role": "assistant",
+        "content": "Triskadekaphobia: Fear of the number 13."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fear of the sea?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thalassophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fear of surgical operations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tomophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fear of the number 13?"
+      },
+      {
+        "role": "assistant",
+        "content": "Triskadekaphobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fear of clothing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vestiphobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fear of the color yellow or the word \u201cyellow\u201d?"
+      },
+      {
+        "role": "assistant",
+        "content": "Xanthophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fear of foreign languages?"
+      },
+      {
+        "role": "assistant",
+        "content": "Xenoglossophobia"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fear of strangers or foreigners?"
+      },
+      {
+        "role": "assistant",
+        "content": "Xenophobia"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 24,
+    "filtered": 23,
+    "retention_rate": 0.96,
+    "avg_score": 7.8
+  }
+}
