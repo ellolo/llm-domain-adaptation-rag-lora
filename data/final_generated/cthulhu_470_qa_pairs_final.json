@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Damage Bonus and Damage calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage Bonus is derived by adding STR and SIZ together and referencing the total on Table 1: Damage Bonus (see page 33). Damage is calculated by subtracting hit points from the character's maximum hit points (see page 119)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are characters' actions resolved in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters' actions in a round are resolved in DEX rank order, from highest to lowest (see page 138)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines when death occurs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death occurs when First Aid (and Medicine) has failed to keep alive a character who has sustained a major wound and whose hit points are at zero, or if an amount of damage greater than the character's maximum hit points is taken in one attack (see page 123)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a more effective variant of a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deeper Magic, Deeper Version is a more effective variant of a spell (see page 242)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the order in which characters' actions are resolved in a Combat/Chase Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX rank order"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions is death inevitable?"
+      },
+      {
+        "role": "assistant",
+        "content": "When an amount of damage is greater than the character's maximum hit points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can cause a player to be presented with false information by the Keeper during a Delusion?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player being subject to hallucinations or misperceiving the situation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can the player test the situation with a Reality Check to verify the accuracy of information during a Delusion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Page 162"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Characters' actions resolved in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "in DEX rank order, from highest to lowest"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character's hit points are at zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death occurs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inevitable if an amount of damage greater than the character's maximum hit points is taken in one attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "death is inevitable"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can a player test to determine if they are being presented with false information?"
+      },
+      {
+        "role": "assistant",
+        "content": "a Reality Check"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character takes an amount of damage greater than their maximum hit in one attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Death is inevitable"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX order used for in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters act on their turn in the DEX order (highest to lowest)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of spell is Deeper Magic, Deeper Version?"
+      },
+      {
+        "role": "assistant",
+        "content": "A more effective variant of a spell"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the three difficulty levels in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular, Hard, and Extreme"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the order of DEX in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Used in combat and chases, Characters act on their turn in the DEX order (highest to lowest)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to avoid hand-to-hand and firearms attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Dodge skill roll is made when a target is aware of being fired upon"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a character to be dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character is dying when their hit points are reduced to zero and they have sustained a Major Wound"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the three difficulty levels in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are three difficulty levels: Regular, Hard, and Extreme"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main aim of Fighting Maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any use of Fighting skill with an aim other than simply inflicting harm"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character if they fail a Fumble?"
+      },
+      {
+        "role": "assistant",
+        "content": "They fail the roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a character's Fumble result if they need a roll above 50 to pass?"
+      },
+      {
+        "role": "assistant",
+        "content": "A result of 100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a character's Fumble result if they need a roll below 50 to pass?"
+      },
+      {
+        "role": "assistant",
+        "content": "A result of 96\u2013100"
+      }
+    ]
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage a vehicle inflicts when attacking?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 damage per point of build."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a vehicle's build decrease after taking damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full 10 hit points of damage decreases a vehicle\u2019s build by one point (round down)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle's build when it deals full 10 hit points of damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "A vehicle's build decreases by one point (round down)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a vehicle suffer when it deals damage to a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half (round down) of that which it delivers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a vehicle suffer more damage than the target it hit originally possessed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it cannot cause it to lose a greater amount of build points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the damage to a car when it hits a light motorcycle work?"
+      },
+      {
+        "role": "assistant",
+        "content": "The car suffers 25 points of damage itself, but the damage to the car is limited to 1 build point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a car do to a light motorcycle?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 points of damage (50 or 5D10)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fighting maneuver is a technique used to trip, push, or cause an opponent to lose control."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens as a result of a successful fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful fighting maneuver causes the same outcome as failing a skill roll for a hazard."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lost when a fighting maneuver is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 movement actions are lost."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative to losing movement actions when a fighting maneuver is successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "An amount of damage is selected from Table III: Other Forms of Damage for characters, or Table VI: Vehicular Collisions for vehicles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a character set a specific goal for a fighting maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a character can set a specific goal for a fighting maneuver, similar to regular combat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for a vehicle that is 1 build point larger than the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 penalty die is applied to the attack roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target vehicle is 3 build points larger than the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maneuver is impossible."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are applied if the target vehicle is 2 build points larger than the attacker?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 penalty dice are applied."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Harvey trying to do at the start of his turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was trying to climb a fence to escape."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Harvey's Climb roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey fails his Climb roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Climb roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey fails his Climb roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper decide to do instead of inflicting a negative outcome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides that the farmer's attack will suffice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Harvey attempt to do to the farmer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey attempts a fighting maneuver to throw the farmer over the fence."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What penalty does Harvey not take?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey does not take any additional penalty dice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What attribute is used to test if the farmer lands on his feet or his back?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX is the most appropriate attribute to test whether the farmer lands on his feet or his back."
+      }
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a falling rock onto soft swamp?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a falling rock onto grass?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a car hit at 30mph?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage rating for a speeding car?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the immediate effect of failing a CON roll in a high-speed head-on collision?"
+      },
+      {
+        "role": "assistant",
+        "content": "Splat: outright death almost certain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a successful CON roll affect damage from poisons?"
+      },
+      {
+        "role": "assistant",
+        "content": "an Extreme CON roll will halve damage from poisons."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a Hard success when a character is in a state of physical exertion?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Hard success on the CON roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to damage from poisons if a character scores an Extreme CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The damage is halved."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some symptoms of poisoning in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness, and paralysis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a poison's effects be shaken off in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, in certain circumstances, Keepers may allow a poison's effects to be shaken off if the CON roll is a critical success."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the order of a round determined in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The order is determined by the DEX roll, with a higher roll taking precedence. If the DEX roll is a failure, the previous roll is retained."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character rolls worse on a re-roll in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character retains their previous place in the order."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the default order of initiative in the system?"
+      },
+      {
+        "role": "assistant",
+        "content": "Colin, Harvey, then the cultist."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the second cultist fit into the initiative order?"
+      },
+      {
+        "role": "assistant",
+        "content": "He slots into the initiative order after the first cultist."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of success is required to re-roll initiative with a bonus die?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Hard success."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a target when it is reduced to zero hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target falls unconscious automatically."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an attack inflicts a Major Wound on a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target must make a CON roll to remain conscious."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that automatically causes a target to fall unconscious?"
+      },
+      {
+        "role": "assistant",
+        "content": "A target that is reduced to zero hit points will fall unconscious automatically."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a Hard success on Colin's initiative roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "This places him first in the order of initiative."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of a character suffering a significant lasting damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character will be knocked out."
+      }
+    ]
+  }
+]

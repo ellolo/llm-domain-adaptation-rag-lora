@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a dying character fails a Pushed Medicine roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The patient dies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be a result of an investigator failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disturbing results, possibly involving amputation or blood poisoning."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the original definition of Natural World?"
+      },
+      {
+        "role": "assistant",
+        "content": "The study of plant and animal life in its environment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How has the study of Natural World evolved over time?"
+      },
+      {
+        "role": "assistant",
+        "content": "It has long separated into a range of academic disciplines by the nineteenth century."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character fails a Pushed Medicine roll when dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "The patient dies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the original scope of the Natural World skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The study of plant and animal life in its environment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main difference between Natural World and other skills like Biology and Botany?"
+      },
+      {
+        "role": "assistant",
+        "content": "Natural World represents traditional, unscientific knowledge and personal observation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can Natural World be used for, besides a scientific understanding of the natural world?"
+      },
+      {
+        "role": "assistant",
+        "content": "Identifying species, habits, and habitats in a general way, and making educated guesses."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the traditional study of by the nineteenth century?"
+      },
+      {
+        "role": "assistant",
+        "content": "a range of academic disciplines (Biology, Botany, etc.)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Natural World, a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "the traditional (unscientific) knowledge and personal observation of farmers, fishermen, inspired amateurs, and hobbyists"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is necessary for a scientific understanding of the natural world?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biology, Botany and Zoology skills"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the opposing skill/Difficulty level of Natural World?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biology, Botany and Zoology skills"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the skills to identify species, habits, and habitats in a general way?"
+      },
+      {
+        "role": "assistant",
+        "content": "identifying species, habits, and habitats in a general way"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Natural World used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "judgment, appreciation, folk tradition, and enthusiasm"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for identifying a rare species of plant or animal?"
+      },
+      {
+        "role": "assistant",
+        "content": "hard difficulty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for remembering some common lore?"
+      },
+      {
+        "role": "assistant",
+        "content": "regular difficulty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examining the habitat, tasting the unknown mushroom or plant"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They go native and will be lost in the wilderness until friends come to their aid."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible consequence of getting the facts wrong?"
+      },
+      {
+        "role": "assistant",
+        "content": "They get the facts wrong, and instead of the wasps being repelled by your concoction of swamp mud and herbs, they are drawn to you"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator picks the wrong mushroom?"
+      },
+      {
+        "role": "assistant",
+        "content": "They pick the wrong mushroom and find themselves, hours later, walking naked towards a policeman."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of the Navigate skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Navigate allows the user to find their way in storms or clear weather, in day or at night."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can the difficulty of a Navigate roll be affected?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty of a Navigate roll can be affected by the character's familiarity with the area, with a bonus die granted if they are familiar with the area."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level for a Navigate roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty for a Navigate roll is to keep on the right route, use the sun and stars to identify compass positions, and map a small area of terrain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty level for a Navigate roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty for a Navigate roll is to head in the right direction when there is no clear route."
+      }
+    ]
+  }
+]

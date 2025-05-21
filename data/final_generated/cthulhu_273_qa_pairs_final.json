@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be described in a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "strange smells, disorienting visions, curious sounds, and disturbing sensations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a spell be compared to a recipe?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it can be compared to a cooking recipe"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many differing recipes for bread are there in ten cookbooks?"
+      },
+      {
+        "role": "assistant",
+        "content": "many differing recipes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the same for spells and tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "many differing names"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the resulting breads like?"
+      },
+      {
+        "role": "assistant",
+        "content": "The resulting breads come in all shapes, sizes, and flavors."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How similar are the specific spells in tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is a world of difference between all those bread recipes\u2014there is a world of difference between German black bread and focaccia."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the magic point cost for the Create Zombie spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The magic point cost is high (16 points)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity loss for the Create Zombie spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Sanity loss is 243"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the zombie's duration?"
+      },
+      {
+        "role": "assistant",
+        "content": "It lasts until it rots or falls to pieces."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many points is the magic point cost for the Create Zombie Spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "16 points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Sanity loss for the Create Zombie Spell work?"
+      },
+      {
+        "role": "assistant",
+        "content": "243, the chapter number, is mentioned, but the specific method of calculation is not detailed in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of providing a Quick Version of the Create Zombie Spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make the spell seem useful, but likely to cause more trouble than it is worth"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the standard Create Zombie Spell take?"
+      },
+      {
+        "role": "assistant",
+        "content": "a whole week"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the standard Create Zombie Spell subject to POW rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for the Create Zombie Spell with reduced casting time and magic point cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grey Binding"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the zombie after the casting time of the Grey Binding version?"
+      },
+      {
+        "role": "assistant",
+        "content": "it continues to rot"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the new casting time for the Grey Binding spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Grey Binding spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for this version of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grey Binding"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ]
+  }
+]

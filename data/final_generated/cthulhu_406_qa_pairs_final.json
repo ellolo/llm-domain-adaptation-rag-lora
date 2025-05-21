@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum number of animals that pack animals prefer to gather in?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8+3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for dogs?"
+      },
+      {
+        "role": "assistant",
+        "content": "-1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for horses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the different types of horses for roleplaying?"
+      },
+      {
+        "role": "assistant",
+        "content": "riding horses, draught horses, donkeys, and mules"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for mules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill covers the use of riding horses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ride skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How far can single riders and small groups cover in a day?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forty miles"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical response of horses to supernatural things?"
+      },
+      {
+        "role": "assistant",
+        "content": "Panic"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of horses are broken to ride but not much ridden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Draught horses"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical behavior of donkeys and mules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carrying burdens, not riders, or drawing wagons or carts"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended action for horses when faced with a potentially hazardous situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "to flee"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a horse?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for a horse?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the typical attacks of a horse?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting attacks: These are large animals that can kick and bite as well as buffet a lesser opponent to the ground."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average move for a horse?"
+      },
+      {
+        "role": "assistant",
+        "content": "12"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a common reaction of horses to certain situations?"
+      },
+      {
+        "role": "assistant",
+        "content": "They tend to flee."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a horse's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks per round do horses have?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of horses are capable of fighting?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the habitat of horses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grasslands and high deserts, or where humans are."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the HP of a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "23"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR value of a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage of a lion?"
+      },
+      {
+        "role": "assistant",
+        "content": "25%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the STR value of a lion on average?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ]
+  }
+]

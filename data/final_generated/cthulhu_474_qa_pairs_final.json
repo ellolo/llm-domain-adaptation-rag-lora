@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting sanity for every investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "sane"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do investigator's sanity points fluctuate?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can decline or increase"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum possible number of sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "99 minus percentiles of the Cthulhu Mythos skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll determines sanity loss?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 1D100 roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a successful sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Equal to or less than current Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines Maximum Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maximum Sanity points equal 99 minus whatever percentiles of the Cthulhu Mythos skill the investigator has."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Sanity Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Sanity Roll: A 1D100 roll. A success is equal to or less than current Sanity points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Story: See Scenario."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Skill Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Skill Roll: A 1D100 roll. See Success."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does SIZ represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR: Strength, a Characteristic. See Characteristic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the method for tracking skill improvement in the investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tick by marking the box ('tick' or 'check') next to the skill on the investigator sheet"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do skills improve in the investigator development phase?"
+      },
+      {
+        "role": "assistant",
+        "content": "In 1D10-point increments"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be ticked on the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skills"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a major wound on a character?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character may fall unconscious"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill roll can return a character to consciousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "First Aid or Medicine"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be ticked in a Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rating cannot be ticked"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Tome containing in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "knowledge of the Cthulhu Mythos"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill roll may return a character to consciousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "First Aid or Medicine"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a character to fall unconscious?"
+      },
+      {
+        "role": "assistant",
+        "content": "fail to roll equal to or under CON"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can the duration of unconsciousness be decided?"
+      },
+      {
+        "role": "assistant",
+        "content": "at the Keeper's discretion"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What edition of Call of Cthulhu these rules are intended for?"
+      },
+      {
+        "role": "assistant",
+        "content": "7th Edition"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why are the rules intended to be made compatible with 7th Edition?"
+      },
+      {
+        "role": "assistant",
+        "content": "To allow materials from all previous editions of Call of Cthulhu to be made compatible with 7th Edition using minimal effort"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why should players not be too concerned about converting existing investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average investigator has a limited life-expectancy"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What changes have been made to unify characteristics and skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are now on a comparable percentage scale"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the intention behind making skills and characteristics comparable?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make it easier to compare and make opposed rolls using a mixture of skills and characteristics"
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What types of monsters are difficult for investigators to defeat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deep ones, byakhees, dimensional shamblers, fire vampires, ghasts, ghouls, servants of Gla'aki, mi-go, moon-beasts, nightgaunts, rat-things, sand-dwellers, serpent people, insects from Shagghai, tcho-tcho, and human cultists."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why do many scenarios feature cultists, deep ones, mi-go, and ghouls?"
+      },
+      {
+        "role": "assistant",
+        "content": "They make approximately human-scale adversaries."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should investigators not do when dealing with Mythos entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Humanize them. Their goals, knowledge, and abilities should be difficult to fathom."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do Mythos entities affect investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can draw madness down upon the inquisitive investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators defeat all monsters in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, some monsters require investigators to flee or hide."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What types of monsters can investigators 'take on' in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Monsters like tcho-tcho, human cultists, and some of the other entities listed, can be 'taken on' in combat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who developed unpronounceable names for his monsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lovecraft"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the goal of Lovecraft's monster names?"
+      },
+      {
+        "role": "assistant",
+        "content": "To drive home their alien quality"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Azathoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "AZ-uh-thoth"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "sigh-AE-guh"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Nyarlathotep?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nyogtha"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Quachil Uttaus?"
+      },
+      {
+        "role": "assistant",
+        "content": "KWAH-chil oo-TAUS"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who developed unpronounceable names for his monsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lovecraft"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Azathoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "AZ-uh-thoth"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Nyarlathotep?"
+      },
+      {
+        "role": "assistant",
+        "content": "NIGH-ar-LAT-hoe-tep"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "sigh-AE-guh"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Nyogtha?"
+      },
+      {
+        "role": "assistant",
+        "content": "nee-AUG-thah"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the pronunciation of Byakhee?"
+      },
+      {
+        "role": "assistant",
+        "content": "b\u2019YAHK-ee"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the default combat skill for every monster, except a few exceptions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting skill\u2014a generic combat skill covering all manner of strikes, kicks, claws, teeth, tentacles, elbows, head butts, etc."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the term 'Fighting skill' cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "all manner of strikes, kicks, claws, teeth, tentacles, elbows, head butts"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What monsters have a different combat skill than the default 'Fighting skill'?"
+      },
+      {
+        "role": "assistant",
+        "content": "a few exceptions"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is required for monsters, except a few exceptions, when engaging in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "the generic combat skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill covers various forms of combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "covering all manner of strikes, kicks, claws, teeth, tentacles, elbows, head butts, etc."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the generic term for all types of physical attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "strikes, kicks, claws, teeth, tentacles, elbows, head butts, etc."
+      }
+    ]
+  }
+]

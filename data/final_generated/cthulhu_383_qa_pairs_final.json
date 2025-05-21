@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the build of the King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points does the King in Yellow have?"
+      },
+      {
+        "role": "assistant",
+        "content": "35"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does the King in Yellow have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the King in Yellow's razor sharp tatters?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the King in Yellow's face tentacle?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target when they stare at the King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target suffers paroxysms of fear, costing them 1D6 Sanity points per round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much magic points does the King in Yellow lose per round due to its gaze?"
+      },
+      {
+        "role": "assistant",
+        "content": "The King in Yellow loses 3 magic points per round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition required to avoid the gaze of the King in Yellow for a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target must make an Extreme POW roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type when the King in Yellow attacks with its tattered robes?"
+      },
+      {
+        "role": "assistant",
+        "content": "The damage is by razor sharp tatters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the two types of attacks the King in Yellow can use?"
+      },
+      {
+        "role": "assistant",
+        "content": "The King in Yellow can use attacks by razor sharp tatters or by face tentacle."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the effects of the Gaze of the Yellow King?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Gaze of the Yellow King induces paroxysms of fear, costing the unfortunate target 1D6 Sanity points per round while the King in Yellow focuses upon them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required to avoid the Gaze of the Yellow King for a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target must make an Extreme POW roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the effects of viewing the Yellow Sign?"
+      },
+      {
+        "role": "assistant",
+        "content": "Viewing the Yellow Sign causes 0/1D6 Sanity point loss."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be done to resist the Gaze of the Yellow King?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Gaze Target must make an Extreme POW roll to resist."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Yellow Sign on those who have seen it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Those who have seen the Yellow Sign are considered blessed and chosen."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What effect does viewing the Yellow Sign have on Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D6 Sanity point loss."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the person affected by the Yellow Sign after losing Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "They suffer terrible nightmares concerning the King in Yellow, Carcosa, and Hastur, costing a further point of Sanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required of the person who loses Sanity points after viewing the Yellow Sign?"
+      },
+      {
+        "role": "assistant",
+        "content": "They should make a Sanity roll (0/1) each night until either they succeed in the Sanity roll or madness overtakes them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the person who fails the Sanity roll after viewing the Yellow Sign?"
+      },
+      {
+        "role": "assistant",
+        "content": "Madness overtakes them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the person who has seen the Yellow Sign feel about Hastur's cults?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are considered blessed and chosen."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a person who sees the Yellow Sign after losing Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "They suffer terrible nightmares concerning the King in Yellow, Carcosa, and Hastur, costing a further point of Sanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points does it cost to see the King in Yellow with the Pallid Mask upon its face?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does it cost to see the King in Yellow without the Pallid Mask?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3/1D10 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a person who fails to make a Sanity roll after losing Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Madness overtakes them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the Lord of the Great Abyss?"
+      },
+      {
+        "role": "assistant",
+        "content": "Primal Nodens"
+      }
+    ]
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How did the text originally exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "otted down on notepaper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where was the text inserted?"
+      },
+      {
+        "role": "assistant",
+        "content": "here or there"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the text that was originally noted down?"
+      },
+      {
+        "role": "assistant",
+        "content": "the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the original form of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "inserted"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to some tomes as they grow in age?"
+      },
+      {
+        "role": "assistant",
+        "content": "They begin to possess their own 'character' as they grow in age."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do some books seem to be manifesting distinct 'personalities'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some books apparently manifest distinct 'personalities' that echo once-powerful owners, such as grand sorcerers and cult potentates."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is often found in the binding of Mythos books?"
+      },
+      {
+        "role": "assistant",
+        "content": "The binding will probably be leather, perhaps human or even that of some unworldly being."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the pages of other, nearby books when a Mythos book is present?"
+      },
+      {
+        "role": "assistant",
+        "content": "The presence of the tome causes the pages of other, nearby books to char and blacken."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the leather of the book likely to be human or unworldly?"
+      },
+      {
+        "role": "assistant",
+        "content": "human or even that of some unworldly being"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the book cause nearby books to char and blacken?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it does"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the attitude of sorcerers and cultists towards their tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "They consider the knowledge contained within their tomes to be theirs by right\u2014and not to be lightly passed to the unworthy"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why are sorcerers and cultists uninterested in the needs of posterity?"
+      },
+      {
+        "role": "assistant",
+        "content": "They intend to live forever and they consider the knowledge contained within their tomes to be theirs by right\u2014and not to be lightly passed to the unworthy"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the leather leave a slimy residue when touched?"
+      },
+      {
+        "role": "assistant",
+        "content": "No information is provided about the leather."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the book leave a musky odor wherever it has been?"
+      },
+      {
+        "role": "assistant",
+        "content": "No information is provided about the book's odor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the presence of the tome cause the pages of other, nearby books to char and blacken?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, according to the text."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Are sorcerers and cultists concerned with the needs of posterity?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they are not concerned with the needs of posterity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper supposed to do with a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper chooses the book\u2019s original language and can make up its title in that language as well."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should investigators know about a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "know the language of its composition, know what it looks and feels like, know how many Sanity points are lost in reading it, know how many Cthulhu Mythos points its comprehension adds, and be able to determine what spells (if any) can be found within it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can investigators do with a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The process of reading can be leisurely and can be suspended at any point for as long as need be."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should a new Mythos tome be treated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add a few percentiles to the Cthulhu Mythos skill reward. Treat the original edition as another edition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role when creating a new Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper chooses the book's original language and can make up its title in that language as well."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of investigators when studying a terrifying book?"
+      },
+      {
+        "role": "assistant",
+        "content": "To read the book and potentially gain access to Mythos power and energy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can Mythos tomes be considered as in the context of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A physical and mental portal to the madness of secrets beyond the reasoning of mortal man."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential effect of using Mythos tomes too freely in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unbalancing a game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of finding a Mythos tome in every direction the investigators turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making the game predictable and the challenge lessened"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can obtaining a Mythos book be in the context of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "A scenario in itself, or at least a suitably dangerous sidetrack to a campaign"
+      }
+    ]
+  }
+]

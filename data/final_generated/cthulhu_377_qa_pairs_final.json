@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where does Eihort live?"
+      },
+      {
+        "role": "assistant",
+        "content": "deep beneath England\u2019s Severn Valley"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are Eihort's known cults?"
+      },
+      {
+        "role": "assistant",
+        "content": "in the Severn Valley, particularly in the cities of Brichester and Camside"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are Eihort's Brood?"
+      },
+      {
+        "role": "assistant",
+        "content": "a group of Eihort's that have formed themselves into the simulacrum of a human"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Eihort a monstrous being?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, it is described as a monstrous being"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where does Eihort live?"
+      },
+      {
+        "role": "assistant",
+        "content": "deep beneath England\u2019s Severn Valley"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are Eihort\u2019s Brood?"
+      },
+      {
+        "role": "assistant",
+        "content": "small, globular, white grub-like or spider-like creatures"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do Eihort\u2019s Brood typically harm targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "by gnawing motionless targets to the bone"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Eihort\u2019s Brood after a certain event?"
+      },
+      {
+        "role": "assistant",
+        "content": "they will metamorphose into smaller versions of Eihort"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Brood after they are implanted in Eihort's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "Then they will metamorphose into smaller versions of Eihort and thereafter attend him."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of Eihort smashing a human captive to death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whoever answers and accepts Eihort's Bargain accepts the implantation of immature Brood into his or her body."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's sanity after accepting Eihort's Bargain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Progressively horrible and sanity-wracking dreams begin, costing 1D4 Sanity points and adding 1D3 Cthulhu Mythos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a group of Brood do to a defenseless target in 1D10 minutes?"
+      },
+      {
+        "role": "assistant",
+        "content": "In 1D10 minutes a group can do 1 hit point damage to a defenseless target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage can a group do to a defenseless target in 1D10 minutes?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hit point damage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the captive refuses Eihort in Eihort's Bargain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eihort smashes him or her to death"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How often does the Bargainer's body split open during the struggle?"
+      },
+      {
+        "role": "assistant",
+        "content": "After 1D100 months"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Bargainer at the end of the struggle?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Bargainer always dies"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Eihort regenerate hit points after being brought to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "He regenerates 3 hit points per combat round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Eihort's remains when he is brought to 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "His remains ooze into the ground."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage Eihort deals with physical attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "All physical attacks do minimum damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points is Eihort at risk of losing per roll of a 1D20?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D20"
+      }
+    ]
+  }
+]

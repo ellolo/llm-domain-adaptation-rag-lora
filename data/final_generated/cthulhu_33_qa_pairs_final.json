@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest level of intellect?"
+      },
+      {
+        "role": "assistant",
+        "content": "No intellect, unable to comprehend the world around them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "At what level is a human considered to be average in intellect?"
+      },
+      {
+        "role": "assistant",
+        "content": "50: Average human intellect."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest level of intellect attributed to a human?"
+      },
+      {
+        "role": "assistant",
+        "content": "99: Genius (Einstein, Da Vinci, Tesla, etc.). Human maximum."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "At what level of intellect does a human's mind surpass their physical form?"
+      },
+      {
+        "role": "assistant",
+        "content": "140: Beyond human intellect (e.g. Elder Things, see Chapter 14: Monsters, Beasts and Alien Gods)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the human maximum power level?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the power level of a human with an average intellect and willpower?"
+      },
+      {
+        "role": "assistant",
+        "content": "50"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the power level of a human with an iron will and strong connection to the spiritual realm?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the power level of a human with a monstrous intellect and power beyond human comprehension?"
+      },
+      {
+        "role": "assistant",
+        "content": "210+"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest magical potential for Great Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "0: Enfeebled mind, no willpower, no magical potential."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest magical potential for a human?"
+      },
+      {
+        "role": "assistant",
+        "content": "99: Human maximum."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the level of magical potential for a college graduate?"
+      },
+      {
+        "role": "assistant",
+        "content": "70: College graduate (Bachelor degree)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the highest level of magical potential for Great Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "210+: Monstrous magical potential and power beyond human comprehension (e.g. Great Cthulhu, see Chapter 14: Monsters, Beasts and Alien Gods)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many points does Harvey Walters have for his Credit Rating skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "41"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey Walters' personal interest skill point total?"
+      },
+      {
+        "role": "assistant",
+        "content": "170"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the personal description of Harvey written by his player?"
+      },
+      {
+        "role": "assistant",
+        "content": "Handsome, well-dressed and a little overweight."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who inspired Harvey's love of archaeology?"
+      },
+      {
+        "role": "assistant",
+        "content": "Uncle Theodore"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the trait associated with Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ladies' man"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where will Harvey study?"
+      },
+      {
+        "role": "assistant",
+        "content": "On the upper floor of home"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where does Harvey start his adventures?"
+      },
+      {
+        "role": "assistant",
+        "content": "Home, specifically the upper floor"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the treasured item in Harvey's study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Archaeological artifacts that belonged to his uncle"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is one of Harvey's starting gear?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lucky penny"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What would Harvey need to acquire in order to have a car among his starting gear?"
+      },
+      {
+        "role": "assistant",
+        "content": "His assets"
+      }
+    ]
+  }
+]

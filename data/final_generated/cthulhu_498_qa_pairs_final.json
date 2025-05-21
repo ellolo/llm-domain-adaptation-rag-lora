@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for an attacker smaller than the target's Build?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 penalty die for each point of difference in Build."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the difference in Build is 3 or more?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maneuver is impossible."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for the target when dodging a maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target should choose to either dodge or fight back as they would for a normal attack."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to determine the success of the maneuver if the target is dodging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll Fighting skill vs. Dodge skill, with the character performing the maneuver achieving a higher level of success winning."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if the character performing the maneuver achieves a higher level of success than the character dodging?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maneuver is successful."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the character fighting back achieves a higher level of success than the character fighting back?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maneuver fails and the opponent inflicts damage on the character performing the maneuver."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the target of an attack use a maneuver of their own?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, and they should resolve as for fighting back, but apply the effect of their maneuver instead of inflicting damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a successful maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character achieves one goal (page 105)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the character fighting back achieves a higher level of success?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maneuver fails and the opponent inflicts damage on the character performing the maneuver."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a character use a maneuver to counter an opponent's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, Resolve as for fighting back, but apply the effect of their maneuver instead of inflicting damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a successful maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful maneuver allows the character to achieve one goal (page 105)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do characters with multiple attacks per round dodge or fight back?"
+      },
+      {
+        "role": "assistant",
+        "content": "Characters and monsters that have more than one attack per round may also dodge or fight back that number of times before the bonus die is applied."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target of an attack uses a maneuver of their own?"
+      },
+      {
+        "role": "assistant",
+        "content": "The effect of their maneuver is applied instead of inflicting damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many times can a character or monster dodge or fight back in a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One time, unless the character or monster has more than one attack per round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are ranged missile attacks treated in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Like firearms, allowing the target to choose Diving for Cover."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are thrown attacks opposed in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "With the Dodge skill, in the same way as Fighting attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for fighting back against a ranged attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character may not choose the option of fighting back against a ranged (missile) or thrown weapon attack unless he or she is already within close physical proximity to the attacker (within a fifth of their DEX in feet)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Which type of thrown weapon does not apply to the rule about damage bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crossbows"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does armor affect damage received in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Armor reduces the damage received: deduct the number of armor points from the damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for escaping melee combat on a character's turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "On their turn in the order of combat, providing a character has an escape route and is not physically restrained, their action can be used to flee melee combat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the process to resolve a firearms attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a 1D100 roll and compare the result with the attacker\u2019s Firearms skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the difficulty level determined in a firearms attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level is determined by the range, with various other factors granting either penalty or bonus dice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a failure on a firearms attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A failure never deals damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of Shoot at Readied Firearms?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX + 50."
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Mist Projector?"
+      },
+      {
+        "role": "assistant",
+        "content": "272"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code range for Gate Spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "256-258"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Plutonian Drug?"
+      },
+      {
+        "role": "assistant",
+        "content": "273"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Enchant Whistle?"
+      },
+      {
+        "role": "assistant",
+        "content": "258"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Shining Trapezohedron?"
+      },
+      {
+        "role": "assistant",
+        "content": "273"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Enthrall Victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "258"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Star Stones of Mnar?"
+      },
+      {
+        "role": "assistant",
+        "content": "274"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the code for the Evil Eye?"
+      },
+      {
+        "role": "assistant",
+        "content": "258"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the first mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mental Suggestion"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the second mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Byakhee"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the third mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mindblast"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fourth mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chthonians"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fifth mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mind Exchange"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the sixth mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Colours Out of Space"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the seventh mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mind Transfer"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the eighth mythos monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crawling Ones"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ibn-Ghazi"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Powder of Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Powder"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Powder of Ibn-Ghazi abbreviated as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Powder"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Powder of Ibn-Ghazi a person or an object?"
+      },
+      {
+        "role": "assistant",
+        "content": "object"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Powder of Ibn-Ghazi related to Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "related"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the Powder of Ibn-Ghazi have any specific meaning?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Powder of Ibn-Ghazi a term commonly used?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the Powder of Ibn-Ghazi have any notable characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  }
+]

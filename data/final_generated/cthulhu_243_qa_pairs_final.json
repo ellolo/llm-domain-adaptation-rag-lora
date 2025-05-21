@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a common element shared by most linear scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "A beginning, middle, and an end"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will lack definition in a scenario without a beginning, middle, and an end?"
+      },
+      {
+        "role": "assistant",
+        "content": "Definition and has the potential to become a confusing mess"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be taken into consideration for inspiration when creating an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators' backstories"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What structure is recommended for a scenario to provide definition?"
+      },
+      {
+        "role": "assistant",
+        "content": "A beginning, middle, and an end"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of a beginning in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A beginning sets up the whole game, hooks the players' interest, sets the tone and mood, and provides an initial source of clues and leads for investigation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the middle section in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The middle is where the investigators get to pursue information, meet non-player characters, discover clues, and begin to piece together the bigger picture."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the end in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The end comes when the investigators have (more or less) discovered what's going on."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of lacking a beginning, middle, and end in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A scenario without these three will lack definition and has the potential to become a confusing mess, not only for the players, but also for the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of the beginning in a linear scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "it hooks the players\u2019 interest, sets the tone and mood, and provides an initial source of clues and leads for investigation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the most important part of constructing a plot in linear scenario design?"
+      },
+      {
+        "role": "assistant",
+        "content": "Constructing a plot is essential to good linear scenario design."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can a Keeper find inspiration for their scenario's plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "All of these can provide great inspiration: the books you\u2019ve read, films and TV you\u2019ve watched, and stories you\u2019ve been told."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a good way for a Keeper to start a Lovecraft story-based scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Changing a few names and mixing up the monsters in a particular Lovecraft story is the perfect way to start."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended source for inspiration for a Keeper's scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lovecraft stories"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a Keeper when players take a different path than expected?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may be tempted to contrive something to get the story back on its intended track"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why might players feel their contribution is of little value if they follow a preordained plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because they feel they are simply following a preordained story rather than creating their own"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended approach for running scenarios in response to players' non-linear choices?"
+      },
+      {
+        "role": "assistant",
+        "content": "Running scenarios in a non-linear way"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should novice Keepers do first?"
+      },
+      {
+        "role": "assistant",
+        "content": "Create linear stories at first"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if the players are compelled back to the Keeper's prepared plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will feel that their contribution is of little value"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should novice Keepers run scenarios as their experience and confidence grow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Moving onto non-linear scenarios"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen in a non-linear adventure?"
+      },
+      {
+        "role": "assistant",
+        "content": "The successive points may be encountered in a different order each time the scenario is played"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of scenario is being discussed?"
+      },
+      {
+        "role": "assistant",
+        "content": "a non-linear scenario"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended approach for novice Keepers?"
+      },
+      {
+        "role": "assistant",
+        "content": "create linear stories at first, moving onto non-linear scenarios as their experience and confidence grows"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen in a non-linear adventure?"
+      },
+      {
+        "role": "assistant",
+        "content": "the successive points may be encountered in a different order each time the scenario is played and various unknown endings may ultimately be reached"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of creating a sandbox?"
+      },
+      {
+        "role": "assistant",
+        "content": "to establish a 'geography' for the game wherein numerous interconnected or separate plots can be set for the investigators to discover"
+      }
+    ]
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper decide on regarding the translation of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "what gets translated, how quickly, and how accurately"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the next step after looking at the cover and determining the language?"
+      },
+      {
+        "role": "assistant",
+        "content": "making an initial reading"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the initial reading represent for the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "exposure to the fire within"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much time the Keeper wants the initial reading to take can vary from?"
+      },
+      {
+        "role": "assistant",
+        "content": "minutes, hours, days, or weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper have control over the speed of the initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "to convince the investigators or else the book baffles them"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long an initial reading can take?"
+      },
+      {
+        "role": "assistant",
+        "content": "minutes, hours, days, or weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper decide on a difficulty level for reading a book?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides based on the book's age, form, and condition"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is required to make a reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "an appropriate Language skill roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a book printed within the last century and in good condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a handwritten work, especially if it is old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's role in determining the success of a reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may choose to grant automatic success to anyone with a modicum of skill in the appropriate language."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine the difficulty level of a reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides on a difficulty level for reading the book based upon its age, form, and condition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a book printed within the last century and in good condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for an ancient, moldering tome with a mix of print and handwritten annotation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme difficulty level."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for failing the reading roll for the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity point loss 2D4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a book printed within the last century and in good condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for an ancient, moldering tome with print and handwritten annotation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential sanity point loss for reading the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks is required to complete a full study of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "32 weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos rating of the Book of Eibon?"
+      },
+      {
+        "role": "assistant",
+        "content": "33%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the full study for the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "32 weeks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the current Mythos rating for Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "33%."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper judge Harvey's reading of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper judges Harvey's reading of the book to be secondary to the plot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What difficulty level is set for the reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty level."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Sanity points after the reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey's Sanity points are reduced by a corresponding amount."
+      }
+    ]
+  }
+]

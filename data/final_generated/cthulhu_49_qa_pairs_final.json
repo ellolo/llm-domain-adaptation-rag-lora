@@ -1,0 +1,258 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What constitutes a Regular difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "a roll of equal to or below the skill value"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What constitutes a Hard difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "a roll of equal to or below half of the skill value"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the default roll difficulty level in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "equal to or below the skill value"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a Hard difficulty level in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "equal to or below half of the skill value"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the latitude for a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Actions, motivations, and events within the game."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why are the consequences of a failed pushed roll extreme?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the investigator is insane while performing a task."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of providing example consequences for pushing a skill roll while insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "The purpose is to provide ideas, and it is intended that both players and Keepers fashion their own justifications and consequences as appropriate to their games and playing styles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are combined skill rolls typically handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one dice roll is made; the result is then compared with each of the skills named."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Keeper asks for a roll against more than one skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one dice roll is made, and the result is then compared with each of the skills named."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What would a successful Spot Hidden roll allow Harvey to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful Spot Hidden would allow him to see the gun being drawn by the cultist."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does a successful Spot Hidden roll allow Harvey to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allow Harvey to see the gun being drawn by the cultist"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is required to repair the electric turbine?"
+      },
+      {
+        "role": "assistant",
+        "content": "A combined Mechanical Repair and Electrical Repair roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill would allow Harvey to see the gun being drawn by the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spot Hidden"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why was one dice roll made against both Mechanical Repair and Electrical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the item is both mechanical and electrical, requiring a combined roll to achieve the task"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of success if Harvey makes two successive rolls against two different skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "1%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level called when the performance of the skill is greatly hindered?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme difficulty level"
+      }
+    ]
+  }
+]

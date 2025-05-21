@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum credit rating for an Antiquarian?"
+      },
+      {
+        "role": "assistant",
+        "content": "30"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Antiquarian?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum credit rating for an Antiquarian?"
+      },
+      {
+        "role": "assistant",
+        "content": "70"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Antiquarian with a higher education?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum credit rating for an Artist?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Artist with a higher education?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either POW \u00d7 2 or DEX \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum credit rating for an Athlete?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the occupation skill point formula for an Athlete with a higher education?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Credit Rating for a CLERGY?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum Credit Rating for a CLERGY?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Occupation Skill Points formula for CLERGY?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Occupation Skill Points for a CRIMINAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the Occupation Skill Points formula for a CRIMINAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Occupation Skill Points for a DILETTANTE?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum Credit Rating for a DILETTANTE?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Credit Rating for a CRIMINAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for a Doctor of Medicine occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "30\u201380"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for a Doctor of Medicine occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + APP \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "0\u20135"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either APP \u00d7 2, DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "0\u20135"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for a Drifter occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 2 + either APP \u00d7 2, DEX \u00d7 2 or STR \u00d7 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the credit rating range for an Engineer occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "30\u201380"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the occupation skill points for an Engineer occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "EDU \u00d7 4"
+      }
+    ]
+  }
+]

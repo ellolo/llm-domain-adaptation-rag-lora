@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum amount of money needed to be in the clear, according to Mr. Strong?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much is Mr. Strong offering per day for everyone involved in the posse?"
+      },
+      {
+        "role": "assistant",
+        "content": "$25"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the reason for the character's job loss?"
+      },
+      {
+        "role": "assistant",
+        "content": "One misunderstanding with a client"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What has happened to the character's daughter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing mentioned in the provided text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What has the character been doing since losing his job?"
+      },
+      {
+        "role": "assistant",
+        "content": "Surviving on makeshift work"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much money the character has been throwing around?"
+      },
+      {
+        "role": "assistant",
+        "content": "An amount that could have kept the brother in his job"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why was Strong fired?"
+      },
+      {
+        "role": "assistant",
+        "content": "One misunderstanding with a client"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Strong offer in return for completing the job?"
+      },
+      {
+        "role": "assistant",
+        "content": "He'll take you back and your worries will be over"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What could the investigator gain by taking charge of the posse?"
+      },
+      {
+        "role": "assistant",
+        "content": "Becoming the team leader"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the investigator seek in return for completing the job?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reinstatement in his or her job"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why might the investigator seek reinstatement?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rather than a monetary reward, the investigator might seek to be reinstated in his or her job."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Harris to you in the past?"
+      },
+      {
+        "role": "assistant",
+        "content": "You and Sidney Harris and his gang go way back. You grew up together but you weren\u2019t friends."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How might the investigator feel about Harris now?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harris is down in the gutter."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the investigator's goal in this situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is your chance to get revenge on him, acting in the name of the law\u2026"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Keeper's note?"
+      },
+      {
+        "role": "assistant",
+        "content": "This could be interpreted either as capturing Harris and getting him back to town to face justice, or as motivation for personal revenge."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the reward offered to the players for participating?"
+      },
+      {
+        "role": "assistant",
+        "content": "A reward of 1D6 points of Sanity is also offered as an incentive to the players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the incentive offered to the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "A reward of 1D6 points of Sanity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the location of the gunfight mentioned in the briefing?"
+      },
+      {
+        "role": "assistant",
+        "content": "The edge of the forest in Bennington"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of the local gossip and news in Bennington?"
+      },
+      {
+        "role": "assistant",
+        "content": "The gunfight last night"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many escaped kidnappers are mentioned in the local gossip?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ]
+  }
+]

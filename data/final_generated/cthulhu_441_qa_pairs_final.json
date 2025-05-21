@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is involved in the countdown?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will happen if the countdown reaches zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "There will be blood"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where do the investigators start their investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The course of this scenario is determined by the investigator's actions (and therefore the player's decisions)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper in charge of deciding?"
+      },
+      {
+        "role": "assistant",
+        "content": "That's for the Keeper to decide."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the tapestry of the investigators' discoveries in the scenario's outcome?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is instead rather the tapestry of what the investigators do and what they discover that will lead to the scenario's conclusion for good or ill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What has been unleashed from the Witch Trial Papers that threatens to cause havoc and murder?"
+      },
+      {
+        "role": "assistant",
+        "content": "the same thing that killed Leiter in his locked office at the Miskatonic University, a thing that now wishes to be free"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the central idea of the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The central idea is that the outcome of the scenario depends on the tapestry of actions and discoveries of the investigators, rather than a single clue."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional factor that can be involved in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A deadline involved, as something has been unleashed from the Witch Trial Papers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where are the key facts and secrets of the mystery to be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the minds and desires of the people surrounding the death of Charles Leiter."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of the Keeper in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To become familiar with the characters' secrets and motivations, and to decide who is the culprit."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the central mystery in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The central mystery is the death of Charles Leiter and a supernatural entity that has been unleashed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators extract information from NPCs?"
+      },
+      {
+        "role": "assistant",
+        "content": "From non-player characters (NPCs)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skills do investigators need to employ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Communication skills including Fast Talk, Persuade, Charm, Intimidate, and Psychology"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What document provides more details on the supernatural entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Manifestations of Horror, page 379"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of this adventure?"
+      },
+      {
+        "role": "assistant",
+        "content": "a detailed dramatis personae\u2014a cast of characters"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill should investigators use to extract information from NPCs?"
+      },
+      {
+        "role": "assistant",
+        "content": "communication skills such as Fast Talk, Persuade, Charm, Intimidate, and Psychology"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill should Keepers revisit to help investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charm, Fast Talk, Intimidate, and Persuade skills"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can the difficulty levels for Charm, Fast Talk, Intimidate, and Persuade skills be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "page 93"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In what month does Joshua Hobbhouse, the last of his line, die a recluse?"
+      },
+      {
+        "role": "assistant",
+        "content": "February"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who successfully lobbies for control of the Hobbhouse papers and library project?"
+      },
+      {
+        "role": "assistant",
+        "content": "Professor Charles Leiter"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What institution is involved in the agreement with the Cobb family to assay and collate the Hobbhouse papers and library?"
+      },
+      {
+        "role": "assistant",
+        "content": "Miskatonic University"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for Professor Leiter needing money in late August?"
+      },
+      {
+        "role": "assistant",
+        "content": "A disastrous gambling trip"
+      }
+    ]
+  }
+]

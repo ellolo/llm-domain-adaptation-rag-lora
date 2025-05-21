@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of item was found among the investigator's late father's effects?"
+      },
+      {
+        "role": "assistant",
+        "content": "a curious silver ball"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of items are included in trait options 8, 9, and 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "a sporting item, a weapon, and a pet"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many options are available for selecting a trait?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative method for selecting a trait, besides rolling 1D10?"
+      },
+      {
+        "role": "assistant",
+        "content": "pick one of the following"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of filling in the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "to provide additional details"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a key characteristic of a hedonist?"
+      },
+      {
+        "role": "assistant",
+        "content": "life and soul of the party, entertaining drunk, live fast and die young"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a gambler's behavior?"
+      },
+      {
+        "role": "assistant",
+        "content": "poker-faced, try anything once, lives on the edge"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where do most of Lovecraft's stories take place?"
+      },
+      {
+        "role": "assistant",
+        "content": "New England"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can an investigator's birthplace influence?"
+      },
+      {
+        "role": "assistant",
+        "content": "their language, as it may be different from English"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of an investigator's cultural influence?"
+      },
+      {
+        "role": "assistant",
+        "content": "speaking French, Spanish, Navajo, or Cantonese"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the gender of the investigator on the deductions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The choice can lead to other deductions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the investigator born in Arizona?"
+      },
+      {
+        "role": "assistant",
+        "content": "One born in Arizona might have Spanish or Navajo."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the investigator's language on the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "No game penalty or advantage exists for one country or culture over another."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the investigator born in San Francisco?"
+      },
+      {
+        "role": "assistant",
+        "content": "One born in San Francisco might speak Cantonese."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the investigator born in Quebec?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator born in Quebec might learn French at infancy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is described as the best after-dinner speaker in the country?"
+      },
+      {
+        "role": "assistant",
+        "content": "the best after-dinner speaker in the country"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Everything in the story' refer to in the context of the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the investigator's key connection?"
+      },
+      {
+        "role": "assistant",
+        "content": "gives meaning to their life"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's key connection if the Keeper tries to destroy it?"
+      },
+      {
+        "role": "assistant",
+        "content": "cannot be destroyed, killed or taken away without allowing the player to save it"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What chapter provides information about Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chapter 8: Sanity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the key connection's status in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key connection cannot be destroyed, killed or taken away by the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can the key connection be affected by the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key connection can be killed, removed or destroyed by the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the Keeper to affect the key connection?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper must involve the investigator or give them the option to become involved."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must the investigator do if the key connection is affected?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator must be presented with the opportunity to make at least one dice roll to save the connection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the key connection be affected immediately?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the investigator must be presented with the opportunity to save the connection."
+      }
+    ]
+  }
+]

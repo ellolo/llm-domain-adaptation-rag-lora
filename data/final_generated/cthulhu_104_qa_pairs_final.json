@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Harvey's rolled 07 on his Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "His Credit Rating drops from 41 to 34."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much cash does Harvey receive for a Credit Rating of 34?"
+      },
+      {
+        "role": "assistant",
+        "content": "$68 cash."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the total amount of cash Harvey has after receiving the new cash?"
+      },
+      {
+        "role": "assistant",
+        "content": "$148."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators establish contacts for their investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using a dice roll, or by using a skill or characteristic such as Chemistry or Medicine."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when establishing a contact with a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful roll means the non-player character has heard of the investigator by reputation or has previously met the contact."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What factors affect the difficulty level of establishing a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "Location and proximity to home are big factors\u2014being far from home or in a sparsely populated area increases difficulty, while being home and trying to contact someone of the same profession lowers difficulty."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do players determine the success of establishing a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players make a dice roll using the appropriate skill or characteristic, applying modifiers as necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a successful roll when establishing a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful roll means either the non-player character has heard of the investigator by reputation or has previously met the contact."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some factors that increase the difficulty level of a contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "Location, being far from home or in a sparsely populated area"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should the difficulty level be adjusted if the investigator is on home ground?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should lower the difficulty level"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does establishing a contact automatically mean?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing, as the contact may not do as the investigator wishes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the investigator use if the contact refuses to comply?"
+      },
+      {
+        "role": "assistant",
+        "content": "Persuasion, fast talk, charm, or intimidation, which should be roleplayed"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do when the investigator is on their home ground trying to contact someone of the same profession?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lower the difficulty level"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper make the pushed roll out of the player's sight?"
+      },
+      {
+        "role": "assistant",
+        "content": "So the player does not know the outcome"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What could happen to the investigator if they fail the pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allow the investigator to unwittingly meet an antagonistic or unreliable contact"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is a concealed roll used when a contact's disposition is unknown?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prevent the player from knowing the outcome of the dice roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Harvey fails to establish a contact among the local press?"
+      },
+      {
+        "role": "assistant",
+        "content": "He can find no contacts."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level raised to when Harvey is a long way from home?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when Martyn Lace contacts Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "He appears helpful while trying to find out about Harvey's investigation for his own gain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What might Martyn Lace do with the information about Harvey's investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Publish the story himself, thus exposing Harvey's careful work."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who contacts Martyn Lace about Harvey's reputation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Martyn Lace's motivation for helping Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lace is curious about Harvey, and will appear helpful while trying to find out about Harvey\u2019s investigation for his own gain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What may Lace do for a reward?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lace may warn Harvey\u2019s enemies"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential outcome of Lace publishing the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "The story will expose Harvey\u2019s careful work"
+      }
+    ]
+  }
+]

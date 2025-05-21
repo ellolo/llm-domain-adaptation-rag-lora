@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of accumulated Cthulhu Mythos Skill points on the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity loss"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's option to apply to a skill or characteristic roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bonus die, rolled alongside the usual percentile dice"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when they are going insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "A bout of madness, which may be 'real time' or 'summary', depending on the situation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Build measure in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To compare physical size, strength, and durability of animate and inanimate objects"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of die should be used to determine the better result?"
+      },
+      {
+        "role": "assistant",
+        "content": "the tens die"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'real time' experience of an investigator when going insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "a bout of madness"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a measure of physical size, strength, and durability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Build"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a series of linked scenario adventures where the same group of investigators participate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Campaign"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the term for a series of linked scenario adventures in which the same group of investigators participate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Campaign"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many characteristics are rolled for each investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eight"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is derived from the eight core characteristics to determine a character's attributes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Other attributes such as Sanity, Magic Points, and Hit Points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the availability of cash to an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can Chases take place on?"
+      },
+      {
+        "role": "assistant",
+        "content": "foot or in vehicles"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the amount of money a character has available as cash or assets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of Critical?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 1D100 result of \"01\" is always a success and the best result possible"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of Cash?"
+      },
+      {
+        "role": "assistant",
+        "content": "Derived from Credit Rating, readily available to spend as and when the investigator likes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the amount of money a character has available?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Critical result in a 1D100 roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A success and the best result possible"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the creator of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "H. P. Lovecraft"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine a character's knowledge of the true gods, entities, monsters, and fiendish lore of the cosmos"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skill used to determine a character\u2019s knowledge of the true gods, entities, monsters, and fiendish lore of the cosmos (see page 61)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is damage in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks and accidents are said to \u201cdo damage\u201d\u2014that is, to create wounds or injuries"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the Damage Bonus calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Derived by adding STR and SIZ together and referencing the total on Table 1: Damage Bonus (see page 33)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of subtracting damage values from hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "To create wounds or injuries"
+      }
+    ]
+  }
+]

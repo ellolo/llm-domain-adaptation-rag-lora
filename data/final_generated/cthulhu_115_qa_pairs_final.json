@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of attacks are treated like firearms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ranged missile attacks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to oppose thrown weapons?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dodge skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Under what condition can a character fight back against a thrown or missile attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within one-fifth of the attacker's DEX in feet"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Do half of the attacker's damage bonus apply to crossbows?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, crossbows are not affected"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a character flee melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a character can use their action to flee melee combat on their turn in the order of combat, as long as they have an escape route and are not physically restrained."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does armor affect damage received?"
+      },
+      {
+        "role": "assistant",
+        "content": "Armor reduces damage received, deducting the number of armor points from damage inflicted by attacks passing through the armor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of attacks are not reduced by armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magical attacks, poison, drowning, etc. are not reduced by armor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character hits someone on the head from the rear?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hitting someone on the head from the rear would automatically succeed, unless fumbled."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does armor reduce?"
+      },
+      {
+        "role": "assistant",
+        "content": "damage received"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What types of attacks are not reduced by armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "magical attacks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when attacking someone on the head from the rear?"
+      },
+      {
+        "role": "assistant",
+        "content": "automatically succeeds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who decides when dice rolls are called for?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character attacks an unseen target from the rear?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attack would automatically succeed, unless fumbled."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's number of opponents affect combat attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character is at a disadvantage if outnumbered by the opposition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What applies to attacks made using firearms in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "No bonus die applies to attacks made using firearms."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do after a surprise attack has been resolved?"
+      },
+      {
+        "role": "assistant",
+        "content": "Switch to combat rounds as detailed below."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a character to be at a disadvantage in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "a character is outnumbered by the opposition"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can characters use firearms in situations where they are outnumbered?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, this does not apply to attacks made using firearms."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can characters with multiple attacks per round dodge or fight back that number of times before gaining a bonus die?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, characters and monsters that have more than one attack per round may also dodge or fight back that number of times"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators outnumber certain Mythos entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Note that some Mythos entities can never be outnumbered by investigators"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for characters and monsters with more than one attack per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can dodge or fight back that number of times before the bonus die is applied."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for investigators when facing Mythos entities that can never be outnumbered?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is not specified in the text."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the order of attack in combat, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Highest DEX goes first."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for resolving combat when a defender chooses to dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "The combat is resolved in DEX order."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the attacker has a higher level of success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacker wins"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when both the attacker and defender fail?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage inflicted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome when the draw occurs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Defender wins."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the attacker or defender wins?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacker wins or defender wins, respectively."
+      }
+    ]
+  }
+]

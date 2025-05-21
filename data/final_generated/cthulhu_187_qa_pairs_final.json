@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much time does the investigator spend researching a specific piece of information?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 game hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the investigator do if they fail to locate the information?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either the book does not hold the information or the reader failed to locate it"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if the investigator finds the fact?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator finds the fact or an allusion to the fact"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the investigator required to roll to find the fact?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of rolling 1D100 equal to or less than the book's Cthulhu Mythos Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator finds the fact or an allusion to the fact."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What benefits can a reader gain from conducting a full study of a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "An increase in other skills, as well as Cthulhu Mythos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can an investigator improve their skill in a language after studying a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "By gaining a skill tick for the language in which the book is written."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What types of skills can be improved as a result of reading Mythos tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the two options for increasing skill points in Mythos books?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either limited to +1D6 to +1D10 skill points per skill or awarded as a skill tick to be rolled during the next investigator development phase."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Which skills can be improved as a result of reading Mythos tomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "History, Archaeology, Anthropology, Occult, Astronomy, and other sciences like Chemistry, Biology, and Physics."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of book grants points to the Occult skill after being read?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occult book."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of reading a book that contains knowledge warranting a loss of Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "A cost of Sanity points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What defines an occult book in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occult book does not contain knowledge increasing the Cthulhu Mythos skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Sanity points if an occult book's contents warrant it?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occult book may cost Sanity points if its contents warrant it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does increasing the Cthulhu Mythos skill affect the scholar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increasing the Cthulhu Mythos skill widens the horizons of the student but chips away at mental reserves (reducing maximum Sanity points)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are spells organized in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spells are organized as packets of information, presented alphabetically in Chapter 12: Grimoire."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the 'packets of information' in the Mythos organized as?"
+      },
+      {
+        "role": "assistant",
+        "content": "spells"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does learning a Mythos spell cost Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary method of learning spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Learning from a book"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do Magic Points (MP) relate to casting spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Must be expended to cast spells"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the amount of Magic Points (MP) an investigator begins with?"
+      },
+      {
+        "role": "assistant",
+        "content": "One-fifth of their POW"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who does not begin with Magic Points equal to one-fifth of their POW?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cultists"
+      }
+    ]
+  }
+]

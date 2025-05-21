@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary skill required for forgery in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forgery skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill required to produce high-quality fake documents?"
+      },
+      {
+        "role": "assistant",
+        "content": "Adept at fine detail"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What materials are needed to create a forgery?"
+      },
+      {
+        "role": "assistant",
+        "content": "inks, grades of paper, etc."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to examine a forgery closely?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appraise skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of skills allow one to take clear pictures?"
+      },
+      {
+        "role": "assistant",
+        "content": "05%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When can the user prepare flashpowder chemicals?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 1920s"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to determine if a fake can be spotted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appraise skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill extends to cover video cameras, video playback equipment, digital photography, and digital editing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Photography"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In the present day, photography allows users to create radially different versions of an image."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In the 1920s, users were able to prepare necessary chemicals to make flashpowder."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the skill to prepare flashpowder first available?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 1920s"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is required for regular snapshots?"
+      },
+      {
+        "role": "assistant",
+        "content": "No skill roll is required"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the skill be used to detect when an image has been manipulated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, those proficient may also be able to detect when an image has been manipulated"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can the skill be used to determine?"
+      },
+      {
+        "role": "assistant",
+        "content": "The angle and position from which a photograph was taken"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can those proficient in Artillery detect when it comes to images?"
+      },
+      {
+        "role": "assistant",
+        "content": "When an image has been manipulated."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When is a skill roll required for taking photographs?"
+      },
+      {
+        "role": "assistant",
+        "content": "To achieve effective candid photographs, shots that capture fine detail\u2014especially at long range, at speed, or in low light."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill allows investigators to determine if a photograph has been tampered with or fabricated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Artillery skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What experience is required for the Artillery skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some form of military training and experience."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can the artillery skill allow an investigator to determine?"
+      },
+      {
+        "role": "assistant",
+        "content": "if a photograph has been tampered with or fabricated, as well as the angle and position from which a photograph was taken."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of training and experience is required for the artillery skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "some form of military training and experience"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of weapons are typically too large for a single person to operate?"
+      },
+      {
+        "role": "assistant",
+        "content": "weapons of this nature are too large for a single person to operate"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level of artillery vary in regular conditions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty: if the artillery is well maintained and used in favorable conditions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is considered a high difficulty level in Hard difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Poorly maintained artillery or used in a rush and/or while under fire."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is Charm used in bargaining?"
+      },
+      {
+        "role": "assistant",
+        "content": "To haggle the price of an item or service down."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Charm opposed by?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Charm or Psychology skills."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential outcome if Charm is successful in bargaining?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seller may reduce the price a little."
+      }
+    ]
+  }
+]

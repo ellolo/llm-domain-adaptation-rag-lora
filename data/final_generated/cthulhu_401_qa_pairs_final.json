@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for animated skeletons?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for animated skeletons?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many sanity points can an animated skeleton inflict?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of time a player can dodge an animated skeleton's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a player make per round against animated skeletons?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt by an animated skeleton's attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 + weapon damage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a vampire to pass the daylight hours?"
+      },
+      {
+        "role": "assistant",
+        "content": "It has to return to the soil in which it was originally buried."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character after the third bite from a vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "It dies and then becomes one of the undead."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vampire when its hit points reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "It turns into smoke or mist at the end of the round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if a stake is driven through a vampire's heart when its hit points reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is killed and reduced to ashes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of a vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage dealt by a vampire's rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "(3D6 \u00d710) or (2D6+6 \u00d75)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is a vampire killed?"
+      },
+      {
+        "role": "assistant",
+        "content": "A vampire is killed if a stake is driven through its heart when at zero hit points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for vampires?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires have an Average Damage Bonus of +1D4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the vampire's average strength?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires have an average strength of 65."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the vampire's speed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires have a species rate of MOV 10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does a vampire make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires make 1 attack per round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does a vampire drain from its victim each round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vampires drain 2D10 STR (blood) from their victim each round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for vampires?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of a vampire?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage of a vampire's fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 + 1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage of a vampire's bite attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 + special damage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of attacks a vampire can make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage chance of a vampire's dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "25% (12/5)"
+      }
+    ]
+  }
+]

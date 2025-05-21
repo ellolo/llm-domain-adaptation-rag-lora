@@ -1,0 +1,338 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Difficulty Level range?"
+      },
+      {
+        "role": "assistant",
+        "content": "54, 82, 92, 93, 112, 195"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dice, Rolling range?"
+      },
+      {
+        "role": "assistant",
+        "content": "82, 83-84, 194-195"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dice, When To Roll range?"
+      },
+      {
+        "role": "assistant",
+        "content": "82"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Disarming range?"
+      },
+      {
+        "role": "assistant",
+        "content": "106"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Disguise Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "62"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Disrupted Spell Casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "179"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Distasteful Historical Themes?"
+      },
+      {
+        "role": "assistant",
+        "content": "185"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Diving For Cover range?"
+      },
+      {
+        "role": "assistant",
+        "content": "108, 113"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Electronics?"
+      },
+      {
+        "role": "assistant",
+        "content": "63"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Equipment, Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "45, 46, 396ff"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Extreme Range?"
+      },
+      {
+        "role": "assistant",
+        "content": "112"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Extreme, Difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "55, 82-83"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Extreme, Success?"
+      },
+      {
+        "role": "assistant",
+        "content": "91, 121"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Electrical Repair Skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "63"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill code for Example of play?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the skill codes for Expenditure, Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "95-97"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the failure code in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the first term in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the second term in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Foreshadowing"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the first item listed under 'Failure' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "84"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the second item listed under 'Failure' in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "91"
+      }
+    ]
+  }
+]

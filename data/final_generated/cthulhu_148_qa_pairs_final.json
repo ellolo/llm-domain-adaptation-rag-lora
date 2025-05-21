@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the environment is unlikely to have any dangers or delays?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add a bonus die to the roll for random hazards and barriers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a group Luck roll be called at any point during the chase round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, either the Keeper or a player may call for a group Luck roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of passing a Luck roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Events unfold in the player's favor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of failing a Luck roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sudden hazard for the investigators, presented by the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Luck roll is passed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Events unfold in the player's favor"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do players and Keeper alternate in calling for Luck rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players and Keeper alternate in calling for Luck rolls for sudden hazards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for calling Luck rolls for sudden hazards?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players and Keeper should alternate in calling for Luck rolls for sudden hazards. If the players call for a Luck roll, they may not call for one again until after the Keeper has called for one."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a chase becomes too drawn out?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may decide to raise the level of difficulty of sudden hazards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who calls for the first sudden hazard in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either side may call for the first sudden hazard in a chase."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can players call for a Luck roll for a sudden hazard multiple times in a row?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, if the players call for a Luck roll for a sudden hazard, they may not call for one again until after the Keeper has called for one and vice versa."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for Pedal to the Metal when spending a movement action to move a vehicle forward?"
+      },
+      {
+        "role": "assistant",
+        "content": "The vehicle can accelerate and move between 2 and 5 locations for the same cost of 1 movement action."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who moves first in the round in a chase where Harvey has the higher DEX?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey moves first in the round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many locations can a vehicle accelerate and move for the same cost of 1 movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 and 5 locations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many consecutive clear locations did the Keeper roll to determine what locations Harvey can see?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of the hazard rolled by the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What event occurs right in front of the police car after Harvey moves?"
+      },
+      {
+        "role": "assistant",
+        "content": "A delivery truck pulls out in front of the police car without looking."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many locations does Harvey move with his 1 movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of Harvey's player in the Luck roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Win"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Keeper in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is trying to throw something in Harvey's way as he accelerates down the open road."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the police car after the Keeper chooses a 'minor incident'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The police car loses 1 (1D3) build point and 2 (1D3) movement actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of the police car owing 1 movement action at the end of its turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "The police car will have 1 movement action left for its next turn."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the police car's Drive Auto roll for P2 at Regular difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "The police car fails its Drive Auto roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many build points does the police car lose?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does the police car owe at the end of its turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions will reduce the police car's number of actions next round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is mentioned in a note to the car's marker on the Keeper's track?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hazards: truck"
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Lifestealer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lifestealer"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Lord Wotziznutz?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lord Wotziznutz"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Lord Nightwinter?"
+      },
+      {
+        "role": "assistant",
+        "content": "LordNightwinter"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Lord Clam of Crowton?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lord Clam of Crowton"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Landi Garcia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Landi"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Lara and Cassie Johnson?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lara and Cassie"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Lawrence and Johan Van Haecke?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lawrence and Johan"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first name of the character Lorenzo Favilli?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lorenzo"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the person with the nickname 'MadBeardMan'?"
+      },
+      {
+        "role": "assistant",
+        "content": "MadBeardMan"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the person with the nickname 'Luke Zaphir'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Luke Zaphir"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the person with the nickname 'Lukos'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Luca 'Lukos' Carnevale"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the person with the nickname 'Lynne Shandley'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lynne Shandley"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the person with the nickname 'Magus'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the person with the nickname 'Mairi White'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mairi White"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the person with the nickname 'Magnus'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magnus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the person with the nickname 'Magnus Nordlander'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magnus Nordlander"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who are some of the people named Mark in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mark McPheron, Mark Mohrfield, Mark Morrison, Mark Pavlou, Mark Plummer, Mark Rein\u2022Hagen, Mark Rinna, Mark Robertson, Mark S, Mark Schumann, Mark Smith, Mark Snyder, Mark Sweetman, Mark W\ufffd Bruce, Mark W\ufffd H\ufffd Lambe, Mark Warden, Mark Woolley"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Maria Ey\ufffd Luihn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maria Ey\ufffd Luihn"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Marcus 'NerdFlyer' Luft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marcus 'NerdFlyer' Luft"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Marek Szkaradek?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marek Szkaradek"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Marco Andre Mezzasalma?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marco Andre Mezzasalma"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Marco Pennetta?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marco Pennetta"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Marek Jonck?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marcos Jonck"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Marcos Paulo Hauer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marcos Paulo Hauer"
+      }
+    ]
+  }
+]

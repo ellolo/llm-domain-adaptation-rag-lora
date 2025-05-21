@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some common motivations for investigators to connect with the plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employment, A social connection, Personal gain, Altruism, Moral code"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is the investigator's background important?"
+      },
+      {
+        "role": "assistant",
+        "content": "To help build their characters and define their connections to the world"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the initial backstory written by the players in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The initial backstory written by the players serves to build their characters and define their connections to the world."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who controls the non-player characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper controls everyone else in the world, known as non-player characters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of connections should the players try to establish in their backstory entries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Try to word backstory entries in a way that might push the character to pursue the Mythos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the Necronomicon in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The answer must lie in the Necronomicon."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should character backstory entries aim to achieve in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Provide connections between that character and the Mythos, especially those that are the result of madness."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can non-player characters (NPCs) be introduced into the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "In a number of ways, such as suggested by the players when making their investigators."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What drives an investigator to pursue the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "An insatiable appetite for knowledge that man was not meant to know."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators interact with other characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players control their investigators, while the Keeper controls everyone else in the world, known as non-player characters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where do investigators often find information about other characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "By referring to the investigators' backstories."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who controls the non-player characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper controls everyone else in the world, known as non-player characters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of non-player characters in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators will encounter non-player characters in every location."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators create their own non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, investigators may need to come up with skills and characteristics for improvised non-player characters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When are skills and characteristics required for non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skills and characteristics are required if the non-player character is opposing an investigator in some way."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators often just play the interaction without skills or characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, often you can just play the interaction without concern for any skill values or numbers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of coming up with skills and characteristics for non-player characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "To require skills or characteristics for non-player characters if they are opposing an investigator in some way."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to determine the difficulty level for a skill roll versus a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "By considering the skill or characteristic being used in opposition by the non-player character."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for determining the difficulty level if a skill or characteristic directly relates to the non-player character's profession?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level should be Hard if it directly relates to the non-player character's profession."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to rate a skill or characteristic if it directly relates to the non-player character's profession?"
+      },
+      {
+        "role": "assistant",
+        "content": "It should be rated at 50% or higher."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the criteria for a skill or characteristic to be rated at 50% or higher?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the skill or characteristic directly relates to the non-player character\u2019s profession"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a roll when the Keeper figures the opposing factor would be the Spot Hidden skill of the approaching non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the situation where the Keeper asks for a Stealth roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Walter is creeping about in an old mansion when he hears someone coming and wants to hide"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the profession of the non-player character that Walter is hiding from?"
+      },
+      {
+        "role": "assistant",
+        "content": "A maid"
+      }
+    ]
+  }
+]

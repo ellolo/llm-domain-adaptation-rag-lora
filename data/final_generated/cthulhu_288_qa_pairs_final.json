@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of creating a zombie in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "16 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to cast the ritual to create a zombie?"
+      },
+      {
+        "role": "assistant",
+        "content": "A week"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must be done to a corpse to create a zombie?"
+      },
+      {
+        "role": "assistant",
+        "content": "A ritual liquid must be poured over or into the corpse"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of tasks will a zombie created through this ritual perform?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mundane and simple tasks, such as guarding, fetching, or killing"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a zombie created through this ritual after it has risen?"
+      },
+      {
+        "role": "assistant",
+        "content": "It continues to rot"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of a zombie created by this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The zombie will perform mundane and simple tasks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why must a wizard periodically create replacements for a zombie created by this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "A zombie created in this manner continues to rot after it has risen"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can statistics for zombies be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chapter 16: Monsters, Beasts and Alien Gods"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting this spell in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time for this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's skin during the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim perceives that their skin is visibly rotting and corrupting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points does the victim lose during the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim loses 1D10 Sanity points in the process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll must be made for the spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed INT roll must be made between the caster and target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What penalty is imposed on the target if the spell is cast at night while the target is sleeping?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die is imposed on the target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the entire cycle of the spell's effect take?"
+      },
+      {
+        "role": "assistant",
+        "content": "The entire cycle of effect takes about twenty minutes, including the faint."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim after fainting?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim awakens in a few minutes, whole and normal."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the entire cycle of effect take?"
+      },
+      {
+        "role": "assistant",
+        "content": "About twenty minutes, including the faint."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must the caster have to cast the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some personal object belonging to the target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's Sanity loss after a successful Psychoanalysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restores half of each such Sanity loss."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative name for the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Insidious Nightmare."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a devastating experience in the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The experience of the spell"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points does the barrier provide per participant?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the spherical shape of the barrier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spherical"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the resulting barrier last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4+4 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a creature bisected by the barrier's boundary?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unharmed and thrust outside the barrier"
+      }
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What action does Harvey take to get rid of the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "He pushes the cultist in front of the train using the briefcase."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey's Fighting (Brawl) skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Hard success, with a roll of 08."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the cultist's Fighting (Brawl) skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Regular success, with a roll of 23."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What effect does Harvey's lower Build have on his Fighting (Brawl) skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "He takes one penalty die, which cancels out the bonus die awarded by the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What cancels out the bonus die awarded by the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "This cancels out the bonus die awarded by the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was rolled for Harvey\u2019s Fighting (Brawl) skill\u2014a Hard success?"
+      },
+      {
+        "role": "assistant",
+        "content": "08"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was rolled for the cultist\u2019s Fighting (Brawl) skill\u2014a Regular success?"
+      },
+      {
+        "role": "assistant",
+        "content": "23"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a 5-point armor example?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the total damage Harvey inflicts on the deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much natural armor does the deep one have?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the passage about firearms?"
+      },
+      {
+        "role": "assistant",
+        "content": "H. P. Lovecraft"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the method to resolve a firearms attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a 1D100 roll and compare the result with the attacker's Firearms skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the total damage of Harvey's strike?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the statement about being not a murderer?"
+      },
+      {
+        "role": "assistant",
+        "content": "H. P. Lovecraft"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a firearms attack roll compare to the attacker's Firearms skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll and compare the result with the attacker's Firearms skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the DEX order priority for firearms attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX + 50"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of a firearms skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The range of the firearms skill roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a roll at very long range if it's not an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "An impale occurs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level change for a firearms skill roll at long range?"
+      },
+      {
+        "role": "assistant",
+        "content": "It increases by one step"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for an impale to occur at very long range?"
+      },
+      {
+        "role": "assistant",
+        "content": "A critical hit (roll of 01)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for firearms within the base range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty level."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level change when the range is doubled?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increases by one step."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for an impale to occur at very long range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only with a critical hit (a roll of 01)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do modifiers affect the difficulty level of a firearms attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either a bonus die or a penalty die are used."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range difficulty level for firearms attacks in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a firearms attack at long range in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum range for an Extreme difficulty level in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Four times the base range"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for an impale to occur at very long range in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "A critical hit (a roll of 01) is required when only an Extreme success will hit the target"
+      }
+    ]
+  }
+]

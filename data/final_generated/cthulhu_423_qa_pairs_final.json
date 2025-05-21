@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of seeing the torn-up corpse for those not accustomed to the sight of death?"
+      },
+      {
+        "role": "assistant",
+        "content": "0/1D3 SAN"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What wound is on the male body?"
+      },
+      {
+        "role": "assistant",
+        "content": "A knife wound to his side"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will determine how the male body bled out?"
+      },
+      {
+        "role": "assistant",
+        "content": "Medicine or First Aid rolls"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the investigators decide to do next?"
+      },
+      {
+        "role": "assistant",
+        "content": "Follow the trail made by the dead man back to its origin"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What event determines the investigators' movements for the day?"
+      },
+      {
+        "role": "assistant",
+        "content": "Medicine or First Aid rolls will determine he bled out steadily for the last day or so before finally collapsing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What event do the investigators need to make a Tracking roll for if they decide to follow the dead man's tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Those deciding to follow the dead man\u2019s tracks will need to make a Tracking roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigators encounter the remaining events of Day 2 before or after they come upon the camp?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is at the Keeper\u2019s discretion whether the investigators encounter the remaining events of Day 2 before or after they come upon the camp."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is relatively easy for the investigators to find on Day 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "Finding a clearing in which to set up camp is relatively easy this far into the forest."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who has the discretion to determine when the investigators encounter the remaining events of Day 2?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the danger the investigators may face in the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Danger is ever-present"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main concern of the Keeper for the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should imply that danger is ever-present."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators who fail a POW roll during the night?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are susceptible to Gla'aki\u2019s Dream Call."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What action should be taken for investigators who fail a POW roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They should be given a randomly selected Dream Call Handout."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a Sanity roll for investigators affected by a Dream Call?"
+      },
+      {
+        "role": "assistant",
+        "content": "To apply the Sanity point loss as noted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the procedure for investigators who fail a skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may persevere, with the consequence of failing a pushed roll being derived from the situation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who decides if a pushed roll is warranted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper, as part of the players' explanation of their investigator's actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be considered when reflecting on an investigator's backstory?"
+      },
+      {
+        "role": "assistant",
+        "content": "Weaving some aspect of an investigator's backstory into their dream."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should the consequence of failing a pushed roll be determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "From the situation, with suggestions provided by the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the context in which a pushed skill roll is considered?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the investigators are not willing to give up after having failed a skill roll, they may persevere."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should the consequence of failing a pushed roll be determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "The consequence should always be derived from the situation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to the investigators if they fail a pushed roll in the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "They might inadvertently stumble upon a lone black bear and rile it with their appearance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can the information about a lone black bear be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Chapter 14: Monsters, Beasts, and Alien Gods, page 336 (Bear, Monster, Beast, and Alien Gods entry)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is one consequence of failing to push rolls in the forest?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators are attacked by a lone black bear."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do another posse and the investigators interact?"
+      },
+      {
+        "role": "assistant",
+        "content": "They take potshots at each other, believing them to be kidnappers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is happening when the investigators set up camp or take a rest break?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are being approached by an oncoming truck."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the investigators' goal when they are woken up by the truck?"
+      },
+      {
+        "role": "assistant",
+        "content": "To clear their equipment from the path of the truck."
+      }
+    ]
+  }
+]

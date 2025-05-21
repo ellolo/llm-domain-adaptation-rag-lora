@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the abbreviation for man?"
+      },
+      {
+        "role": "assistant",
+        "content": "SAN"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible rolls of a single six-sided die?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6, 2D6, 3D6, 4D6, 5D6, 6D6, 1D8, 2D8, 3D8, 4D8, 5D8, 6D8, 1D10, 2D10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible rolls of a single four-sided die?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4, 2D4, 3D4, 4D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible rolls of a single eight-sided die?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8, 2D8, 3D8, 4D8, 5D8, 6D8, 7D8, 8D8"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the abbreviation for critical marks?"
+      },
+      {
+        "role": "assistant",
+        "content": "CMI"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the abbreviation for fancy marks?"
+      },
+      {
+        "role": "assistant",
+        "content": "CMF"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible rolls of a single six-sided die?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6, 2D6, 3D6, 4D6, 5D6, 6D6, 1D8, 2D8, 3D8, 4D8, 5D8, 6D8, 1D10, 2D10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the possible rolls of a single eight-sided die?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8, 2D8, 3D8, 4D8, 5D8, 6D8, 7D8, 8D8"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the abbreviation for regular marks?"
+      },
+      {
+        "role": "assistant",
+        "content": "MR"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tomes of Eldritch Lore"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What language is the book predominantly written in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the book written?"
+      },
+      {
+        "role": "assistant",
+        "content": "Date not specified in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the author of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks are required for a full study of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum number of Cthulhu Mythos skill points gained from the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "MR\u2014Mythos Rating \u2013 reader may gain maximum CMF if their Cthulhu Mythos skills points are below the book\u2019s rating (see page 175)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of Cthulhu Mythos skill points gained from an initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "CMI\u2014Cthulhu Mythos Initial \u2013 number of Cthulhu Mythos skill points gained from an initial reading."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of Cthulhu Mythos skill points gained from a full study?"
+      },
+      {
+        "role": "assistant",
+        "content": "CMF\u2014Cthulhu Mythos Full \u2013 number of Cthulhu Mythos skill points gained from a full study."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who created the Massa di Requiem?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gaston Le F\u00e9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the full name of the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Necronomicon"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the English version of the Necronomicon published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1912"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who translated the Necronomicon into French?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gaston Le F\u00e9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In what year was the Necronomicon written?"
+      },
+      {
+        "role": "assistant",
+        "content": "1598"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who translated the Necronomicon into Latin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Asaph Waite"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who translated the Necronomicon into Italian?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gustaf Johansen"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the book 'Of Evil Sorceries Done in New England'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arthur B. Winters-Hall"
+      }
+    ]
+  }
+]

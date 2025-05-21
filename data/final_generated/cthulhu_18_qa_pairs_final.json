@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who founded Arkham House Publishing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Derleth"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What star is the planet circling around?"
+      },
+      {
+        "role": "assistant",
+        "content": "unspecified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Arab poet in 'The Nameless City'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Abdul Alhazred"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the name of HPL's boyhood persona?"
+      },
+      {
+        "role": "assistant",
+        "content": "Abdul Alhazred"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the story 'The Hound' mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "1922"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Abdul Alhazred?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Arab poet mentioned in an earlier story, \u2018The Nameless City\u2019 (1921)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Lovecraft's cause of death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bright\u2019s disease and virulent cancer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How old was Lovecraft when he died?"
+      },
+      {
+        "role": "assistant",
+        "content": "46 years old."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long was Lovecraft's marriage?"
+      },
+      {
+        "role": "assistant",
+        "content": "A brief, two-year marriage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What event led to Lovecraft's return to Providence?"
+      },
+      {
+        "role": "assistant",
+        "content": "A brief, two-year marriage that proved disastrous."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When did Lovecraft die?"
+      },
+      {
+        "role": "assistant",
+        "content": "in March of 1937"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How did Lovecraft's father die?"
+      },
+      {
+        "role": "assistant",
+        "content": "in the same institution where his mother had died"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of Lovecraft's brief marriage?"
+      },
+      {
+        "role": "assistant",
+        "content": "divorce was never made final"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where did Lovecraft travel to in his later years?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maine, Philadelphia, Quebec, St. Augustine, Charlotte, New Orleans, Salem, and Nantucket"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How did Lovecraft travel during his trips?"
+      },
+      {
+        "role": "assistant",
+        "content": "by bus, sleeping in YMCAs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where did H.P. Lovecraft travel by bus?"
+      },
+      {
+        "role": "assistant",
+        "content": "He traveled by bus to places such as Maine, Philadelphia, and Quebec."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Lovecraft's preferred method of sleeping during his travels?"
+      },
+      {
+        "role": "assistant",
+        "content": "He slept in YMCAs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What food items did Lovecraft typically eat during his travels?"
+      },
+      {
+        "role": "assistant",
+        "content": "He ate crackers, cheese, and canned beans."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What health issues was Lovecraft prone to?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was predisposed to hypochondria and had a premature pose of old age."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was one of Lovecraft's dislikes?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was allergic to cold and repulsed by seafood."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who contributed the most to the Lovecraft Mythos in the 1940s and '50s?"
+      },
+      {
+        "role": "assistant",
+        "content": "August Derleth"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who added a few stories to the Lovecraft Mythos in the 1940s and '50s?"
+      },
+      {
+        "role": "assistant",
+        "content": "Robert Bloch and James Wade"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How did many respond to Lovecraft's philosophies?"
+      },
+      {
+        "role": "assistant",
+        "content": "They achieved fame far greater than their mentor ever enjoyed during his lifetime."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What mediums allow people to discover Lovecraft today?"
+      },
+      {
+        "role": "assistant",
+        "content": "His stories, through films, games, comics, or trading cards."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who initially expanded the Mythos quietly in the 1940s and '50s?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 1940s and \u201850s saw a quiet expansion of the Mythos."
+      }
+    ]
+  }
+]

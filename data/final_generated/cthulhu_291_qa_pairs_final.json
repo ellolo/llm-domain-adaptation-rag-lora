@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the target obeys the commands of the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target obeys the commands of the caster without exception until the next combat round concludes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much does the target cost to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 POW"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much does Enchant Book cost to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "variable POW; 1D4 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does Enchant Book take to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 days"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the required ink for the Summon/Bound Star Vampire spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The book's ink must contain the ichor of a star vampire."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of creating an Elder Sign?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Elder Sign costs 10 POW to create."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of an Elder Sign when made active?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Elder Sign makes a path unusable to minions of the Great Old Ones and Mythos Gods, as well as to those greater beings themselves."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster's POW when using the Summon/Bound Star Vampire spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster sacrifices a varying amount of POW, loses 1D4 Sanity points, and meditates for three days."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can an Elder Sign be formed into?"
+      },
+      {
+        "role": "assistant",
+        "content": "leaden seal, carved in rock, forged in steel, etc."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What effect does an Elder Sign have when made active beside an opening or Gate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Makes that path unusable to minions of the Great Old Ones and Mythos Gods, as well as to those greater beings themselves."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Elder Sign worthless in personal defense if a monster or minion can evade the Sign?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it is."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What protection might an individual wearing an Elder Sign around the neck gain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Protection for a few square inches of flesh where the Sign rests against the skin."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of an Elder Sign when made active beside an opening or gate?"
+      },
+      {
+        "role": "assistant",
+        "content": "It makes that path unusable to minions of the Great Old Ones and Mythos Gods, as well as to those greater beings themselves."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the limitation of an Elder Sign in personal defense?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rest of the wearer's body would be completely vulnerable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is another name for the Elder Sign?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Elder Seal, The Omen Branch, The Five Points of Wisdom."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a spell to imbue magic into a device or artifact?"
+      },
+      {
+        "role": "assistant",
+        "content": "A blood sacrifice, the sacrifice of magic points, the loss of 1D4 or more Sanity points, and at least a game day of time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Elder Sign mean without the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing and has no effect."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of wearing an Elder Sign on the neck?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rest of the wearer's body would be completely vulnerable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the spell that involves a blood sacrifice, the sacrifice of magic points, the loss of 1D4 or more Sanity points, and at least a game day of time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Enchantment Spells"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the names of the four enchanted items of permanent duration for which no spell of creation is known?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Glass from Leng, the Lamp of Alhazred, the Plutonian Drug, and the Shining Trapezohedron"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the risks associated with crafting an enchantment or an artifact?"
+      },
+      {
+        "role": "assistant",
+        "content": "The item may have unpredictable advantages and disadvantages."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the potential consequences of using an enchanted item, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "investigators to monstrous encounters, or could offer a way to another dimension."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of crafting an Enchant Knife?"
+      },
+      {
+        "role": "assistant",
+        "content": "Variable POW; 1D4 Sanity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost when crafting an Enchant Knife?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 Sanity"
+      }
+    ]
+  }
+]

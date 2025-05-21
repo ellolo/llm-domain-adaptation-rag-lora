@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for a character joining a chase as a pursuer?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character who joins a chase as a pursuer needs a MOV rate that is at least equal to the slowest fleeing character."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character joining a chase as a fleeing character has a slower MOV rate than the previously slowest member?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some adjustment is required: the number of movement actions that everyone in the chase has should be recalculated."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character leaves a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no need to recalculate speeds or movement actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the default movement action for each character in a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every character gets one movement action by default"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do characters move in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every character gets one movement action by default, plus one movement action for each point by which their MOV rate exceeds that of the new slowest participant in the chase."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character leaves a chase in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no need to recalculate speeds or movement actions when a character leaves a chase."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine a character's movement in a different mode?"
+      },
+      {
+        "role": "assistant",
+        "content": "If no alternate MOV rating is listed, the Keeper may allow the character to use half of their standard MOV, providing the mode of movement is one that the character can perform."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard movement rating for a human in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The standard movement rating for a human is 8."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for MOV rating when changing modes of movement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may allow the character to use half of their standard MOV if no alternate MOV rating is listed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's MOV change when swimming?"
+      },
+      {
+        "role": "assistant",
+        "content": "A human with MOV 8 would have MOV 4 when swimming."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's speed roll when they switch from on foot to driving a car?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character should make a fresh speed roll using Drive Auto skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's speed roll change when they become a pedestrian?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character should make a fresh speed roll using CON."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines a character's speed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their speed roll depends on whether they achieved an Extreme success on or failed their speed roll (CON) at the start of the chase."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's speed roll work when switching modes?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character should make a fresh speed roll using Drive Auto skill when switching from being on foot to driving a car, and using CON when becoming a pedestrian."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a character's speed roll affect their number of movement actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character's speed (MOV) is changed, which alters their number of movement actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many movement actions does a character have after a speed change?"
+      },
+      {
+        "role": "assistant",
+        "content": "Refer to Characters Joining a Chase in Progress (see page 142) for the specific number of movement actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What action should a character take when changing their speed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a fresh speed roll using CON."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should happen to a character's number of movement actions when their speed is changed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their number of movement actions should be altered."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is usually required to create a hazard or barrier through a character's actions during play?"
+      },
+      {
+        "role": "assistant",
+        "content": "The expenditure of a movement action (for the time required), a skill roll (to achieve it) or both."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What action might require a STR roll and a movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Moving a heavy wardrobe against a door."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required to create hazards or barriers through actions during play?"
+      },
+      {
+        "role": "assistant",
+        "content": "a movement action (for the time required), a skill roll (to achieve it) or both"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much movement action is required to pause a door with a bolt or key?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 movement action"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey fails his DEX roll to weave through the crowd?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will be slowed for 1D3 movement actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is required for Harvey to get bystanders to assist him in chasing a thief?"
+      },
+      {
+        "role": "assistant",
+        "content": "It would call for a Fast Talk or Intimidate skill roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of successfully using a gun to cause a crowd to panic?"
+      },
+      {
+        "role": "assistant",
+        "content": "The crowd presents a hazard for those following."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Harvey successfully uses a gun to cause a crowd to panic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing is mentioned, but it is stated that if he fails, the action causes more trouble than it is worth."
+      }
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary use of the Mechanical Repair skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "To open common household locks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between Mechanical Repair and Electrical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both are companion skills and may be necessary to fix complex devices"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between Regular difficulty and Hard difficulty in Mechanical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty involves repairing or creating a simple device, while Hard difficulty involves repairing a damaged device or creating a complex device with limited resources"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be a consequence of failing a Pushed roll in Mechanical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "You have broken the device beyond repair; you hurt yourself while working on the device; you become obsessed with the device and spend excessive time working on it"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can this skill be used to open?"
+      },
+      {
+        "role": "assistant",
+        "content": "common household locks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Mechanical Repair a companion skill to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Electrical Repair"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level for Mechanical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "repair or create a simple device"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "he or she fills a telephone directory-sized notepad with scribbled designs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of the Medicine skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Medicine skill diagnoses and treats accidents, injuries, diseases, poisonings, etc., and makes public health recommendations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does a Medicine treatment take a minimum?"
+      },
+      {
+        "role": "assistant",
+        "content": "A minimum of one hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's hit points after successful Medicine treatment?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 hit points (in addition to any First Aid they have received)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must be done to a dying character before a Medicine roll can be made?"
+      },
+      {
+        "role": "assistant",
+        "content": "Successful First Aid to stabilize them"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does a treatment of Medicine take?"
+      },
+      {
+        "role": "assistant",
+        "content": "a minimum of one hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's hit points after a successful Medicine treatment?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 hit points, in addition to any First Aid received"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a character receive Medicine treatment multiple times before further damage is taken?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, except in the case of a dying character"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does successful Medicine treatment do to an unconscious person?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rouse them to consciousness"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Medicine skill grant knowledge of?"
+      },
+      {
+        "role": "assistant",
+        "content": "a wide variety of drugs and potions, natural and man-made"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum time required for a successful Medicine treatment?"
+      },
+      {
+        "role": "assistant",
+        "content": "one hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Medicine is not performed on the same day as damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "the difficulty level is increased (requiring a Hard success)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recovery reward for successful Medicine treatment of Major Wounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "a Bonus die on their weekly recovery roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's power in granting success for medical treatment?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may grant automatic success for medical treatment in a contemporary, well-equipped hospital."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of diagnosing and treating standard medical ailments?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty: diagnosis and treatment of standard medical ailments, with access to equipment (at least a doctor\u2019s bag containing drugs and instruments) and a suitable environment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of pushing the limits in a medical treatment roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consulting with colleagues; conducting further research; trying something experimental or more risky; performing some form of clinical experiment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failing a Pushed Medicine roll when a character is dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the case of a dying character, if a Pushed Medicine roll is failed, the patient dies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The results will be disturbing in the extreme, perhaps involving amputations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of roll is being referred to in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "a Pushed roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What could the investigator be investigating if they fail the roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "an insane investigator"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What could be the result of the investigator failing the roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "disturbing results, perhaps involving amputations"
+      }
+    ]
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of a Contact spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some alternative names for Contact spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Union, Commune, Exchange, Commerce, Covenant, Pact, Concord, etc."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of a Contact Deity spell in terms of POW and Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 POW; 1D6 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who typically uses Contact Deity spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "insane priests of these deities, or great independent sorcerers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting a Contact Deity spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 POW; 1D6 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does casting time for a Contact Deity spell take?"
+      },
+      {
+        "role": "assistant",
+        "content": "five to ten (1D6 + 4) rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who can cast Contact Deity spells, aside from insane priests or great independent sorcerers?"
+      },
+      {
+        "role": "assistant",
+        "content": "None, as stated in the text, Contact Deity spells are unused except by the insane priests or great independent sorcerers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the deity is bored or offended during a Contact Deity spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The deity will likely squash the caster, or drive him or her insane, and get some inhuman pleasure from the situation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the deity is bored or offended in the Contact Deity: Chaugnar Faugn spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The god will likely squash the caster, or drive him or her insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Cthulhu typically respond to the caster in the Contact Deity: Cthulhu spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "By dreams and nightmares, informing his followers of his desires."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical time of night when Cthulhu responds to the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "During the caster's dreams."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the roll succeeds in the Contact Deity: Cthulhu spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthulhu typically responds at night, during the caster's dreams."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the deity inform the caster of its desires?"
+      },
+      {
+        "role": "assistant",
+        "content": "The deity sends the caster visions or nightmares."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical response time of Cthulhu to the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthulhu typically responds at night, during the caster's dreams."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Eihort spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster sacrifices 1 magic point in casting it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What compensation does Eihort extract from the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eihort extracts 5 POW in compensation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Contact spell for Eihort?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can the Contact spell for Nodens be cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "A remote, unpeopled place such as the edge of a sea-cliff"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the Contact spell for Nyarlathotep be cast from anywhere?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it can be cast from anywhere"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for Nyarlathotep to appear?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meetings of worshipers or when new priests of the Gods are anointed"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "From where can the Contact spell for Nodens be cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "A remote, unpeopled place such as the edge of a sea-cliff."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is special about casting the Contact spell for Nyarlathotep?"
+      },
+      {
+        "role": "assistant",
+        "content": "This spell can be cast from anywhere, as befits this omnipresent god."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can Tsathoggua appear in physical form?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Tsathoggua may appear in spirit form as a hazy and translucent projection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of Tsathoggua's appearance when he visits the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "He usually visits only if the caster is alone."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster's sanity when Tsathoggua appears?"
+      },
+      {
+        "role": "assistant",
+        "content": "Normal Sanity losses apply."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is contacted to open communication?"
+      },
+      {
+        "role": "assistant",
+        "content": "Y\u2019golonac."
+      }
+    ]
+  }
+]

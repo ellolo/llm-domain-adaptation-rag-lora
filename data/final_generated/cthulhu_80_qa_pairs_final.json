@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of the animal classification system?"
+      },
+      {
+        "role": "assistant",
+        "content": "to identify animal species from interaction with the environment"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of sleight of hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "visual covering-up or secreting an object"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a larger object that should be increasingly hard to conceal through sleight of hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "a larger object of any sort"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a clandestine use of a cell phone in sleight of hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "using a cell phone"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary use of Sleight of Hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "to identify animal species from interaction with the environment"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of Sleight of Hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "pick-pocketing, palming a card"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the opposing skill/Difficulty level to Sleight of Hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spot Hidden"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to adjust the difficulty level of Sleight of Hand?"
+      },
+      {
+        "role": "assistant",
+        "content": "according to the size of the task"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for small items?"
+      },
+      {
+        "role": "assistant",
+        "content": "no adjustment is required"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for items requiring 50% to 89% Spot Hidden skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for picking the pocket of someone with less than 50% Spot Hidden skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a hard difficulty trick?"
+      },
+      {
+        "role": "assistant",
+        "content": "setting up an elaborate rig inside one\u2019s jacket"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They act like a kleptomaniac."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Spot Hidden skill and its importance?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill allows the user to spot a secret door or compartment, notice a hidden intruder, find an inconspicuous clue, recognize a repainted automobile, become aware of ambushers, notice a bulging pocket, or anything similar. This is an important skill in the armory of an investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of stealing a priceless diamond?"
+      },
+      {
+        "role": "assistant",
+        "content": "You begin to notice that for the last week you have been tailed by a mysterious dark figure, and you're caught red-handed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the punishment for being caught stealing a priceless diamond?"
+      },
+      {
+        "role": "assistant",
+        "content": "You're taken out back and shown the business end of a couple of baseball bats."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character spots something briefly?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may raise the level of difficulty."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper adapt the difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level might be adapted to reflect the environment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill is used to set the difficulty level when searching for a character who is hiding?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opponent\u2019s Stealth skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can increase the difficulty level during a search for something that has been well hidden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking more time to observe the area, pulling the place apart, dismantling the furniture and smashing the porcelain statuettes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "inadver-tently drop something of your own while searching"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How will the investigator realize that you have been there?"
+      },
+      {
+        "role": "assistant",
+        "content": "the investigator will not realize this at the time"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of failing to the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "you fail to drop something of your own while searching"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to your character if you fail a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "you will fail to the task"
+      }
+    ]
+  }
+]

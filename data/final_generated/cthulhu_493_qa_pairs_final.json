@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage range for the auto firing damage in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage range for the M79 Grenade Launcher in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "3D10/2 yards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the M79 Grenade Launcher in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "$15/$75"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the common era for the Malfunction in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Malfunction in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3,000/$30,000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for the Throw skill in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+burn"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage range for the Throw skill in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10+1D3 burn"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Firearms skill in the Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "20"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the 81mm Mortar?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 yards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the 75mm Field Gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "N/A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the 120mm Tank Gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "stabilized"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many uses is the Pipe Bomb?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 only"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Molotov Cocktail?"
+      },
+      {
+        "role": "assistant",
+        "content": "N/A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Signal Handgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 yards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Dynamite Stick?"
+      },
+      {
+        "role": "assistant",
+        "content": "N/A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range for the Blasting Cap?"
+      },
+      {
+        "role": "assistant",
+        "content": "N/A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does an Anti-Personnel Mine primarily function as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of weapon is a Claymore Mine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel Mine"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of weapon is a Flamethrower?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel Mine"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of weapon is a LAW?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anti-Personnel Mine"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the Anti-Personnel Mine first developed?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Anti-Personnel Mine a modern weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modern"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How old is the Anti-Personnel Mine as a concept?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Anti-Personnel Mine an ancient weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  }
+]

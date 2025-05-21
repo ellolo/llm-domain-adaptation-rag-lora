@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper asking the players to do to gain the clue?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is offering the players a gamble, asking them to risk the negative consequences to gain the clue."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Idea roll in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Idea roll aims to reflect the balance between the Keeper giving clues out and the players taking clues in."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the clue has never been mentioned by the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "The balance must be redressed in the players' favor, and this is achieved by giving the players a strong chance of getting the clue for free."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the clue has been made obvious but was missed by the players?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players have had their chance, and thus they are owed no redress, and thus the Idea roll is set to Extreme difficulty level."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Idea roll in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Idea roll aims to reflect a balance between the players and the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the players win the Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should deliver the clue, weaving the delivery into the story."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's control over the situation during an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper has complete control of the situation and can move time or place the investigators."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper not do after a winning Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should not increase the players' level of danger as a result of the winning roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's control over the situation when an Idea roll is made?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper has complete control of the situation and can move time or place the investigators in whatever situation is judged appropriate."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why did the Keeper call for a Spot Hidden roll at the bookshop?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper called for a Spot Hidden roll to see if anyone recognized the shopkeeper, thinking it might be interesting if the investigators didn\u2019t recognize him."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of the Spot Hidden roll in the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators did not recognize the shopkeeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper not increase the investigators' level of danger as a result of a winning roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should not increase their level of danger as the result of a winning roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why did the Keeper call for a Spot Hidden roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper called for a Spot Hidden roll to see if anyone recognized the shopkeeper, thinking it might be interesting if the investigators didn't recognize him."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of the Spot Hidden roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is no result mentioned in the text, only that it was an error to call for the roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What lead does the Keeper decide to give the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides that the second-hand bookshop offers a strong link to the plot, being a key location for the cult."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What difficulty level does the Keeper assign to the Spot Hidden roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper assigns a Hard difficulty level to the Spot Hidden roll, as the players never spoke to or discussed the shopkeeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who decides what lead to give the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is the player with the highest INT given a Hard difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the players never spoke to or discussed the shop-keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the player with the highest INT roll for an Idea score?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rolls under half their Idea score\u2014a win"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the shopkeeper chatting with in the bookshop?"
+      },
+      {
+        "role": "assistant",
+        "content": "A customer he recognized from when he spied on the cult meeting"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where do the players find themselves 10 days later?"
+      },
+      {
+        "role": "assistant",
+        "content": "In a bookshop on Charing Cross Road"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why are the players in trouble if they lose the Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because they find themselves in deep trouble"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the player who recognized the shopkeeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "He hasn\u2019t spotted you"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the players' situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "To get the game moving again"
+      }
+    ]
+  }
+]

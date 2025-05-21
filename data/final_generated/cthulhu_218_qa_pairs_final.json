@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of an Idea roll in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal of an Idea roll is always \u201cto get the investigation back on track\u201d."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level for the Idea roll determine work?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper starts by figuring out which was the most important clue the players missed and uses this to set a difficulty level for the Idea roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who determines the difficulty level for the Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper determines the difficulty level for the Idea roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the outcome of an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The roll determines not if, but how they get the clue."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "to get the investigation back on track"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine the difficulty level for the Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "by figuring out the most important clue the players missed"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the attitude the Keeper should try to have when dealing with players who want to call the police?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, and\u2026"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the phone line when the Keeper says 'Yes, and\u2026'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The phone line is cut off"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Keeper says 'Yes, but\u2026'?"
+      },
+      {
+        "role": "assistant",
+        "content": "A corrupt policeman turns up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is it not a pleasing option for anyone if the Keeper says 'No'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it goes against the spirit of the game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative to a flat 'No' in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "An attitude of 'Yes, and...' or 'Yes, but...' instead of a flat 'No'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What might happen if the Keeper allows the players to call the police?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper might tell how the phone line is cut off or the police station unobtainable, or that only strange un-earthly voices can be heard on the line."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence if a policeman is corrupt and in league with the cult?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players may not get the information they need, as the Keeper has already said it is not in the spirit of the game."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do the players perceive the game world?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players' perception of the game world is formed by what you tell them; they cannot perceive what is in your head, only what you say."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Keeper never mentioned the clue?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level is Regular, requiring the player to roll equal to or less than their investigator\u2019s INT."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper inform the players about the situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper might tell how the phone line is cut off or the police station unobtainable, or that only strange un-earthly voices can be heard on the line."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Keeper in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players\u2019 perception of the game world is formed by what you tell them; they cannot perceive what is in your head, only what you say."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of a roll if the Keeper never mentioned the clue?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level is Regular, requiring the player to roll equal to or less than their investigator\u2019s INT."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level if the Keeper never mentioned the clue?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular (requiring the player to roll equal to or less than their investigator\u2019s INT)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level if the clue was definitely mentioned (but not emphasized)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the default difficulty level for an Idea roll if weeks of real world time have passed since the clue was mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level if the clue was made clear by the Keeper or the players discussed it themselves?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the default difficulty level for an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is the default difficulty level for an Idea roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions does the difficulty level of an Idea roll become Extreme?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the clue was made clear by the Keeper (i.e. mentioned several times) or the players discussed it themselves."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper make the Idea roll more difficult?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is offering the players a gamble, asking them to risk the negative consequences to gain the clue."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's intention in setting the difficulty level of an Idea roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is not trying to figure out the likelihood of the investigators realizing the clue, but rather offering the players a gamble."
+      }
+    ]
+  }
+]

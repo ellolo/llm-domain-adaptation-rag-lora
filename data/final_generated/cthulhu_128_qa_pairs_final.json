@@ -1,0 +1,258 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if First Aid is administered within one hour?"
+      },
+      {
+        "role": "assistant",
+        "content": "It grants 1 hit point recovery."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can First Aid be administered by a single character, or does it require two people?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two people can work together to administer First Aid."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum time required to treat injuries using the Medicine skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "one hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if Medicine is not performed on the same day as damage is taken?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level is increased (requiring a Hard success)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions can an exception be made when treating a dying character?"
+      },
+      {
+        "role": "assistant",
+        "content": "When treating a dying character, the best that can be achieved with First Aid is to temporarily stabilize the patient."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's hit points and a Major Wound after being reduced to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character is dying when their hit points are reduced to zero and they have also sustained a Major Wound."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if this is not performed on the same day?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty level is increased (requiring a Hard success)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required to stabilize a dying character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only the First Aid skill can be used."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character fails a CON roll at the end of a round after being stabilized with First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose the temporary hit point and revert to the start of the Dying process"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill can be used to stabilize a dying character in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "The First Aid skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a dying character fails a CON roll after being stabilized with First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lose the temporary hit point and revert to the start of the Dying process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a successful Medicine roll affect a dying character's hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "It increases hit points by 1D3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's hit points after a successful Medicine roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increase hit points by 1D3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a character's hit points after a recovery roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increase hit points by 1D3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does Harvey gain immediately after receiving medical assistance?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does Harvey need to rest to recover from regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "A week"
+      }
+    ]
+  }
+]

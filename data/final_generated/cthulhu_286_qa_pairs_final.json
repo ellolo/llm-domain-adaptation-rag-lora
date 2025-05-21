@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a successful Luck roll to establish the presence of a servitor in the Milky Way galaxy?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful Luck roll establishes that a servitor is within the Milky Way galaxy when the spell is cast."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster if the nominated sacrifice is inadequate?"
+      },
+      {
+        "role": "assistant",
+        "content": "The servitor devours the caster."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is offered by the servitor to the caster if the sacrifice is adequate?"
+      },
+      {
+        "role": "assistant",
+        "content": "The servitor agrees to perform one simple task for the caster."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a successful Persuade roll regarding the servitor's answer?"
+      },
+      {
+        "role": "assistant",
+        "content": "The answer adds 1D3 Cthulhu Mythos to the questioner\u2019s total."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the servitor accepts the sacrifice?"
+      },
+      {
+        "role": "assistant",
+        "content": "It agrees to perform one simple task for the caster."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the servitor is persuaded with a successful Persuade roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The servitor also deigns to answer one respectful question about Mighty Azathoth, the court at the center of the universe, or an Outer God."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of a spell imparted by the servitor to the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8 Sanity points and 1D10 rounds of disorientation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the servitor after its services are rendered?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may linger and play its unearthly pipes or dissolve and return to some galactic arm or stellar nursery."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a servitor to perform a task for a caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the servitor accepts the sacrifice"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a successful Persuade roll affect a servitor?"
+      },
+      {
+        "role": "assistant",
+        "content": "The servitor also deigns to answer one respectful question about Mighty Azathoth, the court at the center of the universe, or an Outer God"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a caster's Persuade skill is equal to or less than a fifth of their total skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The servitor also imparts a spell directly into the caster\u2019s brain, costing the caster 1D8 Sanity points and 1D10 rounds of disorientation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a consequence of hearing a servitor's pipes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hearing its insane and mesmerizing pipes costs 1/1D4 Sanity points and thereafter haunts every singer or instrumentalist who was present"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the servitor after its services are rendered?"
+      },
+      {
+        "role": "assistant",
+        "content": "The servitor may linger and play its unearthly pipes, or it may dissolve and return to some galactic arm or stellar nursery."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the servitor imparting a spell directly into the caster's brain?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster loses 1D8 Sanity points and 1D10 rounds of disorientation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect on the listeners of the servitor's pipes?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become indifferent to earthly scales and feel compelled to perform in the cosmic scales revealed to them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much magic points is the servitor's service worth?"
+      },
+      {
+        "role": "assistant",
+        "content": "14 magic points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for the caster to roll on 1D100 for the Contact Spirits of the Dead spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Equal to or under the result of multiplying the sum of all magic points by five"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where should the Contact Star-Spawn of Cthulhu spell be cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the ocean shore, preferably near a deep one outpost or a spot where star-spawn may sleep"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points are required for the Contact Spirits of the Dead spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 or more"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where is the Contact Star-Spawn of Cthulhu spell successful without any representatives nearby?"
+      },
+      {
+        "role": "assistant",
+        "content": "Automatically"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a cost requirement for the Contact Star-Spawn of Cthulhu spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 or more magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where does the Contact Star-Spawn of Cthulhu spell work well?"
+      },
+      {
+        "role": "assistant",
+        "content": "Along the Massachusetts coast, and above R\u2019lyeh"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a prerequisite for the Contact Yithian spell to succeed?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Yithian mind occupies a subject within one hundred miles of the caster"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost requirement for the Contact Yithian spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where does the spell 'Contact' work well?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polynesia, along the Massachusetts coast, and above R\u2019lyeh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the 'Contact' spell in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 magic points"
+      }
+    ]
+  }
+]

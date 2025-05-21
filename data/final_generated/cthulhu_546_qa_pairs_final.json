@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who are some of the authors in the list?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ivo Goudzwaard, Ivo van der Werff, Izuno Hiranari, J L Givens, J LaBossiere, J-P Spore, J\ufffd Abraham, J\ufffd Carlucci, J\ufffd Michael Bestul, J\ufffd Michael Lanaghan, J\ufffd Quincy Sperber, J\ufffdA\ufffd Maysonett, Jace Anderson, Jacek \"jacur\" Baran, Jack Berkenstock Jr\ufffd, Ryan Brothers, Jack Graham, Jack Gulick, Jack Kessler, Jack Thompson, Jackie C, Jacob Alexander, Jacob Berg, Jacob Carpenter, Jacob Dey, Jacob Galliher-Miller, Jacob Jungck, Jacob Pedersen, Jacob Trewe, Jacob TS, Jacob Wisner, Jacopo Reggiani, Jacques DuRand"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the book mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Help I am trapped in these pages"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the Horror Master Noire AKA?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alan Meranda"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the 'King in Yellow'?"
+      },
+      {
+        "role": "assistant",
+        "content": "His Majesty The King in Yellow"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is HN?"
+      },
+      {
+        "role": "assistant",
+        "content": "HN"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the 'Horror Master Noire'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Horror Master Noire AKA"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is HN?"
+      },
+      {
+        "role": "assistant",
+        "content": "HN"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Huxley Sigeau?"
+      },
+      {
+        "role": "assistant",
+        "content": "Huxley Sigeau"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Hyrum Savage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hyrum Savage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Iain Smedley?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not mentioned in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ian 'Nvision' MacLean?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ian MacLean"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ian 'Rethwellan' Kitley?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ian Kitley"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ian C\\u Plakias?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ian Plakias"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ian Chilvers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ian Chilvers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ian Cunningham?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ian Cunningham"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ian Davenport?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ian Davenport"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ian E\\u Muller?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ian Muller"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who are some of the notable individuals named Jason?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jason Hardy, Jason Hatton, Jason Kack, Jason Kapalka, Jason Latko, Jason Lee Miller, Jason Levesque, Jason Lindsey, Jason Liswood, Jason M\ufffd Black, Jason M\ufffd Brown, Jason Mical, Jason Middleton, Jason Montleon, Jason Nell, Jason Peters, Jason R\ufffd Kraft, Jason Ramboz, Jason T\ufffd DeForge, Jason Watts, Jason Wentworyj, Jason Wert, Jason Williams, Jason Withrow, Jason Woods"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the first name of one of the notable individuals?"
+      },
+      {
+        "role": "assistant",
+        "content": "JAY"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the usernames of two notable individuals?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jay 'Jthulhu' Jong, Jay 'sadfanboy' Watson"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Jay 'sadfanboy' Watson?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not mentioned in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Jayna Pavlin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not mentioned in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Jean?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not mentioned in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the first names of two notable individuals with the first name 'Jean'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jean Harrison, Jean-Fran\u00e7ois Boivin"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Jean-Fran\u00e7ois Nahas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not mentioned in the text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Jean-Fran\u00e7ois Pelletier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not mentioned in the text"
+      }
+    ]
+  }
+]

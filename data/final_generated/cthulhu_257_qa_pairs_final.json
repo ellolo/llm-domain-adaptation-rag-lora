@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where is the Black Book located?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hamburg"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Black Book rumored to be about?"
+      },
+      {
+        "role": "assistant",
+        "content": "Von Junzt's connections to various cults and secret societies"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the Black Book are known to exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Six"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a notable feature of the original edition of the Black Book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Horrific engravings by Gunther Hasse"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the book are known to be in major libraries in Europe and America?"
+      },
+      {
+        "role": "assistant",
+        "content": "Six"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the artist who created the horrific engravings for the original edition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunther Hasse"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the text published?"
+      },
+      {
+        "role": "assistant",
+        "content": "1845"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the translation are held in various collections?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least twenty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is believed to have written The King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Christopher Marlowe"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the cause of Marlowe's arrest warrant?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allegations of blasphemy for a manuscript containing 'vile heretical concepts'"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long is the study period for The King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "48 weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested Mythos Rating for The King in Yellow?"
+      },
+      {
+        "role": "assistant",
+        "content": "36"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for Marlowe's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ten days later Marlowe was stabbed by Ingram Frizer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the Italian opera score and libretto?"
+      },
+      {
+        "role": "assistant",
+        "content": "Massa di Requiem Per Shuggay"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where are copies of the Massa di Requiem Per Shuggay held?"
+      },
+      {
+        "role": "assistant",
+        "content": "Copies are held by the British Museum, the Biblioth\u00e8que Nationale in Paris, and probably the Vatican\u2019s Z-collection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What spell is cast about midway through the third act?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call Azathoth"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who stole a single folio version of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "author unknown"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Mythos Rating of the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "12"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where is a copy of the book held by the British Museum?"
+      },
+      {
+        "role": "assistant",
+        "content": "the British Museum"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many weeks is the study period for the book?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 weeks"
+      }
+    ]
+  }
+]

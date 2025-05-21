@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator represses the memory?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator does not become insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the INT roll succeeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator goes temporarily insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long do the effects of temporary insanity last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the investigator recognizing the full significance of what has been seen or experienced?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator goes temporarily insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator's INT roll succeeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator recognizes the full significance of what has been seen or experienced and goes temporarily insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does temporary insanity last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an investigator loses a fifth or more of their Sanity points in one game day?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator becomes indefinitely insane"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does indefinite insanity last?"
+      },
+      {
+        "role": "assistant",
+        "content": "Until the character is cured or recovers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper define a 'day'?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 'day' is defined by the Keeper as lasting until the investigator reaches a place of safety where they can rest and recover their wits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator when their Sanity points reach zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "When Sanity points are reduced to zero, the investigator becomes permanently and incurably insane and ceases to be a player character."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can anyone recover from insanity in the real world?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, in the real world, all insanity is considered indefinite insanity, and recovery is unlikely."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What often happens to a narrator in Lovecraft's stories after a lifetime of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lifetime of madness often follows the narrator in Lovecraft's stories."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be the outcome for a character in Lovecraft's story if they have a congenital condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Little hope of recovery"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should a Keeper work out in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The end-point of madness"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to a character who is released from an asylum?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can attempt to regain some semblance of their former life"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the narrator of the story considering doing in response to their condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Blowing out their brains for fear they shall be mangled like St John"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the first phase of insanity in the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "a short bout of madness"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the first phase of insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the second phase of insanity in the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "a longer period of underlying insanity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the second phase of insanity typically last?"
+      },
+      {
+        "role": "assistant",
+        "content": "months"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the two distinct phases of insanity in Lovecraft's The Hound?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two distinct phases of insanity: phase one (short bout of madness) and phase two (underlying insanity)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does phase one of insanity last in the case of temporary insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's control during phase one of insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The control of the investigator is handed from the player to the Keeper for a short amount of real-world time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the term for the short bout of madness experienced by the investigator during phase one?"
+      },
+      {
+        "role": "assistant",
+        "content": "The red mist, frenzy, freak out, and panic attack."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to control of the investigator during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The control of the investigator is handed from the player to the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is protected for the investigator during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator cannot lose further Sanity points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to subsequent horrors during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any subsequent horrors are either forgotten or later believed to be a manifestation of the madness."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is limited about the protection for the investigator during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The protection is limited."
+      }
+    ]
+  }
+]

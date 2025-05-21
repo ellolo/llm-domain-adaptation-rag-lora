@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Switching from one skill to another to gain a second roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skills can be used if the investigator starts to take an alternative approach?"
+      },
+      {
+        "role": "assistant",
+        "content": "A different skill to be used"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll if the investigator switches from one skill to another?"
+      },
+      {
+        "role": "assistant",
+        "content": "Still constitutes a Pushed roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if threats are used, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may become Intimidate"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator is relying on befriending the target, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may become Charm"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Pushed roll involves using persuasion, demonstration, and possibly subliminal messages to make someone receptive to your argument."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if someone fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target may take great offense, refuse to do business, or even sue the perpetrator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of someone pulling a knife on another person in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target does not like the person's big talk and pulls a knife out of nowhere."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative approach to Pushing in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "The alternative approach is to Intimidate someone, which involves using threats to gain their cooperation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of using bribery to gain someone's cooperation in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target may sign the forms, but later feel duped and hire a private eye or sue the perpetrator for malpractice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the air/water equivalent of Drive Automobile?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pilot (Specializations)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do skill rolls work for piloting air and water craft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skill rolls are required for storms, navigation by instrument, low visibility, and other difficult situations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of skill rolls for piloting?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bad weather, poor visibility, and damage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting percentage for Pilot (Specializations)?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the generic Pilot skill be purchased?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the generic Pilot skill cannot be purchased."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for sailing or flying on a calm day with good visibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modest skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill rolls are required for storms, navigation by instrument, low visibility, and other difficult situations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skill rolls"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level for an emergency landing with a light aircraft?"
+      },
+      {
+        "role": "assistant",
+        "content": "Emergency landing with a light aircraft in a farmer\u2019s field"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How difficult is it to operate heavy machinery?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required to drive and operate a tank, backhoe, steam shovel, or other large-scale construction machine?"
+      },
+      {
+        "role": "assistant",
+        "content": "Required to drive and operate a tank, backhoe, steam shovel, or other large-scale construction machine"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the task is required to drive and operate a tank?"
+      },
+      {
+        "role": "assistant",
+        "content": "01%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of machines does the Keeper decide to raise the difficulty level for if they are mostly unfamiliar?"
+      },
+      {
+        "role": "assistant",
+        "content": "very different sorts of machines"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for operating a crane or road digger?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for manipulating machinery to achieve a delicate or specific task?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the task that the Keeper decides to raise the difficulty level for in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "un-earthing delicate dinosaur eggs with a mechanical digger"
+      }
+    ]
+  }
+]

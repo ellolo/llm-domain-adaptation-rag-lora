@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of structures were found at the dig site?"
+      },
+      {
+        "role": "assistant",
+        "content": "tents"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What appears to have been used as a communal tent at the dig site?"
+      },
+      {
+        "role": "assistant",
+        "content": "a large communal tent"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was found in the last tent at the dig site?"
+      },
+      {
+        "role": "assistant",
+        "content": "a painting studio"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was found in the sleeping tents at the dig site?"
+      },
+      {
+        "role": "assistant",
+        "content": "a notebook, various art pads, and some partly completed oil canvases"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What object was found in the Spot Hidden roll at the dig site?"
+      },
+      {
+        "role": "assistant",
+        "content": "a discarded rifle"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where were the sleeping tents located?"
+      },
+      {
+        "role": "assistant",
+        "content": "Near the dig site"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What did the Spot Hidden roll reveal?"
+      },
+      {
+        "role": "assistant",
+        "content": "A discarded rifle and Texan hat in a nearby bush"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What did Alistair Lawson tell the investigators about Brian Hall?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meeting the Hunting Party (see page 351) about Brian Hall"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who are the artists from?"
+      },
+      {
+        "role": "assistant",
+        "content": "Boston"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of paintings are mostly shown on the art pads and canvases?"
+      },
+      {
+        "role": "assistant",
+        "content": "Landscapes and woodland scenes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who claims to have been experiencing the same dreams as the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brian and Arthur Hall"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of scenes are mostly depicted in the art pads and canvases?"
+      },
+      {
+        "role": "assistant",
+        "content": "Landscapes and woodland scenes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is seen in one of the paintings, from behind, looking out onto the black waters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Something horrible rising up out of the lake"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is described in the description of one of the paintings, 'A path snaking its way through the trees, the ground covered in dead, yellow leaves'?"
+      },
+      {
+        "role": "assistant",
+        "content": "A deserted wood"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the frightening dreams described as being 'uncannily similar to those the investigators are experiencing'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators' own dreams"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of the cabin when the investigators enter the clearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cabin is dilapidated and shot through with many bullet holes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the state of the body of Christopher Dobbs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Christopher Dobbs is impaled through the chest on a branch halfway up the tree."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is alive within the cabin and what is his condition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harris is alive within the cabin and is crazy from the Dream Call of Gla'aki."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Harris's primary concern?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harris is concerned that the investigators are more of the horrors come to get him."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cause of the investigators' initial distraction?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators are distracted by the discovery of the body of Christopher Dobbs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of Harris throughout the night?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is crazy from the Dream Call of Gla'aki"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if investigators manage to pacify Harris?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will explain that the girl is gone"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why will Harris continue shooting if investigators cannot incapacitate or calm him?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will continue shooting, fearing the investigators are more of the horrors come to get him"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harris after he explains the situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will collapse into hysteria"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should a player concerned about a similar dream do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a Sanity roll, losing the same amount as originally prompted by the dream"
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level of the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if an investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Become trapped underwater; attacked by sea creatures; suffer the bends."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the extreme version of the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll in the extreme version?"
+      },
+      {
+        "role": "assistant",
+        "content": "Begin to understand whale-song."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Dodge allow a character to do in a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Allows an investigator to instinctively evade blows, thrown missiles and so forth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a character use Dodge more than once in a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character may attempt to use dodge any number of times in a combat round (but only once against a specific attack)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can Dodge be increased through experience?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dodge can increase through experience, like other skills."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for the Dodge skill in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "No difficulty level is set."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary use of the Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "part of an opposed roll in combat"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary difficulty level for a Drive roll to successfully weave through light traffic at speed to avoid pursuit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Drive skill on ordinary vehicle problems?"
+      },
+      {
+        "role": "assistant",
+        "content": "can cope with ordinary vehicle problems"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Dodge skill applicable to ordinary maneuvers?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, it's mostly used in combat"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is used in combat as part of an opposed roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a successful weave through light traffic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the opposing skill for the Inuit culture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Drive Dogsled."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a successful weave through heavy traffic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "crashing; skidding to a halt, unable to proceed; being pursued by the police."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Electrical Repair skill enable the investigator to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "repair or reconfigure electrical equipment, such as auto ignitions, electric motors, fuse boxes, and burglar alarms."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Electrical Repair skill have to do with the present day?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill has little to do with Electronics."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skills were needed for jobs in the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mechanical Repair in combination with Electrical Repair."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary use of Electrical Repair in the present day?"
+      },
+      {
+        "role": "assistant",
+        "content": "little to do with Electronics"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference in difficulty level between regular and hard Electrical Repair?"
+      },
+      {
+        "role": "assistant",
+        "content": "regular: repairing or creating a standard electrical device, hard: repairing something that is badly damaged; working without the proper tools"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a modern explosive that may require the Electrical Repair skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "blasting caps, C-4 plastic explosives, and mines"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary challenge of defusing explosives?"
+      },
+      {
+        "role": "assistant",
+        "content": "they may be fitted with anti-tamper mechanisms"
+      }
+    ]
+  }
+]

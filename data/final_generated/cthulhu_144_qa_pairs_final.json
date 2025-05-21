@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a hazard is failed to negotiate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing to negotiate a hazard is likely to slow the character or vehicle."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is decided using Table III: Other Forms of Damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using Table III: Other Forms of Damage as a guide for damage to characters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of failing to negotiate an obstacle?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll 1D3 for the number of lost movement actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is decided using Table VI: Vehicular Collisions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using Table VI: Vehicular Collisions (see page 147) for damage to vehicles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens after negotiating a hazard?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character should move onto the next location whether they pass or fail the skill roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the dots in the text representing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Locations on either side of the hazard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should a character do after negotiating a hazard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Move onto the next location, whether passing or failing the skill roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of hazards in a car chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "A traffic jam, performing a U-turn, roadwork, road traffic accident, pedestrian crossing, busy junction, cyclists, sharp bends, fallen rocks, and narrow roads"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be avoided in a car chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pulling out or stopping suddenly, and pedestrians"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a hazard that involves pedestrians?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pedestrian crossing"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a hazard in a foot chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "A hazard can be a latched window, a river, lake, or muddy swamp, a low fence or wall, a crowded street, a narrow alley, a rooftop, a hole in a wall, a crawlspace, a junk-filled attic, or cellar, a spiral staircase, or between the stacks of a library or museum."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the five steps to set up a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "To set up a chase, the Keeper must place the pursuer, place the fleeing character, position hazards and barriers, allocate each participant a number of movement actions, and determine DEX order."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a narrow road in the context of the chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "A narrow road is one where a pursuer can overtake a fleeing character."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a hazard that can move?"
+      },
+      {
+        "role": "assistant",
+        "content": "An oncoming vehicle is a hazard that can move."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a movement action?"
+      },
+      {
+        "role": "assistant",
+        "content": "A movement action is a number of actions each participant can take during the chase."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What defines a barrier in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A barrier might be a locked door, a tall fence, an abyss, etc."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the distinction between a hazard and a barrier according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The distinction between a hazard and a barrier may sometimes be unclear."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When is a hazard considered a barrier?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper must decide when a hazard constitutes a barrier."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the usual consequence of failing a skill roll to pass a barrier?"
+      },
+      {
+        "role": "assistant",
+        "content": "The usual consequence is simply the delay and inconvenience of not moving to the next location."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does a barrier prevent further movement?"
+      },
+      {
+        "role": "assistant",
+        "content": "A barrier prevents further movement until the skill roll is passed or the barrier is broken through."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if one fails to climb up to a second-floor window?"
+      },
+      {
+        "role": "assistant",
+        "content": "The window is out of reach."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a hazard in this context?"
+      },
+      {
+        "role": "assistant",
+        "content": "A hazard is when one can always simply fall while climbing down."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if one fails a skill roll to pass a barrier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing a skill roll to pass a barrier may cause damage and delay."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary consequence of failing to pass a barrier?"
+      },
+      {
+        "role": "assistant",
+        "content": "The usual consequence is simply the delay and inconvenience of not moving."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill required to force open a door?"
+      },
+      {
+        "role": "assistant",
+        "content": "The skill required to force open a door is STR."
+      }
+    ]
+  }
+]

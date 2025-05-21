@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some typical occupations found in a Lovecraft story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Antiquarian, Author, Dilettante, Doctor of Medicine, Journalist, Police Detective, and Professor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do occupations tie together in a Lovecraft story?"
+      },
+      {
+        "role": "assistant",
+        "content": "A cluster of skills"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of an occupation that includes a range of skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "Antiquarian, which includes Appraise, Art/Craft, History, Library Use, Other Language, one interpersonal skill, Spot Hidden, and one other skill of the player's choice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many free skill choices are typically available for an occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "One"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can all occupations include free skill choices?"
+      },
+      {
+        "role": "assistant",
+        "content": "No"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many free skill choices are typically available for occupations with no free choices?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can sample occupations be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the number on the page where sample occupations can be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "33"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the game mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are other occupations besides those you'd normally find in a Lovecraft story?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may interest particular players and be fun to play in a Call of Cthulhu game."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What ties together a cluster of skills?"
+      },
+      {
+        "role": "assistant",
+        "content": "An occupation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some skills that might be included in an occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appraise, Art/Craft, History, Library Use, Other Language, Charm, Fast Talk, Intimidate, Persuade, Spot Hidden."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many free choices might some occupations have?"
+      },
+      {
+        "role": "assistant",
+        "content": "One."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many free choices might some occupations have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two or more."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find sample occupations?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chapter title for this section of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "CHAPTER 3: CREATING INVESTIGATORS"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the page number where sample occupations can be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of this section of the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investigator Generation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Sanity Points calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity Points equal the POW characteristic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Hit Points calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hit Points equal SIZ + CON divided by 10 (round down)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Luck points calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Luck points equal one fifth of POW, rolled 3D6 multiplied by 5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Roll for Characteristics determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll 3D6 multiplied by 5 for the characteristics STR, CON, DEX, APP, and POW."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Roll for Skills determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll 2D6+6 multiplied by 5 for the characteristics SIZ, INT, and EDU."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators' ages affect their characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "AGEMODIFIERS affect investigators' characteristics."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to STR or SIZ when an investigator is 15-19 years old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deduct 5 points from STR or SIZ."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to APP when an investigator is 40 years old?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reduce APP by 5 points."
+      }
+    ]
+  }
+]

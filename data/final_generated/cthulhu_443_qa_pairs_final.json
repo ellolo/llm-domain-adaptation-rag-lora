@@ -1,0 +1,418 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of the Chaosium publications in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Determining locations of the various non-player characters who live outside of Miskatonic University."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship of the investigator to Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Which source books are not essential for running this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu source books"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can Game statistics for each character be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appendix at the end of the scenario"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the Arkham setting in Lovecraft's works?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arkham"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators find game statistics for each character in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the Appendix at the end of the scenario."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Arkham Witch Trial Papers in the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To describe each potential culprit as an innocent party."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the rest of the entry for a chosen culprit after the Keeper has selected one?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may be necessary to rework the rest of the entry, making alterations to the character as required."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Bryce Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon, the Dean of Administration at the Miskatonic University."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How old is Bryce Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon is in his early fifties."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's occupation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon is the Dean of Administration at the Miskatonic University."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is Bryce Fallon described?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bryce Fallon is a charming, immaculately turned-out man."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of Bryce Fallon's interest in the missing papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The preservation of the reputation of the Miskatonic University"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's former specialty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mathematics"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What motivates Bryce Fallon to turn a blind eye to certain actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The preservation of the reputation of the Miskatonic University"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of the University's administration, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pure academia"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's primary goal in dealing with the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The preservation of the reputation of the Miskatonic University is his primary goal."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Bryce Fallon feel about Leiter's personal life?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will greet any revelations about Leiter's personal life with disdain but not surprise."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Bryce Fallon think of Leiter's personality?"
+      },
+      {
+        "role": "assistant",
+        "content": "He knows him to be competent and ambitious, and more than a little bit oily."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Bryce Fallon's relationship like with Leiter outside of work?"
+      },
+      {
+        "role": "assistant",
+        "content": "He knew Leiter professionally but not personally outside of work."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Fallon's attitude towards the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will quite happily go along with anything that will see the matter of the Witch Trial Papers 'dealt with satisfactorily.'"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Fallon perceive Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "He knows Leiter to be competent and ambitious, and more than a little bit oily."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the general attitude of T. Fallon towards Leiter's personal life?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will greet any revelations about Leiter's personal life with distain but not surprise"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What information does T. Fallon have about the cause of the mysterious death?"
+      },
+      {
+        "role": "assistant",
+        "content": "He has no idea of the cause other than 'violent seizure'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter's prior career, according to T. Fallon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prior career as an art student at MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What contact information can T. Fallon provide to the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keys to Leiter's office and home, as well as contact with any relevant members of the Faculty"
+      }
+    ]
+  }
+]

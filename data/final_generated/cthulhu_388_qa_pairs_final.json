@@ -1,0 +1,338 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Shub-Niggurath's purpose in summoning?"
+      },
+      {
+        "role": "assistant",
+        "content": "to accept sacrifices"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can Shub-Niggurath be dismissed by those who know her summoning spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does Shub-Niggurath make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of Shub-Niggurath's summoning spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Magic Points does Shub-Niggurath have?"
+      },
+      {
+        "role": "assistant",
+        "content": "70"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a victim of Shub-Niggurath if they are caught?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim is seized and whipped to the goddess' body to be drained of body fluids."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many tentacles does Shub-Niggurath use to attack multiple opponents at once?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two tentacles, one strikes and then holds, and a second tentacle attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What effect does Shub-Niggurath have on beings of a certain size in a battle?"
+      },
+      {
+        "role": "assistant",
+        "content": "She may trample beings of SIZ 300 or less, which averages 10-20 yards across."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the victim's abilities while being drained by Shub-Niggurath?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim may not cast spells, expend magic points, or perform any act whatsoever except to writhe in pain and scream."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the number of mouths on Shub-Niggurath's victim change over time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each additional successful attack permits a new mouth to begin draining the victim."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator after a successful catch?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator is seized and drained of body fluids by one of the goddess' many mouths."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the victim do anything except writhe in pain and scream while being drained?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the victim may not cast spells, expend magic points, or perform any act whatsoever except to writhe in pain and scream."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Shub-Niggurath attack multiple opponents?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shub-Niggurath attacks with one tentacle per opponent, and after a successful attack, it holds on and a second tentacle attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Shub-Niggurath's trample attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The trample attack is effective against all beings of SIZ 300 or less in her path, which averages 10-20 yards across."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum CON for Rhan-Tegoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "800"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are lost to see Rhan-Tegoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8/1D20"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points does a corpse cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base amount of HP for Rhan-Tegoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "60"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of fighting attacks that Rhan-Tegoth can make?"
+      },
+      {
+        "role": "assistant",
+        "content": "80%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much Sanity points does Shub-Niggurath's corpse cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D8/1D20"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the deity in the Lovecraft quote?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shub-Niggurath, the Black Goat of the Woods with a Thousand Young"
+      }
+    ]
+  }
+]

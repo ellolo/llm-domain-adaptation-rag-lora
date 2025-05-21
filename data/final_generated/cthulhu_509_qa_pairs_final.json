@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the text describe as a common trait of many words?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mildewed, Mindless, Miscarried, Misshapen, Moaning, Molten, Monstrous, Monumental, Morbid, Mortifying, Mottled, Moldering, Mucky, Mucous, Murmuring, Mutilated"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is one adjective used to describe a word in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Puckered"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is another adjective used to describe a word in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pudding-Like"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Putrid"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pustular"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rotten"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scabby"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanguine"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Slimy"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sticky"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stupefying"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stupendous"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an adjective used to describe the quality of some words in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sulphurous"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was H.P. Lovecraft known for in his writing?"
+      },
+      {
+        "role": "assistant",
+        "content": "His use of unusual words"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a consequence of reading the entire list of Lovecraftian words?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 sanity loss"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many sanity points lost when reading the entire list?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many sanity points lost per roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the word 'Aberrant'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the word 'Abnormal'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the word 'Abominable'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the word 'Absurd'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the word 'Abysmal'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the word 'Accursed'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the origin of the word 'Acid'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  }
+]

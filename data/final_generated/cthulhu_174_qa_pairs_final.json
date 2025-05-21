@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some common symptoms associated with arrulousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "arrulousness, increased self-esteem to the point of delusion, decreased need for sleep, easily distracted, willingness for dangerous or imprudent activities"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of compulsions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Compulsions tend to be ritual actions performed to affect the future, possibly to prevent some vague notion of im-pending doom"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary cause of amnesia in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "A desire to avoid unpleasant memories."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can the Keeper choose to reset to during the time of amnesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthulhu Mythos to 0 and maximum Sanity to 99"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the character's memories when they experience a similarly horrific situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The horror returns."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the character's memories when they experience a similarly horrific situation, or when they experience a similar horrific situation again?"
+      },
+      {
+        "role": "assistant",
+        "content": "The horror returns when the character\u2019s memories do, or when they experience a similarly horrific situation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary cause of amnesia in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "A desire to avoid unpleasant memories."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper choose to reset the Cthulhu Mythos in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper resets Cthulhu Mythos to 0 and maximum Sanity to 99."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the narrator's attitude towards the horror and madness in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator believes that the horror and madness will ultimately lead to suffocation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the narrator describe their own mental state in this passage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator describes their own mental state as 'demoniac laughter' due to a weakening brain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Cthulhu Mythos skill when an investigator experiences Mythos-induced insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cthulhu Mythos skill increases by 5 points for the first instance, and by 1 point for each subsequent episode."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of temporary or indefinite Mythos-induced insanity on the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each episode, including temporary or indefinite ones, adds 1 point to the Cthulhu Mythos skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Cthulhu Mythos skill change after the first instance of Mythos-related insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cthulhu Mythos skill increases by 5 points for the first instance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much does the Cthulhu Mythos skill increase each time an investigator experiences Mythos-induced insanity after the first time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each subsequent episode, including temporary or indefinite ones, adds 1 point to the Cthulhu Mythos skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the first instance of Mythos-related insanity add to the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much does each episode of Mythos-induced insanity add to the Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's Sanity points when he goes insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "They drop"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum number of Sanity points Harvey can have?"
+      },
+      {
+        "role": "assistant",
+        "content": "91"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much Harvey\u2019s Cthulhu Mythos skill increases?"
+      },
+      {
+        "role": "assistant",
+        "content": "8%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Harvey\u2019s maximum Sanity points after the increase?"
+      },
+      {
+        "role": "assistant",
+        "content": "91"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the insane investigator if they fail a reality check roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Loses Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the player choose to dispel the delusion of a sanity-threatening entity without making a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, by making a successful reality check roll"
+      }
+    ]
+  }
+]

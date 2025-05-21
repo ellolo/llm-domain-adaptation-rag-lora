@@ -1,0 +1,306 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of an Auto Luggage Carrier?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.35"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Post card?"
+      },
+      {
+        "role": "assistant",
+        "content": "5\u00a2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Telegram for 12 Words?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.25"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a Streetcar Fare?"
+      },
+      {
+        "role": "assistant",
+        "content": "5\u00a2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of an Auto Spot Light?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.35"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the price of a professional baseball ticket in the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.00"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the price of a .30 Caliber MG in the 1920s?"
+      },
+      {
+        "role": "assistant",
+        "content": "$50"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to the purchaser in a transaction involving certain items?"
+      },
+      {
+        "role": "assistant",
+        "content": "Police may intervene, or the seller may try to rob or murder the purchaser."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be added to the price of fresh military ammunition if it can be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Double the pertinent price below"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 30 Caliber AP Ammo?"
+      },
+      {
+        "role": "assistant",
+        "content": "$25 per 500 WWI rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 60mm Illumination Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "100,000 candlepower, 25-second suspension"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What accuracy range can items costing less than $3,000 achieve?"
+      },
+      {
+        "role": "assistant",
+        "content": "200 yards or less"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price for one 60mm HE Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2 per round"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price for one 75mm Field Gun?"
+      },
+      {
+        "role": "assistant",
+        "content": "$100 + $800"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price for one 30 Caliber AP Ammo round?"
+      },
+      {
+        "role": "assistant",
+        "content": "$25 per 500 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price for one 16mm Movie Camera & Projector?"
+      },
+      {
+        "role": "assistant",
+        "content": "$335.00"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the price for one 75mm HE or AP Ammunition round?"
+      },
+      {
+        "role": "assistant",
+        "content": "$10 per WWI round"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 100 units of .22 Long Rifle ammunition?"
+      },
+      {
+        "role": "assistant",
+        "content": "53\u00a2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of 54 units of Firearm Ammunition?"
+      },
+      {
+        "role": "assistant",
+        "content": "54\u00a2"
+      }
+    ]
+  }
+]

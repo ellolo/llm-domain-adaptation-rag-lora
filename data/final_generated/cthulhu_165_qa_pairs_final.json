@@ -1,0 +1,338 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to an investigator's spells and artifacts?"
+      },
+      {
+        "role": "assistant",
+        "content": "They might be lost or destroyed in a fit of pique."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can investigators record encounters with Strange Entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regardless of whether insanity results or not."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can a bout of madness affect an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can take one of two forms, depending on the situation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a bout of madness affect an investigator's memory?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator has no memory of events since they were last in a place of safety."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does a bout of real-time madness last?"
+      },
+      {
+        "role": "assistant",
+        "content": "For 1D10 rounds."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the forms a bout of madness can take in real time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychosomatic disability"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of a bout of madness in real time?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a bout of madness in real time, violence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Uncontrolled violence and destruction"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a bout of madness in real time, psychosomatic disability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Psychosomatic blindness, deafness, or loss of the use of a limb or limbs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of information can be recorded to track Sanity points lost?"
+      },
+      {
+        "role": "assistant",
+        "content": "Amount of Sanity points lost to a particular type of entity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the 'one moment they were eating breakfast' phenomenon last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What disability does the investigator suffer from 'psychosomatic disability'?"
+      },
+      {
+        "role": "assistant",
+        "content": "blindness, deafness, or loss of the use of a limb or limbs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator act upon the relationship?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator faint?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator is compelled to flee in panic?"
+      },
+      {
+        "role": "assistant",
+        "content": "They travel for 1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long is the investigator incapacitated from physical hysterics?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator seek to indulge in their new phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the effects of a phobia in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many points of Sanity does Harvey lose after failing a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of Harvey becoming temporarily insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "He trashes the room in his search"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the immediate effect of Harvey realizing what the metallic voice means?"
+      },
+      {
+        "role": "assistant",
+        "content": "He becomes temporarily insane"
+      }
+    ]
+  }
+]

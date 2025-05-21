@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main topic of the documents?"
+      },
+      {
+        "role": "assistant",
+        "content": "personal correspondence between the jurist Caleb Hobbhouse and a number of notable legal and spiritual authorities in colonial New England"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When do the letters focus?"
+      },
+      {
+        "role": "assistant",
+        "content": "the 1690s Arkham Witch Trials"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the content of a few pages in the documents?"
+      },
+      {
+        "role": "assistant",
+        "content": "geometric or alchemical formulae, with diagrams purported to be from the possession of the convicted witch"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who was the subject of the formulae and diagrams?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keziah Mason, a convicted witch and child-killer"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the main focus of the letters?"
+      },
+      {
+        "role": "assistant",
+        "content": "The letters focus upon the 1690s Arkham Witch Trials"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who was the convicted witch and child-killer mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keziah Mason"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long is the recommended study period?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended Mythos Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will the attacks on the barriers of reality take the form of?"
+      },
+      {
+        "role": "assistant",
+        "content": "a series of manifestations of increasing severity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who should decide the exact nature and frequency of these manifestations?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where should the manifestations occur?"
+      },
+      {
+        "role": "assistant",
+        "content": "in some proximity to either the Witch Trial Papers themselves or to any who have touched them"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is included in the list of individuals touched by the Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Cobb family, Leiter\u2019s corpse, Emilia Court, Cecil Hunter, Lucy Stone"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the form of the Horror's attacks on the barriers of reality?"
+      },
+      {
+        "role": "assistant",
+        "content": "A series of manifestations of increasing severity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who should decide on the exact nature and frequency of these manifestations?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to those nearby when the Horror breaks free?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will die in an indescribably horrific manner"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will be the consequence of the Horror breaking free within the bounds of Arkham or the university?"
+      },
+      {
+        "role": "assistant",
+        "content": "A considerable death toll will occur"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who are some individuals that should experience manifestations of the Horror in Ink?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cobb family, Leiter\u2019s corpse, Emilia Court, Cecil Hunter, and whoever the Keeper has selected as the culprit."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to those nearby when the Horror in Ink breaks free?"
+      },
+      {
+        "role": "assistant",
+        "content": "They die in an indescribably horrific manner, wreaking havoc akin to a sudden tornado before departing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of sending a telegram to Professor Charles Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "To provide a suitable additional clue when the investigators become stuck or to add tension."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the invitation sent to the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "A formal invitation to dinner at Crawford\u2019s Restaurant, with Mister Abner Wick."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who plans to inquire into the death of his business acquaintance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mister Abner Wick."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where is Mister Abner Wick planning to have dinner?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crawford\u2019s Restaurant in Arkham."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who will immediately snap up the telegram?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dean Fallon"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where will the investigators receive a formal invitation to dinner?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crawford\u2019s Restaurant"
+      }
+    ]
+  }
+]

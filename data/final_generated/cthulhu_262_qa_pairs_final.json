@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In what year was the British Museum founded?"
+      },
+      {
+        "role": "assistant",
+        "content": "1753"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the copy found in the Biblioth\u00e8que Nationale?"
+      },
+      {
+        "role": "assistant",
+        "content": "In poor condition"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the mysterious donor's body found?"
+      },
+      {
+        "role": "assistant",
+        "content": "a day later"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In which century did the University of Buenos Aires' copy arrive in South America?"
+      },
+      {
+        "role": "assistant",
+        "content": "the late 17th century"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the condition of the book at the Widener Library at Harvard?"
+      },
+      {
+        "role": "assistant",
+        "content": "poor condition, badly cracked and split"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In what year did Harry Elkins Widener obtain the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "shortly before he boarded the Titanic in 1912"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the book of Harry Elkins Widener obtained?"
+      },
+      {
+        "role": "assistant",
+        "content": "1912"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who purchased the Miskatonic University's Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "A young Dr. Armitage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the condition of the text in the Miskatonic University's Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complete and in fair to good condition"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is credited with the masterwork poem in the English, by Justin Geoffrey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Justin Geoffrey"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text is complete and in fair to good condition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many copies of the book 'Call of Cthulhu' were published?"
+      },
+      {
+        "role": "assistant",
+        "content": "An edition of 1200 copies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated age of the manuscript 'Pnakotic Manuscripts'?"
+      },
+      {
+        "role": "assistant",
+        "content": "15th century"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long is the study required to learn about 'Pnakotic Manuscripts'?"
+      },
+      {
+        "role": "assistant",
+        "content": "45 weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Pnakotic Manuscripts' origins in terms of the source of its book's text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The pre-human crinoids"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Pnakotic Manuscripts' recommended study duration?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 week"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended study duration for the Ponape Scripture?"
+      },
+      {
+        "role": "assistant",
+        "content": "45 weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the accuracy of the Ponape Scripture compared to Hoag's manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "inferior in accuracy and completeness"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When was the text published?"
+      },
+      {
+        "role": "assistant",
+        "content": "c. 1795"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended duration for studying the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the suggested spells in the printed version?"
+      },
+      {
+        "role": "assistant",
+        "content": "None"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the accuracy and completeness level of the published text compared to Hoag's manuscript?"
+      },
+      {
+        "role": "assistant",
+        "content": "inferior"
+      }
+    ]
+  }
+]

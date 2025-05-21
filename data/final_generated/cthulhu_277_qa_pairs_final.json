@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the brain's role in the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The brain is the seat of the spell's power."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the brain is destroyed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster would die."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What organ makes the caster invulnerable?"
+      },
+      {
+        "role": "assistant",
+        "content": "the lungs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must be targeted to cause the caster's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "the brain"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for the Deathless Breath?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Deathless Breath"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum casting time for Banishment of Yde Etad?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many participants must participate in the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least three people must participate in the spell."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the banishment on the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "Correctly performed, the banishment is permanent and irrevocable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must be made between the caster and the target for the spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed POW roll must be made between the caster with the highest POW and target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the effectiveness of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The total number of participants must be divisible by three."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for the spell to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "An opposed POW roll must be made between the caster with the highest POW and target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the spell to be performed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell must be performed in the open air in the middle of the night."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the bonus for additional sets of three casters?"
+      },
+      {
+        "role": "assistant",
+        "content": "One bonus die is granted for each additional set of three casters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should the spell be performed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell must be performed in the open air in the middle of the night, ideally in a place of power associated with the target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Bless Blade spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cost: 5 POW; 1D4 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the blade of the Bless Blade spell to function?"
+      },
+      {
+        "role": "assistant",
+        "content": "The blade of the knife must be of an elemental metal such as iron or silver."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum SIZ required for a blood sacrifice?"
+      },
+      {
+        "role": "assistant",
+        "content": "at least SIZ 50"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What material can the blade of the knife be made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "an elemental metal such as iron or silver"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the blade of the knife is broken, melted, or damaged?"
+      },
+      {
+        "role": "assistant",
+        "content": "it permanently loses the ability to cause damage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time for Body Warping of Gorgoroth?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6+4 minutes"
+      }
+    ]
+  }
+]

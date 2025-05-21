@@ -1,0 +1,290 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary title of this text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appendices"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Chapter 16 titled?"
+      },
+      {
+        "role": "assistant",
+        "content": "APPENDICES"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of the 'Chase' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "Optional Rule"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of the 'Cthulhu Mythos' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "A section in the game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Cthulhu Mythos Skill' section about?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skill required for the game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Accounting Skill' section about?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skill required for the game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of the 'Chase, Driver Damage' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "Optional Rule"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of the 'Cthulhu Mythos, Optional Structure' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "Optional structure for the game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended age range for the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "32, 33, 98"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill required to handle animals in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Animal Handling Skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended location for the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chase, Location"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended appearance for the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appearance"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the skill required for anthropology in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anthropology Skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended skill for aiming in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aiming"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended skill for joining the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chase, Joining, Optional Rule"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended skill for hiding in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chase, Hiding, Optional Rule"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Chase, Location, Optional Rule'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Appraise Skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Appraise Skill' stand for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chase, Location, Optional Rule"
+      }
+    ]
+  }
+]

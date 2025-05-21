@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Mind Transfer spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster if the Mind Transfer spell fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must immediately cast the spell again (losing 10 more magic points) or his or her soul dissipates into eternity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster if the exchange fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must immediately cast the spell again (losing 10 more magic points) or his or her soul dissipates into eternity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's body after a successful casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster's previous body is now a hollow, dead thing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the fate of the target's mind after a successful casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "As for the mind of the target, conjecture suggests that it is expelled from the body and thus dies; however some hint that it remains inside its own body, subservient to the caster's mind and locked in a permanent state of horrific madness."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence for the victim if the exchange fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The victim loses 1D20 Sanity points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster's previous body during a Mind Transfer spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "It becomes a hollow, dead thing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical preparation for the Mind Transfer spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "A personal item, such as a portrait or diary, where the spell is keyed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical cost of casting the Mind Transfer spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 magic points and 1 Sanity point."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does casting the Mind Transfer spell typically take?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half a day."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can a caster use to project their image onto a mirror?"
+      },
+      {
+        "role": "assistant",
+        "content": "A mirror large enough to reflect their head and neck"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the spell to be cast after the caster tires?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's loss of attention"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to cast the Mirror of Tarkhun Atep spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half a day"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting Prinn's Crux Ansata in terms of POW and Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "25 POW; 1D6 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the caster to see the target and its surroundings?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster can see through their mirror as well, and see the target and the target\u2019s surroundings."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster tires before the target looks into a mirror?"
+      },
+      {
+        "role": "assistant",
+        "content": "That loss of attention breaks the spell."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In what situations can the target hear words and short phrases from the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target can hear words and short phrases uttered by the caster."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the caster's image appear in the reflection when the target wears glasses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Images reflected from the lenses may even be resolved."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can the caster see through during casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "his or her mirror"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to cast the Powder of Ibn-Ghazi?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 days' preparation, 1 round to apply"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster when they hear words and short phrases from the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster can see through his or her mirror as well"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Curtis when he drops the telescope?"
+      },
+      {
+        "role": "assistant",
+        "content": "He reeled, and would have crumpled to the ground"
+      }
+    ]
+  }
+]

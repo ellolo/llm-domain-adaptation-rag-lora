@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen to the finds if the site is seized or publicity is high?"
+      },
+      {
+        "role": "assistant",
+        "content": "The finds can be stolen."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can an investigator spend skill points?"
+      },
+      {
+        "role": "assistant",
+        "content": "To purchase any skill specialization."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The generic 'Art and Craft' skill cannot be purchased."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary function of the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill may enable the making or repair of an item\u2014typically requiring equipment and time, to be determined by the Keeper, if necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the success of an item made with the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "a higher level of success indicates the item made is of high quality and/or precision."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who determines the success of an item made with the 'Art and Craft' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "by the Keeper, if necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the generic 'Art and Craft' skill be purchased?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the generic 'Art and Craft' skill cannot be purchased."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of an art or craft skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make or repair an item, typically requiring equipment and time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between making an item and faking an item with an art or craft skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making an item requires the original, while faking an item requires a specific original to be copied."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the art or craft skill used to make fake documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forgery."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a higher level of success in making an item?"
+      },
+      {
+        "role": "assistant",
+        "content": "A higher level of success indicates the item made is of high quality and/or precision."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of skill is used to make a fake item?"
+      },
+      {
+        "role": "assistant",
+        "content": "An art or craft skill might also be used to make a duplicate or fake item."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the term for faking documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the case of faking documentation, a specific specialization (Forgery) is used."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does a successful roll provide information about?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful roll might provide information about an item, such as where or when it might have been made, some point of history or technique concerning it, or who might have made it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the difficulty level of a successful roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The intricacy and distinctiveness of the original to be copied."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal of a successful roll in faking documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Providing information about an item, such as its history or technique."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of item is considered 'hard' to replicate?"
+      },
+      {
+        "role": "assistant",
+        "content": "A higher quality or particularly intricate piece."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a challenging task in faking documentation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reworking the object, piece or composition from scratch."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a significant consequence of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A vast amount of time and money is wasted in creating a failed attempt; the audience or customer is highly offended or physically injured by some aspect of your work."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of characters in the game are trained in Acting?"
+      },
+      {
+        "role": "assistant",
+        "content": "5% (Acting, 05%): The performer is trained in theatrical and/or film acting..."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can a character trained in Acting do to adopt a persona?"
+      },
+      {
+        "role": "assistant",
+        "content": "adopt a persona, memorize scripts..."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can a character trained in Disguise be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "See Disguise (page 62)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What artistic mediums is the artist skilled in?"
+      },
+      {
+        "role": "assistant",
+        "content": "oils, acrylic, watercolor, pencil, crayon or pastels"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long can it take to complete a serious work of art?"
+      },
+      {
+        "role": "assistant",
+        "content": "many days or months"
+      }
+    ]
+  }
+]

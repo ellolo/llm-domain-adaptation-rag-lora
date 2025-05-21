@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the focus of the text regarding common faith?"
+      },
+      {
+        "role": "assistant",
+        "content": "The methods, practices, and dogma of differing sects appear to be noticeably at odds with one another."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the public body established by a minority of sects?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Esoteric Order of Dagon"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the ominous sight described to Cyaegha?"
+      },
+      {
+        "role": "assistant",
+        "content": "A gigantic eye staring down at them, with darkness and tentacles emanating from it"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who wrote the passage describing Cyaegha's ominous sight?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eddy C. Bertin, from the book 'Darkness, My Name Is'"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Cyaegha's form?"
+      },
+      {
+        "role": "assistant",
+        "content": "an enormous black mass with one huge spherical green eye"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Cyaegha appear to others?"
+      },
+      {
+        "role": "assistant",
+        "content": "a gigantic eye staring down at them"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is happening around Cyaegha?"
+      },
+      {
+        "role": "assistant",
+        "content": "the sky split; deep clefts opened through which darkness began to ooze"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Cyaegha considered a significant entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "it remains to be seen if such internal schism will end in confrontation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the enormous black mass in the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cyaegha"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where is Cyaegha's resting place located?"
+      },
+      {
+        "role": "assistant",
+        "content": "A remote part of western Germany"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is worshiped by the residents of a small village in western Germany?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cyaegha"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Cyaegha's primary concern?"
+      },
+      {
+        "role": "assistant",
+        "content": "The day of its release"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by Cyaegha in a combat situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "8D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Cyaegha's armor?"
+      },
+      {
+        "role": "assistant",
+        "content": "takes minimum damage from impaling weapons and bullets"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Cyaegha reaches 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "retreats or reforms underground"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much sanity loss is incurred to see Cyaegha?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10/1D100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Cyaegha when it reaches 0 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cyaegha retreats or reforms underground."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What spells can the Keeper use on Cyaegha?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whatever Call/Dismiss or Contact spells the Keeper wishes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of seeing Cyaegha on a person's sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10/1D100 Sanity points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the curse said to afflict those living in isolated areas where Cyaegha worship exists?"
+      },
+      {
+        "role": "assistant",
+        "content": "A terrible curse that can possess the unwary and convert them to Cyaegha's cause."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the purpose of the coven's diabolic rites?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their diabolic rites were meant to syphon-off the god's energies for their own benefit."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome for those who practiced this inverted form of worship?"
+      },
+      {
+        "role": "assistant",
+        "content": "The tales speak of a terrible, yet unnamed, doom that came to those who practiced this inverted form of worship."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be described about Daoloth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not shapeless, but so complex that the eye could recognise no describable shape."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What characteristics were associated with Daoloth?"
+      },
+      {
+        "role": "assistant",
+        "content": "There were hemispheres and shining metal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the first number in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "31"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the location of the 'Chase' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Location"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Appraise Skill' range?"
+      },
+      {
+        "role": "assistant",
+        "content": "57-58"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Chase, Monsters' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "144"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Archaeology Skill' range?"
+      },
+      {
+        "role": "assistant",
+        "content": "58"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Chase, MOV Rates' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "146"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Armor' range?"
+      },
+      {
+        "role": "assistant",
+        "content": "108, 112, 116"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'Chase, Multiple Characters' skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "147"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "142"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Asphyxiation?"
+      },
+      {
+        "role": "assistant",
+        "content": "124"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the optional rule numbers for Chase, Round?"
+      },
+      {
+        "role": "assistant",
+        "content": "133-134"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the optional rule numbers for Assets?"
+      },
+      {
+        "role": "assistant",
+        "content": "45, 46, 97"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase, Speed Roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "132"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the optional rule numbers for Automatic Fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "114-116"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase, Switching Modes Of Movement?"
+      },
+      {
+        "role": "assistant",
+        "content": "143"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the optional rule number for Chase, Vehicular Collision?"
+      },
+      {
+        "role": "assistant",
+        "content": "146"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "text"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a type of sport?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a formal sport?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat related to physical activity?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a widely recognized term?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat associated with violence?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a noun?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Combat a verb?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ]
+  }
+]

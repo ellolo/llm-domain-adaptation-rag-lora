@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines an investigator's starting Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator's starting Credit Rating is determined during character creation, based upon the investigator's chosen profession."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Credit Rating indicate in society?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating indicates the character's relative status in society."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Credit Rating affect a character's living standards?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating also indicates the general living standards a person can afford."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find more information about Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating can be found in Chapter 4: Skills."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Credit Rating used for in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating determines the amount of money a character has available and indicates the general living standards a person can afford, as well as the character\u2019s relative status in society."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does an investigator's Credit Rating skill begin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator\u2019s Credit Rating skill begins at zero."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Credit Rating for a human character?"
+      },
+      {
+        "role": "assistant",
+        "content": "The minimum Credit Rating for a human character is 0."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum Credit Rating for a human character?"
+      },
+      {
+        "role": "assistant",
+        "content": "The maximum Credit Rating for a human character is 99."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum height for a human according to the APP?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum constitution for a human according to the APP?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum height for a human according to the APP, beyond human strength?"
+      },
+      {
+        "role": "assistant",
+        "content": "140"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum constitution for a human according to the APP, beyond human strength?"
+      },
+      {
+        "role": "assistant",
+        "content": "200"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum human constitution size?"
+      },
+      {
+        "role": "assistant",
+        "content": "200+: 1920 pounds / 872 kg"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the size of a baby?"
+      },
+      {
+        "role": "assistant",
+        "content": "1: A baby (1 to 12 pounds)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the smallest size classification in the SIZ system?"
+      },
+      {
+        "role": "assistant",
+        "content": "1: A baby (1 to 12 pounds)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum dexterity classification in the SIZ system for humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "99: World class athlete. Human maximum."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the largest size classification in the SIZ system for a human?"
+      },
+      {
+        "role": "assistant",
+        "content": "180: Heaviest human ever recorded (1400 pounds /634 kg)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the classification for a tiger in terms of dexterity?"
+      },
+      {
+        "role": "assistant",
+        "content": "120: Beyond human dexterity (e.g. tiger)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the text describe as the human maximum?"
+      },
+      {
+        "role": "assistant",
+        "content": "World class athlete"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What level of dexterity is described as being beyond human?"
+      },
+      {
+        "role": "assistant",
+        "content": "120"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What level of intellect is described as average for humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "50"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What level of intellect is described as being below human?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ]
+  }
+]

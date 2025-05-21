@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for Harvey's loss of sanity in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "He pulls the emergency stop cable, bails out of the train, and runs off into the night."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the player gain the fear of trains, railroads, and train travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey gains 'Siderodromophobia'\u2014Fear of trains, railroads, and train travel"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of pushing the reading roll without justification?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity point loss."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How often does the Keeper determine the timing of the next reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Once per week"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's Sanity points after an initial reading of a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator now automatically loses the Sanity cost of the tome, without needing a Sanity roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How often does the Keeper decide the timing of the next reading roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The timing of the next reading roll is at the Keeper's discretion, perhaps once per week."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What information can be found in Table XI: Mythos Tomes regarding the Cthulhu Mythos skill points for each tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Table XI: Mythos Tomes indicates the Cthulhu Mythos skill points and Sanity point loss for each tome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between CMI and CMF for each tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "CMI (Cthulhu Mythos Initial) shows how many Cthulhu Mythos skill points are given for an initial reading, while CMF (Cthulhu Mythos Full) shows how many points are given for full study of the tome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does CMI represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cthulhu Mythos Initial, showing how many Cthulhu Mythos skill points are given for an initial reading."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the Sanity cost of the tome after an initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader now automatically loses the Sanity cost of the tome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is gained by the reader during the initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader will also have a clear idea of what spells the book might contain, and of how long it will take to complete a full study of the book."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who does not make a Sanity roll after an initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Non-believers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's action after the investigator makes an initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper rewards the investigator with the initial reading (CMI) number."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the reader's Sanity cost after reading the initial passage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader automatically loses the Sanity cost of the tome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can the reader gain from the initial reading?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader can learn about the contents of the book, gain an idea of the spells it might contain, and gain a clear idea of how long it will take to complete a full study."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of the Necronomicon mentioned in the passage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Necronomicon is mentioned to be in a Latin version."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the reader's Sanity after reading the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader loses the Sanity cost of the tome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What do non-believers experience after reading the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Non-believers do not take this Sanity loss."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the reader gain after reading the Necronomicon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader learns about the contents of the book and may gain some idea of its spells."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the reader learn about the Necronomicon after reading it?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader will have a clear idea of how long it will take to complete a full study of the book."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many books has H.P. Lovecraft read for a full study?"
+      },
+      {
+        "role": "assistant",
+        "content": "He had himself read many of them\u2014a Latin version of the abhorred Necronomicon, the sinister Liber Ivonis, the infamous Cultes des Goules of Comte d'Erlette, the Unaussprechlichen Kulten of von Junzt, and old Ludvig Prinn's hellish De Vermis Mysteriis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a full study of a Mythos tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "A full study of a Mythos tome indicates a comprehensive reading, as one might make when studying an academic work, or as a religious adherent might make of a sacred text."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is not required for a full study?"
+      },
+      {
+        "role": "assistant",
+        "content": "No reading roll is required; if any reading roll was required, it will have been made during the initial reading."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does a full study of a Mythos tome typically involve?"
+      },
+      {
+        "role": "assistant",
+        "content": "This may involve repeated readings, comparative reading, use of reference works, note taking, and so on."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the process for studying a tome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Repeated readings, comparative reading, use of reference works, note taking, and so on."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does a study of a tome typically take?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many months"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a reader's Sanity points at the end of a study?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll for Sanity point loss appropriate for the tome is made."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is a reader's Cthulhu Mythos skill compared to a tome's Mythos rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reader's Cthulhu Mythos skill is compared with the tome's Mythos rating."
+      }
+    ]
+  }
+]

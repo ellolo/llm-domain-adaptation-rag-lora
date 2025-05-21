@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the creator of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not specify a single creator, but rather a list of names."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the first person mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Reese Fagnan"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the second person mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Todd W\u00f6 Olson"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many people are listed in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text lists 68 people."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the person known as \"MastaDaddy\"?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thomas \"MastaDaddy\" Roesch"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the person known as \"2evill\"?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ville \"2evill\" Moilanen"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the person known as \"Veneratio Diaboli\"?"
+      },
+      {
+        "role": "assistant",
+        "content": "Veneratio Diaboli"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the person known as \"Tony West\"?"
+      },
+      {
+        "role": "assistant",
+        "content": "TONY WEST"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is ViolatedGorilla?"
+      },
+      {
+        "role": "assistant",
+        "content": "ViolatedGorilla"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Triselyn the Yithian?"
+      },
+      {
+        "role": "assistant",
+        "content": "Triselyn the Yithian"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Undead Ichi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Undead Ichi"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Tripleyew?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tripleyew"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Urnack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Urnack"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Uwe Schumacher?"
+      },
+      {
+        "role": "assistant",
+        "content": "Uwe Schumacher"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Ulliman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ulliman"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Tryphiodorus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tryphiodorus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who are the two individuals named Wayne in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wayne Halsey and Wayne L\ufffd Budgen"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 'weirdocollector'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wayne L\ufffd Budgen"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is 'winterfish'?"
+      },
+      {
+        "role": "assistant",
+        "content": "unknown"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is 'Wibble Nut'?"
+      },
+      {
+        "role": "assistant",
+        "content": "unknown"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is 'Wilbur Whately'?"
+      },
+      {
+        "role": "assistant",
+        "content": "unknown"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is 'Will Chase'?"
+      },
+      {
+        "role": "assistant",
+        "content": "unknown"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is 'William Baker'?"
+      },
+      {
+        "role": "assistant",
+        "content": "unknown"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is 'William Z\ufffd Cohen'?"
+      },
+      {
+        "role": "assistant",
+        "content": "William Z\ufffd Cohen, MSGT/USMC, retired"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is 'Wollemi Pine'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wollemi Pine"
+      }
+    ]
+  }
+]

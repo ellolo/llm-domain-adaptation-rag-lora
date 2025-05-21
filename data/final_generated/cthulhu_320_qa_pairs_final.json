@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the default combat skill for monsters in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fighting skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is provided to give Keepers ideas on describing monster attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Key words, such as bite or kick"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of the damage listed for a monster's standard attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "To free the Keeper from having to adjust the damage with each variation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of using the damage listed for a monster's standard attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "It allows the Keeper greater freedom to describe the monster's attacks in creative and imaginative ways"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why should the Keeper use the damage listed for a monster's standard attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make the story more exciting and engaging"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of varying a monster's attacks in a story?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make the story more exciting and engaging"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why can using a monster's standard Fighting attack free the Keeper from adjusting damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it allows the Keeper to have greater freedom to describe the monster's attacks in creative and imaginative ways."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper describe a successful attack using the standard Fighting attack damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper describes a successful attack in the same way, regardless of the manner of attack, using the same 1D6 + 1D4 damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the damage in the first description of a successful attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The damage remains the same, 1D6 + 1D4, as per the standard Fighting attack."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is varying the monster's attacks an advantage or disadvantage for the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is neither, as the Keeper is making the story more exciting and engaging by varying the attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper gain by using the damage listed for the monster\u2019s standard Fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper gains greater freedom to describe the monster\u2019s attacks in creative and imaginative ways."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper apply the damage listed for the monster\u2019s standard Fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper applies the same 1D6 + 1D4 damage regardless of the manner of attack."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the advantage of using the damage listed for the monster\u2019s standard Fighting attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is making the story more exciting and engaging."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a successful attack using the 1D6 + 1D4 damage rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "The same 1D6 + 1D4 damage is dealt."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a maneuver to be ineffective?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the opponent is 3 Build points above that of an attacker."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum Build point for a monster to avoid penalty dice?"
+      },
+      {
+        "role": "assistant",
+        "content": "Build 2 or greater."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the largest opponent a human can take on with a maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "Build 4 (horse, elder thing, etc.)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many separate attacks can a dark young initiate in a turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Five."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the dark young's possible attacks in its turn order?"
+      },
+      {
+        "role": "assistant",
+        "content": "five separate attacks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What attack does the dark young use in its first turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "raises one of its hooves to stamp on a hapless investigator"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of attack does the dark young use in its second turn?"
+      },
+      {
+        "role": "assistant",
+        "content": "lashes out with a tentacle"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage is dealt in the dark young's first attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "11 damage"
+      }
+    ]
+  }
+]

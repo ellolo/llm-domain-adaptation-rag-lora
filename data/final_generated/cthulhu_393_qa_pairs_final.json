@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of Ubbo-Sathla's presence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ubbo-Sathla dwells in a cold, dank cavern, and never leaves its lair unless called or disturbed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can one enter Ubbo-Sathla's grotto?"
+      },
+      {
+        "role": "assistant",
+        "content": "One can enter Ubbo-Sathla's grotto through deep fissures in the Antarctic ice or through secret entrances from the Cold Waste of the Dreamlands."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who may worship Ubbo-Sathla?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mi-go and other alien races may worship Ubbo-Sathla."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the Elder Keys?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Elder Keys are several tablets of star-wrought stone that remain an enigma and are said to contain great knowledge and secrets of the gods."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where are the Elder Keys found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within the grotto of Ubbo-Sathla"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators who remain in Ubbo-Sathla's presence for too long?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will be attacked"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many offspring does Ubbo-Sathla produce per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 offspring per round"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a common attack method used by the spawn of Ubbo-Sathla?"
+      },
+      {
+        "role": "assistant",
+        "content": "Surprise attacks from ambush, using sticky filaments, pseudopods, and gelatinous tentacles"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is unique about the spawn of Ubbo-Sathla?"
+      },
+      {
+        "role": "assistant",
+        "content": "No two spawn are exactly alike."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the fight are they expected to win?"
+      },
+      {
+        "role": "assistant",
+        "content": "75%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of reading the Revelations on Strutt?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is an unbelieving conviction that this is happening because he had read the Revelations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of Ubbo-Sathla on a victim's sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D8 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Strutt's skill in stealth?"
+      },
+      {
+        "role": "assistant",
+        "content": "90%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the hands on Strutt's face?"
+      },
+      {
+        "role": "assistant",
+        "content": "His breath is cut off"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Y'golonac's nature?"
+      },
+      {
+        "role": "assistant",
+        "content": "a bloated, glowing figure"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where is Y'golonac's prison located?"
+      },
+      {
+        "role": "assistant",
+        "content": "near the Severn Valley city of Brichester"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Y'golonac's relationship with evil?"
+      },
+      {
+        "role": "assistant",
+        "content": "it is known to come when evil is present"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Y'golonac a major god?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, it is a minor god"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where is Y'golonac known to frequent?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Severn Valley city of Brichester"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Y'golonac known for when its name is read or spoken?"
+      },
+      {
+        "role": "assistant",
+        "content": "evil is present"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is Y'golonac a major god?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Y'golonac's goal in terms of cult following?"
+      },
+      {
+        "role": "assistant",
+        "content": "more"
+      }
+    ]
+  }
+]

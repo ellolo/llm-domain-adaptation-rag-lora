@@ -1,0 +1,290 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the road in the clearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is actually the road used by the truck"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lost by an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Something important is lost by an investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where are the tire tracks heading?"
+      },
+      {
+        "role": "assistant",
+        "content": "The track is heading into the area north of Somerset."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the forest full of hazards?"
+      },
+      {
+        "role": "assistant",
+        "content": "The forest is full of hazards such as an investigator falling, being bitten by a snake or insect, and suffering bad blisters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What area is the track heading into?"
+      },
+      {
+        "role": "assistant",
+        "content": "the area north of Somerset"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is driving the truck?"
+      },
+      {
+        "role": "assistant",
+        "content": "James Stanton"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the character still human in appearance?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is still human in appearance,"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is hidden under his coat?"
+      },
+      {
+        "role": "assistant",
+        "content": "where one of Gla'aki's spines was inserted"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How would you describe the character's demeanor?"
+      },
+      {
+        "role": "assistant",
+        "content": "don\u2019t play him as a mindless zombie, but he should feel cold and lacking in emotion"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the character on a geological survey with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carl White, under the direction of Mr. Strong"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is in charge of the geological survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carl White, under the direction of Mr. Strong"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Stanton suggest doing if the investigators reach the dig site/base camp?"
+      },
+      {
+        "role": "assistant",
+        "content": "He says it would be fine to visit them, 'Just follow the road and it will get you there eventually.'"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines if Eugene has spotted the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "A group Luck roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will Eugene do if he has spotted the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fire a shot over their heads in an effort to scare them off"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many shots does Eugene have left after firing a warning shot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to investigators trying to get the drop on Eugene without a successful Stealth roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will be exposed and possibly a target"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "will leave an investigator exposed and possibly a target"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator tries to flee the area?"
+      },
+      {
+        "role": "assistant",
+        "content": "will not be a target for Eugene"
+      }
+    ]
+  }
+]

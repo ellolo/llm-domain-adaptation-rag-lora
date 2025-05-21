@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a SNAKE?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a SQUID?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a SNAKE make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a SQUID's fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many tentacles can a SQUID seize a victim with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eight"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for STR?"
+      },
+      {
+        "role": "assistant",
+        "content": "+2D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build of a STR?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a STR perform per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a STR attack its prey?"
+      },
+      {
+        "role": "assistant",
+        "content": "It uses maneuvers to seize and bite its prey"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a STR's poisonous bite?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes 1D6 damage and a penalty die on all future actions for several hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a second tentacle connecting to a first tentacle strike?"
+      },
+      {
+        "role": "assistant",
+        "content": "The two constrict the target and each does its damage each round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage caused by the poisonous beak of the creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 damage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage caused by the first tentacle strike?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage caused by the second tentacle strike?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 + poison"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dodge percentage for the creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "47% (23/9)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of a wasp and bee swarm attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 combat rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can cause death from bee stings, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extensive stings and failing a CON roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points can be lost per minute of an Africanized bee attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 hit points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do Africanized bees typically hunt?"
+      },
+      {
+        "role": "assistant",
+        "content": "In packs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of prey do wolves often hunt in packs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elk or caribou"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can an investigator experience profound immune system shock?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator who is stung extensively"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a rare occurrence among healthy humans?"
+      },
+      {
+        "role": "assistant",
+        "content": "verified attacks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a wolf's attack rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Damage Bonus: none"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points might each minute of a wolf's attack cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "as much as 1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average build for a wolf?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average Build: 0"
+      }
+    ]
+  }
+]

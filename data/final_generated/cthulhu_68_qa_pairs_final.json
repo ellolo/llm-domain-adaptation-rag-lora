@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Pushed roll is failed?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator will now believe they are above the law."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of wasting valuable time and money on research and legal fees?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are held in contempt of court and thrown in the cells for at least 24 hours."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can Library Use enable an investigator to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Find a piece of information, such as a certain book, newspaper, or reference in a library."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of continuous search using Library Use?"
+      },
+      {
+        "role": "assistant",
+        "content": "Several hours."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Pushed roll is misinterpreted or a law is stepped outside of?"
+      },
+      {
+        "role": "assistant",
+        "content": "You break the law and draws police attention."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skills are required to locate a locked case or rare-book special collection?"
+      },
+      {
+        "role": "assistant",
+        "content": "This skill can locate a locked case or rare-book special collection, but Persuade, Fast Talk, Charm, Intimidate, Credit Rating, or special credentials may have to be used to get access to the books or information in question."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level of this skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty: locating a book or piece of information in a library."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty level of this skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty: identifying a piece of information in a disorganized library, or if you are extremely pressed for time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of pushing the limits of this skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pushing examples: pressing the librarian for extensive assistance; taking longer to systematically work through the stacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some possible consequences of failing a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "finding a similar book, containing misleading information, which will lead the investigators into danger; entanglement with an adversary; getting into an argument with the librarian"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an insane investigator who fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "he or she hoards books, cutting out pages to stick to their bedroom wall, making copious bizarre notes, linking the pages with threads of cotton and pins"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the other possible scenario for an investigator who fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alternatively, the investigator is obsessed with finding the correct book or piece of information, spending all of their time pilfering and poring over books"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to the investigator's library membership?"
+      },
+      {
+        "role": "assistant",
+        "content": "resulting in their library membership being revoked"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What might happen to the investigator's research or actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "leading the investigators into danger, or they check out the book they are searching for (or simply tear out the pages in question)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Listen skill measure?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability of an investigator to interpret and understand sound."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can a Keeper use the Listen skill to determine?"
+      },
+      {
+        "role": "assistant",
+        "content": "The course of an impending encounter."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can Listen be opposed by an opposing skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stealth when someone is creeping up on you."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty for hearing something approaching?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Stealth skill of below 50."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the hard difficulty for hearing something creep up on you?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Stealth skill of 50 to 89."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a 'thing' catches you unawares?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are surprised."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "He or she becomes overly sensitive to all sounds."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator fails a pushed roll, and is insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "He or she becomes overly sensitive to all sounds and is unable to operate without earplugs or similar."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a situation where a person might fail a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "An embarrassing predicament."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if you are caught trying to eavesdrop?"
+      },
+      {
+        "role": "assistant",
+        "content": "You find yourself in a very embarrassing predicament."
+      }
+    ]
+  }
+]

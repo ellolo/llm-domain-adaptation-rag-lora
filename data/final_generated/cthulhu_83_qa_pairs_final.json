@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Throwing a lot of items in quick succession hoping one will hit the target"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of failing a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing to hit the target"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can multiple missiles be used if there is a distinct risk connected with failure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Keeper might ask for a Pushed roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of taking more time to assess the distance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking more time to assess the distance"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of taking a massive run-up?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taking a massive run-up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of throwing too hard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Throwing too hard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will refuse to let go of the item to be thrown."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What factors affect the difficulty level of tracking with Track?"
+      },
+      {
+        "role": "assistant",
+        "content": "Time passed since the tracks were made, rain, and the type of ground covered."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the opponent's Stealth skill affect tracking difficulty?"
+      },
+      {
+        "role": "assistant",
+        "content": "The opponent\u2019s Stealth skill should be used to set the difficulty level."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the regular difficulty level of tracking in the forest under normal conditions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tracking an animal or human in the forest under normal (temperate) conditions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a hard difficulty level of tracking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Following a trail that is several (or more) days old."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some techniques used by investigators to locate tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Backtracking, taking more time to study the area, and walking in increasing spirals."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the consequences of failing a Pushed roll in Sample Consequences of failing a Pushed roll: the tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "You are led directly into the path of a hungry bear/lion/cannibal, or you get lost and ambushed or caught in a trap."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an insane investigator fails a Pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator compulsively follows any tracks until they are physically restrained or convinced otherwise."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the tracks the investigator is following?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are physically restrained or the investigator is convinced otherwise."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are Specializations dealt with?"
+      },
+      {
+        "role": "assistant",
+        "content": "In one of two ways, as addressed under Skill Specializations on page 54."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of skills are addressed under Specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Art and Craft, and Science skills."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where are Skill Specializations addressed?"
+      },
+      {
+        "role": "assistant",
+        "content": "On page 54."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a commonality among the specializations of Fighting, Firearms, Languages, and Survival?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are much commonalities and transferable skills among the specializations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do the subdivisions of Firearms compare to each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are more similarities than differences between the subdivisions of Firearms."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skills are transferable from Fighting to other specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reaction times, judging range, evasions, feints, timing, spotting openings, and knowing where to hit."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do the improvement of one specialization in Fighting, Firearms, Languages, and Survival compare to each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "The improvement of one specialization has a transferable benefit to all other closely related specialisms."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do the subdivisions of Firearms compare to the subdivisions of other specializations?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are more similarities than differences between the subdivisions of Firearms."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a transferable skill from one specialization to another?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any fighter will use skills from Fighting in other specializations."
+      }
+    ]
+  }
+]

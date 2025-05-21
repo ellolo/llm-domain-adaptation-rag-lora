@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Weller's unarmed attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Dodge work for Weller's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dodge 30% (15/6)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor class of Weller?"
+      },
+      {
+        "role": "assistant",
+        "content": "3-point rough hide"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the typical damage points for Weller's attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + damage bonus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the physical appearance of the Serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "Serpent people resemble upright serpents with ophidian heads and scales, a tail, and two arms and legs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is revered by the Serpent people as the father of all snakes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yig is revered above all other gods of the serpent people, for he is the father of all snakes."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to those who chose to pray to Tsathoggua instead of Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were destroyed by a vengeful god millions of years ago."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Do you think any outcasts remain who choose to pray to Tsathoggua?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is doubtful whether any such outcasts remain to peddle their false litanies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When did the serpent people's first kingdom, Valusia, flourish?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some two hundred seventy-five million years ago"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the name of the revered god of the serpent people, revered above all other gods of the serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yig"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the serpent people who chose to pray to Tsathoggua instead of Yig?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were destroyed by a vengeful god millions of years ago"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When did the dinosaurs appear, and what happened to the serpent people's first kingdom, Valusia?"
+      },
+      {
+        "role": "assistant",
+        "content": "With the coming of the dinosaurs, two hundred and twenty-five million years ago, the first kingdom fell"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When did the first kingdom of the serpent people fall?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two hundred and twenty-five million years ago"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the name of the serpent people's greatest stronghold?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yoth"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When did the serpent people destroy their last citadel of Yanyoga?"
+      },
+      {
+        "role": "assistant",
+        "content": "10,000 B.C."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the second kingdom of the serpent people at the center of the Thurian continent?"
+      },
+      {
+        "role": "assistant",
+        "content": "It fell overthrown by humans."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the likely fate of the degenerate serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have characteristics lessened by as much as a third."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical condition of the hibernating serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have rested for thousands of years or more."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical characteristic of the third class of serpent people?"
+      },
+      {
+        "role": "assistant",
+        "content": "typically more intelligent and powerful"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much additional hit points does tearing away a rat-thing cost to the victim?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 hit points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for fighting a rat-thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "damage bonus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of seeing a rat-thing for the first time, if it was known to the observer in life?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D8 Sanity points"
+      }
+    ]
+  }
+]

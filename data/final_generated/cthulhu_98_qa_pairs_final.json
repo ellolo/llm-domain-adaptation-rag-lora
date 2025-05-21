@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the threshold for a Hard success in a Call of Cthulhu skill check?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll equal to or below half skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the threshold for an Extreme success in a Call of Cthulhu skill check?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll equal to or below one-fifth of skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the difficulty level when a non-player character is positively inclined towards the player's goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "No modification to the difficulty level is required"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the difficulty level affected when a non-player character is strongly opposed to the player's goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty is raised by one or two levels"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the criteria for an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Extreme success is if the roll is equal to or below one-fifth of the opposing skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a non-player character is positively inclined towards the player's goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should not bother rolling dice, but simply have them agree."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level change when a non-player character is strongly opposed to the player's goal?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difficulty is raised by one or two levels."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper adjust the difficulty level when the player supports their case or is willing to use a weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should lower the difficulty by one level."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the lowest chance of success required for an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "equal to or below one-fifth of the skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can there be no chance of success in some rare circumstances?"
+      },
+      {
+        "role": "assistant",
+        "content": "yes, and the Keeper may rule that there is no chance of success"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How did the difficulty level begin for the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How did the Keeper increase the difficulty level for the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "by two steps to Extreme"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper increase the difficulty level after Brian threatens violence?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper increases the difficulty level by two steps to Extreme."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the difficulty level after Brian fails to succeed in the Intimidation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper lowers the difficulty level to Hard."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of the Keeper not being compelled to reveal the contact's name?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is entirely up to the Keeper whether the doctor is forthcoming."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Brian if he had succeeded in the Intimidation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper would be compelled to give up the name of the contact."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failing the Intimidation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper is entirely up to whether the doctor is forthcoming."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of succeeding in both Mechanical Repair and Electrical Repair rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "1%."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of succeeding in a simultaneous roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines whether a situation calls for sequential skill rolls or a combined skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper's discretion."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the player succeeds in the Intimidation roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper would be compelled to give up the name of the contact."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of succeeding in both Mechanical Repair and Electrical Repair rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chance of succeeding in both would be 1%."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill roll would allow Harvey to see the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "A successful Spot Hidden roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper decide to make a combined skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper must decide whether a situation calls for sequential skill rolls or a combined skill roll."
+      }
+    ]
+  }
+]

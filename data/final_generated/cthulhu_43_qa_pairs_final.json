@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that requires a Sanity roll when the investigator loses their key connection during play?"
+      },
+      {
+        "role": "assistant",
+        "content": "Losing one's key connection during play requires a Sanity roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigator's sex influence gameplay or advantage in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "No game rule distinguishes between male and female; neither sex has an advantage over the other."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the player do when presented with the opportunity to save their key connection during gameplay?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player must be presented with the opportunity to make at least one dice roll to save the connection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the investigator's name determined during gameplay?"
+      },
+      {
+        "role": "assistant",
+        "content": "The name of the investigator is whatever the player finds entertaining or evocative."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What factors are considered in the name of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The name of the investigator is whatever the player finds entertaining or evocative."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of drawing a picture of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "A useful way to introduce your investigator to the other players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to draw a picture of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "You could cut out a suitable portrait from a magazine or print one from the Internet."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is drawing a picture of the investigator useful?"
+      },
+      {
+        "role": "assistant",
+        "content": "Even a small picture can say a lot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Step Five: Equip the Investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine the investigator's day-to-day living standards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the investigator's wealth calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "By the amount of cash and the amount of assets they possess"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the likelihood of owning major possessions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Credit Rating score"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be spent immediately, and what needs time to be realized?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cash can be spent immediately, while assets tied up in capital can only be spent after realization"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of a 'penniless' person?"
+      },
+      {
+        "role": "assistant",
+        "content": "A person that cannot even afford the level of \u2018poor\u2018 is considered penniless."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum accommodation a 'poor' person can afford?"
+      },
+      {
+        "role": "assistant",
+        "content": "restricted to the cheapest rental housing or fleabag hotel"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the minimum form of travel a 'poor' person can afford?"
+      },
+      {
+        "role": "assistant",
+        "content": "public transport of the cheapest sort"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many points are available in the credit rating system?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating 0-9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of a 'penniless' person?"
+      },
+      {
+        "role": "assistant",
+        "content": "A person that cannot even afford the level of 'poor' is considered penniless."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical accommodation for someone with a credit rating of 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restricted to the cheapest rental housing or fleabag hotel."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical form of travel for someone with a credit rating of 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Standard forms of travel can be used, but not first class."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be expected for someone with a credit rating of 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "A reasonable level of comfort, three meals a day and occasional treat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of transport can be used at a credit rating of 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "First class"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of accommodation can be expected at a credit rating of 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "A substantial residence, possibly with some domestic help"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of car can be expected at a credit rating of 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "An expensive car or equivalent"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of travel can be used at a credit rating of 10-49?"
+      },
+      {
+        "role": "assistant",
+        "content": "Standard forms of travel, but not first class"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical accommodation for someone with a Credit Rating 50-89?"
+      },
+      {
+        "role": "assistant",
+        "content": "A substantial residence, perhaps with some domestic help"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical car ownership for someone with a Credit Rating 90+?"
+      },
+      {
+        "role": "assistant",
+        "content": "Numerous luxury cars"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What level of wealth affords luxury and comfort?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating 50-89"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What level of wealth affords great luxury and comfort?"
+      },
+      {
+        "role": "assistant",
+        "content": "Credit Rating 90+"
+      }
+    ]
+  }
+]

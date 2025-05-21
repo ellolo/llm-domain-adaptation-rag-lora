@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who enters into an agreement with the Miskatonic University to assay and collate the Hobbhouse papers and library?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cobb family"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who successfully lobbies for control of the project at the History Faculty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Professor Charles Leiter"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does Leiter spread the word about the sale of the Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leiter is in need of money after a disastrous gambling trip to Atlantic City."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who offers vast sums for the Arkham Witch Trial Papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unknown, vast sums are offered by some"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Leiter do with the Arkham Witch Trial Papers on September 5th?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leiter passes the Arkham Witch Trial Papers to Cecil Hunter to create forgeries"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Leiter's cottage on September 11th?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leiter's cottage is broken into and ransacked by Flinders"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does Leiter update his cottage's security on September 12th?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leiter updates his cottage's security by changing the locks and adding bolts to doors and windows"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Cecil Hunter on September 16th?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cecil Hunter goes mad while trying to copy the Papers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who writes out the death certificate for Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Doctor John Wheatcroft, a physician at the Miskatonic's Medical School"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who seeks outside help due to increasing terse enquiries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dean Fallon"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the institution where Doctor John Wheatcroft is a physician?"
+      },
+      {
+        "role": "assistant",
+        "content": "Miskatonic's Medical School"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the school that Dean Fallon is affiliated with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Miskatonic's Medical School"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the body of Leiter?"
+      },
+      {
+        "role": "assistant",
+        "content": "He has died of 'massive and sudden heart failure'"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is investigating the strange occurrences?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigators (no specific names mentioned)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to those who have had close contact with the papers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Horror is hunting them down"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is increasing rapidly as the Horror hunts down those who have had close contact?"
+      },
+      {
+        "role": "assistant",
+        "content": "The manifestations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the roleplaying hooks in the NPCs?"
+      },
+      {
+        "role": "assistant",
+        "content": "The hooks provide you with possible ways to engage the NPC with the investigators and to complicate the investigator\u2019s lives."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the intended audience for the scenario provided?"
+      },
+      {
+        "role": "assistant",
+        "content": "The information presented is intended first and foremost as a skeleton for the Keeper to flesh out as desired..."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What resource may Keepers use to determine locations of non-player characters outside of Miskatonic University?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Map of Arkham (see page 428) may be useful in determining locations of the various non-player characters who live outside of Miskatonic University."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What publication by Chaosium may be used in conjunction with the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "H.P. Lovecraft\u2019s Arkham would be useful in conjunction with the scenario."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What publication by Chaosium may be used in conjunction with the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Miskatonic University would be useful in conjunction with the scenario."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate goal of the Keeper in using the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make the best use of the scenario for their own game and to suit their own tastes and that of the players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of the additional detail the Keeper can add to the scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "More detail as he or she wishes\u2014all to make the best use of the scenario for their own game and to suit their own tastes and that of the players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main goal of the expansion sources?"
+      },
+      {
+        "role": "assistant",
+        "content": "To provide additional information to aid the Keeper in creating the best use of the scenario for their own game and to suit their own tastes and that of the players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the ultimate goal of the Keeper in using the expansion sources?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make the best use of the scenario for their own game and to suit their own tastes and that of the players."
+      }
+    ]
+  }
+]

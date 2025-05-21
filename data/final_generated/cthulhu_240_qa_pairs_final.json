@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a common mistake when starting a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using a climactic scene as a starting point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can using a twist or revelation work in a scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "As a vehicle to deliver it"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who has used the twist technique effectively in films?"
+      },
+      {
+        "role": "assistant",
+        "content": "M. Night Shyamalan"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a common problem when using a climactic scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "Figuring out how to achieve the climax"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What technique has Night Shyamalan used in his films?"
+      },
+      {
+        "role": "assistant",
+        "content": "This technique is not specified in the text, but it is implied to be a plot twist or surprise."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do investigators generate their characters in a Call of Cthulhu scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The players generate their investigators."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do mysteries in a Call of Cthulhu scenario work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mysteries can be organized like layers of an onion, with each clue leading to a further question or puzzle."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the layers of mystery in a Call of Cthulhu scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal is to find a possible explanation or answer, which directs the investigators to some form of action."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the core concept of a Call of Cthulhu scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "a mystery"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How are mysteries organized in a Call of Cthulhu scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "like the layers of an onion"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the progression of a Call of Cthulhu scenario like?"
+      },
+      {
+        "role": "assistant",
+        "content": "each clue leads to a further question or puzzle"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a Call of Cthulhu scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lovecraft\u2019s The Case of Charles Dexter Ward"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who becomes Ward's mentor in the arcane arts?"
+      },
+      {
+        "role": "assistant",
+        "content": "This ancestor"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does Ward's ancestor murder him?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because Ward proves too squeamish"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Ward?"
+      },
+      {
+        "role": "assistant",
+        "content": "He gets murdered and his ancestor takes his place"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the doctor do next to Ward?"
+      },
+      {
+        "role": "assistant",
+        "content": "He starts his investigations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who murders young Ward and takes his place?"
+      },
+      {
+        "role": "assistant",
+        "content": "His ancestor"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who investigates young Ward's case?"
+      },
+      {
+        "role": "assistant",
+        "content": "Young Ward's doctor, Dr. Willett"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where does Dr. Willett find the evil ancestor?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the vast basements of the ancient house"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does Dr. Willett ultimately defeat the evil ancestor?"
+      },
+      {
+        "role": "assistant",
+        "content": "By reciting the Resurrection spell backward"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the setting for Willett's investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "the house's vast basements"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Willett recite to destroy the evil ancestor?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Resurrection spell backward"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's limitation in creating scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "breaking off play when the investigators get too deep"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Keeper in creating scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "improvise"
+      }
+    ]
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the player fails the Hard INT roll to learn a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator has not learned the spell."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the player push a failed INT roll to learn a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but must justify doing so."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator if they fail to learn a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity point loss and strange magical effects\u2014both upon the investigator and their surroundings."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it typically take for a character to learn a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 week or less (1D8 days)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How often is the next INT roll made?"
+      },
+      {
+        "role": "assistant",
+        "content": "at the Keeper\u2019s discretion, perhaps once per two weeks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long it typically takes to learn a spell from another person?"
+      },
+      {
+        "role": "assistant",
+        "content": "one week or less (1D8 days)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a Mythos entity typically impart knowledge to a character?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Mythos entity imparts knowledge by means of dreams or visions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical outcome if a character fails to retain knowledge of a spell after a successful INT roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The process must be started anew."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How investigators typically receive information about magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "They rarely receive information in this manner."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Sanity points when an investigator encounters an awful creature?"
+      },
+      {
+        "role": "assistant",
+        "content": "It costs yet more Sanity points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of manipulating the forces of the Cthulhu Mythos in Lovecraft's The Dunwich Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "A loss of Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required to activate a spell in Lovecraft's The Dunwich Horror?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magic points (or POW)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be consumed during a spell to facilitate its activation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Space-mead"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What prevents spells from being cast without Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Having no Magic points does not prohibit spells from being cast\u2014if it did, there would be no cultists."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What may be consumed during a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Space-mead."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some components that can be reusable in a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The great men-hirs necessary for summoning He Who Is Not to Be Named"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character attempts to cast a newly learned spell for the first time?"
+      },
+      {
+        "role": "assistant",
+        "content": "A casting roll is required"
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's responsibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "As Keeper, you are responsible for more of the game than an individual player."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is primarily responsible for a game's outcome?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whether a game goes well or not is due to your whole gaming group, not just you."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the Keeper do if problems arise?"
+      },
+      {
+        "role": "assistant",
+        "content": "If problems arise then be ready to stop and talk to your players if you feel the need to do so."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should the Keeper address dominating players?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encourage the quieter players to participate."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main reason a game goes well or not?"
+      },
+      {
+        "role": "assistant",
+        "content": "your whole gaming group"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to handle a player dominating the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "encourage the quieter players to participate"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can one investigator be present in more than one place?"
+      },
+      {
+        "role": "assistant",
+        "content": "no"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to clearly illustrate investigator location?"
+      },
+      {
+        "role": "assistant",
+        "content": "a map and counters"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the investigator in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator can\u2019t be present in more than one place at one time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to handle a group of people in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Focus is the answer. Focus your attention on only the players who are in the present scene."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to deal with multiple investigators in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "If one player\u2019s counter is in the kitchen and another is in the attic, then when dealing with the investigator in the attic you shine the spotlight on and speak to that player only."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal for the Keeper to learn in handling a group of people?"
+      },
+      {
+        "role": "assistant",
+        "content": "Handling a group of people is an important skill for a Keeper to learn."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the key to controlling a scene in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Focus your attention on only the players who are in the present scene"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should you do if investigators have split up?"
+      },
+      {
+        "role": "assistant",
+        "content": "Be clear about which investigators are at the present scene and resolve the scene or bring it to an interesting point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should you structure your scenes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consider the structure of television drama and place yourself in the role of director"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is it important to cut to other investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Don\u2019t leave any single player inactive for too long"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should a player do if another player states that their investigator is doing something?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turn to the player of that other investigator and ask them what they are doing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can a player do if they want to interfere in the activity of another investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can do it through the actions of their own investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who gets to decide the actions of another player's investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player of the investigator who is actually performing the action."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why can't a single player dictate the actions of another player's investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it can lead to inconsistencies and inaccuracies in the game."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a player's investigator is holding a grenade and another player states they're pulling the pin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The pin is pulled regardless of what the other players might say."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can one player declare the actions of another player's investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, one player cannot declare the actions of another player's investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a potential source of anxiety among Keepers and players when creating a mystery game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The fear that the game may stall due to a lack of crucial information for the players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can happen if a dice roll to gain a clue fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may need to ask the players to make another roll until they succeed."
+      }
+    ]
+  }
+]

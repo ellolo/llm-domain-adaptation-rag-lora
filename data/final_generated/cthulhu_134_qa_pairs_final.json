@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the three solutions to get out of a tie in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "First, use the default rule; Second, break the tie in favor of the higher skill; Third, allow both sides to inflict damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is this rule applicable to ranged or firearm attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, this rule is not applicable to ranged or firearm attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when both sides fail in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing happens."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of attack are the two sides engaging in?"
+      },
+      {
+        "role": "assistant",
+        "content": "A melee attack."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage does Harvey inflict?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage Harvey inflicts on the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 damage"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage the deep one inflicts on the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + 1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can the Keeper do to simulate the uncertainty of an investigator's proximity to death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Notes down the points of damage without revealing a number to the player"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can the Keeper do to keep the player guessing about the severity of an injury?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call for a CON roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator falls unconscious due to a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator would fall unconscious"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper handle wounds in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can always call for a CON roll to keep the player guessing whether they have received a major wound or not."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey after being shot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey hears the shot, feels the impact in his left leg, and sees blood seeping into his trousers, before experiencing pain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine the extent of a wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper reveals the actual number of points of damage after the event."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of Harvey's CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey's player made a successful CON roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the extent of Harvey's wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey had 4 hit points of damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a CON roll in the Keeper's assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper confirms whether a wound is major or not."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of suppressing fire in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make a group of targets 'dive for cover,' simulating panic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who declares suppressive fire in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shooter declares they are bringing suppressive fire upon a group."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to each target in the area when suppressive fire is declared?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each target has the option to 'dive for cover' without knowing if they will be targeted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of people in a group when suppressed by fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "They feel panic when fired upon."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of simulating panic when fired upon?"
+      },
+      {
+        "role": "assistant",
+        "content": "to simulate the panic that people might feel when fired upon"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many investigators are trying to rescue the girl?"
+      },
+      {
+        "role": "assistant",
+        "content": "six investigators"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many shots are fired in the direction of the investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "three shots"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigators who dive for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "two succeed, two fail"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper allocate to the investigators who stand their ground?"
+      },
+      {
+        "role": "assistant",
+        "content": "the Keeper allocates every investigator"
+      }
+    ]
+  }
+]

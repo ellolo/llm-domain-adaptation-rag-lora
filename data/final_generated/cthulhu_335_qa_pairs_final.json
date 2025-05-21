@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the nature of shambler entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are assumed to be entities capable of walking between planes and worlds of the universe"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of shambler entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their individual motivations and purpose remain a mystery"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of trans-dimensional travel for shamblers?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can shamblers inflict damage on attackers during transit?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they cannot"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can shamblers take objects or beings with them during transit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can take objects or beings with them when they fade into another dimension"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to objects or beings that are attacked by a shambler?"
+      },
+      {
+        "role": "assistant",
+        "content": "They cannot inflict damage on their attackers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does a shambler do with objects or beings it takes with it?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes them into another dimension."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to lost objects and victims of a shambler?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are never found again."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a dimensional shambler knowing a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 40% chance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How tall is an Elder thing according to Lovecraft's At the Mountains of Madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "About eight feet tall."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance that dimensional shamblers know 1D3 spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "40%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long ago did elder things come to Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "A billion years ago"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of elder things' civilisation being wiped out?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cold of the ice age"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the current status of elder things on land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extinct"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to shoggoths after the wars with other races?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were driven back to Antarctica"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What led to the extinction of the elder civilization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cold of the ice age"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance that an elder thing knows a spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "70%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average strength of an elder thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average size of an elder thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average intelligence of an elder thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of elder things have a chance of knowing spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "70% chance"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the average damage bonus and build for dimensional shamblers?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6 and 2 respectively"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for elder things?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for dimensional shammers?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average move for dimensional shamblers?"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ]
+  }
+]

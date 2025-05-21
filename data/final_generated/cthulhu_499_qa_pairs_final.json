@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the basic difficulty level for a firearms skill roll within the base range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular difficulty level"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a firearms attack at long range (up to twice base range)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hard difficulty level"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the difficulty level for a firearms attack at very long range (up to four times base range)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extreme difficulty level"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are added if the target is diving for cover?"
+      },
+      {
+        "role": "assistant",
+        "content": "one penalty die"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many penalty dice are added if the target is partially concealed?"
+      },
+      {
+        "role": "assistant",
+        "content": "one penalty die"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of aiming into melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fumble indicates an ally has been hit. If multiple allies are in the line of fire, the one with the lowest Luck score is hit."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of aiming on the character's turn in the order of combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shot is taken on the same turn in the order of combat on the following round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for gaining a bonus die?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is large (Build 4+): one bonus die."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of taking damage or moving while aiming?"
+      },
+      {
+        "role": "assistant",
+        "content": "The advantage of aiming is lost."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of firing into melee combat with multiple allies?"
+      },
+      {
+        "role": "assistant",
+        "content": "If multiple allies are in the line of fire, the one with the lowest Luck score is hit."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the advantage of aiming lost when the aiming character takes damage or moves?"
+      },
+      {
+        "role": "assistant",
+        "content": "The advantage of aiming is lost"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many bullets are in a volley for full auto fire, regardless of skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least 3 bullets"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for burst fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "A single skill roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds does it take to load two shells into any handgun, rifle, or shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "One combat round"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many allies can be hit in a single line of fire in melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Multiple allies, the one with the lowest Luck score is hit"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many bullets are in a volley when the firer's skill is divided by 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When moving between targets, how much ammunition is expended?"
+      },
+      {
+        "role": "assistant",
+        "content": "One bullet per meter/yard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the penalty die when the number of attack rolls reaches three?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stick with two penalty dice and raise the difficulty level by one step"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the bonus die and penalty die change with the difficulty level?"
+      },
+      {
+        "role": "assistant",
+        "content": "Difficulty level affects the bonus and penalty dice, with regular being normal range, hard being long range, point blank, and extreme being very long range"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attack rolls do attackers need to make for burst fire?"
+      },
+      {
+        "role": "assistant",
+        "content": "A single attack roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the action required for the attacker after each volley of shots or selecting a new target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attacker must make a fresh attack roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does burst fire affect the number of attack rolls needed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Burst fire is a single skill roll (a single volley)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the penalty die count when it would incur three penalty dice?"
+      },
+      {
+        "role": "assistant",
+        "content": "If this would incur three penalty dice, stick with two penalty dice and raise the difficulty level by one step"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the difficulty level change based on the range?"
+      },
+      {
+        "role": "assistant",
+        "content": "Set difficulty by range and then apply any modifiers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the penalty die count when the attacker has multiple additional attack rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add one penalty die (or remove a bonus die) for each additional attack roll"
+      }
+    ]
+  }
+]

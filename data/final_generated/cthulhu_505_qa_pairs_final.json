@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for a vehicle's build being reduced to half its starting value or lower?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die is applied to all Drive Auto (or appropriate skill) rolls."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of 10 hit points of damage on a vehicle's build?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each full 10 hit points of damage decreases a vehicle's build by 1 point (round down);"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a vehicle's build is reduced to half its starting value or lower?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is impaired;"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is considered damage below 10 hit points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage below 10 hit points is ignored."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a vehicle takes damage equal to its full build value in one incident?"
+      },
+      {
+        "role": "assistant",
+        "content": "The vehicle is completely wrecked in an impressive manner."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended action for those who are fortunate during a wreck?"
+      },
+      {
+        "role": "assistant",
+        "content": "They should take at least 2D10 damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle if its build is reduced to zero by cumulative damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "It becomes undrivable, grinding to a halt."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor rating for passengers and driver?"
+      },
+      {
+        "role": "assistant",
+        "content": "The armor rating reflects the number of points of armor the vehicle provides against external attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a vehicle's drivability if the starting build value is exceeded?"
+      },
+      {
+        "role": "assistant",
+        "content": "it becomes undrivable, grinding to a halt"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor rating for passengers and driver?"
+      },
+      {
+        "role": "assistant",
+        "content": "the number of points of armor the vehicle provides against external attacks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to passengers and crew if the vehicle is attacked?"
+      },
+      {
+        "role": "assistant",
+        "content": "the number of people that can be accommodated"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of a Sanity loss of 5 points or more?"
+      },
+      {
+        "role": "assistant",
+        "content": "make an Intelligence roll\u2014 if successful, temporary insanity ensues"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the armor rating represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "the number of points of armor the vehicle provides against external attacks"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the cumulative Sanity points lost to a Mythos entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "to record the cumulative loss of Sanity points for a given Mythos entity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a Sanity loss exceeds the maximum amount for a single encounter?"
+      },
+      {
+        "role": "assistant",
+        "content": "the cumulative loss should not exceed the maximum amount for a single encounter with that entity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of making an Intelligence roll when Sanity loss is 5 points or more?"
+      },
+      {
+        "role": "assistant",
+        "content": "temporary insanity ensues"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of a bout of madness in 'real time' mode?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator behave in 'real time' mode?"
+      },
+      {
+        "role": "assistant",
+        "content": "Must fight/flee or take a penalty die on skill rolls"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the investigator fails a Sanity roll to test for delusions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lose 1 Sanity point (and undergo a bout of madness if insane)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much Cthulhu Mythos skill is added to the investigator's first bout of madness inspired by a Mythos-related event?"
+      },
+      {
+        "role": "assistant",
+        "content": "5% Cthulhu Mythos skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of failing a Sanity roll for delusions?"
+      },
+      {
+        "role": "assistant",
+        "content": "lose 1 Sanity point (and undergo a bout of madness if insane)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper determine if an investigator recovers from indefinite insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "roll at the end of each month of treatment"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when an investigator is treated at home for insanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "success (or under psychoanalysis skill); add 1D3 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the Cthulhu Mythos skill added to an investigator's madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "add 5% Cthulhu Mythos skill with first bout of madness inspired by a Mythos-related event"
+      }
+    ]
+  }
+]

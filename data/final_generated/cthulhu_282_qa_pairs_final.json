@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When can the Dismiss portion of the spell be cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "anytime, anywhere"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What words can be used for inspiration when composing alternative names for Dismiss Deity spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banishment, Dispel, Exile, Repel, Bane, Evict, Repudiate, Cast Out"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points are required to cast the Cause/Cure Blindness spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Sanity points are required to cast the Cause/Cure Blindness spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some alternative spell names for 'Dismiss Deity'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banishment, Dispel, Exile, Repel, Bane, Evict, Repudiate, Cast Out"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of 'Cause/Cure Blindness' on a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target suffers complete and permanent blindness, or the spell can reverse blindness if the eyes and optic nerves are intact"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "8"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Chant of Thoth in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time of the Chant of Thoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 minutes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Chant of Thoth on the caster's chance of solving an intellectual problem?"
+      },
+      {
+        "role": "assistant",
+        "content": "It boosts his or her chance of solving a particular intellectual problem"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the spell Chant of Thoth to take effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster must succeed in an opposed POW roll with the target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the spell Chant of Thoth?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Cloud Memory spell in magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must the caster be able to see to cast the Cloud Memory spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the caster wins the opposed POW roll with the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's mind is mentally blocked regarding one specified incident"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Cloud Memory spell fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The event in question becomes vivid in the target's mind"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the target's mind if the caster wins?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target's mind is mentally blocked regarding one specified incident."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the spell block knowledge of spells or the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it cannot block knowledge of spells or the Cthulhu Mythos unless the knowledge is firmly tied to a specific event."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the spell in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "1+ magic points equal to twice the damage delivered that round"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative name for this spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Befuddle, Dumbfound, Mystify"
+      }
+    ]
+  }
+]

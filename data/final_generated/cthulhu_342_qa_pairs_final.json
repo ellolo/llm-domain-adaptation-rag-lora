@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are Gla'aki's slaves made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "Corpse, created by Gla'aki's spines"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do Gla'aki's slaves react to intense light?"
+      },
+      {
+        "role": "assistant",
+        "content": "They wither and begin to rot, destroying them in a few hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of spells do Gla'aki's slaves have?"
+      },
+      {
+        "role": "assistant",
+        "content": "None, but they retain any they knew while alive and new spells taught by Gla'aki"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Gla'aki's slaves after six decades of half-death?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become subject to the Green Decay"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the Green Decay take to destroy a Gla'aki's slave exposed to intense light?"
+      },
+      {
+        "role": "assistant",
+        "content": "A few hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to servants of Gla'aki after six decades of half-death?"
+      },
+      {
+        "role": "assistant",
+        "content": "They wither and look like the undead monsters they are."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of intense light on servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Green Decay, which begins to rot on the spot, destroying one so exposed in a few hours."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "None."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the movement speed of servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to servants of Gla'aki if they are exposed to intense light?"
+      },
+      {
+        "role": "assistant",
+        "content": "They become subject to the Green Decay."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "None."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points for servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks do servants of Gla'aki have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical weapon used by servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sickle."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical damage dealt by a weapon in this monster?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3 + damage bonus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a living-corpse aspect?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for a Green Decay death?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a 1D6 + 1 + damage bonus attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + 1 + damage bonus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of damage is considered 'flying' damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "20%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical habitat of the gnoph-keh?"
+      },
+      {
+        "role": "assistant",
+        "content": "glaciers, ice caps, extremely cold and icy areas"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a human tribe naming themselves after the gnoph-keh?"
+      },
+      {
+        "role": "assistant",
+        "content": "perhaps they worship the gnoph-keh as a deity or use it as a totem beast"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much magic points does the gnoph-keh's blizzard power cost per hour?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point per hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum radius of the gnoph-keh's blizzard?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the gnoph-keh's blizzard restrict visibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "to 3 yards maximum"
+      }
+    ]
+  }
+]

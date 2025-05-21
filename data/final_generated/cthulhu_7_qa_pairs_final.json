@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the front door open?"
+      },
+      {
+        "role": "assistant",
+        "content": "The front door is open."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who dropped down into the manhole?"
+      },
+      {
+        "role": "assistant",
+        "content": "A hulking figure."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Was the manhole cover locked?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it's wide open."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who told the others about the open front door?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cathy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the sound Garrie made after hearing the splash?"
+      },
+      {
+        "role": "assistant",
+        "content": "A dubious liquid-sound."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill did Cathy successfully roll for the task?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stealth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Was the front door locked or open when Cathy questioned it?"
+      },
+      {
+        "role": "assistant",
+        "content": "It\u2019s wide open."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who told the others that the front door is open?"
+      },
+      {
+        "role": "assistant",
+        "content": "The rest of you, Cathy told you that..."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who suggested that Professor Arnold could stand guard while the others entered?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cathy"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the condition of the inside of the mansion when Joe and Paula entered?"
+      },
+      {
+        "role": "assistant",
+        "content": "It\u2019s very dark and quiet"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who volunteered to use the flashlight to lead the way?"
+      },
+      {
+        "role": "assistant",
+        "content": "Paula"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What two options were available to Joe and Paula when they entered the mansion?"
+      },
+      {
+        "role": "assistant",
+        "content": "A hallway leading to the living room or a right-hand door leading to a study"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Paula?"
+      },
+      {
+        "role": "assistant",
+        "content": "Paula"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of the water in the wet patches on the floor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dirty and stinking"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Paula intend to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Search the study"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Arnold do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Checks out the hall closet"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Jake do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Goes upstairs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Joe do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Searches the living room"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the group's plan after splitting up?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper deals individually with each player"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Paula's initial plan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Paula, I\u2019m going into the study, and I intend to search it."
+      }
+    ]
+  }
+]

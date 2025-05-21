@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Chase rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "136-138"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Concealment rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "113"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Cover rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "113"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the ranges of the Constitution rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "30, 33, 37, 120, 121"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the ranges of the Contacts rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "97-98"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the ranges of the Credit Rating rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "36, 95, 96"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Critical, Success rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "89-90, 91, 112"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Damage rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "103, 119-120, 121"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Chase, Conflict rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "138"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Concealment, Complete, Optional Rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "127"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of the Cover, Optional Rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "127"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the ranges of the Creating Investigators rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "30ff, 186"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Damage Bonus?"
+      },
+      {
+        "role": "assistant",
+        "content": "33, 103, 108"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Damage value for Concealed, Optional Rule?"
+      },
+      {
+        "role": "assistant",
+        "content": "126"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Death value?"
+      },
+      {
+        "role": "assistant",
+        "content": "119, 123, 213"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Declaration Of Intent, Combat value?"
+      },
+      {
+        "role": "assistant",
+        "content": "102"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Deeper Magic value?"
+      },
+      {
+        "role": "assistant",
+        "content": "242"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Delusions range?"
+      },
+      {
+        "role": "assistant",
+        "content": "162-163, 164, 211"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Demolitions Skill value?"
+      },
+      {
+        "role": "assistant",
+        "content": "62"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dexterity value?"
+      },
+      {
+        "role": "assistant",
+        "content": "31, 33, 37, 133"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dexterity, Order of Attack value?"
+      },
+      {
+        "role": "assistant",
+        "content": "102, 107, 112"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Dice value?"
+      },
+      {
+        "role": "assistant",
+        "content": "17"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the Dice roll variations?"
+      },
+      {
+        "role": "assistant",
+        "content": "19"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find the Dice Rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "194-195"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the Dice, Bonus values?"
+      },
+      {
+        "role": "assistant",
+        "content": "91, 112, 113-114"
+      }
+    ]
+  }
+]

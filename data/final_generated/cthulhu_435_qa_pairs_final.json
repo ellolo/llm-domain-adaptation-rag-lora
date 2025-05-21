@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Turner's body if he's exposed to sunlight for three hours?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turner's bodies disintegrate forever."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Turner's gang if they're exposed to sunlight for an hour?"
+      },
+      {
+        "role": "assistant",
+        "content": "They should have one penalty applied to all their actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the weakness of the servants that Turner and his gang have?"
+      },
+      {
+        "role": "assistant",
+        "content": "The servants have weaknesses and can be destroyed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for Turner and his gang if they're exposed to sunlight?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty applied to all their actions per hour of exposure."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the servants if they're exposed to sunlight for three hours?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their bodies disintegrate forever."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What damage bonus does Turner have?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Turner's bodies after three hours of constant sunlight?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their bodies disintegrate forever."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of caskets can alleviate the spread of the green decay?"
+      },
+      {
+        "role": "assistant",
+        "content": "The blue stone caskets."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How often can Turner use his fighting attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacks per round: 1."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Turner's knife attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Turner's unarmed attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Turner's knife attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + 1 + damage bonus."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical appearance of a Servant of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "For convenience, use the standard values for a Servant of Gla'aki..."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many sanity points are lost to see the members of Strong's Survey Team?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D8 sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical weapon carried by each Servant of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "a knife or similar tool"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Servants of Gla'aki are mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 (August, Jacob, Louis, Vincent)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the gang composed of Servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turner's gang, Servants of Gla'aki"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Carl, James, Dean, and Richard have been made into undead servants of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical tool used by the Servant of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "a knife or similar tool"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity Loss for closer inspection of the Servant of Gla'aki?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D8"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary difference in how Sidney Harris and Eugene Clayton should be portrayed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should personalize them through the way they are portrayed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Harris's primary weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "a shotgun"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Clayton's primary weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": ".30-06 Bolt-action Rifle"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for Harris?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ]
+  }
+]

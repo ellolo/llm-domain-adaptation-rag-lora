@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the caster of a failed spell casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster of a failed spell casting must still pay the Sanity point and Magic point costs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper consult the charts for the consequences of a failed casting roll for inspiration?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Keeper may consult the charts for the consequences of failing a pushed casting roll for inspiration on what might happen."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the narrator's unpleasantly erudite folklorist?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator's unpleasantly erudite folklorist is Wilmarth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What book did the narrator read that they regret?"
+      },
+      {
+        "role": "assistant",
+        "content": "The book the narrator read that they regret is the Necronomicon."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must be paid after a failed spell casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity point and Magic point costs"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can reading a certain book safely do to dismiss its contents as fantasy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dismiss the contents as a work of fantasy"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator who comes face-to-face with a deep one or a ghoul?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leaves no option but to believe in the cosmic horror of the Cthulhu Mythos"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can disbelief have for an investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perils"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Sanity points when they encounter evidence of the Cthulhu Mythos firsthand?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity points are reduced by the corresponding amount."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of reading the Cultes des Goules on an investigator's Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "No Sanity points are lost."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Sanity points when they become a believer in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity points are immediately reduced by the investigator's present Cthulhu Mythos score."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does reading the Cultes des Goules affect an investigator's Sanity points?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Sanity points are not lost."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Sanity points when they encounter the Cthulhu Mythos firsthand?"
+      },
+      {
+        "role": "assistant",
+        "content": "They immediately lose Sanity points equal to their present Cthulhu Mythos score."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a Keeper record an investigator's gain of Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "As normal, and it is that value that is deducted from their Sanity points when becoming a believer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a nonbeliever read Mythos books and learn spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can read Mythos books and learn (but not cast) spells."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What always calls for a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Firsthand experience of the Mythos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of viewing human corpses or torture on Sanity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Viewing human corpses or torture may cause Sanity point loss."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a nonbeliever learn spells from Mythos books?"
+      },
+      {
+        "role": "assistant",
+        "content": "A nonbeliever may read Mythos books and learn (but not cast) spells."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Sanity if they pass a Sanity roll for encountering a deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "No Sanity points are lost and the investigator might remain a nonbeliever."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is needed to make an investigator a believer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meeting a clearly unearthly being or a manifestation of one of the gods of the Mythos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Sanity points when encountering a deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "No Sanity points are lost"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's Sanity points when they believe in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanity points are lost"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of passing a Sanity roll when encountering a deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator remains a nonbeliever"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can an investigator become a believer at any point?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the player wishes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement for an investigator to become a believer?"
+      },
+      {
+        "role": "assistant",
+        "content": "A clearly unearthly being or a manifestation of one of the gods of the Mythos"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of passing a Sanity roll for encountering a deep one?"
+      },
+      {
+        "role": "assistant",
+        "content": "No Sanity points are lost"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can an investigator become a believer at any point the player wishes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the player wishes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a character successfully casts a spell requiring an opposed POW roll to affect the target?"
+      },
+      {
+        "role": "assistant",
+        "content": "A chance for the caster to gain Power"
+      }
+    ]
+  }
+]

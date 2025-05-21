@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Magic points does Matthew owe after the explosion?"
+      },
+      {
+        "role": "assistant",
+        "content": "11"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does Matthew have left after the explosion?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the Sanity point loss to Matthew?"
+      },
+      {
+        "role": "assistant",
+        "content": "insanity"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points does Matthew lose in one blow?"
+      },
+      {
+        "role": "assistant",
+        "content": "over half his hit points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of Matthew losing over half his hit points in one blow?"
+      },
+      {
+        "role": "assistant",
+        "content": "He must make a CON roll to remain conscious."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to Matthew's Sanity points after he recovers?"
+      },
+      {
+        "role": "assistant",
+        "content": "He will have resulted in insanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Keeper's action after recovering from the spell's effects?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper amends two of his background entries, one for the wound and one for the insanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of the caster's unnatural aging?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster ages unnaturally (+2D10 years and apply characteristic modifiers, see Age, page 32)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Keeper loses hit points as a result of overspending Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should narrate the physical harm as a part of the physical consequence of the casting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the spell on the Keeper's Sanity point?"
+      },
+      {
+        "role": "assistant",
+        "content": "When he recovers, the Sanity point loss will have resulted in insanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the casting roll is pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "time for a Sanity roll!"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Keeper narrates the physical harm as a result of losing Magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "the physical harm is a part of the physical consequence of the casting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a spell is cast in a way that its effects are noticeable?"
+      },
+      {
+        "role": "assistant",
+        "content": "one might spot a peculiar hand gesture or body movement, or notice some unusual item or necessary ingredient."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when Magic points are lost as a result of overspending?"
+      },
+      {
+        "role": "assistant",
+        "content": "hit points are lost as a result."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some effects of Mythos magic in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "wide-ranging effects including gouts of fire, lines of electrical force, pale nimbuses and auroras of various colors, and more"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should Keepers do to keep certain effects low-key?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keepers should keep such effects low-key"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a wide-ranging effect of Mythos magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call of Cthulhu-esque roars from beyond"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a prickly sensation caused by a Mythos magic effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "prickly sensations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a disrupted spell casting?"
+      },
+      {
+        "role": "assistant",
+        "content": "A disrupted spell casting is when the casting of a spell is interrupted due to significant distraction."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a caster if they fail a pushed casting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "They must pay the Sanity point."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is considered a significant distraction to a caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "A caster can be significantly distracted by being physically struck or shot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who can consult the charts for the consequences of failing a pushed casting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can consult the charts for the consequences of failing a pushed casting roll."
+      }
+    ]
+  }
+]

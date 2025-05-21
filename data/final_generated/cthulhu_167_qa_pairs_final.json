@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long can the investigator be lost in madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when the bout of madness comes to an end?"
+      },
+      {
+        "role": "assistant",
+        "content": "They return to their senses"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper summarize the time the investigator is lost in madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "By simply describing the unfamiliar place"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's memory after the bout of madness ends?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have no memory of where they have been or what they have done"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does temporary insanity last in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does temporary insanity typically last?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the nature of a bout of madness in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Either roll on Table VIII: Bouts of Madness\u2014Summary or the Keeper may choose an appropriate option."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does indefinite insanity typically last in a Call of Cthulhu scenario or chapter?"
+      },
+      {
+        "role": "assistant",
+        "content": "The duration of the scenario or chapter"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's behavior after recovering from a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They return to normal behavior, only occasionally presenting their insanity outwardly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of the investigator's paranoia after recovering from madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They constantly check the street for cars."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the investigator's paranoia?"
+      },
+      {
+        "role": "assistant",
+        "content": "They disassemble the telephone, looking for bugs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of the investigator's phobia after recovering from madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are afraid of a draught of cool air."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the chapter that provides further advice on roleplaying insane characters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chapter 10: Playing the Game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of Harvey recovering from his bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "He rejoins his friends"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a phobia or mania on an insane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes on a greater significance"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a phobia or mania on a sane investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "It acts solely as a roleplaying trait"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to claustrophobia when the investigator is sane?"
+      },
+      {
+        "role": "assistant",
+        "content": "The phobia won't prevent the investigator from crawling through dark tunnels."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the investigator is insane and exposed to the source of a phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "The phobia causes panic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for actions other than fighting or fleeing for phobias?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the penalty die apply to Sanity rolls or reality check rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it does not apply to Sanity rolls or reality check rolls."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of direct exposure to the subject of a phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes panic"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of exposure to the source of a mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes an obsessive reaction"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does being exposed to the subject of a phobia affect Sanity rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "No penalty applies"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when being exposed to the subject of their mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "Causes an overwhelming response"
+      }
+    ]
+  }
+]

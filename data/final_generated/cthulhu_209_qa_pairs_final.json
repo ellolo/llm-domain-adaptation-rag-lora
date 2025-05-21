@@ -1,0 +1,306 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary focus of horror in this game?"
+      },
+      {
+        "role": "assistant",
+        "content": "horror is most effective when it hits close to home"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the investigator's backstory in this game?"
+      },
+      {
+        "role": "assistant",
+        "content": "the investigator's backstory should be planned out from the outset to be woven into the story"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main theme of horror in Lovecraft's story The Shadow over Innsmouth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main theme of horror in Lovecraft's story The Shadow over Innsmouth is that horror is most effective when it hits close to home."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of planning out intentions for investigator backstories from the outset?"
+      },
+      {
+        "role": "assistant",
+        "content": "Planning out intentions for investigator backstories from the outset allows them to be woven into the story naturally and be more pertinent to the player and the overall story."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the source of the threat to the narrator's sanity in Lovecraft's story?"
+      },
+      {
+        "role": "assistant",
+        "content": "the realization concerning his own bloodline"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be done to a backstory entry when an investigator experiences a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "added or amended, or corrupted rather than replaced"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can investigator insanity or injury force changes to backstory entries?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, it may not."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can investigators be compelled to amend backstory entries at any time?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they are not."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can changes to a character's backstory be delayed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, changes to a character's backstory can be delayed to allow for further consideration."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the Keeper reviews a character's backstory?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper reviews a character's backstory and considers how each entry might be amended as a result of insanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the Keeper delay the changes to the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Keeper allows the player to delay the changes to allow themselves time to think."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper consider while reviewing Harvey Walters' backstory?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper considers how each entry might be amended as a result of insanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What drove Uncle Theodore mad?"
+      },
+      {
+        "role": "assistant",
+        "content": "His obsessions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative interpretation of 'Fate'?"
+      },
+      {
+        "role": "assistant",
+        "content": "It could mean being chosen as a prophet."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Martha's concern about Uncle Theodore's artifacts?"
+      },
+      {
+        "role": "assistant",
+        "content": "They present a danger to the world and must be destroyed!"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Martha's superstitious warning about?"
+      },
+      {
+        "role": "assistant",
+        "content": "Careful not to tread on the cracks in the pavement."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How would Martha describe someone with a love of fashion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Handsome, well-dressed and a little overweight."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Looks for signs and omens' signify?"
+      },
+      {
+        "role": "assistant",
+        "content": "It signifies a superstitious or prophetic mindset."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Handsome, well-dressed and a little overweight' describe?"
+      },
+      {
+        "role": "assistant",
+        "content": "It describes a materialistic person who takes pride in fashion and appearance."
+      }
+    ]
+  }
+]

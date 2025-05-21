@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result if the character's sanity is 96\u2013100?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character rebels against taking drugs or therapy, losing 1D6 Sanity points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does Dr. Shiny decide to make Harvey an involuntary patient?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Shiny decides to make Harvey an involuntary patient due to three reasons: (1) Harvey poses a risk to others, (2) Harvey poses a danger to himself, and (3) Harvey has a psychiatric disorder, specifically delusions about cultists and the Cthulhu Mythos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What crime has Harvey Walters been arrested for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey Walters has been arrested for breaking into a construction site and attempting to steal dynamite."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is Harvey Walters assessed by a psychiatrist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey Walters is assessed by a psychiatrist because of his delusions concerning cultists and the Cthulhu Mythos, which poses a risk to himself and others."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is Dr. Shiny concerned about Harvey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey poses a risk to others, especially Carl Stanford; he poses a danger to himself, having stolen the dynamite and blasting caps; and Harvey has a psychiatric disorder, in the form of delusions concerning cultists and the Cthulhu Mythos."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does Dr. Shiny declare Harvey unfit to drive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because of his involvement in five car accidents, as well as one hit-and-run, especially the one where he had to run over an evil cultist."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does Dr. Shiny commit Harvey to the institute?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, Dr. Shiny declares Harvey unfit to drive, but Harvey retains the right to continue to manage his own financial affairs and is committed to the institute for assessment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Dr. Shiny find about Harvey's financial situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey is financially competent, able to explain all his assets and how he earns money."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition of Harvey Walters' financial management?"
+      },
+      {
+        "role": "assistant",
+        "content": "He is financially competent, able to explain his assets and how he earns money."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does Dr. Shiny do after Harvey escapes from the institute?"
+      },
+      {
+        "role": "assistant",
+        "content": "He notifies the police and calls Carl Stanford regarding the escape."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a formal presentation to the court in this case?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine if an investigator is mentally competent to act on their own behalf or if they might voluntarily surrender specific legal rights in return for treatment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the importance of the character and dedication of judge, counsel, and examining physician in these proceedings?"
+      },
+      {
+        "role": "assistant",
+        "content": "Much depends on the soundness of the proceedings; brusque formal evaluations are not unusual."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who can be chosen as a guardian if the court decides for mental incompetence?"
+      },
+      {
+        "role": "assistant",
+        "content": "a relative or someone whom the court has reason to assume will act in the individual\u2019s best regard"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the court decides that the individual is mentally competent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nothing mentioned in the text, as it only discusses the scenario where the individual is deemed mentally incompetent"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical outcome when the court decides for mental incompetence?"
+      },
+      {
+        "role": "assistant",
+        "content": "a responsible guardian is chosen, who thereafter in theory acts to benefit the individual"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who can be appointed as a guardian if no other candidates are available?"
+      },
+      {
+        "role": "assistant",
+        "content": "the court"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the soundness of these proceedings?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character and dedication of judge, counsel, and examining physician or physicians."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the guardian if the court decides the individual is mentally incompetent?"
+      },
+      {
+        "role": "assistant",
+        "content": "To benefit the individual, normally by acting in their best regard."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigator appoint themselves as the guardian?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, unless they are criminally insane, then the court must be the guardian."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the court typically decide on a guardian's plan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lacking other indication, the court will accept any reasonable plan with the backing of medical opinion."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the court decide on the best course of action for the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The guardian now decides what is best for the investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the three ways the investigator can leave an institution?"
+      },
+      {
+        "role": "assistant",
+        "content": "he or she may convince the guardian to remove him or her from the institution; he or she may convince the institution\u2019s staff to bring notice of his or her restored mental balance before the awarding court and that court takes upon itself the guardianship and grants his or her freedom; or he or she can simply climb over the institution\u2019s wall"
+      }
+    ]
+  }
+]

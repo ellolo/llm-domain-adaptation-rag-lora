@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What triggered the Keeper to choose the 'summary option'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper rolled 4, which indicates some form of violence."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Harvey while he was alone?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey trashes the room in his search for hidden cameras, listening devices, and speaker units."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much time had passed when Harvey recovered his wits?"
+      },
+      {
+        "role": "assistant",
+        "content": "At least 3 hours had passed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the condition of the office after Harvey recovered his wits?"
+      },
+      {
+        "role": "assistant",
+        "content": "The office looked like a bomb had hit it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the condition of the security guard on the floor?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was either dead or unconscious with a bloody wound on his head."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is lying on the floor with a bloody wound on his head?"
+      },
+      {
+        "role": "assistant",
+        "content": "A security guard thrown in by the Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to Kratos after failing his Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kratos loses 5 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What result does Kratos get on his Intelligence roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "He rolls 23 on 1D100, passing his Intelligence roll (INT)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper decide Kratos will do next?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kratos will flee the hotel and head for the train station"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Keeper determine to be the result of Kratos's bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decides Kratos will flee the hotel and head for the train station, boarding the first train for Calais"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when investigators choose to listen to Kratos leaving?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are allowed a Listen roll to do so."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What control does the player have over the investigator during the Insanity Phase 2?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player has control firmly in their hands, allowing them to freely choose how to roleplay being insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does the player have to roleplay being insane during the Insanity Phase 2?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the player is not compelled to do so."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can aspects of the initial bout of madness be reincorporated during the Insanity Phase 2?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, for the duration of the underlying insanity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to control of Kratos after the initial bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper hands control of Kratos back to the player."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the player's control during the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player has firm control over the game."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the player choose to roleplay as insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the player may freely choose to roleplay being insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the player loses Sanity points after the initial bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Another bout of madness occurs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the player's mental fragility after the initial bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The mental fragility remains for the full duration."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the player loses Sanity points during a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The bout of madness repeats."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators if they suffer a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may be lost in madness and thus not under the player's control for minutes or hours."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome for investigators if a bout of madness happens away from the company of other investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can simply fast-forward the action and describe the outcome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long is an investigator typically not under the player's control after a bout of madness?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours, or as the Keeper judges appropriate."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators if all of them suffer a bout of madness simultaneously?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can simply fast-forward the action and describe the outcome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to investigators who suffer a bout of madness away from the company of other investigators or all of them suffer a bout of madness simultaneously?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper can simply fast-forward the action and describe the outcome."
+      }
+    ]
+  }
+]

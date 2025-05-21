@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Was the receptionist initially considered a threat?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the receptionist was not considered a threat initially."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the Keeper's decision after the investigator lost the pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper decided that the receptionist was allied with the investigator's enemies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How did the Keeper hint at this decision?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper hinted at this decision by having the receptionist say he had never heard of the investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the receptionist doing on the phone after the Keeper's decision?"
+      },
+      {
+        "role": "assistant",
+        "content": "The receptionist was speaking on the phone."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What changed the receptionist's status after the investigator lost the pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper added the receptionist as yet another pawn to the enemy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the status of the receptionist before the player lost the pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not considered a threat"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the consequence for the investigator if he was insane at the time of losing the pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attacking the innocent bystander until he was restrained by hotel staff"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the next thing the investigator was aware of after losing the pushed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lying on the floor, pinned by a police officer's knee"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was happening to the man nearby after the investigator was restrained?"
+      },
+      {
+        "role": "assistant",
+        "content": "Being attended to by hotel staff"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the man nearby after the investigator was restrained?"
+      },
+      {
+        "role": "assistant",
+        "content": "He had a beaten body"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator is attacked by the Keeper during his bout of madness."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens next to the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The next thing the investigator is aware of is lying on the floor, pinned by a police officer's knee."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who tends to the beaten man?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hotel staff attend to the beaten man."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When should the Keeper use the dice?"
+      },
+      {
+        "role": "assistant",
+        "content": "When there\u2019s a genuine conflict."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skills should be used when there\u2019s a genuine conflict?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charm, Fast Talk, Intimidate, and Persuade Skills."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be roleplayed as a verbal confrontation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Verbal confrontations should be roleplayed at the table with much gusto and performance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skills can be used to determine the difficulty of coercing a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charm, Fast Talk, Intimidate, and Persuade Skills: Difficulty Levels (page 93)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can sometimes win over a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "A pretty face, a threat, a bribe, and so on"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When can a cult boss be persuaded?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the investigator inveigles their way into the cult"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When can a non-player character be coerced?"
+      },
+      {
+        "role": "assistant",
+        "content": "When it might require a pretty face, a threat, a bribe, and so on"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the key factor in persuading cultists?"
+      },
+      {
+        "role": "assistant",
+        "content": "the right approach"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is the difficulty level raised to Extreme?"
+      },
+      {
+        "role": "assistant",
+        "content": "the cultist's motivation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper initially approach the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "intimidation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the cultist's skill levels for Intimidate and Psychology?"
+      },
+      {
+        "role": "assistant",
+        "content": "below 50%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting difficulty level for the cultist?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular"
+      }
+    ]
+  }
+]

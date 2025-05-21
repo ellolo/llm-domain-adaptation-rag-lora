@@ -1,0 +1,258 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of using the Gate in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "one-fifth of the POW originally used to make the Gate"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the user if they lack enough magic points for a trip through a Gate?"
+      },
+      {
+        "role": "assistant",
+        "content": "the traveler expends hit points to make up the cost"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the 'Find Gate' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point; 1D3 Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the 'Find Gate' spell take to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "20-60 minutes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the 'Find Gate' spell reveal to the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "any Gate if it is within the caster\u2019s direct vision"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the 'Gate Boxes' spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 POW; variable magic points and Sanity points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting a Gate Box spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 POW"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the ritual for creating a Gate Box take?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the boxes' magic points each day?"
+      },
+      {
+        "role": "assistant",
+        "content": "They drain half of the creator's Magic points each day"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the boxes to become operative?"
+      },
+      {
+        "role": "assistant",
+        "content": "When they have absorbed magic points equal to their total SIZ x 20"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the casting time for the Time Gate spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "One hour per POW spent"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the person stepping through the Time Gate doorway?"
+      },
+      {
+        "role": "assistant",
+        "content": "They need to sacrifice 1 Sanity point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the Gate is used without the caster's assistance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Those foolish enough to use the Gate unassisted by the caster will be unable to determine the correct path and could arrive at any of the times the Gate is keyed to (roll randomly)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Gate Creation spell cost compared to Create Gate?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell costs POW for the number of years travelled rather than the number of miles journeyed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the accuracy of the Gate in determining the desired time?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell only yields a time approximate to that desired."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the exact time interval between 'now' and 'then' once a Gate is created?"
+      },
+      {
+        "role": "assistant",
+        "content": "The exact interval between 'now' and 'then' remains the same."
+      }
+    ]
+  }
+]

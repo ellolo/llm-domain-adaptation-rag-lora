@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard rule for melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed rolls"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "When is it acceptable for a Keeper to use an opposed roll between non-player characters and investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Outside of combat"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who decides whether an opposed roll will be used?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of using opposed rolls according to the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "To enhance the drama"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard for melee combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed rolls"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should a Keeper do when using opposed rolls between non-player characters and investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Avoid using opposed rolls"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do both sides select a skill or characteristic for an opposed roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each side selects one, approved by the Keeper"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a Keeper 'push' the result of an opposed skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, opposed skill rolls cannot be pushed"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What must both sides select when playing Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "a skill or a characteristic"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines a level of success in Call of Cthulhu?"
+      },
+      {
+        "role": "assistant",
+        "content": "comparing their rolls with their chosen skill or characteristic"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a roll is 100?"
+      },
+      {
+        "role": "assistant",
+        "content": "the roll is a fumble"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can a roll of 96 or above be, if the roll required for success is less than 50?"
+      },
+      {
+        "role": "assistant",
+        "content": "a fumble"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines a level of success in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both sides roll dice to determine a level of success by comparing their rolls with their chosen skill or characteristic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can a roll yield a 'fumble'?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll can yield a fumble if the roll required for success is less than 50, and the roll is 96 or over."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to opposed skill rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opposed skill rolls cannot be pushed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a regular success roll compare to a character's skill or characteristic?"
+      },
+      {
+        "role": "assistant",
+        "content": "A regular success roll is equal to or below the character's skill or characteristic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a Critical success?"
+      },
+      {
+        "role": "assistant",
+        "content": "A roll of 01."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a Critical success compare to an Extreme success?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Critical success beats an Extreme success."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who are the two investigators playing chess?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harvey and Edgar"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the goals of the players in the chess game?"
+      },
+      {
+        "role": "assistant",
+        "content": "To win"
+      }
+    ]
+  }
+]

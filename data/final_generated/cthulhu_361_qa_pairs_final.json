@@ -1,0 +1,290 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of Shoggoth Lords in their natural state?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are not social, they do not die natural deaths, nor do they breed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average Strength score for a Shoggoth Lord in their human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a special ability of a Shoggoth Lord as a spellcaster?"
+      },
+      {
+        "role": "assistant",
+        "content": "Knows 1D3 spells as the Keeper desires."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average Intelligence score for a Shoggoth Lord in their human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of the Shoggoth Lord's human form compared to its natural state?"
+      },
+      {
+        "role": "assistant",
+        "content": "Its human form averages lower values in all stats"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical method used to determine a Shoggoth Lord's strength and constitution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rolls such as (2D6+8 \u00d75), (2D6+6 \u00d75), (3D6+3 \u00d75), (3D6 \u00d75), (2D6+6 \u00d75), (3D6+3 \u00d75), (1D6+3 \u00d75), and (3D6 \u00d75)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of the Shoggoth Lord's ability to cast spells?"
+      },
+      {
+        "role": "assistant",
+        "content": "They know 1D3 spells as the Keeper desires"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average score of the Shoggoth Lord on the 'POW' stat?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Shoggoth's human form HP?"
+      },
+      {
+        "role": "assistant",
+        "content": "13"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Shoggoth's average damage bonus in its human form?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of attacks per round for a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt to a victim being digested by a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 hit points damage each round"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage a shoggoth lord deals with its crush attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not specified, but it mentions the damage for fighting and engulfing a target."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage reduction for fire and electrical attacks against a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much damage a shoggoth lord deals per round when engulfing a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 per round (acid damage)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage reduction for physical attacks such as firearms and knives against a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only 1 point of damage per hit."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the Sanity loss to see a shoggoth lord?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6/1D20"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the additional Sanity point loss for keepers?"
+      },
+      {
+        "role": "assistant",
+        "content": "1/1D3"
+      }
+    ]
+  }
+]

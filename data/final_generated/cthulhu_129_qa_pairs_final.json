@@ -1,0 +1,290 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does a character recover from regular damage per day?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hit point per day"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take Harvey to recover from 17 damage of regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 days"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points Harvey recovers per day if he has not sustained a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "After how many days of recovery does Harvey regain full health, assuming he has no major wounds and only taken regular damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "15"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to Harvey's health if he fails a CON roll at the end of a week of game time with a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "No recovery takes place that week"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points are recovered if a character succeeds on a CON roll at the end of a week of game time with a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many damage points has Harvey taken?"
+      },
+      {
+        "role": "assistant",
+        "content": "17"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for Harvey to recover to full health?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 days"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should the character's caregiver do with Medicine skill if they receive effective medical care?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make one Medicine skill roll at the end of the week"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence if the character is unable to take sufficient rest and/or a fumble was rolled on their doctor's Medicine skill roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "A penalty die should be added"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What skill should the caregiver make a roll with if they receive effective medical care?"
+      },
+      {
+        "role": "assistant",
+        "content": "Medicine skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who should make the Medicine skill roll if the character receives effective medical care?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caregiver with the highest Medicine skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for a major wound to be healed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The character either rolls an Extreme success for their recovery (CON roll) or their current hit points have recovered to half or more than half of their full hit point total."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is damage calculated in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Damage is less than half of the maximum hit points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points can be recovered per day with First Aid?"
+      },
+      {
+        "role": "assistant",
+        "content": "One hit point per day."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a fumble on the character's recovery?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lasting injury, complication, or worse condition results."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum amount of damage a character can take before dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "more than half maximum hit points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if a character fails to heal a major wound?"
+      },
+      {
+        "role": "assistant",
+        "content": "No healing"
+      }
+    ]
+  }
+]

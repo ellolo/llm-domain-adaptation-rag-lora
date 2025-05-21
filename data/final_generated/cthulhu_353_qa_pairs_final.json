@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a Nightgaunt's successful tickling attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target becomes bewilder, humiliated, and disoriented, suffering a penalty die on all rolls for 1D4 rounds or until the tickling stops."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus of a Nightgaunt?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not explicitly state the damage bonus of a Nightgaunt, it only mentions '1D4 + damage bonus' as its fighting ability."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of a Nightgaunt's immobilized attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target is immobilized for 1D6 + 1 rounds."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the armor of a Nightgaunt?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 2-point skin armor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of a successful Nightgaunt attack on a target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target becomes bewildered, humiliated, and disoriented, suffering a penalty die on all rolls for 1D4 rounds or until the tickling stops."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds a target is immobilized by a successful Nightgaunt Tickle attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D6 + 1 rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage dealt by a Nightgaunt in combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D4 + damage bonus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage chance of a successful Nightgaunt Seize attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "45%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What do the rat-things resemble at a distance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ordinary rats"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is said to happen to a faithful servant sometimes?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are transformed into a rat-thing"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is said about the lore of rat-things in the Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are wise in the lore of the Mythos"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is said about rat-things being gifted to witches and sorcerers?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may be gifted as familiars to witches and sorcerers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a rat-thing knowing spells in life?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of a rat-thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many spells does a rat-thing have a 30% chance of knowing?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points of a rat-thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the chance of a rat-thing knowing spells in life?"
+      },
+      {
+        "role": "assistant",
+        "content": "a 30% chance"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus of a rat-thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks does a sand-dweller (rat-thing) have per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average magic points of a rat-thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a Rat-Thing?"
+      },
+      {
+        "role": "assistant",
+        "content": "-2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a Rat-Thing make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  }
+]

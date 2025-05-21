@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are contact spells divided into?"
+      },
+      {
+        "role": "assistant",
+        "content": "two separate groups: spells concerned with contacting Mythos creatures and monsters, and spells for contacting Mythos deities"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does contact spell allow a caster to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "establish contact"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of a caster when using a contact spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to have a definite goal in mind"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of contact spells on the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "no upper hand, the spell is merely a method of establishing contact"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the Contact spell do?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is a method of establishing contact with independent and intelligent beings."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is the Contact spell under the caster's control?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the caster makes contact at their peril."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does a Contact spell work?"
+      },
+      {
+        "role": "assistant",
+        "content": "It always works when cast properly, unless there are no such things living within a convenient distance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the same Contact spell be cast in different ways?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, many versions of Contact spells exist."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many rounds does a Contact spell take to cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "five to ten rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the time it takes for the thing to appear?"
+      },
+      {
+        "role": "assistant",
+        "content": "game hour, game day, or more"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do entities living nearby react to a Contact spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "walk, swim, dig, or fly to the spell point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the trip is too long for the thing called by the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "the thing never shows up"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the trip is too long?"
+      },
+      {
+        "role": "assistant",
+        "content": "The thing called by the spell never shows up."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can make the chances for an extended meeting improve?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the caster has something to offer the contacted thing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many representatives may arrive if the contacted species is large?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What motivates a contacted entity?"
+      },
+      {
+        "role": "assistant",
+        "content": "An alien motivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the number of contacted entities?"
+      },
+      {
+        "role": "assistant",
+        "content": "The number of contacted entities depends on the size of the contacted species."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if there are no chthonians nearby during a Contact Chthonian spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell succeeds automatically."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of the Contact Chthonian spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost is 5 magic points."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What conditions must be in place for a Contact Chthonian spell to work?"
+      },
+      {
+        "role": "assistant",
+        "content": "There must be no chthonians nearby and the spell must be cast at a location with known recent earthquakes or hot spots."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for the Contact Chthonian spell to succeed automatically?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unless there are no chthonians nearby, the spell succeeds automatically."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where should the Contact Deep One spell be cast to succeed automatically?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chanting succeeds automatically. This spell should be cast at the edge of a saltwater ocean or sea."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Contact Chthonian spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The spell must be cast at a location that has known recent earthquakes or where hot spots and volcanoes offer relatively quick transport from the deep interior of the planet to the outer edge of the geologic crust."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Contact Deep One spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chanting succeeds automatically. This spell should be cast at the edge of a saltwater ocean or sea."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where should the spell be cast?"
+      },
+      {
+        "role": "assistant",
+        "content": "at the edge of a saltwater ocean or sea"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What locations are most likely to have elder things nearby?"
+      },
+      {
+        "role": "assistant",
+        "content": "along the southern part of the Mid-Atlantic Ridge"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What part of the ritual consists of throwing stones into the water?"
+      },
+      {
+        "role": "assistant",
+        "content": "throwing specially inscribed stones into the water"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the chanting to succeed automatically?"
+      },
+      {
+        "role": "assistant",
+        "content": "there are no elder things nearby"
+      }
+    ]
+  }
+]

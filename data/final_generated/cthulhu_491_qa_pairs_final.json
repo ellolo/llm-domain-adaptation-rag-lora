@@ -1,0 +1,466 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of gauge is the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "12-gauge"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage of the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6/1D6/1D3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range of the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "10/20/50 yards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many uses per round is the shotgun?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 or 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+2/1D6+1/1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6/2D6/1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the base range of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "10/20/50 yards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many uses per round is the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 or 2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6/2D6/1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6/2D6/1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6/2D6/1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6/2D6/1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage of the rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6+2/2D6+1/1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of firearm is being discussed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Assault Rifles"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the first firearm mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "AK-47 or AKM"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the second firearm mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "AK-74"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the third firearm mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Barrett Model 82"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the fourth firearm mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "FN FAL"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do the firearms cost in 'Cost 20s' era?"
+      },
+      {
+        "role": "assistant",
+        "content": "$20/$200"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do the firearms cost in 'Modern' era?"
+      },
+      {
+        "role": "assistant",
+        "content": "$25/$350, $13/$70, $19/$150, $20/$200, $200, $400, $500, $50/$300, $75/$175"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Common in Era'?"
+      },
+      {
+        "role": "assistant",
+        "content": "95"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Rare'?"
+      },
+      {
+        "role": "assistant",
+        "content": "99"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Modern'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In which era are the firearms 'Common in'?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "In which era are the firearms 'Rare'?"
+      },
+      {
+        "role": "assistant",
+        "content": "1920s, Modern"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'WWII, Later'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Modern'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for '1920s'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the malfunction rate for 'Era'?"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a shotgun in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "4D6 / 2D6 / 1D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage type for a .30-06 bolt-action rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6+4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Lucas Strong's Strength score?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Jane Strong's Intelligence score?"
+      },
+      {
+        "role": "assistant",
+        "content": "80"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the .30-06 bolt-action rifle?"
+      },
+      {
+        "role": "assistant",
+        "content": "4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Lucas Strong's Dodge percentage?"
+      },
+      {
+        "role": "assistant",
+        "content": "32%"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Jane Strong's Build score?"
+      },
+      {
+        "role": "assistant",
+        "content": "0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Alistair Lawson's Dexterity score?"
+      },
+      {
+        "role": "assistant",
+        "content": "65"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the CON 60 stat block?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the POW 55 stat block?"
+      },
+      {
+        "role": "assistant",
+        "content": "-1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the GEORGE LAWSON stat block?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the damage bonus for the ARTHUR HALL stat block?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1D4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the narrator during their sleep?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator had a restless night with vivid images and a sense of foreboding."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What triggered the narrator's sense of foreboding?"
+      },
+      {
+        "role": "assistant",
+        "content": "The previous day's trek through the forest."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the narrator when they woke up?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator felt exhausted and didn't feel like they slept at all."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the effect of the narrator's sleepless state?"
+      },
+      {
+        "role": "assistant",
+        "content": "The narrator suffered one penalty die on any CON rolls throughout the next day."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What caused the narrator to lose a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their sleepless state."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of the narrator's CON roll penalties?"
+      },
+      {
+        "role": "assistant",
+        "content": "They suffered a penalty die on any CON rolls."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long did the narrator have to suffer from the CON roll penalties?"
+      },
+      {
+        "role": "assistant",
+        "content": "Until they slept again."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the narrator's CON rolls after they slept again?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not specify, but implies that they would regain their CON rolls."
+      }
+    ]
+  }
+]

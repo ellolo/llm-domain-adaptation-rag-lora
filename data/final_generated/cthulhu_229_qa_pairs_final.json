@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much distance can a character cover in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 meters"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can you decide the fate of a non-player character without a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you can decide what happens to a non-player character"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a non-player character if an investigator punches it?"
+      },
+      {
+        "role": "assistant",
+        "content": "That character drops dead."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can an investigator kill a non-player character without a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, if the investigator states they are killing the non-player character."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Do investigators always get a dice roll in a combat situation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, even if it's not directly affecting the investigator."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a non-player character be crushed by falling objects without a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, without a roll, as long as the object falls and affects the character."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if an investigator has a non-player character at their mercy and states they are killing the non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator can allow this to happen without using dice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a player assess a non-player character's injuries by tracking the damage they inflict?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, players can assess a non-player character's injuries by tracking the damage they inflict."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a successful First Aid or Medicine roll is performed on a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "The game should indicate to the player whether the non-player character is dying, dead, or alive."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can a ceiling fall and crush a non-player character without a roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a ceiling fall and crush a non-player character without a roll, but the investigator will always get a dice roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator when a non-player character is injured?"
+      },
+      {
+        "role": "assistant",
+        "content": "An investigator will always get a dice roll\u2014in this case, perhaps to dodge falling masonry or to notice the loose ceiling before it falls."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do players assess a non-player character's injuries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players may assess a non-player character\u2019s injuries by tracking the damage they inflict or simply by what the investigators perceive."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an enemy when reduced to unconsciousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The enemy will most likely recover, given time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Does a cold-blooded murder incur a Sanity roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "In most cases, cold-blooded murder should incur a Sanity roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be done after a successful First Aid or Medicine roll on a non-player character?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indicate to the player whether the non-player character is dying, dead, or alive."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an enemy reduced to unconsciousness?"
+      },
+      {
+        "role": "assistant",
+        "content": "The enemy will most likely recover given time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be done in a chase when the player wins a Luck roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "The player should describe the location, as part of the Keeper's role."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when a player commits cold-blooded murder?"
+      },
+      {
+        "role": "assistant",
+        "content": "It should incur a Sanity roll."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition that an enemy may be reduced to?"
+      },
+      {
+        "role": "assistant",
+        "content": "unconsciousness"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the player wins a Luck roll during a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "They get to define the next few locations"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to a player who hesitates to define the next few locations during a chase?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should ask leading questions"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome of Harvey passing his Dodge roll and weaving through the crowd?"
+      },
+      {
+        "role": "assistant",
+        "content": "He weaves through the crowd with ease"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where are you heading?"
+      },
+      {
+        "role": "assistant",
+        "content": "a side alley"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Is there anyone in the alley?"
+      },
+      {
+        "role": "assistant",
+        "content": "no one"
+      }
+    ]
+  }
+]

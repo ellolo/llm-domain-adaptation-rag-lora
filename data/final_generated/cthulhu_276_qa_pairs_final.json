@@ -1,0 +1,258 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be done to increase a caster's magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increase the magic points by burning some hit points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can POW be accrued by wizards?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through certain spells or items, such as an enchanted cane"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary purpose of a Call spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to bring an actual physical manifestation of a god before the caster"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a Dismiss spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to send the god back from whence it came"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Call spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to bring forth dark gods to accept ritual sacrifices or as an act of worship"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Dismiss spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "to send the god back from whence it came"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the spell is used with Mythos monsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "They come of their own volition and are not under the caster\u2019s control."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can summon spells compel a god to appear before the caster?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, summon spells compel a monster (not a god) to appear before the caster."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What can be bound using a summon spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The caster's will"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What type of spells define and group the spells in The Grimoire?"
+      },
+      {
+        "role": "assistant",
+        "content": "Call and Dismiss Spells, Contact Spells, and Enchantment Spells"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of summoning spells in the Grimoire?"
+      },
+      {
+        "role": "assistant",
+        "content": "The power of some otherworldly horror"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of casting the Apportion Ka spell in terms of magic points?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 magic points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main weakness of the Apportion Ka spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "The brain is the seat of the spell's power and, as such, could not be removed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who was the first to use the Apportion Ka spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Followers of the Dark Pharaoh, Nephren-Ka"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the one weakness of the spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "the brain"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What would happen to the caster if the brain was destroyed?"
+      },
+      {
+        "role": "assistant",
+        "content": "the caster would die"
+      }
+    ]
+  }
+]

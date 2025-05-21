@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many magic points is it cost for a gnoph-keh to summon a blizzard?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 magic point per hour"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many yards is the radius of a blizzard when a gnoph-keh summons it?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 yards"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many hit points can an investigator lose due to freezing damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 hit point"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How often does an investigator need to make a CON roll to avoid freezing damage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Every 15 minutes"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's hit points every 15 minutes in a blizzard?"
+      },
+      {
+        "role": "assistant",
+        "content": "They must make a CON roll or lose 1 hit point to freezing damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much does the temperature drop for an hour in a 100-yard radius if a gnoph-keh expends 1 magic point?"
+      },
+      {
+        "role": "assistant",
+        "content": "20\u00b0F."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for a gnoph-keh?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average number of magic points a gnoph-keh has?"
+      },
+      {
+        "role": "assistant",
+        "content": "21."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the temperature drop for an hour in a 100-yard radius when the Gnoph-Keh spends magic?"
+      },
+      {
+        "role": "assistant",
+        "content": "20\u00b0F"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the average damage bonus for Gnoph-keh attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many attacks can a Gnoph-Keh make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many Horn Gore attacks can a Gnoph-Keh make per round?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are the dimensions of the cones?"
+      },
+      {
+        "role": "assistant",
+        "content": "about ten feet high and ten feet wide at the base"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of the four red trumpet-like appendages?"
+      },
+      {
+        "role": "assistant",
+        "content": "four red trumpet-like appendages"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of the four slender grey stalks?"
+      },
+      {
+        "role": "assistant",
+        "content": "four slender grey stalks bearing flowerlike appendages"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of the eight greenish antennae or tentacles?"
+      },
+      {
+        "role": "assistant",
+        "content": "eight greenish antennae or tentacles"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What were the stalks on the creature's head made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "slender grey"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many antennae did the creature have on its nether side?"
+      },
+      {
+        "role": "assistant",
+        "content": "eight"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was the base of the central cone made of?"
+      },
+      {
+        "role": "assistant",
+        "content": "rubbery grey substance"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What were the cone-shaped beings that the time-traveling entities took over?"
+      },
+      {
+        "role": "assistant",
+        "content": "the cone-shaped beings dwelling here"
+      }
+    ]
+  }
+]

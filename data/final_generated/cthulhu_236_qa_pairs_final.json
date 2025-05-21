@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is magic in the Cthulhu Mythos?"
+      },
+      {
+        "role": "assistant",
+        "content": "Magic is part of the Cthulhu Mythos and man can never fully comprehend it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the author of the horror genre that should not be constrained?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lovecraft himself"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where are spells listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Chapter 12: Grimoire"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can monsters or spells change their form in different stories?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, they can manifest in a quite different way in another story with different investigators"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the main point of the first paragraph?"
+      },
+      {
+        "role": "assistant",
+        "content": "The first paragraph emphasizes the importance of consistency within the horror genre."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a requirement for the Wave of Oblivion spell to work?"
+      },
+      {
+        "role": "assistant",
+        "content": "A body of salt water is required for the spell to work."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encouraged in the second paragraph?"
+      },
+      {
+        "role": "assistant",
+        "content": "Incorporating your own ideas for hazards for the spells, possibly to suit your scenario."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is mentioned in the first paragraph as an example of not being constrained by the horror genre?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lovecraft himself is mentioned as an example of not being constrained by the horror genre."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required for the Wave of Oblivion spell to work?"
+      },
+      {
+        "role": "assistant",
+        "content": "a body of salt water"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of the Wave of Oblivion spell?"
+      },
+      {
+        "role": "assistant",
+        "content": "a mighty ocean wave crashing down upon the target"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be noted when reading tomes and using magic in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is up to you when to call for rolls, and this applies equally to reading tomes and using magic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the low probability of success for using spontaneous magic when an investigator has only 2% Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "The chances of successfully using spontaneous magic are very low."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be avoided to prevent a sense of being penalized for downscaling an investigator's abilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using forethought to adjust an investigator's abilities later in the game."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be done if a player uses spontaneous magic with 50% Cthulhu Mythos skill, where it was previously a rare chance of success?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal should be adjusted to make it not a fifty-fifty chance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be done to prevent overly generous goals from being set in a game?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opting to downscale an investigator\u2019s abilities later will give the players a sense of being penalized and should be avoided by using some forethought."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should the cost of using Cthulhu Mythos skill be determined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Refer to a comparable spell for guidance on costs and requirements."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should happen to a player who fails a pushed casting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Losing the pushed roll can have dire consequences."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should be done to make each spontaneous use of Cthulhu Mythos unique?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each spontaneous use of Cthulhu Mythos should be dangerous and unique."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the magic point cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "When the goal is agreed or a die type is stated."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the investigator fails a pushed casting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Losing the pushed roll can have dire consequences."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigator decide to be more generous with the spontaneous Cthulhu Mythos skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, if the goal is associated with the investigator\u2019s profession."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can you find more information about the consequences of failing a pushed casting roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "In The Consequences of Failing a Pushed Casting Roll, page 178."
+      }
+    ]
+  }
+]

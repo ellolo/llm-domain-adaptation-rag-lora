@@ -1,0 +1,322 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical physical appearance of many investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "Baby-faced, Dull, Bookish, Plump, Slim, Stocky, Ordinary, Wrinkled, Sharp, Muscular, Frail"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many sides does a gun have?"
+      },
+      {
+        "role": "assistant",
+        "content": "42"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a common necessity for many investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "A gun"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an option for investigators regarding a higher power?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is a higher power that you worship and pray to"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an option for investigators regarding mankind's needs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mankind can do fine without religions"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should investigators approach science?"
+      },
+      {
+        "role": "assistant",
+        "content": "Science has all the answers"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the parent of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator has a parent."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the grandparent of the investigator?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator has a grandparent."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the first person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Parent"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 4th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Child"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 5th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Partner"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 6th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "Person who taught your highest occupational skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 8th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "A famous person"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the 9th person to identify?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fellow investigator in your game"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are some options for a place of quiet contemplation?"
+      },
+      {
+        "role": "assistant",
+        "content": "A place for quiet contemplation (e.g. the library, a parish church, Mecca, Stonehenge)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of rolling to determine the significance of a person?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine why a person is significant to you."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How can you determine if a person is significant to you?"
+      },
+      {
+        "role": "assistant",
+        "content": "By rolling to see if the chosen option meshes with every person."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of rolling to determine the significance of a person?"
+      },
+      {
+        "role": "assistant",
+        "content": "You may have to roll more than once."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of rolling again if the initial roll does not work?"
+      },
+      {
+        "role": "assistant",
+        "content": "To find an alternative option that feels appropriate."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the roll in relation to the significance of a person?"
+      },
+      {
+        "role": "assistant",
+        "content": "To determine the reason why a person is significant to you."
+      }
+    ]
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter known for?"
+      },
+      {
+        "role": "assistant",
+        "content": "He was a forger and dealer in rare books."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why did Lucy pay little notice to the details?"
+      },
+      {
+        "role": "assistant",
+        "content": "She paid little notice to many of the details."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why did Lucy think Leiter was in debt?"
+      },
+      {
+        "role": "assistant",
+        "content": "She knew that the August trip had occasioned him losing big."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Lucy planning to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "She\u2019ll break into Leiter\u2019s cottage in search of hidden loot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is Leiter's gambler counterpart?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucy Stone"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Lucy Stone doing on Leiter's business cards?"
+      },
+      {
+        "role": "assistant",
+        "content": "She had met him "
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the reason for Lucy Stone's trip to Leiter's cottage?"
+      },
+      {
+        "role": "assistant",
+        "content": "She knows his secret hiding place"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter's past association with MU?"
+      },
+      {
+        "role": "assistant",
+        "content": "He had been kicked out a few years back"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who was Leiter's secret hiding place for hidden loot?"
+      },
+      {
+        "role": "assistant",
+        "content": "She knows his secret hiding place"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What kind of student helped Leiter copy documents?"
+      },
+      {
+        "role": "assistant",
+        "content": "A student of some kind that had been kicked out of MU a few years back"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the local antique dealer who was a regular buyer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Abner Wick"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What was Leiter's mental state in his final weeks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rising paranoia, instability and desire to skip town"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who has been questioning the character about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two gangsters from the Atlantic City mob."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why did the gangsters instruct the character to remain in contact with them?"
+      },
+      {
+        "role": "assistant",
+        "content": "To keep them informed if anything suspicious regarding Leiter showed up."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happened to the character if she didn't tell the investigators about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "She would be calling the gangsters at Atlantic City as soon as they were gone."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What were the gangsters' interest in Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Whether or not Leiter was dead or had faked his death to avoid paying his debts."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is required to draw further information from her about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Charm, Intimidate, or Persuade roll"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who has already questioned her about Leiter's death?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two gangsters from the Atlantic City mob"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who is the narrator of the story?"
+      },
+      {
+        "role": "assistant",
+        "content": "T"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the narrator's main concern about Leiter's body?"
+      },
+      {
+        "role": "assistant",
+        "content": "She wants to pay her final respects to his body."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What motivates the narrator to take action against the mobsters?"
+      },
+      {
+        "role": "assistant",
+        "content": "She\u2019s frightened by the visit from the mobsters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the narrator ruled by her emotions?"
+      },
+      {
+        "role": "assistant",
+        "content": "She is ruled by her emotions as much as her head."
+      }
+    ]
+  }
+]

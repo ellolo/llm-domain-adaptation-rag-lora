@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the age range used to deduct from Move Rate?"
+      },
+      {
+        "role": "assistant",
+        "content": "40s, 50s, 60s, 70s, 80s"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for both DEX and STR to be greater than SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOV 9"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for STR or DEX to be equal to or greater than SIZ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOV 7"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition for all DEX, STR, and SIZ to be equal?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOV 8"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much is deducted from Move Rate if the age is in the 40s?"
+      },
+      {
+        "role": "assistant",
+        "content": "1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much is deducted from Move Rate if the age is in the 80s?"
+      },
+      {
+        "role": "assistant",
+        "content": "5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the formula to calculate personal interest points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Calculate personal interest points by multiplying INT by 2."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to determine Damage Bonus & Build?"
+      },
+      {
+        "role": "assistant",
+        "content": "STR+SIZ and looking up the result"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where to find the Credit Rating to determine Spending Level, Cash on Hand, and Assets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Table II: Cash and Assets (page 57)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of creating a Backstory?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make the investigator come to life"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to determine Finances?"
+      },
+      {
+        "role": "assistant",
+        "content": "Determine Finances by looking up your investigator\u2019s Credit Rating"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Dodge box?"
+      },
+      {
+        "role": "assistant",
+        "content": "To store all combat skills in one place for handy reference"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators find equipment lists?"
+      },
+      {
+        "role": "assistant",
+        "content": "page 238"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can investigators find weapon lists?"
+      },
+      {
+        "role": "assistant",
+        "content": "page 250"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the 'Fellow Investigators' section?"
+      },
+      {
+        "role": "assistant",
+        "content": "as a handy reminder of who\u2019s who"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should occupation skills be allocated?"
+      },
+      {
+        "role": "assistant",
+        "content": "as percentage points among those skills listed for the occupation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if points are left undistributed?"
+      },
+      {
+        "role": "assistant",
+        "content": "points are lost"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the base chance of success in a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "the base chance of success in that skill"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of allocating points to Credit Rating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Points should also be allocated to Credit Rating within the range indicated for the occupation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if points are not allocated to a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "However, points left undistributed are lost."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What does the number in brackets next to a skill represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Each skill has a number in brackets next to it on the investigator sheet: this is the base chance of success in that skill, and any points allocated to that skill are added to this base number."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the total value obtained for each skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "Write down the total points for each skill on the investigator sheet (the points you\u2019ve allocated plus the base chance printed on the investigator sheet)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the space on the investigator sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sheet also has space"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the base chance of success in a skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "this is the base chance of success in that skill"
+      }
+    ]
+  }
+]

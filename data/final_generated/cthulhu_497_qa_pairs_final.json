@@ -1,0 +1,402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the order of attack in Melee Combat?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEX order"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the result of a 1D100 roll is higher than the skill or over 95?"
+      },
+      {
+        "role": "assistant",
+        "content": "Add 1D10 skill points"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How much is added to the investigator's Sanity points if an increase raises a skill to 90% or more?"
+      },
+      {
+        "role": "assistant",
+        "content": "2D6"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Credit Rating and financial review?"
+      },
+      {
+        "role": "assistant",
+        "content": "To review finances and check Credit Rating"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where can the investigator's background be reviewed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Altering an Investigator\u2019s Background, page 95"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines whether the target anticipates the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "A skill roll using Spot Hidden, Listen, or Psychology."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target anticipates the attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attack automatically hits or gains a bonus die."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many actions can each character make in a combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One action."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the intention of an action?"
+      },
+      {
+        "role": "assistant",
+        "content": "Is the intention to cause damage, dodge, or perform a maneuver?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a character's Dodge skill?"
+      },
+      {
+        "role": "assistant",
+        "content": "To oppose the attacker's Fighting skill when dodging."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target chooses to fight back?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use the target's Fighting skill to oppose the attacker's Fighting skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the target chooses to dodge?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use the target's Dodge skill to oppose the attacker's Fighting skill."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What to refer to if the target is neither fighting back nor dodging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Striking the first blow (Surprise Attacks) on page 106."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How to determine success in an attack?"
+      },
+      {
+        "role": "assistant",
+        "content": "Determine who was successful, with the side with the better level of success avoiding harm and inflicting damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both characters fail in a fight back scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage is inflicted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both sides succeed in attacking each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage is inflicted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if the attacker gains a higher level of success when attacking a dodging target?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attack is successful and the attacker inflicts damage on the loser."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for combat rolls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Combat rolls cannot be pushed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the attacker gains an Extreme level of success (not if fighting back) when attacking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Greater damage is inflicted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if the attacker gains an Extreme level of success when fighting back?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is not specified in the text."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens if both the attacker and the defender fail?"
+      },
+      {
+        "role": "assistant",
+        "content": "No damage is inflicted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can combat rolls be pushed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, combat rolls cannot be pushed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is damage rolled for successful attacks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roll damage for successful attacks (see Table XVII: Weapons, page 401-406, or 1D3 for unarmed human attack)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the maximum damage for an impaling weapon differ from a non-impaling weapon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maximum damage plus maximum damage bonus plus roll weapon damage for impaling, and maximum damage plus maximum damage bonus for non-impaling."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the rule for comparing builds in a maneuver?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the attacker is smaller, they take 1 penalty die for each point of difference in Build. If the difference is 3 or more, the maneuver is impossible."
+      }
+    ]
+  }
+]

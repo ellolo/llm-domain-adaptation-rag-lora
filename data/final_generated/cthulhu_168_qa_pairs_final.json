@@ -1,0 +1,450 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator's memories after being robbed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their memories will slowly return to them over time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the outcome if the investigator was carrying a Trea- sured Possession when robbed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a Luck roll to see if it was stolen."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does the investigator take to come to their senses after being robbed?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours later."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the penalty for the investigator if they have an obsession?"
+      },
+      {
+        "role": "assistant",
+        "content": "One penalty die on all dice rolls until the obsession has been indulged."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator carrying a Trea- sured Possession?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make a Luck roll to see if it was stolen."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's hit points after going insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hit points are reduced to half of what they were before going insane."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to an investigator's actions after they explode in a spree of violence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their actions may or may not be apparent or remembered."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How is the damage sustained by an investigator after going insane?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is up to the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What determines the extent of damage sustained by the Keeper?"
+      },
+      {
+        "role": "assistant",
+        "content": "The extent of damage sustained by the Keeper is up to the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Who or what is the extent of violence inflicted by the investigator up to?"
+      },
+      {
+        "role": "assistant",
+        "content": "The extent of violence inflicted by the investigator is up to the Keeper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the investigator's manifestation of ideology or beliefs?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator manifests one of these in an extreme, crazed, and demonstrative manner."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator interact with significant people?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator has done their best to get close to that person and act upon their relationship in some way."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a characteristic of the investigator's behavior?"
+      },
+      {
+        "role": "assistant",
+        "content": "extreme, crazed, and demonstrative"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the investigator's relationship with Significant People manifest?"
+      },
+      {
+        "role": "assistant",
+        "content": "preaching the gospel loudly on the subway"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a possible location where the investigator comes to their senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "psychiatric ward or police cell"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when they come to their senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "they are far away, perhaps lost in the wilderness or on a train or long-distance bus"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical timeframe for the investigator to come to their senses after a significant event?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Where might the investigator be institutionalized after coming to their senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "a psychiatric ward or police cell"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How might the investigator come to their senses in some cases?"
+      },
+      {
+        "role": "assistant",
+        "content": "far away, perhaps lost in the wilderness"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What could trigger the investigator to gain a new phobia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rolling 1D100 on Table IX: Sample Phobias"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator when they come to their senses?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are far away, perhaps lost in the wilderness or on a train or long-distance bus."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for the investigator to come to their senses after gaining a new phobia or mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "1D10 hours later"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens to the investigator during a bout of madness due to a new mania?"
+      },
+      {
+        "role": "assistant",
+        "content": "The investigator will have been fully indulging in their new mania."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can the investigator's madness be apparent to other people?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is up to the Keeper and player."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of a phobia in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "A phobia is a lasting irrational fear of something."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How does the Keeper select a phobia in the game?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper may select randomly (roll 1D100) or choose an appropriate one."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of adding a phobia to the investigator's backstory?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper should add the phobia to the investigator\u2019s backstory."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many types of phobias are listed in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ]
+  }
+]

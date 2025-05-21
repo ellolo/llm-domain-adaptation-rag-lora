@@ -1,0 +1,386 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to a player's investigator if they fail a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their investigator will take 1D3 damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How will a player's hit points be affected if they fail a CON roll?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their hit points will be used to track failure."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What will happen to an investigator's hit points if they fall to zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "They will be unconscious and facing imminent death."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why is consistency in characteristic generation important?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players expect consistency and should be applied equally for all players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should you do if you allow one player to re-roll or juggle characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "You should be up front about it and apply the same approach for all players."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is an effective way to maintain control in scenes involving multiple investigators?"
+      },
+      {
+        "role": "assistant",
+        "content": "You should quickly establish a list of investigators and non-player characters in DEX order."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How should you resolve actions in a scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "Start with the highest DEX (at the top of the list) and resolve that character\u2019s action, then work down the list in turn."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the condition to end a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "When everyone has had their turn."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do players resolve their actions in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Players resolve their actions in a round by starting with the character with the highest DEX and then working down the list in turn."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to pick a lock in this scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "It takes 3 combat rounds to pick the lock, but it may take more if the roll is pushed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Why does the Keeper set the time for picking a lock?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Keeper sets the time for picking a lock because some actions take longer to perform than others, and the rules define how long it may take for specific actions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What happens when everyone has had their turn in a round?"
+      },
+      {
+        "role": "assistant",
+        "content": "The round is over when everyone has had their turn."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to pick a lock according to the Keeper's rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 combat rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What should a Keeper balance when making judgments about in-game events?"
+      },
+      {
+        "role": "assistant",
+        "content": "A sense of reality with what will create a dramatic situation"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What phrase should a Keeper use to justify universally undesirable events?"
+      },
+      {
+        "role": "assistant",
+        "content": "But that's how it works in reality"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Should a Keeper strive to be realistic in their judgments, or be more creative?"
+      },
+      {
+        "role": "assistant",
+        "content": "More creative"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How many combat rounds does the Keeper rule will take to pick a lock?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 combat rounds"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How far can a character travel per movement point in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "One meter or yard per movement point (MOV)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How far can an average human travel in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 meters"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "If a character is sprinting, how many times can they cover the distance of one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "Five times"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the standard approach to measuring distances in a combat scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "Movement distances are approximate and based on narrative description."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How far can a character typically travel in one combat round?"
+      },
+      {
+        "role": "assistant",
+        "content": "A character can cautiously travel 1 meter or 1 yard per movement point (MOV) in one combat round."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is the maximum distance an average human can travel in one combat round while sprinting?"
+      },
+      {
+        "role": "assistant",
+        "content": "An average human can travel 5 times the distance (5 meters) in one combat round while sprinting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Should non-player characters be given standard damage rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, non-player characters should use the standard damage rules."
+      }
+    ]
+  }
+]
