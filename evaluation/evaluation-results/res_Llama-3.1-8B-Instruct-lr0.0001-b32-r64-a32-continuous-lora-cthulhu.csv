@@ -1,5 +1,5 @@
-question,answer,chapter,generated_answer
-Who wrote the Necronomicon chapter?,Keith Herber,1,"The Necronomicon was written by many authors, as it is a 
+question,generated_answer,system_prompt
+Who wrote the Necronomicon chapter?,"The Necronomicon was written by many authors, as it is a 
 compendium of magical and horrific lore. The greater portion 
 of the work was written by the mad Arab, Abdul Al-hazred, in 
 the year 730. However, other authors are known to have con-
@@ -17,8 +17,8 @@ The year 950 marks the beginning of the medieval renaiss-
 ance in Europe, and it is in this period that the first manuscrip-
 ts of the Al Azif begin to appear in the south of France. These 
 earliest  versions  are  incomplete,  inaccurate,  and  bereft  of 
-the illustrations. As the centuries progress,"
-What is the role of the Keeper in the Call of Cthulhu?,"The Keeper runs the story, set the scene for the investigators, tells them what they can do and what the effect of their actions is",1,"In Call of Cthulhu, the Keeper is the game moderator, taking the role of 
+the illustrations. As the centuries progress,",You are a helpful AI assistant.
+What is the role of the Keeper in the Call of Cthulhu?,"In Call of Cthulhu, the Keeper is the game moderator, taking the role of 
 referee, presenter, and co-player all in one. The Keeper is the game 
 control center, ensuring that the rules are applied fairly and that 
 the game flows well. The Keeper should be familiar with the rules 
@@ -39,8 +39,8 @@ try running a game with your friends. At the end of this chapter
 there is a complete example of a low-level scenario for you to 
 play through. 
 
-Before  you "
-What dices are needed to play Call of Cthulhu?,"The following dices are needed: a percentile dice (called D100), a four-sided dice (called D4), a six-sided dice (called D6), an eight-sided dice (called D8), and a twenty-sided die (called D20)",1,"To play Call of Cthulhu, you’ll need the following dice:
+Before  you ",You are a helpful AI assistant.
+What dices are needed to play Call of Cthulhu?,"To play Call of Cthulhu, you’ll need the following dice:
 
 1.  Four  six-sided  dice  (D6)  (usually  abbreviated  as  ""D6""  and 
 sometimes called ""pips""). Most of the rolling in Call of Cthulhu 
@@ -58,8 +58,8 @@ D-eight"".
 3.  One  ten-sided  die  (D10);  you  can  find  these  in  some 
 hobby stores and online. Read a ten-sided die as “one D-ten”.
 
-4.  One  percentile"
-How many dices are needed at a minimum to play the game?,5,1,"I'm assuming you are referring to a dice game, likely a tabletop roleplaying game (RPG). The most well-known RPG is the ""Call of Cthulhu"" game. 
+4.  One  percentile",You are a helpful AI assistant.
+How many dices are needed at a minimum to play the game?,"I'm assuming you are referring to a dice game, likely a tabletop roleplaying game (RPG). The most well-known RPG is the ""Call of Cthulhu"" game. 
 
 A pair of percentile dice (d100) and four six-sided dice (d6) make up the standard set of dice for Call of Cthulhu. 
 
@@ -68,9 +68,9 @@ You can buy a set of dice that includes the three required dice (a d4, d6, and d
 If you don’t have access to the required dice, you can substitute with a combination of a 4-sided die (d4) and a 6-sided die (d6). A d4 can be read as a d2 (half of a d4 is a 1 or 2) and a d6 can be read as a d3 (half of a d6 is a 1, 2 or 3). Together they can simulate a d10 (1 to 10) and a d100 (1 to 100).
 
 Alternatively  you  might  have  access  to  dice  that  are 
-larger or smaller"
-In which of Lovecraft's stories is featured the Miskatonic University?,"In 'The Picture in the House', 'Herbert West—Reanimator', 'The Dunwich Horror' and 'The Thing on the Doorstep'",2,"The  Miskatonic  University  is  mentioned  or  featured  in  many  of  H.P.  Lovecraft’s  stories,  but  its  first  appearance  is  in  the  1921  story  ""The  Hound  of  Tindalos""  (although  not  by  Lovecraft,  but  by  Frank  Belknap  Long).  Lovecraft  frequently  referenced  it  in  his  stories  and  it  is  most  commonly  found  in  his  tales  of  the  Cthulhu  Mythos.  The  Miskatonic  University  is  located  in  the  fictional  town  of  Arkham,  although  its  full  name  is  the  Miskatonic  University  of  Arkham.  The  university  is  modeled  after  the  real  life  Miskatonic  University  of  the  city  of  Providence,  Rhode  Island,  which  was  founded  in  1828  and  is  named  after  a  17th-century "
-What is the legacy of Lovecraft?,"Lovecraft has influenced many authors starting from the 40ies until today, including Gary Myers, Basil Copper, T.E.D. Klein, David Drake, Thomas Ligotti, W.H. Pugmire, Joseph S. Pulver Sr., Laird Barron and Stephen King. In addition, several Lovecraft's stories have been put into movies, such as Stuart Gordon’s 'Re-Animator' and 'Dragon'. Finally, several movie directors have been influenced by Lovecraft, including John Carpenter, Frank Darabont, Guillermo del Toro and Sam Raimi",2,"The legacy of H.P. Lovecraft is immense and far-reaching, 
+larger or smaller",You are a helpful AI assistant.
+In which of Lovecraft's stories is featured the Miskatonic University?,"The  Miskatonic  University  is  mentioned  or  featured  in  many  of  H.P.  Lovecraft’s  stories,  but  its  first  appearance  is  in  the  1921  story  ""The  Hound  of  Tindalos""  (although  not  by  Lovecraft,  but  by  Frank  Belknap  Long).  Lovecraft  frequently  referenced  it  in  his  stories  and  it  is  most  commonly  found  in  his  tales  of  the  Cthulhu  Mythos.  The  Miskatonic  University  is  located  in  the  fictional  town  of  Arkham,  although  its  full  name  is  the  Miskatonic  University  of  Arkham.  The  university  is  modeled  after  the  real  life  Miskatonic  University  of  the  city  of  Providence,  Rhode  Island,  which  was  founded  in  1828  and  is  named  after  a  17th-century ",You are a helpful AI assistant.
+What is the legacy of Lovecraft?,"The legacy of H.P. Lovecraft is immense and far-reaching, 
 stretching far beyond the realm of literature and into film, 
 television, comics, role-playing games, and popular culture 
 in general. Lovecraft’s stories have become the basis for the 
@@ -89,8 +89,8 @@ this  growing  group  of  people  who  create  and  participate
 in Lovecraftian adventures. You will find everything you need 
 to start playing this horror roleplaying game in these pages, 
 including rules for creating investigators, the tools for game 
-moderation, and most importantly an introduction to"
-What are the steps to create an investigator?,"There are five steps to create an investigator, namely: generate characteristics, determine occupation, decide skills and allocate Skill Points, create a backstory, equip the investigator",3,"To create an investigator in the 1920s, follow these steps:
+moderation, and most importantly an introduction to",You are a helpful AI assistant.
+What are the steps to create an investigator?,"To create an investigator in the 1920s, follow these steps:
 
 Step 1: Generate Characteristics
 Find a dice and roll 3D6 (3 six-sided dice) to generate five 
@@ -112,8 +112,8 @@ INT (intelligence), POW (power), and DEX (dexterity).
 Other  characteristics,  such  as  Sanity,  are  not  rolled  up 
 front;  they  fluctuate  during  play.  Characteristics  are  rolled 
 differently  depending  on  the  version  of  the  game  you  are 
-playing. The 7th"
-What modifiers should a player apply for a character that is 70 year old?,"The player should add 4 improvement checks for EDU and deduct 40 points among STR, CON or DEX, and reduce APP by 20",3,"According to  the  rulebook,  one  penalty  die  is  applied  to 
+playing. The 7th",You are a helpful AI assistant.
+What modifiers should a player apply for a character that is 70 year old?,"According to  the  rulebook,  one  penalty  die  is  applied  to 
 physical  characteristics  (see  Damage  Bonus  and  Build, 
 page 33) if they are in the 60-69 age bracket, and two penalty 
 dice are applied in the 70-79 age bracket. Three penalty dice 
@@ -134,8 +134,8 @@ affect the outcome of investigator development.
 
 A high Luck score can indicate that the investigator is in 
 good health, while a low Luck score may mean that the inves-
-tigator is prone to illness and blighted by bad"
-How can a player increase weapons skills?,A player can increase weapons skills by spending available Personal Interest or occupational skill points,3,"In the game, weapon skills can be increased through use and practice. When an investigator uses a weapon in a successful attack, the user gains a degree of experience with the weapon. 
+tigator is prone to illness and blighted by bad",You are a helpful AI assistant.
+How can a player increase weapons skills?,"In the game, weapon skills can be increased through use and practice. When an investigator uses a weapon in a successful attack, the user gains a degree of experience with the weapon. 
 
 There is a good old-fashioned skill called ""Fighting"" that em-
 braces  a  wide  variety  of  unarmed  and  simple  weapons.  If  a 
@@ -149,9 +149,9 @@ ness  roll  (roll  equal  to  or  less  than  their  Fighting  skill)  to
 see if they are able to use it effectively. If the roll is failed, the 
 character may still fight back, but takes a penalty die.
 
-Weapons  with  which  the  character  is"
-"Given a specific skill, what is the range of skill points for an investigator at the Amateur level?",between 20% and 49%,4,"At the Amateur level, the skill points for an investigator are rolled between 5 and 20."
-What is the hypnosis skill?,"It is the ability to induce another person in a trancelike state, which allows the person to relax and recall memories that were forgotten. The limits of the skill during the game are decided by the Keeper, for example if the player is able to use the skill on an unwilling target.",4,"The Hypnosis skill is a mental manipulation technique that can be used to persuade or compel an individual to act in a certain way, similar to the Charm or Intimidate skills; however, it is more subtle and subtle manipulation is required. 
+Weapons  with  which  the  character  is",You are a helpful AI assistant.
+"Given a specific skill, what is the range of skill points for an investigator at the Amateur level?","At the Amateur level, the skill points for an investigator are rolled between 5 and 20.",You are a helpful AI assistant.
+What is the hypnosis skill?,"The Hypnosis skill is a mental manipulation technique that can be used to persuade or compel an individual to act in a certain way, similar to the Charm or Intimidate skills; however, it is more subtle and subtle manipulation is required. 
 
 Hypnosis can be used on its own or in combination with other skills. If used in combination with another skill, the hypnosis roll must be made first and if successful, the other skill is used on the following round. Hypnosis can be used on both living and dead targets.
 
@@ -174,8 +174,8 @@ using your greater physical size/intimidation to get through to
 the target;  playing  on  the  target’s  religious  or  political 
 beliefs to win them over.
 
-Sample Consequences of failing a"
-Who decides the difficulty level of a skill roll?,The Keeper,5,"In Call of Cthulhu, the Keeper decides the difficulty level of a skill roll. 
+Sample Consequences of failing a",You are a helpful AI assistant.
+Who decides the difficulty level of a skill roll?,"In Call of Cthulhu, the Keeper decides the difficulty level of a skill roll. 
 
 There are three levels of difficulty in Call of Cthulhu: Regular, Hard, and Extreme. 
 
@@ -192,9 +192,9 @@ the Keeper may choose to inflict damage or some other form of harm as a
 consequence of failure. This takes the form of one penalty die (for a Hard 
 difficulty level) or two penalty dice (for an Extreme difficulty level). This 
 rule does not apply to ranged and melee attacks, where the difficulty level 
-cannot be pushed"
-What are the consequences of a successful Pushed Roll?,"The goal of the player are achieved as it would have been with the original role, without further consequences",5,I'm not aware at this time.
-What happens when a player must use more than one skill?,"The Keeper decides if the player must roll a dice for each skill, or roll the dice only once. In the latter case, player makes only one dice roll and then applies the result to each of the skills",5,"When  a  player  is  attempting  something  that  utilizes  more 
+cannot be pushed",You are a helpful AI assistant.
+What are the consequences of a successful Pushed Roll?,I'm not aware at this time.,You are a helpful AI assistant.
+What happens when a player must use more than one skill?,"When  a  player  is  attempting  something  that  utilizes  more 
 than  one  skill,  the  player  should  use  their  highest  level  of 
 success. In the case of an opposed roll, the opponent’s highest 
 level of success is used to oppose the player’s highest level of 
@@ -212,9 +212,9 @@ beyond the difficulty level that it is not even possible to fail.
 
 Opposed Rolls
 Many  situations  call  for  an  opposed  roll  between  two 
-characters. The Keeper"
-What are the optional rules of the game system?,There are two optional rules: Spending Luck and Recovering Luck Points,5,"I'm not aware of any. This is the beginning of our conversation, and I am the one who is new to the game. If you tell me what game we are playing, I’ll be happy to advise on any optional rules for that game."
-What is a Combat Round?,It is a unit of time in which each player can perform at least one action during combat.,6,"In a combat round, all characters and monsters involved in the 
+characters. The Keeper",You are a helpful AI assistant.
+What are the optional rules of the game system?,"I'm not aware of any. This is the beginning of our conversation, and I am the one who is new to the game. If you tell me what game we are playing, I’ll be happy to advise on any optional rules for that game.",You are a helpful AI assistant.
+What is a Combat Round?,"In a combat round, all characters and monsters involved in the 
 combat get a chance to act. The number of actions that can 
 be made is equal to the number of movement actions that the 
 character is able to make. 
@@ -241,8 +241,8 @@ T  To initiate an attack using the Fighting, Firearms, or
 
 Throw skills.
 
-T"
-"If more than one combatants want to attack, who has the right to attack first?","The combatant with the highest DEX. In case of draw, the combatant with highest combat skill",6,"In a melee (a fight in a confined or crowded area), each combatant gets a turn in DEX order. If tied, the side with the higher combat skill goes first. If still tied, the character with the highest STR goes first. 
+T",You are a helpful AI assistant.
+"If more than one combatants want to attack, who has the right to attack first?","In a melee (a fight in a confined or crowded area), each combatant gets a turn in DEX order. If tied, the side with the higher combat skill goes first. If still tied, the character with the highest STR goes first. 
 
 If characters are fighting multiple opponents, they may make a fighting maneuver against each of their opponents in a round. The number of attacks is limited by the number of opponents (see Fighting Back, page 106).
 
@@ -253,8 +253,8 @@ In the case of a draw with an opponent that is casting spells, the Keeper should
 A  character  that  is  being  attacked  may  fight  back  or  dodge. 
 If fighting back, the target may use any of their weapons. The 
 aim of fighting back is usually to inflict as much damage as possi-
-"
-In which situation is a character allowed to escape a close combat?,The character must have no physical restrains and have an escape route,6,"A character is allowed to escape close combat if they make a successful DEX roll. 
+",You are a helpful AI assistant.
+In which situation is a character allowed to escape a close combat?,"A character is allowed to escape close combat if they make a successful DEX roll. 
 
 i  If the character is physically restrained (pinned) by an opponent, they may use a maneuver of their own to push the 
 restraint aside and break free. If the maneuver is successful the restraint is displaced and the character is free to act as they 
@@ -267,8 +267,8 @@ i  A  character  may  use  a  maneuver  to  fight  back  against  a  maneuver  m
 making a Fighting roll at the end of the opponent’s turn in the order of combat, just before the opponent acts again. 
 If the maneuver is successful, the opponent’s action does not cost them a movement action and they do not move.
 
-Harvey is being chased by"
-How is a firearm attack resolved?,A firearm attack is resolved with a 1D100 roll and compare the result with the Firearm skill of the attacking character. The difficulty level of the roll is determined by the range and other factors,6,"In main combat, resolving a firearm attack is similar to resolving a 
+Harvey is being chased by",You are a helpful AI assistant.
+How is a firearm attack resolved?,"In main combat, resolving a firearm attack is similar to resolving a 
 melee  attack  (see  Melee  Combat,  page  103).  The  goal  is 
 always  to  hit  the  target  with  the  firearm,  and  the  difficulty 
 level is determined by the range and then by the level of diffi-
@@ -287,8 +287,8 @@ receiving 1 penalty die in the DEX order. The deep one
 acts first, then Harvey. If the deep one’s DEX score had 
 fallen to 40, it would act after Harvey.
 
-Jump, Chases, and"
-How does a character recover from a major wound when the Major Wound box is checked?,"The players performs a CON roll. If it is successful, 1D3 hit points are recovered. In case of Extreme success, 2D3 hit points are recovered.",6,"When the Major Wound box is checked, the character cannot recover 
+Jump, Chases, and",You are a helpful AI assistant.
+How does a character recover from a major wound when the Major Wound box is checked?,"When the Major Wound box is checked, the character cannot recover 
 on their own. The only way for the character to recover is with 
 the use of a medic or through a successful First Aid roll. 
 
@@ -310,8 +310,8 @@ which he is knocked unconscious, his companion shoots the
 deep one, inflicting a major wound. The deep one does not 
 get a chance to dodge or fight back as it is already prone on 
 the floor, and the shot hits it in the neck. The deep one does 
-not have a combat"
-Can you provide a short description of how a Chase takes place?,"A chase take place when the participants have an escape route. The Keeper positions the participants, decided the order of play and how many movements each participant can make in each turn. At the beginning each participant makes a CON roll to adjust their MOV rating. Then, at each round of the chase the participants act in DEX order, and move a number of locations based on their MOV rating. In some cases attacks can also be performed. The Keeper can add hazards and barriers to the chase as well.",7,"In a Chase, characters and vehicles are lined up in order of their MOV (Movement) rating. 
+not have a combat",You are a helpful AI assistant.
+Can you provide a short description of how a Chase takes place?,"In a Chase, characters and vehicles are lined up in order of their MOV (Movement) rating. 
 
 G  Those with the highest MOV go first, with the highest going first, followed by those with the next highest MOV, and so on.
 
@@ -344,8 +344,8 @@ hope to avoid any further hazards.
 A character that fails to negotiate a hazard must pay the cost 
 listed for that hazard. If the cost is more than the character’s 
 current  movement  action  value,  they  should  not  be  able 
-to"
-What is a speed roll used for during a chase?,It is used to adjust the participant MOV rating for the whole duration of the chase,7,"In a chase, speed rolls are used to establish the order in which participants move. 
+to",You are a helpful AI assistant.
+What is a speed roll used for during a chase?,"In a chase, speed rolls are used to establish the order in which participants move. 
 
 First, all participants make a speed roll. Speed rolls are made with the aim of getting the highest or lowest result; it depends on the situation. 
 
@@ -365,8 +365,8 @@ the  chase  is  not  started  and  the  Keeper  should  simply
 describe how the pursuer loses their quarry.
 
 Dexterity and the Order of Movement
-The  question  of "
-How many movements can a chase participant take per round?,"Each participant can take one movement action per round, plus the difference between his movement rating and the movement rating of the slowest chase participant",7,"In a chase, each participant can move a number of times equal to their MOV rating. The default MOV rate is 7. This means that someone with MOV 7 can move 7 times in a round, someone with MOV 6 can move 6 times in a round, and so on. If someone has a MOV rate of zero, they are unable to move at all. 
+The  question  of ",You are a helpful AI assistant.
+How many movements can a chase participant take per round?,"In a chase, each participant can move a number of times equal to their MOV rating. The default MOV rate is 7. This means that someone with MOV 7 can move 7 times in a round, someone with MOV 6 can move 6 times in a round, and so on. If someone has a MOV rate of zero, they are unable to move at all. 
 
 The round is a unit of time that allows all participants in a chase an equal opportunity to act. A combat round is not the same as a real-world second: in a combat round, some characters may act once, others may act twice, and others not at all. 
 
@@ -380,8 +380,8 @@ order  of  their  DEX  (highest  to  lowest).  The  character  with
 the highest DEX goes first, followed by the next, and so on. 
 
 If  two  characters  have  the  same  DEX,  the  one  with  the 
-higher STR goes first. If both are still"
-What methods can the Keeper use to create obstacles and hazards during a chase?,"The Keeper can decide using his own imagination, or do that randomly using a 1D100 roll.",7,"When  presenting  a  chase,  you  should  create  a  string  of  ob-
+higher STR goes first. If both are still",You are a helpful AI assistant.
+What methods can the Keeper use to create obstacles and hazards during a chase?,"When  presenting  a  chase,  you  should  create  a  string  of  ob-
 stacles and hazards that offer the players a challenge. 
 
 G  A  quiet  road  may  become  congested  with  traffic. 
@@ -400,8 +400,8 @@ flowing by only allowing each character to act once each
 round. If multiple characters are in the same location, the 
 one with the highest DEX acts first, and so on. 
 
-G  A  chase  that  takes  place  on "
-How are vehicle damages computed after a collision?,By rolling a 1D6 to compute build damage. A delay of the vehicle can also be computed costing a 1D3 movement action,7,"In 7th Edition Call of Cthulhu, vehicle damage is resolved using a comparison of the build values of the two vehicles involved in a collision. 
+G  A  chase  that  takes  place  on ",You are a helpful AI assistant.
+How are vehicle damages computed after a collision?,"In 7th Edition Call of Cthulhu, vehicle damage is resolved using a comparison of the build values of the two vehicles involved in a collision. 
 
 If the damage is less than the build of the vehicle that 
 inflicted it, the vehicle takes half of the damage it inflicted 
@@ -425,8 +425,8 @@ Passengers in a vehicle that is targeted with gunfire have a
 bonus die when diving for cover (if they fail to do so).
 
 Vehicles and Barriers
-A vehicle can"
-What state of insanity exist in the game?,"There are three states of insanity: temporary, indefinite and permanent.",8,"In the game of Call of Cthulhu, there are four main states of 
+A vehicle can",You are a helpful AI assistant.
+What state of insanity exist in the game?,"In the game of Call of Cthulhu, there are four main states of 
 insanity, each with its own effects and duration.
 
 1.  Temporary  Insanity:  This  is  the  standard  result  of 
@@ -445,9 +445,9 @@ lost as a result of encountering a Mythos tome (see page 163).
 3.  Permanent Insanity: When Sanity points are lost as a 
 result of an investigator’s delusion (see page 154), or if an 
 insane investigator fails a Reality Check (see page 164), the 
-investigator becomes permanently insane. No recovery"
-How many Sanity points must an investigator loose to become temporary insane?,Five or more,8,"An investigator would lose 5 Sanity points in a single day to become temporary insane. Alternatively, if the cumulative loss of Sanity points in a single game day is equal to or greater than the investigator’s full Sanity (thus exceeding 95, 94, or 93 in the three scenarios above), the investigator has suffered a ""shocking"" loss and should immediately make an Intelligence roll. If the INT roll is failed, the investigator loses 1D6 Sanity points and becomes temporary insane."
-How is it decided how many hours temporary insanity lasts?,By rolling a 1D10. The results of the roll provides the number of hours of insanity,8,"In Call of Cthulhu, the duration of temporary insanity is 
+investigator becomes permanently insane. No recovery",You are a helpful AI assistant.
+How many Sanity points must an investigator loose to become temporary insane?,"An investigator would lose 5 Sanity points in a single day to become temporary insane. Alternatively, if the cumulative loss of Sanity points in a single game day is equal to or greater than the investigator’s full Sanity (thus exceeding 95, 94, or 93 in the three scenarios above), the investigator has suffered a ""shocking"" loss and should immediately make an Intelligence roll. If the INT roll is failed, the investigator loses 1D6 Sanity points and becomes temporary insane.",You are a helpful AI assistant.
+How is it decided how many hours temporary insanity lasts?,"In Call of Cthulhu, the duration of temporary insanity is 
 determined by the player. When going insane, the player 
 chooses one, two, or three (rolling 1D3) hours of real time 
 over which the investigator loses 1D10 Sanity points.
@@ -471,8 +471,8 @@ the bout of madness. The Keeper may allow some or all of
 the investigator’s actions to be performed automatically, either 
 good or bad, while in this state.
 
-On recovering from a bout of madness"
-What is the best way to recover from Indefinite Insanity?,The best way to recover is through private care or home care,8,"Recovery from indefinite insanity can take a while. 
+On recovering from a bout of madness",You are a helpful AI assistant.
+What is the best way to recover from Indefinite Insanity?,"Recovery from indefinite insanity can take a while. 
 
 Recovery from temporary indefinite insanity can happen in one of two ways.
 
@@ -494,8 +494,8 @@ by  a  non-psychotherapist  can  add  1D10  percentiles  to  the
 chance of curing indefinite insanity.
 
 Treatment  in  a  psychiatric  institution  adds  10  percentiles 
-to  the  chance  of  curing  indefinite "
-How many language skill ticks should be awarded when an investigator conducts a full study of a tome in that language?,One,9,"When  an  investigator  fully  studies  a  tome,  they  should  gain 
+to  the  chance  of  curing  indefinite ",You are a helpful AI assistant.
+How many language skill ticks should be awarded when an investigator conducts a full study of a tome in that language?,"When  an  investigator  fully  studies  a  tome,  they  should  gain 
 a  tick  in  the  appropriate  language  skill  (assuming  the  book 
 was written in a language the investigator is familiar with). No 
 tick is awarded if the book is written in a language the inves-
@@ -513,8 +513,8 @@ Constitution roll to reduce the other 2 points.
 
 Insanity Side-Effects 2: Delusions and 
 Phobias
-The next step is to generate two"
-How can a character learn a spell?,"There are three main ways to learn a spell: from a Mythos book, from another player, or from a Mythos entity",9,"In the Cthulhu Mythos, learning a spell can take many forms, 
+The next step is to generate two",You are a helpful AI assistant.
+How can a character learn a spell?,"In the Cthulhu Mythos, learning a spell can take many forms, 
 and often involves a degree of horror, trauma, or sacrifice. 
 
 Finding a Book of Spells
@@ -534,9 +534,9 @@ written copy of it. A Hard Own Language roll may be required
 to decipher the text. If the roll is failed, the reader gains no 
 benefit from having studied the book. It is up to the Keeper 
 whether a translation is required or if the original language can 
-be understood. A full study of a tome"
-What type of roll must a player do to cast a spell?,A Hard POW roll,9,"In most cases, to cast a spell the player must make a successful POW roll."
-What happens when a spell casting roll fails?,"The caster must pay Magic points, Sanity Points and/or POW, multiplied by 1D6",9,"When  a  spell  casting  roll  is  pushed  and  failed,  the  caster 
+be understood. A full study of a tome",You are a helpful AI assistant.
+What type of roll must a player do to cast a spell?,"In most cases, to cast a spell the player must make a successful POW roll.",You are a helpful AI assistant.
+What happens when a spell casting roll fails?,"When  a  spell  casting  roll  is  pushed  and  failed,  the  caster 
 should  consider  themselves  fortunate  if  they  are  no  more 
 than 5 miles away from the target when the spell fails. If this was 
 a casting of Create Zombie, for example, the corpse stands up, 
@@ -555,8 +555,8 @@ each magic point they expended on the spell.
 Harvey is attempting to banish a monster from the face 
 of the earth. He spends 20 magic points and 1D10 San-
 ity points, and names a multitude of monsters, including 
-some not found in this book"
-What information is advised that the Keeper gives to the players before they create their investigators?,"The date and location of the player scenario, a basic description of the beginning of the scenario, professions suitable for the scenario, and suggestions on how the investigator know each other",10,"Before the players create their investigators, it is advised that the Keeper provides the players with some basic information regarding what sort of game you intend to run. This will give the players the opportunity to create investigators that will 
+some not found in this book",You are a helpful AI assistant.
+What information is advised that the Keeper gives to the players before they create their investigators?,"Before the players create their investigators, it is advised that the Keeper provides the players with some basic information regarding what sort of game you intend to run. This will give the players the opportunity to create investigators that will 
 fit in with the theme of your campaign. 
 
 If your campaign is set in the modern day, the players may be able to 
@@ -573,8 +573,8 @@ their  own  time,  struggling  to  comprehend  the  unfamiliar
 surroundings.  A  sudden  transition  from  being  a  1920s  ex-
 treme car enthusiast to a modern-day person would lose all skill 
 points in Drive Auto. A modern-day person suddenly transposed 
-into"
-What are NPCs?,NPCs are Non-player characters that are controlled by the Keeper,10,"NPC stands for Non-Player Character. An NPC is a term used in 
+into",You are a helpful AI assistant.
+What are NPCs?,"NPC stands for Non-Player Character. An NPC is a term used in 
 role-playing games, most commonly in role-playing games of the 
 fantasy genre, such as Call of Cthulhu. An NPC is any person 
 (or being) in the game who is not a player character. Essentially 
@@ -593,8 +593,8 @@ you should take the opportunity to establish the nature of the
 relationship between the investigator and the NPC. There may 
 only be one or two possibilities, and you can usually determine 
 the correct one by considering the investigator’s background. 
-If the NPC is an acquaintance or friend, you should de"
-What is an Idea Roll?,"It is a roll that allows players to get a clue, and that decides how they get this clue",10,"In some roleplaying games, especially those in the Horror genre, 
+If the NPC is an acquaintance or friend, you should de",You are a helpful AI assistant.
+What is an Idea Roll?,"In some roleplaying games, especially those in the Horror genre, 
 the Idea Roll is used. This is rolled when a player lacks ideas how 
 to proceed. An Idea Roll is a 1D100 roll. 
 
@@ -617,8 +617,8 @@ The consequence of an Idea roll is always to move the game
 
 on to the next chapter. 
 
-Idea rolls may be called for by the players or the Keeper"
-What are the Mythos Tomes,"They are books of arcane wisdom, secret and magic",11,"A  vast  and  disturbing  array  of  dark  knowledge  awaits  in  the 
+Idea rolls may be called for by the players or the Keeper",You are a helpful AI assistant.
+What are the Mythos Tomes,"A  vast  and  disturbing  array  of  dark  knowledge  awaits  in  the 
 forgotten  tomes  of  the  Cthulhu  Mythos.  Each  book  describes 
 a different approach to understanding the Cthulhu Mythos, as well 
 as  different  ways  of  trying  to  reduce  the  Mythos  to  some 
@@ -633,9 +633,9 @@ through the use of a skill than a characteristic.
 
 The Cthulhu Mythos skill cannot be pushed.
 
-i  Roll  01–95  for  an  Initial  reading:  if  the  roll  is"
-What is the Mythos rating of the Celaeno Fragments?,27,11,"I'm not sure what you are referring to. Can you provide more information perhaps? There are many Mythos tomes, and without more information, it’s impossible to tell which one you are referring to. Could you give me a name, or a hint about the book?"
-When was the Key of Solomon written?,In the 14th century AD,11,"The  authorship  and  exact  date  of  composition  of  the  Key 
+i  Roll  01–95  for  an  Initial  reading:  if  the  roll  is",You are a helpful AI assistant.
+What is the Mythos rating of the Celaeno Fragments?,"I'm not sure what you are referring to. Can you provide more information perhaps? There are many Mythos tomes, and without more information, it’s impossible to tell which one you are referring to. Could you give me a name, or a hint about the book?",You are a helpful AI assistant.
+When was the Key of Solomon written?,"The  authorship  and  exact  date  of  composition  of  the  Key 
 of Solomon are unknown. The book was not written by Solomon, 
 a king of Israel in the tenth century BC, as the title might sug-
 gest. The version most commonly available today is a medieval 
@@ -657,8 +657,8 @@ Cthulhu Mythos: +2/+5 percentiles
 Mythos Rating: 21
 Study: 29 weeks 
 Suggested  Spells:  Call  Forth  the  Angel  Yazrael  (Call/
-Dismiss  Yog-"
-What are the main spell classes?,"Dismiss Spells, Contact Spells and Enchantment Spells",12,"In the Call of Cthulhu roleplaying game, spells are classed into 
+Dismiss  Yog-",You are a helpful AI assistant.
+What are the main spell classes?,"In the Call of Cthulhu roleplaying game, spells are classed into 
 eight groups, each reflecting the type of magic they represent.
 
 First Spell: A first spell can be any spell the Keeper wants, 
@@ -678,9 +678,9 @@ Mythos and the source of the spell’s creation and understanding
 is beyond human comprehension. It is suggested that those 
 who study the Mythos and its contents suffer some insidious 
 corruption,  either  to  their  mind,  body,  or  spirit,  which 
-manifests"
-How long does a Banishment of Yde Etad spell last at minimum?,1 hour,12,A Mythos topic! The Banishment of Yde Etad spell lasts for a minimum of 1D6 hours.
-What is the cost of a Bless Blade?,5 POW and 1D4 sanity points,12,"I don't have any information on the cost of a Bless Blade. It is possible that it is a custom or 
+manifests",You are a helpful AI assistant.
+How long does a Banishment of Yde Etad spell last at minimum?,A Mythos topic! The Banishment of Yde Etad spell lasts for a minimum of 1D6 hours.,You are a helpful AI assistant.
+What is the cost of a Bless Blade?,"I don't have any information on the cost of a Bless Blade. It is possible that it is a custom or 
 occult  item,  perhaps  home-smelted  by  a  cultist.  If  you  want  to  introduce  the  Bless  Blade, 
 you may wish to create an entry for it in your own notes along the lines of:
 
@@ -772,8 +772,8 @@ Bless Blade
 
 Bless Blade
 
-"
-Which spell can a cultist use to get in touch with alien races?,The Contact Spell,12,"A cultist is most likely to know the Contact Deity spells, 
+",You are a helpful AI assistant.
+Which spell can a cultist use to get in touch with alien races?,"A cultist is most likely to know the Contact Deity spells, 
 which  allow  communication  with  a  deity  or  major  god. 
 Contact  spells  do  not  require  any  special  preparation.  An 
 alternative  to  Contact  spells  is  the  Contact  Deity  spell,  if 
@@ -789,9 +789,9 @@ sponds—there is no negotiation, only a one-way message.
 Contact  spells  do  not  require  any  sacrifice  or  other 
 torture,  but  some  do  require  certain  conditions,  such  as 
 darkness, the presence of running water, or the stars in the 
-sky.  Each  Contact  spell  is"
-Who uses Carotid Toxin?,Serpent people,13,"I'm not aware of any information regarding ""Carotid Toxin"". It's possible it may be some obscure or home-brew rule or setting-specific detail. If you tell me more about it, I may be able to help."
-What is a Temporal Communicator?,It is an artifact that allows Yithians to communicate with entities that have contacted the artifact in time and space,13,"I'm not aware of any information regarding temporal communicators. It sounds like something from a science fiction story. If you are looking for information on this term then I suggest you try looking through science fiction stories, perhaps starting with H. P. Lovecraft’s “The Case of Charles Dexter Ward”. 
+sky.  Each  Contact  spell  is",You are a helpful AI assistant.
+Who uses Carotid Toxin?,"I'm not aware of any information regarding ""Carotid Toxin"". It's possible it may be some obscure or home-brew rule or setting-specific detail. If you tell me more about it, I may be able to help.",You are a helpful AI assistant.
+What is a Temporal Communicator?,"I'm not aware of any information regarding temporal communicators. It sounds like something from a science fiction story. If you are looking for information on this term then I suggest you try looking through science fiction stories, perhaps starting with H. P. Lovecraft’s “The Case of Charles Dexter Ward”. 
 
 If you are looking for a term for a device that can communicate with people in the past or future then you could use the following as inspiration:
 
@@ -813,8 +813,8 @@ user’s eyes when looking into the abyss of time.
 
 This is not an exhaustive list and other devices could 
 be imagined. Each device will have its own cost and time 
-requirement. Using a device"
-What characteristics are typically possessed by monsters and beasts?,"STR, CON, SIZ, POW, INT, DEX",14,"In  most  cases,  monsters  and  beasts  do  not  have  charac-
+requirement. Using a device",You are a helpful AI assistant.
+What characteristics are typically possessed by monsters and beasts?,"In  most  cases,  monsters  and  beasts  do  not  have  charac-
 teristics  listed  for  Strength,  Constitution,  Size,  Intelligence, 
 Power,  or  Education.  When  these  beings  are  encountered, 
 the Keeper should decide on the spot whether these characteristics 
@@ -834,8 +834,8 @@ creature, it may use its Bulk or its Dodge skill.
 When using a non-player character or monster in a fight, 
 the Keeper should avoid using the non-player character’s or 
 monster’s  characteristics  to  determine  the  outcome  of  a 
-fight. Instead, refer to the specific section of the non"
-What is the range of build value for a human?,From -2 to +2,14,"In the standard rules, human Build ranges from 0 to 4. 
+fight. Instead, refer to the specific section of the non",You are a helpful AI assistant.
+What is the range of build value for a human?,"In the standard rules, human Build ranges from 0 to 4. 
 
 0: Svelte, slender, gaunt 
 1: Slim, trim, athletic 
@@ -870,8 +870,8 @@ health. A high Constitution means that the investigator recovers
 quickly from illness and injury, and is more resistant to po-
 isons and other harmful substances. 
 
-While"
-What is a Crawling One composed of?,Worms,14,"Crawling ones are composed of a soft, slimy, semi-liquid substance, not wholly incompatible with the normal dimensions of space. When this substance hardens it takes a rigid, immobile, and lifeless form. The 
+While",You are a helpful AI assistant.
+What is a Crawling One composed of?,"Crawling ones are composed of a soft, slimy, semi-liquid substance, not wholly incompatible with the normal dimensions of space. When this substance hardens it takes a rigid, immobile, and lifeless form. The 
 crawling ones themselves are inside, alive and active, but imprisoned in their own rigid shells. The only way to free a crawling one is to smash its shell, which costs the victim 1D6 hit points per 
 point of damage inflicted. When a crawling one is finally freed, it crawls out of its shell and disappears. 
 
@@ -889,9 +889,9 @@ Crawling One
 Harvey Walters follows one of the stone pillars of the temple, 
 only to be attacked by a crawling one.
 
-As it crawls, a mass of tentacles flows over the stone floor"
-What is the average STR of the Elder Thing?,190,14,"A Elder Thing has multiple forms, but most have a STR of 425."
-When do Clayton and Harris run into the forest in the 'Amidst the Ancient Trees' scenario?,On June 19th 1925,15,"I don't have information on that scenario. You should 
+As it crawls, a mass of tentacles flows over the stone floor",You are a helpful AI assistant.
+What is the average STR of the Elder Thing?,"A Elder Thing has multiple forms, but most have a STR of 425.",You are a helpful AI assistant.
+When do Clayton and Harris run into the forest in the 'Amidst the Ancient Trees' scenario?,"I don't have information on that scenario. You should 
 refer to the scenario ‘Amidst the Ancient Trees’ in The 
 Lurking Fear, a scenario for Chaosium’s 1920s-era Call 
-of Cthulhu rules."
+of Cthulhu rules.",You are a helpful AI assistant.
