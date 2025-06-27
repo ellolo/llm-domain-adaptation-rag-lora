@@ -1,51 +1,51 @@
-question,generated_answer,system_prompt
-Who wrote the Necronomicon chapter?,Justin Geoffrey,You are a helpful AI assistant.
-What is the role of the Keeper in the Call of Cthulhu?,The Keeper is the game moderator and arbiter of conflict.,You are a helpful AI assistant.
-What dices are needed to play Call of Cthulhu?,Two D100 dice and a pencil,You are a helpful AI assistant.
-How many dices are needed at a minimum to play the game?,Two,You are a helpful AI assistant.
-In which of Lovecraft's stories is featured the Miskatonic University?,The Dunwich Horror (1928) and The Shadow Over Innsmouth (1931),You are a helpful AI assistant.
-What is the legacy of Lovecraft?,a legacy of cosmic terror,You are a helpful AI assistant.
-What are the steps to create an investigator?,"Step 1: Choose a Name, Step 2: Choose an Occupation, Step 3: Determine Characteristics, Step 4: Determine Skills, Step 5: Determine Credit Rating, Step 6: Determine Starting Equipment, Step  7: Backstory, Step 8: Choose a Goal",You are a helpful AI assistant.
-What modifiers should a player apply for a character that is 70 year old?,Apply modifiers for age and physical health.,You are a helpful AI assistant.
-How can a player increase weapons skills?,By spending skill points,You are a helpful AI assistant.
-"Given a specific skill, what is the range of skill points for an investigator at the Amateur level?",01% to 5%,You are a helpful AI assistant.
-What is the hypnosis skill?,The ability to induce trance states in another person.,You are a helpful AI assistant.
-Who decides the difficulty level of a skill roll?,The Keeper,You are a helpful AI assistant.
-What are the consequences of a successful Pushed Roll?,The investigator is able to defuse the bomb.,You are a helpful AI assistant.
-What happens when a player must use more than one skill?,The Keeper should decide which skill to use and award the skill points for that skill.,You are a helpful AI assistant.
-What are the optional rules of the game system?,"Chases, Combat, Damage, Sanity, Magic, and Sanity.",You are a helpful AI assistant.
-What is a Combat Round?,A Combat Round is a unit of time in which each character and vehicle gets one movement action and one fighting maneuver action.,You are a helpful AI assistant.
-"If more than one combatants want to attack, who has the right to attack first?",The combatant with the highest DEX,You are a helpful AI assistant.
-In which situation is a character allowed to escape a close combat?,If the attacker is at a disadvantage,You are a helpful AI assistant.
-How is a firearm attack resolved?,A firearm attack is resolved with one dice roll.,You are a helpful AI assistant.
-How does a character recover from a major wound when the Major Wound box is checked?,"A character can only recover from a major wound on the following day, if successful on their CON roll.",You are a helpful AI assistant.
-Can you provide a short description of how a Chase takes place?,"A chase is a sequence of locations, with the pursuer and fleeing character each getting a dice roll to determine who reaches the next location first.",You are a helpful AI assistant.
-What is a speed roll used for during a chase?,To determine the relative speeds of the participants,You are a helpful AI assistant.
-How many movements can a chase participant take per round?,One movement per round.,You are a helpful AI assistant.
-What methods can the Keeper use to create obstacles and hazards during a chase?,"The Keeper can use the same methods as for combat, as well as some additional ones.",You are a helpful AI assistant.
-How are vehicle damages computed after a collision?,By comparing the build points lost in the collision to the vehicle's full build value,You are a helpful AI assistant.
-What state of insanity exist in the game?,"Temporary insanity, and the game provides rules for it.",You are a helpful AI assistant.
-How many Sanity points must an investigator loose to become temporary insane?,1D10 Sanity points,You are a helpful AI assistant.
-How is it decided how many hours temporary insanity lasts?,1D10 hours,You are a helpful AI assistant.
-What is the best way to recover from Indefinite Insanity?,A successful Psychoanalysis roll by a qualified psychiatrist.,You are a helpful AI assistant.
-How many language skill ticks should be awarded when an investigator conducts a full study of a tome in that language?,One or two language skill ticks,You are a helpful AI assistant.
-How can a character learn a spell?,"A character may learn a spell from a book, or from another person.",You are a helpful AI assistant.
-What type of roll must a player do to cast a spell?,A dice roll,You are a helpful AI assistant.
-What happens when a spell casting roll fails?,The spell fails and the caster has performed the wrong action.,You are a helpful AI assistant.
-What information is advised that the Keeper gives to the players before they create their investigators?,The time period and location in which the scenario is set.,You are a helpful AI assistant.
-What are NPCs?,Non-player characters.,You are a helpful AI assistant.
-What is an Idea Roll?,An Idea Roll is a dice roll made by the players to determine if they can remember any clues or information.,You are a helpful AI assistant.
-What are the Mythos Tomes,Mythos Tomes are a list of books in the game.,You are a helpful AI assistant.
-What is the Mythos rating of the Celaeno Fragments?,24,You are a helpful AI assistant.
-When was the Key of Solomon written?,c. 15th century,You are a helpful AI assistant.
-What are the main spell classes?,"The main spell classes are Enchantment, Illusion, Mind, Necromancy, and Transmutation.",You are a helpful AI assistant.
-How long does a Banishment of Yde Etad spell last at minimum?,1D10+20 minutes,You are a helpful AI assistant.
-What is the cost of a Bless Blade?,1D6 Sanity points,You are a helpful AI assistant.
-Which spell can a cultist use to get in touch with alien races?,Contact Deity/Entity/Being/Whatever,You are a helpful AI assistant.
-Who uses Carotid Toxin?,The Mi-Go,You are a helpful AI assistant.
-What is a Temporal Communicator?,A device that allows two people to communicate with each other at different points in time.,You are a helpful AI assistant.
-What characteristics are typically possessed by monsters and beasts?,"Monsters and beasts have characteristics such as STR, CON, DEX, and SIZ.",You are a helpful AI assistant.
-What is the range of build value for a human?,-2 to 2,You are a helpful AI assistant.
-What is a Crawling One composed of?,"A Crawling One is composed of five globes, each about three feet in diameter.",You are a helpful AI assistant.
-What is the average STR of the Elder Thing?,Average STR: 125,You are a helpful AI assistant.
-When do Clayton and Harris run into the forest in the 'Amidst the Ancient Trees' scenario?,Day 3: Amidst the Ancient Trees,You are a helpful AI assistant.
+question,answer,chapter,generated_answer,system_prompt
+Who wrote the Necronomicon chapter?,Keith Herber,1,Justin Geoffrey,You are a helpful AI assistant.
+What is the role of the Keeper in the Call of Cthulhu?,"The Keeper runs the story, set the scene for the investigators, tells them what they can do and what the effect of their actions is",1,"The Keeper is the game moderator and is responsible for creating and running the game, including the story, non-player characters, and challenges.",You are a helpful AI assistant.
+What dices are needed to play Call of Cthulhu?,"The following dices are needed: a percentile dice (called D100), a four-sided dice (called D4), a six-sided dice (called D6), an eight-sided dice (called D8), and a twenty-sided die (called D20)",1,Two ten-sided dices,You are a helpful AI assistant.
+How many dices are needed at a minimum to play the game?,5,1,Two dices,You are a helpful AI assistant.
+In which of Lovecraft's stories is featured the Miskatonic University?,"In 'The Picture in the House', 'Herbert West—Reanimator', 'The Dunwich Horror' and 'The Thing on the Doorstep'",2,"The Dunwich Horror, The Shadow Over Innsmouth, The Dreams in the Witch House, The Haunter of the Dark, The Colour Out of Space, The Whisperer in Darkness, The Shadow Out of Time, The Case of Charles Dexter Ward, The Shunned House, and The Mountains of Madness.",You are a helpful AI assistant.
+What is the legacy of Lovecraft?,"Lovecraft has influenced many authors starting from the 40ies until today, including Gary Myers, Basil Copper, T.E.D. Klein, David Drake, Thomas Ligotti, W.H. Pugmire, Joseph S. Pulver Sr., Laird Barron and Stephen King. In addition, several Lovecraft's stories have been put into movies, such as Stuart Gordon’s 'Re-Animator' and 'Dragon'. Finally, several movie directors have been influenced by Lovecraft, including John Carpenter, Frank Darabont, Guillermo del Toro and Sam Raimi",2,The legacy of Lovecraft is that he has become the most important influence on the modern horror genre.,You are a helpful AI assistant.
+What are the steps to create an investigator?,"There are five steps to create an investigator, namely: generate characteristics, determine occupation, decide skills and allocate Skill Points, create a backstory, equip the investigator",3,1. Choose a name for your investigator.,You are a helpful AI assistant.
+What modifiers should a player apply for a character that is 70 year old?,"The player should add 4 improvement checks for EDU and deduct 40 points among STR, CON or DEX, and reduce APP by 20",3,"Add 5 to your age in the ‘Age, in Years’ column, and apply the modifiers for the new age.",You are a helpful AI assistant.
+How can a player increase weapons skills?,A player can increase weapons skills by spending available Personal Interest or occupational skill points,3,By spending points in the Firearms or Melee Combat branches.,You are a helpful AI assistant.
+"Given a specific skill, what is the range of skill points for an investigator at the Amateur level?",between 20% and 49%,4,01% to 05%,You are a helpful AI assistant.
+What is the hypnosis skill?,"It is the ability to induce another person in a trancelike state, which allows the person to relax and recall memories that were forgotten. The limits of the skill during the game are decided by the Keeper, for example if the player is able to use the skill on an unwilling target.",4,The ability to induce trance states in another person.,You are a helpful AI assistant.
+Who decides the difficulty level of a skill roll?,The Keeper,5,The Keeper,You are a helpful AI assistant.
+What are the consequences of a successful Pushed Roll?,"The goal of the player are achieved as it would have been with the original role, without further consequences",5,"The investigator achieves their goal, but at a cost.",You are a helpful AI assistant.
+What happens when a player must use more than one skill?,"The Keeper decides if the player must roll a dice for each skill, or roll the dice only once. In the latter case, player makes only one dice roll and then applies the result to each of the skills",5,The Keeper should decide which skill to use and award the skill points for that skill.,You are a helpful AI assistant.
+What are the optional rules of the game system?,There are two optional rules: Spending Luck and Recovering Luck Points,5,The optional rules of the game system are listed on page 246.,You are a helpful AI assistant.
+What is a Combat Round?,It is a unit of time in which each player can perform at least one action during combat.,6,A Combat Round is a unit of time in which each combatant gets one turn.,You are a helpful AI assistant.
+"If more than one combatants want to attack, who has the right to attack first?","The combatant with the highest DEX. In case of draw, the combatant with highest combat skill",6,The combatant with the highest DEX has the right to attack first.,You are a helpful AI assistant.
+In which situation is a character allowed to escape a close combat?,The character must have no physical restrains and have an escape route,6,If they have a clear escape route,You are a helpful AI assistant.
+How is a firearm attack resolved?,A firearm attack is resolved with a 1D100 roll and compare the result with the Firearm skill of the attacking character. The difficulty level of the roll is determined by the range and other factors,6,"A firearm attack is resolved with one dice roll, combining the skill rolls and modifiers for both the attacker and the target.",You are a helpful AI assistant.
+How does a character recover from a major wound when the Major Wound box is checked?,"The players performs a CON roll. If it is successful, 1D3 hit points are recovered. In case of Extreme success, 2D3 hit points are recovered.",6,The character must make a successful First Aid or Medicine roll to stanch the bleeding and stabilize the wound.,You are a helpful AI assistant.
+Can you provide a short description of how a Chase takes place?,"A chase take place when the participants have an escape route. The Keeper positions the participants, decided the order of play and how many movements each participant can make in each turn. At the beginning each participant makes a CON roll to adjust their MOV rating. Then, at each round of the chase the participants act in DEX order, and move a number of locations based on their MOV rating. In some cases attacks can also be performed. The Keeper can add hazards and barriers to the chase as well.",7,A chase is a sequence of locations that the characters must pass through in a particular order.,You are a helpful AI assistant.
+What is a speed roll used for during a chase?,It is used to adjust the participant MOV rating for the whole duration of the chase,7,To determine the order of characters in the chase.,You are a helpful AI assistant.
+How many movements can a chase participant take per round?,"Each participant can take one movement action per round, plus the difference between his movement rating and the movement rating of the slowest chase participant",7,One movement per combat round.,You are a helpful AI assistant.
+What methods can the Keeper use to create obstacles and hazards during a chase?,"The Keeper can decide using his own imagination, or do that randomly using a 1D100 roll.",7,"The Keeper can use the same methods as for combat, as well as some additional ones.",You are a helpful AI assistant.
+How are vehicle damages computed after a collision?,By rolling a 1D6 to compute build damage. A delay of the vehicle can also be computed costing a 1D3 movement action,7,By comparing the build points lost to a vehicle's build value,You are a helpful AI assistant.
+What state of insanity exist in the game?,"There are three states of insanity: temporary, indefinite and permanent.",8,"Temporary, indefinite, and permanent insanity",You are a helpful AI assistant.
+How many Sanity points must an investigator loose to become temporary insane?,Five or more,8,At least 1D4 Sanity points.,You are a helpful AI assistant.
+How is it decided how many hours temporary insanity lasts?,By rolling a 1D10. The results of the roll provides the number of hours of insanity,8,1D10 hours,You are a helpful AI assistant.
+What is the best way to recover from Indefinite Insanity?,The best way to recover is through private care or home care,8,The best way to recover from Indefinite Insanity is to be taken away and locked in a secure institution.,You are a helpful AI assistant.
+How many language skill ticks should be awarded when an investigator conducts a full study of a tome in that language?,One,9,1D3,You are a helpful AI assistant.
+How can a character learn a spell?,"There are three main ways to learn a spell: from a Mythos book, from another player, or from a Mythos entity",9,"A character can learn a spell from a book, from another person, or from a Mythos deity.",You are a helpful AI assistant.
+What type of roll must a player do to cast a spell?,A Hard POW roll,9,A magic roll,You are a helpful AI assistant.
+What happens when a spell casting roll fails?,"The caster must pay Magic points, Sanity Points and/or POW, multiplied by 1D6",9,The spell has not taken effect.,You are a helpful AI assistant.
+What information is advised that the Keeper gives to the players before they create their investigators?,"The date and location of the player scenario, a basic description of the beginning of the scenario, professions suitable for the scenario, and suggestions on how the investigator know each other",10,A brief resume of the scenario's setting and the plot so far.,You are a helpful AI assistant.
+What are NPCs?,NPCs are Non-player characters that are controlled by the Keeper,10,Non-player characters.,You are a helpful AI assistant.
+What is an Idea Roll?,"It is a roll that allows players to get a clue, and that decides how they get this clue",10,An Idea Roll is a dice roll made by the player to gain a new idea or insight.,You are a helpful AI assistant.
+What are the Mythos Tomes,"They are books of arcane wisdom, secret and magic",11,Mythos Tomes are a list of books that can be used as inspiration for scenarios and as a source of information for players and Keepers.,You are a helpful AI assistant.
+What is the Mythos rating of the Celaeno Fragments?,27,11,24.5%,You are a helpful AI assistant.
+When was the Key of Solomon written?,In the 14th century AD,11,The Key of Solomon is a medieval grimoire that was written in the late fifteenth century.,You are a helpful AI assistant.
+What are the main spell classes?,"Dismiss Spells, Contact Spells and Enchantment Spells",12,"The main spell classes are Enchantment, Illusion, Mind, Necromancy, Re-Calling, and Transmutation.",You are a helpful AI assistant.
+How long does a Banishment of Yde Etad spell last at minimum?,1 hour,12,1D10+5 hours,You are a helpful AI assistant.
+What is the cost of a Bless Blade?,5 POW and 1D4 sanity points,12,1 magic point,You are a helpful AI assistant.
+Which spell can a cultist use to get in touch with alien races?,The Contact Spell,12,"Contact Deity/Entity/Negative Entity/Insect, Contact Deity/Entity/Negative Entity/Star, Contact Deity/Entity/Negative Entity/Other, Contact Deity/Entity/Negative Entity/Animal, Contact Deity/Entity/Negative Entity/Insect, Contact Deity/Entity/Negative Entity/Star, Contact Deity/Entity/Negative Entity/Other, Contact Deity/Entity/Negative Entity/Animal, Contact Deity/Entity/Negative Entity/Animal, Contact Deity/Entity/Negative Entity/Insect, Contact Deity/Entity/Negative Entity/Star, Contact Deity/Entity/Negative Entity/Other, Contact Deity/Entity/Negative Entity/Animal, Contact Deity/Entity/Negative Entity/Insect, Contact Deity/Entity/Negative Entity/Star, Contact Deity/Entity/Negative Entity/Other, Contact Deity/Entity/Negative Entity/Animal, Contact Deity/Entity/Negative Entity/Insect, Contact Deity/Entity/Negative Entity/Star, Contact Deity/Entity/Negative Entity/Other, Contact Deity/Entity/Negative Entity/Animal, Contact Deity/Entity/Negative Entity/Insect, Contact Deity/Entity/Negative Entity",You are a helpful AI assistant.
+Who uses Carotid Toxin?,Serpent people,13,Cultists of Tsathoggua,You are a helpful AI assistant.
+What is a Temporal Communicator?,It is an artifact that allows Yithians to communicate with entities that have contacted the artifact in time and space,13,A device that allows for communication between different time periods.,You are a helpful AI assistant.
+What characteristics are typically possessed by monsters and beasts?,"STR, CON, SIZ, POW, INT, DEX",14,"Monsters and beasts typically have STR, CON, DEX, and APP characteristics, as well as hit points and a number of movement actions.",You are a helpful AI assistant.
+What is the range of build value for a human?,From -2 to +2,14,1 to 3,You are a helpful AI assistant.
+What is a Crawling One composed of?,Worms,14,"A Crawling One is composed of five or six legs, a body, and a head.",You are a helpful AI assistant.
+What is the average STR of the Elder Thing?,190,14,Average STR: 70,You are a helpful AI assistant.
+When do Clayton and Harris run into the forest in the 'Amidst the Ancient Trees' scenario?,On June 19th 1925,15,"Day 2, around midnight",You are a helpful AI assistant.
