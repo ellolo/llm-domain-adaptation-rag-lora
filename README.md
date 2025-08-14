@@ -1,4 +1,4 @@
-# Practical LLM Domain Adaptation for SMEe: A Comparison of RAG and LoRA
+# Practical LLM Domain Adaptation: A Comparison of RAG and LoRA
 ![RAG vs LORA (created by GPT-5)](res/lora_rag.png?raw=true)
 
 <!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
